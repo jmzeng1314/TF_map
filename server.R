@@ -1,20 +1,15 @@
 library(shiny)
-library(shinydashboard)
-
-library('Sushi')
-
+library(shinydashboard) 
 library(dplyr)
 library(tidyr)
-library(stringr)
-
+library(stringr) 
 library(DT)    
 library(shinyBS)
 library(GGally)
 library(ggplot2)
 library(shinyAce)
 library(knitr)
-library(rmarkdown)
-library(RCurl)
+library(rmarkdown) 
 library(shinyjs)
 ## input values : species/database/input_gene/cellline/genomic_feature
 
