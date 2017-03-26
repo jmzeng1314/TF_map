@@ -1,0 +1,19 @@
+# how to search 
+# what's the data 
+# Peaks annotation(homer)
+# gene(symbol/ensembl/entrez ID)
+
+
+## Genomic Annotation
+
+> To annotate the location of a given peak in terms of important genomic features, annotatePeaks.pl calls a separate program (assignGenomeAnnotation) to efficiently assign peaks to one of millions of possible annotations genome wide.  Two types of output are provided.  The first is "Basic Annotation" that includes whether a peak is in the TSS (transcription start site), TTS (transcription termination site), Exon (Coding), 5' UTR Exon, 3' UTR Exon, Intronic, or Intergenic, which are common annotations that many researchers are interested in.  A second round of "Detailed Annotation" also includes more detailed annotation, also considering repeat elements and CpG islands.  Since some annotation overlap, a priority is assign based on the following (in case of ties it's random [i.e. if there are two overlapping repeat element annotations]):
+
+> * TSS (by default defined from -1kb to +100bp)
+> * TTS (by default defined from -100 bp to +1kb)
+> * CDS Exons
+> * 5' UTR Exons
+> * 3' UTR Exons 
+> * Introns
+> * Intergenic
+> * non-coding 
+
