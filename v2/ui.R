@@ -1,15 +1,10 @@
 library(shiny)
 library(shinydashboard)
-
-#library('Sushi')
-
-library(DT)  ## tested on development version 0.1.32
-#library(GEOquery)
+library(DT)
 library(Biobase)
-library(reshape2) ## needs to be loaded before GGally
+library(reshape2) 
 library(shinyBS)
 library(GGally)
-#library(ggplot2)
 library(shinyAce)
 library(knitr)
 library(rmarkdown) 

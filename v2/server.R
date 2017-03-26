@@ -1,12 +1,8 @@
 library(shiny)
-library(shinydashboard)
-
-#library('Sushi')
-
+library(shinydashboard) 
 library(dplyr)
 library(tidyr)
-library(stringr)
-
+library(stringr) 
 library(DT)    
 library(shinyBS)
 library(GGally)
