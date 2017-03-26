@@ -11,24 +11,23 @@ library(shinyAce)
 library(knitr)
 library(rmarkdown) 
 library(shinyjs)
+library(RMySQL)
 ## input values : species/database/input_gene/cellline/genomic_feature
 
 createLink <- function(base,val) {
   sprintf('<a href="%s" class="btn btn-link" target="_blank" >%s</a>',base,val) ##target="_blank" 
 }
 
-host <<- "127.0.0.1"
-port <<- 3306
-user <<- "root"
-if( .Platform$OS.type == 'unix')
-password <<- ifelse(.Platform$OS.type == 'unix','ganglijimmy','11111111')
 
- 
-
-dbDisconnect(con)
+  
 
 shinyServer(
   function(input,output,session){
+    host <<- "127.0.0.1"
+    port <<- 3306
+    user <<- "root" 
+    password <<- ifelse(.Platform$OS.type == 'unix','ganglijimmy','11111111')
+    
     
     glob_values <- reactiveValues(
       results=NULL, ## the search results based on gene,species,db,ip,cellline
@@ -97,7 +96,9 @@ shinyServer(
 
 	db=paste(x,'metadata',sep='_')
 	library(RMySQL)
-	if(x='cistrome'){
+	con <- dbConnect(MySQL(), host=host, port=port, user=user, password=password) 
+	dbSendQuery(con, "USE TF_map") 
+	if(x=='cistrome'){
 	  cellline_info=dbGetQuery(con,paste0("select cellline,tissue,organ  from ",db))
 	}else{
 	  cellline_info=dbGetQuery(con,paste0("select cellline,celltype,tissue  from ",db))

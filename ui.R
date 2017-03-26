@@ -9,7 +9,8 @@ library(shinyAce)
 library(knitr)
 library(rmarkdown) 
 library(shinyjs)
- 
+library(RMySQL)
+
 header = dashboardHeader(title = "TF map"
                          ,titleWidth=350
 )
