@@ -1,0 +1,12 @@
+# Welcome to BindDB
+
+BindDB is an online resource which allows you to query the Meshorer Lab Epigenomic Feature Database.
+
+Currently BindDB includes ChIP-seq and ChiP-on-chip data for numerous Transcription Factors, Histone Modifications and other proteins, from various mouse cell samples collected from numerous publications and from the experiments performed by the Meshorer lab. 
+
+Use this resource to find the full epigenomic profile of any gene or chromosomal area of your choice, or upload a file with a list of your genes / genomic areas of interest.
+
+## Please cite BindDB
+Livyatan I, Aaronson Y, Gokhman D, Ashkenazi R & Meshorer E (2015)
+**BindDB: An integrated database and webtool platform for “Reverse-ChIP” epigenomic analysis.** Cell Stem Cell, 17(6):647-648
+
