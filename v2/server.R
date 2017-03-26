@@ -1,7 +1,7 @@
 library(shiny)
 library(shinydashboard)
 
-library('Sushi')
+#library('Sushi')
 
 library(dplyr)
 library(tidyr)
@@ -13,8 +13,7 @@ library(GGally)
 library(ggplot2)
 library(shinyAce)
 library(knitr)
-library(rmarkdown)
-library(RCurl)
+library(rmarkdown) 
 library(shinyjs)
 ## input values : species/database/input_gene/cellline/genomic_feature
 

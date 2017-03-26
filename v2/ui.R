@@ -1,10 +1,10 @@
 library(shiny)
 library(shinydashboard)
 
-library('Sushi')
+#library('Sushi')
 
 library(DT)  ## tested on development version 0.1.32
-library(GEOquery)
+#library(GEOquery)
 library(Biobase)
 library(reshape2) ## needs to be loaded before GGally
 library(shinyBS)
@@ -12,8 +12,7 @@ library(GGally)
 #library(ggplot2)
 library(shinyAce)
 library(knitr)
-library(rmarkdown)
-library(RCurl)
+library(rmarkdown) 
 library(shinyjs)
  
 header = dashboardHeader(title = "TF map"
