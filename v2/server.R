@@ -22,14 +22,13 @@ createLink <- function(base,val) {
   sprintf('<a href="%s" class="btn btn-link" target="_blank" >%s</a>',base,val) ##target="_blank" 
 }
 
+host <<- "127.0.0.1"
+port <<- 3306
+user <<- "root"
+if( .Platform$OS.type == 'unix')
+password <<- ifelse(.Platform$OS.type == 'unix','ganglijimmy','11111111')
 
-library(RMySQL)
-con <- dbConnect(MySQL(), host="127.0.0.1", port=3306, user="root", password="11111111") 
-dbSendQuery(con, "USE TF_map") 
-gene_mapping=dbGetQuery(con,"select symbols,geneNames  from gene_mapping")
-cellline_info=dbGetQuery(con,"select cellline,tissue,organ  from cistrome_metadata")
-cellline_info=unique(cellline_info)
-cellline_info=rbind(c("ALL","ALL","ALL"),cellline_info)
+ 
 
 dbDisconnect(con)
 
@@ -37,40 +36,42 @@ shinyServer(
   function(input,output,session){
     
     glob_values <- reactiveValues(
-      results=NULL,
+      results=NULL, ## the search results based on gene,species,db,ip,cellline
       input_gene=NULL,
       species=NULL,
       database=NULL,
       IP=NULL,
       cellline=NULL,
+	  input_gene_choices=NULL, ## depends on species!
       tmp=NULL
     )
     
     reactiveValues.reset <-function(){
       glob_values$results=NULL
       glob_values$input_gene=NULL
+	  glob_values$input_gene_choices=NULL
       glob_values$tmp=NULL
+	  
     }
-    
-    
-    updateSelectizeInput(
-      session, inputId='cellline', label = "Choose a cell line", server = TRUE,
-      choices =  data.frame(label = cellline_info$cellline, value = cellline_info$cellline, name = cellline_info$tissue),
-      options = list(
-        #create = TRUE, persist = FALSE,
-        render = I(
-          "{
-          option: function(item, escape) {
-          return '<div> <strong>' + item.label + '</strong> - ' +
-          escape(item.name) + '</div>';
-          }
-          }"
-        ))## end for options
-      
-    )## end for updateSelectizeInput 
-    
-    
-    
+	
+	
+	## the gene choices  depends on the species user choosed
+    observe({
+    x <- input$species
+
+    # Can use character(0) to remove all choices
+    if (is.null(x))
+      x <- character(0)
+
+	db=paste(x,'gene_mapping',sep='_')
+	library(RMySQL)
+	con <- dbConnect(MySQL(), host=host, port=port, user=user, password=password) 
+	dbSendQuery(con, "USE TF_map") 
+	gene_mapping=dbGetQuery(con,paste0("select symbols,geneNames  from ",db)) 
+	dbDisconnect(con)
+
+  
+    # Can also set the label and select items
     updateSelectizeInput(
       session, inputId='input_gene', label = "Type a gene name", server = TRUE,
       choices =  data.frame(label = gene_mapping$symbols, value = gene_mapping$symbols, name = gene_mapping$geneNames),
@@ -86,6 +87,56 @@ shinyServer(
         ))## end for options
       
         )## end for updateSelectizeInput 
+	
+  }) ## end for observe 
+    
+   
+ 
+	## the cellLine choices  depends on the database user choosed
+    observe({
+    x <- input$database
+
+    # Can use character(0) to remove all choices
+    if (is.null(x))
+      x <- character(0)
+
+	db=paste(x,'metadata',sep='_')
+	library(RMySQL)
+	if(x='cistrome'){
+	  cellline_info=dbGetQuery(con,paste0("select cellline,tissue,organ  from ",db))
+	}else{
+	  cellline_info=dbGetQuery(con,paste0("select cellline,celltype,tissue  from ",db))
+	}
+
+	cellline_info=unique(cellline_info)
+	cellline_info=rbind(c("ALL","ALL","ALL"),cellline_info)
+	dbDisconnect(con)
+
+  
+    # Can also set the label and select items
+	
+    updateSelectizeInput(
+      session, inputId='cellline', label = "Choose a cell line", server = TRUE,
+      choices =  data.frame(label = cellline_info$cellline, value = cellline_info$cellline, name = cellline_info$tissue),
+      options = list(
+        #create = TRUE, persist = FALSE,
+        render = I(
+          "{
+          option: function(item, escape) {
+          return '<div> <strong>' + item.label + '</strong> - ' +
+          escape(item.name) + '</div>';
+          }
+          }"
+        ))## end for options
+      
+    )## end for updateSelectizeInput 
+	
+  }) ## end for observe 
+  
+  
+
+    
+
     
     
     observeEvent(input$do, {
@@ -95,13 +146,15 @@ shinyServer(
       glob_values$IP=input$IP
       glob_values$cellline=input$cellline
       
+	  
+	  
       gene=input$input_gene
       cellline=input$cellline
       genomic_feature=input$genomic_feature
       
       
       library(RMySQL)
-      con <- dbConnect(MySQL(), host="127.0.0.1", port=3306, user="root", password="11111111") 
+      con <- dbConnect(MySQL(), host=host, port=port, user=user, password=password)
       dbSendQuery(con, "USE TF_map")
       
       dbListTables(con)
