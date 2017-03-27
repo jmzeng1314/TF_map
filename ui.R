@@ -42,8 +42,8 @@ page_Home <- fluidRow(
 page_NewAnalysis <- fluidRow(
   box(title = "search a gene ", status = "info",width=12,
       radioButtons("species", "Select species:",
-                   c("Human" = "Human",
-                     "Mouse" = "Mouse"),
+                   c("Human" = "human",
+                     "Mouse" = "mouse"),
                    inline=T
       ),
       radioButtons("IP", "Select IP:",
@@ -54,7 +54,7 @@ page_NewAnalysis <- fluidRow(
       ),
       radioButtons("database", "Select database:",
                    c("GEO" = "cistrome",
-                     "ENCODE" = "ENCODE" 
+                     "ENCODE" = "encode" 
                       ),
                    inline=T
       ),
