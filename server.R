@@ -167,7 +167,7 @@ shinyServer(
       }else{
         
         peaks_tb=c()
-        for(genomic_feature in c('promoter_tss','tts','utr_5','utr_3','intron','exon','intergenic','non_coding') ){
+        for(genomic_feature in c('promoter_TSS','TTS','UTR_5','UTR_3','intron','exon','Intergenic','non_coding') ){
           peaks_tab=paste(genomic_feature, glob_values$species,glob_values$IP,glob_values$database,sep="_")
           sql=paste0(" select * from ",peaks_tab," where symbol=",shQuote(gene))
           tmp <- dbGetQuery(con,sql)
