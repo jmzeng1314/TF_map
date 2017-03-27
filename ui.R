@@ -47,7 +47,7 @@ page_NewAnalysis <- fluidRow(
                    inline=T
       ),
       radioButtons("IP", "Select IP:",
-                   c("tf" = "tf",
+                   c("tf" = "TF",
                      "histone" = "histone"
                      ),
                    inline=T

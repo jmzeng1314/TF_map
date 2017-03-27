@@ -99,9 +99,9 @@ shinyServer(
       con <- dbConnect(MySQL(), host=host, port=port, user=user, password=password) 
       dbSendQuery(con, "USE TF_map") 
       if(x=='cistrome'){
-        cellline_info=dbGetQuery(con,paste0("select cellline,tissue,organ  from ",db))
+        cellline_info=dbGetQuery(con,paste0("select distinct cellline,tissue,organ  from ",db))
       }else{
-        cellline_info=dbGetQuery(con,paste0("select cellline,celltype,tissue  from ",db))
+        cellline_info=dbGetQuery(con,paste0("select distinct cellline,celltype,tissue  from ",db))
       }
       
       cellline_info=unique(cellline_info)
