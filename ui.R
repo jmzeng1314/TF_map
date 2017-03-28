@@ -31,23 +31,52 @@ sidebar = dashboardSidebar(
   
 ) 
 
-page_Home <- fluidRow(
-  column(8, align="center", offset = 2,
-         DT::dataTableOutput('cellline'),
-         includeMarkdown("home.Rmarkdown"),
-         tags$style(type="text/css", "#string { height: 50px; width: 100%; text-align:center; font-size: 30px; display: block;}")
+page_statistics <- fluidRow(
+  box(title = "GEO human TF stat ", status = "info",
+      DT::dataTableOutput('GEO_human_TF_stat_table'),
+      plotOutput('GEO_human_TF_stat_plot')
+      ),
+  box(title = "GEO mouse TF stat ", status = "info",
+      DT::dataTableOutput('GEO_mouse_TF_stat_table'),
+      plotOutput('GEO_mouse_TF_stat_plot')
+  ),
+  box(title = "GEO human histone stat ", status = "info",
+      DT::dataTableOutput('GEO_human_histone_stat_table'),
+      plotOutput('GEO_human_histone_stat_plot')
+  ),
+  box(title = "GEO mouse histone stat ", status = "info",
+      DT::dataTableOutput('GEO_human_histone_stat_table'),
+      plotOutput('GEO_human_histone_stat_plot')
+  ),
+  box(title = "ENCODE human TF stat ", status = "info",
+      DT::dataTableOutput('ENCODE_human_TF_stat_table'),
+      plotOutput('ENCODE_human_TF_stat_plot')
+  ),
+  box(title = "ENCODE mouse TF stat ", status = "info",
+      DT::dataTableOutput('ENCODE_mouse_TF_stat_table'),
+      plotOutput('ENCODE_mouse_TF_stat_plot')
+  ),
+  box(title = "ENCODE human histone stat ", status = "info",
+      DT::dataTableOutput('ENCODE_human_histone_stat_table'),
+      plotOutput('ENCODE_human_histone_stat_plot')
+  ),
+  box(title = "ENCODE mouse histone stat ", status = "info",
+      DT::dataTableOutput('ENCODE_human_histone_stat_table'),
+      plotOutput('ENCODE_human_histone_stat_plot')
   )
-  
+       
 )
-page_NewAnalysis <- fluidRow(
+
+
+page_Home<- fluidRow(
   box(title = "search a gene ", status = "info",width=12,
       radioButtons("species", "Select species:",
-                   c("Human" = "human",
-                     "Mouse" = "mouse"),
+                   c("Human(GRCh38)" = "human",
+                     "Mouse(mm10)" = "mouse"),
                    inline=T
       ),
       radioButtons("IP", "Select IP:",
-                   c("tf" = "TF",
+                   c("transcription factor" = "TF",
                      "histone" = "histone"
                      ),
                    inline=T
@@ -103,7 +132,7 @@ page_contact <- fluidRow(
 )
 page_help <- fluidRow(
   column(8, align="center", offset = 2,
-         includeMarkdown("help.Rmarkdown"),
+         includeMarkdown("contact.Rmarkdown"),
          tags$style(type="text/css", "#string { height: 50px; width: 100%; text-align:center; font-size: 30px; display: block;}")
   )
 )
@@ -112,8 +141,8 @@ page_help <- fluidRow(
 body = dashboardBody(
   bsAlert("alert1"), 
   tabItems(
-    tabItem(tabName = 'Home' ,page_NewAnalysis),
-    tabItem(tabName = 'NewAnalysis',page_Home),
+    tabItem(tabName = 'Home' ,page_Home),
+    tabItem(tabName = 'statistics',page_statistics),
     tabItem(tabName = 'contact',page_contact),
     tabItem(tabName = 'help',page_help) 
   )

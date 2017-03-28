@@ -226,10 +226,8 @@ shinyServer(
       
       
       
-    })
-    output$cellline <- DT::renderDataTable( {
-      #cellline_info
-    })
+    }) 
+    
     
     output$results <- DT::renderDataTable( {
       tmp1=glob_values$results
@@ -261,12 +259,15 @@ shinyServer(
           
           ,'UCSC')
           tmp1$Visualize=paste(WashU_link,UCSC_link)
-          tmp1<-tmp1[,c(9,6:8,1,10:13,16)]
+          #tmp1<-tmp1[,c(9,6:8,1,10:13,16)]
           return(tmp1)
           
         }else{
           ## if choose the encode database:
-          return(NULL)
+          #return(NULL)
+          tmp1$sampleID=createLink(paste0("https://www.encodeproject.org/files/",tmp1$sampleID),tmp1$sampleID)
+          tmp1$uniqID=createLink(paste0("https://www.encodeproject.org/experiments/",tmp1$uniqID),tmp1$uniqID)
+          return(tmp1)
         }
         
         
@@ -278,14 +279,43 @@ shinyServer(
       
       
     }
-    , options = list(
-      dom = 'Bfrtip', 
-      buttons = c('copy', 'excel', 'pdf', 'print', 'colvis'),
-      lengthMenu = list(c(5, 15, -1), c('5', '15', 'All')),
-      pageLength = -1
-    ),
-    extensions = 'Buttons',
+    , extensions = 'Scroller', options = list(
+      deferRender = TRUE,
+      scrollX = TRUE,
+      fixedHeader = TRUE,
+      fixedColumns = TRUE,
+      scrollY = 600,
+      scroller = TRUE 
+    ), 
     filter = 'top',
     escape = FALSE)## end for results;
     
-    })
+
+    ## all for metadata !!!
+    if(T){
+      ## first for tables;
+      output$GEO_human_histone_stat_table = DT::renderDataTable({})
+      output$GEO_human_TF_stat_table = DT::renderDataTable({})
+      output$GEO_mouse_histone_stat_table = DT::renderDataTable({})
+      output$GEO_mouse_TF_stat_table = DT::renderDataTable({})
+      output$ENCODE_human_histone_stat_table = DT::renderDataTable({})
+      output$ENCODE_human_TF_stat_table = DT::renderDataTable({})
+      output$ENCODE_mouse_histone_stat_table = DT::renderDataTable({})
+      output$ENCODE_mouse_TF_stat_table = DT::renderDataTable({})
+      
+      output$GEO_human_histone_stat_plot = renderPlot({})
+      output$GEO_human_TF_stat_plot = renderPlot({})
+      output$GEO_mouse_histone_stat_plot = renderPlot({})
+      output$GEO_mouse_TF_stat_plot = renderPlot({})
+      output$ENCODE_human_histone_stat_plot = renderPlot({})
+      output$ENCODE_human_TF_stat_plot = renderPlot({})
+      output$ENCODE_mouse_histone_stat_plot = renderPlot({})
+      output$ENCODE_mouse_TF_stat_plot = renderPlot({})
+      
+    }
+    
+    
+}) ## END FOR shinyServer
+
+
+
