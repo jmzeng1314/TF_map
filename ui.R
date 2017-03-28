@@ -126,13 +126,13 @@ page_Home<- fluidRow(
 )
 page_contact <- fluidRow(
   column(8, align="center", offset = 2,
-         includeMarkdown("contact.Rmarkdown"),
+        # includeMarkdown("contact.Rmarkdown"),
          tags$style(type="text/css", "#string { height: 50px; width: 100%; text-align:center; font-size: 30px; display: block;}")
   )
 )
 page_help <- fluidRow(
   column(8, align="center", offset = 2,
-         includeMarkdown("help.Rmarkdown"),
+         #includeMarkdown("help.Rmarkdown"),
          tags$style(type="text/css", "#string { height: 50px; width: 100%; text-align:center; font-size: 30px; display: block;}")
   )
 )
