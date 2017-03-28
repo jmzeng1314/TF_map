@@ -306,7 +306,7 @@ shinyServer(
     
 
     ## all for metadata !!!
-    if(F){
+    if(T){
       ## first for tables;
       output$GEO_human_histone_stat_table = DT::renderDataTable({
         dat <- mysql_getData(" select * from cistrome_metadata where species='human' and type='histone' ")
