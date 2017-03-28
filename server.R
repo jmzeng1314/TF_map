@@ -404,7 +404,15 @@ shinyServer(
       filter = 'top',
       escape = FALSE
       )
-      output$ENCODE_human_histone_stat_table = DT::renderDataTable({})
+      output$ENCODE_human_histone_stat_table = DT::renderDataTable({
+        
+        dat <- mysql_getData(" select * from cistrome_metadata where species='human' and type='histone' ")
+        par(mfrow=c(1,2))
+        tmp=sort(table(dat$cellline),decreasing = T);tmp=tmp[tmp>5]
+        barplot(tmp)
+        tmp=sort(table(dat$IP),decreasing = T);tmp=tmp[tmp>5]
+        barplot(sort(table(tmp)))
+      })
       output$ENCODE_human_TF_stat_table = DT::renderDataTable({})
       output$ENCODE_mouse_histone_stat_table = DT::renderDataTable({})
       output$ENCODE_mouse_TF_stat_table = DT::renderDataTable({})
