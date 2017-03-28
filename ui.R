@@ -31,42 +31,6 @@ sidebar = dashboardSidebar(
   
 ) 
 
-page_statistics <- fluidRow(
-  box(title = "GEO human TF stat ", status = "info",
-      DT::dataTableOutput('GEO_human_TF_stat_table'),
-      plotOutput('GEO_human_TF_stat_plot')
-      ),
-  box(title = "GEO mouse TF stat ", status = "info",
-      DT::dataTableOutput('GEO_mouse_TF_stat_table'),
-      plotOutput('GEO_mouse_TF_stat_plot')
-  ),
-  box(title = "GEO human histone stat ", status = "info",
-      DT::dataTableOutput('GEO_human_histone_stat_table'),
-      plotOutput('GEO_human_histone_stat_plot')
-  ),
-  box(title = "GEO mouse histone stat ", status = "info",
-      DT::dataTableOutput('GEO_mouse_histone_stat_table'),
-      plotOutput('GEO_mouse_histone_stat_plot')
-  ),
-  box(title = "ENCODE human TF stat ", status = "info",
-      DT::dataTableOutput('ENCODE_human_TF_stat_table'),
-      plotOutput('ENCODE_human_TF_stat_plot')
-  ),
-  box(title = "ENCODE mouse TF stat ", status = "info",
-      DT::dataTableOutput('ENCODE_mouse_TF_stat_table'),
-      plotOutput('ENCODE_mouse_TF_stat_plot')
-  ),
-  box(title = "ENCODE human histone stat ", status = "info",
-      DT::dataTableOutput('ENCODE_human_histone_stat_table'),
-      plotOutput('ENCODE_human_histone_stat_plot')
-  ),
-  box(title = "ENCODE mouse histone stat ", status = "info",
-      DT::dataTableOutput('ENCODE_mouse_histone_stat_table'),
-      plotOutput('ENCODE_mouse_histone_stat_plot')
-  )
-       
-)
-
 
 page_Home<- fluidRow(
   box(title = "search a gene ", status = "info",width=12,
@@ -135,6 +99,43 @@ page_help <- fluidRow(
          #includeMarkdown("help.Rmarkdown"),
          tags$style(type="text/css", "#string { height: 50px; width: 100%; text-align:center; font-size: 30px; display: block;}")
   )
+)
+
+
+page_statistics <- fluidRow(
+  box(title = "GEO human TF stat ", status = "info",
+      DT::dataTableOutput('GEO_human_TF_stat_table'),
+      plotOutput('GEO_human_TF_stat_plot')
+  ),
+  box(title = "GEO mouse TF stat ", status = "info",
+      DT::dataTableOutput('GEO_mouse_TF_stat_table'),
+      plotOutput('GEO_mouse_TF_stat_plot')
+  ),
+  box(title = "GEO human histone stat ", status = "info",
+      DT::dataTableOutput('GEO_human_histone_stat_table'),
+      plotOutput('GEO_human_histone_stat_plot')
+  ),
+  box(title = "GEO mouse histone stat ", status = "info",
+      DT::dataTableOutput('GEO_mouse_histone_stat_table'),
+      plotOutput('GEO_mouse_histone_stat_plot')
+  ),
+  box(title = "ENCODE human TF stat ", status = "info",
+      DT::dataTableOutput('ENCODE_human_TF_stat_table'),
+      plotOutput('ENCODE_human_TF_stat_plot')
+  ),
+  box(title = "ENCODE mouse TF stat ", status = "info",
+      DT::dataTableOutput('ENCODE_mouse_TF_stat_table'),
+      plotOutput('ENCODE_mouse_TF_stat_plot')
+  ),
+  box(title = "ENCODE human histone stat ", status = "info",
+      DT::dataTableOutput('ENCODE_human_histone_stat_table'),
+      plotOutput('ENCODE_human_histone_stat_plot')
+  ),
+  box(title = "ENCODE mouse histone stat ", status = "info",
+      DT::dataTableOutput('ENCODE_mouse_histone_stat_table'),
+      plotOutput('ENCODE_mouse_histone_stat_plot')
+  )
+  
 )
 
 

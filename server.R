@@ -134,6 +134,7 @@ shinyServer(
     
     
     observeEvent(input$do, {
+      glob_values$results=NULL
       glob_values$input_gene=input$input_gene
       glob_values$species=input$species
       glob_values$database=input$database
@@ -258,7 +259,8 @@ shinyServer(
           
           ,'UCSC')
           tmp1$Visualize=paste(WashU_link,UCSC_link)
-          #tmp1<-tmp1[,c(9,6:8,1,10:13,16)]
+          tmp1$sequence='ATCG_Test'
+          tmp1<-tmp1[,c(9,6:8,16,10:13)]
           return(tmp1)
           
         }else{
@@ -279,6 +281,7 @@ shinyServer(
       
     }
     , extensions = 'Scroller', options = list(
+      rownames= FALSE,
       deferRender = TRUE,
       scrollX = TRUE,
       fixedHeader = TRUE,
