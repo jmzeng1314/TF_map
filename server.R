@@ -19,8 +19,6 @@ createLink <- function(base,val) {
 }
 
 
-
-
 shinyServer(
   function(input,output,session){
     host <<- "127.0.0.1"
@@ -196,7 +194,8 @@ shinyServer(
       
       # Then get the meta information:
       
-      metadata_tab='cistrome_metadata'
+      metadata_tab=paste0(glob_values$database,'_metadata')
+      
       if(cellline != 'ALL'){
         sql=paste0("select * from ",metadata_tab," where cellline = ",shQuote(cellline))
         metadata <- dbGetQuery(con,sql)
@@ -292,7 +291,7 @@ shinyServer(
     
 
     ## all for metadata !!!
-    if(T){
+    if(F){
       ## first for tables;
       output$GEO_human_histone_stat_table = DT::renderDataTable({})
       output$GEO_human_TF_stat_table = DT::renderDataTable({})
