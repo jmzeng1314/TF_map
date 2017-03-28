@@ -132,7 +132,7 @@ page_contact <- fluidRow(
 )
 page_help <- fluidRow(
   column(8, align="center", offset = 2,
-         includeMarkdown("contact.Rmarkdown"),
+         includeMarkdown("help.Rmarkdown"),
          tags$style(type="text/css", "#string { height: 50px; width: 100%; text-align:center; font-size: 30px; display: block;}")
   )
 )
