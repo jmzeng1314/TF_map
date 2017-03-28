@@ -332,9 +332,78 @@ shinyServer(
       filter = 'top',
       escape = FALSE
       )
-      output$GEO_human_TF_stat_table = DT::renderDataTable({})
-      output$GEO_mouse_histone_stat_table = DT::renderDataTable({})
-      output$GEO_mouse_TF_stat_table = DT::renderDataTable({})
+      output$GEO_human_TF_stat_table = DT::renderDataTable({
+        dat <- mysql_getData(" select * from cistrome_metadata where species='human' and type='TF' ")
+        dat$GSM=createLink(paste0("https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=",dat$GSM),dat$GSM )
+        dat$sampleID=createLink(paste0("http://epigenomegateway.wustl.edu/browser/?genome=",'hg38',
+                                       "&datahub=http://dc2.cistrome.org/api/datahub/",
+                                       dat$sampleID,"&gftk=refGene,full " 
+        )
+        ,dat$sampleID) 
+        
+        
+        dat
+      }
+      , extensions = 'Scroller', options = list(
+        rownames= FALSE,
+        deferRender = TRUE,
+        scrollX = TRUE,
+        fixedHeader = TRUE,
+        fixedColumns = TRUE,
+        scrollY = 600,
+        scroller = TRUE 
+      ), 
+      filter = 'top',
+      escape = FALSE
+      )
+      output$GEO_mouse_histone_stat_table = DT::renderDataTable({ 
+      dat <- mysql_getData(" select * from cistrome_metadata where species='mouse' and type='histone' ")
+      dat$GSM=createLink(paste0("https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=",dat$GSM),dat$GSM )
+      dat$sampleID=createLink(paste0("http://epigenomegateway.wustl.edu/browser/?genome=",'mm10',
+                                     "&datahub=http://dc2.cistrome.org/api/datahub/",
+                                     dat$sampleID,"&gftk=refGene,full " 
+      )
+      ,dat$sampleID) 
+      
+      
+      dat
+      }
+      , extensions = 'Scroller', options = list(
+        rownames= FALSE,
+        deferRender = TRUE,
+        scrollX = TRUE,
+        fixedHeader = TRUE,
+        fixedColumns = TRUE,
+        scrollY = 600,
+        scroller = TRUE 
+      ), 
+      filter = 'top',
+      escape = FALSE
+      )
+      output$GEO_mouse_TF_stat_table = DT::renderDataTable({
+        dat <- mysql_getData(" select * from cistrome_metadata where species='mouse' and type='TF' ")
+        dat$GSM=createLink(paste0("https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=",dat$GSM),dat$GSM )
+        dat$sampleID=createLink(paste0("http://epigenomegateway.wustl.edu/browser/?genome=",'mm10',
+                                       "&datahub=http://dc2.cistrome.org/api/datahub/",
+                                       dat$sampleID,"&gftk=refGene,full " 
+        )
+        ,dat$sampleID) 
+        
+        
+        dat
+      }
+      , extensions = 'Scroller', options = list(
+        rownames= FALSE,
+        deferRender = TRUE,
+        scrollX = TRUE,
+        fixedHeader = TRUE,
+        fixedColumns = TRUE,
+        scrollY = 600,
+        scroller = TRUE 
+      ), 
+      filter = 'top',
+      escape = FALSE
+      )
       output$ENCODE_human_histone_stat_table = DT::renderDataTable({})
       output$ENCODE_human_TF_stat_table = DT::renderDataTable({})
       output$ENCODE_mouse_histone_stat_table = DT::renderDataTable({})
