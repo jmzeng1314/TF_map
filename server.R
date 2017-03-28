@@ -194,22 +194,14 @@ shinyServer(
       
       # Then get the meta information:
       
-      metadata_tab=paste0(glob_values$database,'_metadata')
-      
-      if(cellline != 'ALL'){
-        sql=paste0("select * from ",metadata_tab," where cellline = ",shQuote(cellline))
-        metadata <- dbGetQuery(con,sql)
-      }else{
-        sql=paste0("select * from ",metadata_tab )
-        metadata <- dbGetQuery(con,sql)
-      }
+      metadata_tab=cellline_info
       
       dbDisconnect(con)
       
       ## can't find peak for some genomic features
       
       if(nrow(peaks_tb) >0 && nrow(metadata)>0 ){
-        tmp=merge(peaks_tb,metadata,by='sampleID')
+        tmp=merge(peaks_tb,metadata,by='sampleID',all.x=T)
         ## It counld be NULL
         if(nrow(tmp)>0){ 
           glob_values$results=tmp

@@ -45,8 +45,8 @@ page_statistics <- fluidRow(
       plotOutput('GEO_human_histone_stat_plot')
   ),
   box(title = "GEO mouse histone stat ", status = "info",
-      DT::dataTableOutput('GEO_human_histone_stat_table'),
-      plotOutput('GEO_human_histone_stat_plot')
+      DT::dataTableOutput('GEO_mouse_histone_stat_table'),
+      plotOutput('GEO_mouse_histone_stat_plot')
   ),
   box(title = "ENCODE human TF stat ", status = "info",
       DT::dataTableOutput('ENCODE_human_TF_stat_table'),
@@ -61,8 +61,8 @@ page_statistics <- fluidRow(
       plotOutput('ENCODE_human_histone_stat_plot')
   ),
   box(title = "ENCODE mouse histone stat ", status = "info",
-      DT::dataTableOutput('ENCODE_human_histone_stat_table'),
-      plotOutput('ENCODE_human_histone_stat_plot')
+      DT::dataTableOutput('ENCODE_mouse_histone_stat_table'),
+      plotOutput('ENCODE_mouse_histone_stat_plot')
   )
        
 )
