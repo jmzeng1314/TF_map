@@ -415,15 +415,42 @@ shinyServer(
         
         dat <- mysql_getData(" select * from cistrome_metadata where species='human' and type='histone' ")
         par(mfrow=c(1,2))
-        tmp=sort(table(dat$cellline),decreasing = T);tmp=tmp[tmp>5]
+        tmp=sort(table(dat$cellline),decreasing = T);tmp=tmp[tmp>10]
         barplot( tmp  ,las=2)
         tmp=sort(table(dat$IP),decreasing = T);tmp=tmp[tmp>5]
         barplot( tmp ,las=2)
         
       })
-      output$GEO_human_TF_stat_plot = renderPlot({})
-      output$GEO_mouse_histone_stat_plot = renderPlot({})
-      output$GEO_mouse_TF_stat_plot = renderPlot({})
+      output$GEO_human_TF_stat_plot = renderPlot({
+        
+        dat <- mysql_getData(" select * from cistrome_metadata where species='human' and type='TF' ")
+        par(mfrow=c(1,2))
+        tmp=sort(table(dat$cellline),decreasing = T);tmp=tmp[tmp>10]
+        barplot( tmp  ,las=2)
+        tmp=sort(table(dat$IP),decreasing = T);tmp=tmp[tmp>5]
+        barplot( tmp ,las=2)
+        
+      })
+      output$GEO_mouse_histone_stat_plot = renderPlot({
+        
+        dat <- mysql_getData(" select * from cistrome_metadata where species='mouse' and type='histone' ")
+        par(mfrow=c(1,2))
+        tmp=sort(table(dat$cellline),decreasing = T);tmp=tmp[tmp>10]
+        barplot( tmp  ,las=2)
+        tmp=sort(table(dat$IP),decreasing = T);tmp=tmp[tmp>5]
+        barplot( tmp ,las=2)
+        
+      })
+      output$GEO_mouse_TF_stat_plot = renderPlot({
+        
+        dat <- mysql_getData(" select * from cistrome_metadata where species='mouse' and type='TF' ")
+        par(mfrow=c(1,2))
+        tmp=sort(table(dat$cellline),decreasing = T);tmp=tmp[tmp>10]
+        barplot( tmp  ,las=2)
+        tmp=sort(table(dat$IP),decreasing = T);tmp=tmp[tmp>5]
+        barplot( tmp ,las=2)
+        
+      })
       output$ENCODE_human_histone_stat_plot = renderPlot({})
       output$ENCODE_human_TF_stat_plot = renderPlot({})
       output$ENCODE_mouse_histone_stat_plot = renderPlot({})
