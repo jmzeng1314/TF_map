@@ -101,8 +101,88 @@ page_help <- fluidRow(
   )
 )
 
+page_statistics<- fluidRow(
+  h1('statistics for the metadata in GEO/ENCODE database!'),
+  hr(),
+  tabBox( width=12,  
+          tabPanel("GEO", 
+                   tabBox(  width=12, 
+                            tabPanel("human",  tabBox(  width=12, 
+                                                        tabPanel("TF", box(title = "GEO human TF stat ", status = "primary",width=12,
+                                                                           DT::dataTableOutput('GEO_human_TF_stat_table'),
+                                                                           plotOutput('GEO_human_TF_stat_plot')
+                                                        ) 
+                                                        
+                                                        ),
+                                                        tabPanel("histone",   box(title = "GEO human histone stat ", status = "primary",width=12,
+                                                                                  DT::dataTableOutput('GEO_human_histone_stat_table'),
+                                                                                  plotOutput('GEO_human_histone_stat_plot')
+                                                        )
+                                                        ) 
+                            )
+                            
+                            ),
+                            tabPanel("mouse",
+                                     tabBox(   width=12,
+                                               tabPanel("TF",    box(title = "GEO mouse TF stat ", status = "primary",width=12,
+                                                                     DT::dataTableOutput('GEO_mouse_TF_stat_table'),
+                                                                     plotOutput('GEO_mouse_TF_stat_plot')
+                                               )    
+                                               ),
+                                               tabPanel("histone",   box(title = "GEO mouse histone stat ", status = "primary",width=12,
+                                                                         DT::dataTableOutput('GEO_mouse_histone_stat_table'),
+                                                                         plotOutput('GEO_mouse_histone_stat_plot')
+                                               )
+                                               ) 
+                                     )
+                            ) 
+                   )
+          ),
+          tabPanel("ENCODE",
+                   tabBox(   width=12,
+                             tabPanel("human", 
+                                      tabBox(  width=12, 
+                                               tabPanel("TF",    box(title = "ENCODE human TF stat ", status = "primary",width=12,
+                                                                     DT::dataTableOutput('ENCODE_human_TF_stat_table'),
+                                                                     plotOutput('ENCODE_human_TF_stat_plot')
+                                               ) 
+                                               
+                                               ),
+                                               tabPanel("histone",  box(title = "ENCODE human histone stat ", status = "primary",width=12,
+                                                                        DT::dataTableOutput('ENCODE_human_histone_stat_table'),
+                                                                        plotOutput('ENCODE_human_histone_stat_plot')
+                                               )
+                                               
+                                               ) 
+                                      )
+                                      
+                             ),
+                             tabPanel("mouse",
+                                      tabBox(   width=12,
+                                                tabPanel("TF",    box(title = "ENCODE mouse TF stat ", status = "primary",width=12,
+                                                                      DT::dataTableOutput('ENCODE_mouse_TF_stat_table'),
+                                                                      plotOutput('ENCODE_mouse_TF_stat_plot')
+                                                )
+                                                
+                                                ),
+                                                tabPanel("histone",   box(title = "ENCODE mouse histone stat ", status = "primary",width=12,
+                                                                          DT::dataTableOutput('ENCODE_mouse_histone_stat_table'),
+                                                                          plotOutput('ENCODE_mouse_histone_stat_plot')
+                                                )
+                                                
+                                                ) 
+                                      )
+                             ) 
+                   )
+          ) 
+  )## end for out tabBox  
+  
+)
 
-page_statistics <- fluidRow(
+
+
+page_statistics_1 <- fluidRow(
+
   box(title = "GEO human TF stat ", status = "primary",width=12,
       DT::dataTableOutput('GEO_human_TF_stat_table'),
       plotOutput('GEO_human_TF_stat_plot')
