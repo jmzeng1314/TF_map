@@ -21,7 +21,7 @@ sidebar = dashboardSidebar(
   sidebarMenu(id='sidebarMenu',
               hr(),
               menuItem("Home", tabName = "Home", icon = icon("home")),
-              menuItem("New Analysis", tabName = "NewAnalysis", icon = icon("refresh")), 
+              menuItem("statistics", tabName = "statistics", icon = icon("refresh")), 
               hr(), 
               menuItem("Contact Us",tabName = 'contact',icon = icon('code')),
               menuItem("Help",tabName = 'help',icon = icon('info-circle')) 
