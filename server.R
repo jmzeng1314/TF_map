@@ -320,6 +320,7 @@ shinyServer(
         )
         
         ,dat$sampleID) 
+        dat
       }
       , extensions = 'Scroller', options = list(
         rownames= FALSE,
