@@ -18,6 +18,18 @@ createLink <- function(base,val) {
   sprintf('<a href="%s" class="btn btn-link" target="_blank" >%s</a>',base,val) ##target="_blank" 
 }
 
+mysql_getData <- function(sql="select * from cistrome_metadata limit 10;"){
+  host <<- "127.0.0.1"
+  port <<- 3306
+  user <<- "root" 
+  password <<- ifelse(.Platform$OS.type == 'unix','ganglijimmy','11111111')
+  library(RMySQL)
+  con <- dbConnect(MySQL(), host=host, port=port, user=user, password=password) 
+  dbSendQuery(con, "USE TF_map") 
+  dat=dbGetQuery(con,sql ) 
+  dbDisconnect(con)
+  return(dat)
+}
 
 shinyServer(
   function(input,output,session){
@@ -243,7 +255,7 @@ shinyServer(
           tmp1$GSM=createLink(paste0("https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=",tmp1$GSM),tmp1$GSM)
           ##   http://epigenomegateway.wustl.edu/browser/?genome=hg38&
           ##  datahub=http://dc2.cistrome.org/api/datahub/9216&gftk=refGene,full&coordinate=chr6:26099558-26299988
-          genome='hg38'
+          genome=ifelse(glob_values$species=='human','hg38','mm10')
           
           WashU_link=createLink(paste0("http://epigenomegateway.wustl.edu/browser/?genome=",genome,
                                        "&datahub=http://dc2.cistrome.org/api/datahub/",
@@ -296,7 +308,31 @@ shinyServer(
     ## all for metadata !!!
     if(F){
       ## first for tables;
-      output$GEO_human_histone_stat_table = DT::renderDataTable({})
+      output$GEO_human_histone_stat_table = DT::renderDataTable({
+        dat <- mysql_getData(" select * from cistrome_metadata where species='human' and type='histone' ")
+        dat$GSM=createLink(paste0("https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=",tmp1$GSM),tmp1$GSM)
+        ##   http://epigenomegateway.wustl.edu/browser/?genome=hg38&datahub=http://dc2.cistrome.org/api/datahub/9216&gftk=refGene,full 
+        genome=ifelse(glob_values$species=='human','hg38','mm10')
+        
+        dat$sampleID=createLink(paste0("http://epigenomegateway.wustl.edu/browser/?genome=",genome,
+                                     "&datahub=http://dc2.cistrome.org/api/datahub/",
+                                     tmp1$sampleID,"&gftk=refGene,full " 
+        )
+        
+        ,dat$sampleID) 
+      }
+      , extensions = 'Scroller', options = list(
+        rownames= FALSE,
+        deferRender = TRUE,
+        scrollX = TRUE,
+        fixedHeader = TRUE,
+        fixedColumns = TRUE,
+        scrollY = 600,
+        scroller = TRUE 
+      ), 
+      filter = 'top',
+      escape = FALSE
+      )
       output$GEO_human_TF_stat_table = DT::renderDataTable({})
       output$GEO_mouse_histone_stat_table = DT::renderDataTable({})
       output$GEO_mouse_TF_stat_table = DT::renderDataTable({})
