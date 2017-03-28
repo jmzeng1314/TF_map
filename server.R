@@ -310,16 +310,14 @@ shinyServer(
       ## first for tables;
       output$GEO_human_histone_stat_table = DT::renderDataTable({
         dat <- mysql_getData(" select * from cistrome_metadata where species='human' and type='histone' ")
-        dat$GSM=createLink(paste0("https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=",tmp1$GSM),tmp1$GSM)
-        ##   http://epigenomegateway.wustl.edu/browser/?genome=hg38&datahub=http://dc2.cistrome.org/api/datahub/9216&gftk=refGene,full 
-        genome=ifelse(glob_values$species=='human','hg38','mm10')
-        
-        dat$sampleID=createLink(paste0("http://epigenomegateway.wustl.edu/browser/?genome=",genome,
+        dat$GSM=createLink(paste0("https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=",tmp1$GSM),tmp1$GSM )
+        dat$sampleID=createLink(paste0("http://epigenomegateway.wustl.edu/browser/?genome=",'hg38',
                                      "&datahub=http://dc2.cistrome.org/api/datahub/",
                                      tmp1$sampleID,"&gftk=refGene,full " 
         )
-        
         ,dat$sampleID) 
+        
+        
         dat
       }
       , extensions = 'Scroller', options = list(
