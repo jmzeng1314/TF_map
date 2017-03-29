@@ -202,7 +202,10 @@ shinyServer(
         attribute <- strsplit(peaks_tb$attribute,';')[[1]]
         tmp=as.data.frame(str_split_fixed(attribute, ":", 5),stringsAsFactors=F)
         colnames(tmp)=c('sampleID','dis_start','width','score','dis_tss')
-        tmp$sampleID=as.numeric(lapply(tmp$sampleID,function(x){strsplit(x,"_")[[1]][1]}))
+        if(glob_values$database=='cirstrome'){
+          tmp$sampleID=as.numeric(lapply(tmp$sampleID,function(x){strsplit(x,"_")[[1]][1]}))
+        }
+        
         peaks_tb=tmp
         
         search_gene_info=dbGetQuery(con,paste0("select * from hg38_position where symbol=",shQuote(gene)))[1,]
