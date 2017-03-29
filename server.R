@@ -179,8 +179,9 @@ shinyServer(
         peaks_tab=paste(genomic_feature, glob_values$species,glob_values$IP,glob_values$database,sep="_")
         sql=paste0(" select * from ",peaks_tab," where symbol=",shQuote(gene))
         peaks_tb <- dbGetQuery(con,sql)
-        peaks_tb$genomic_feature=genomic_feature
-        
+        if(nrow(peaks_tb) >0){
+          peaks_tb$genomic_feature=genomic_feature
+        }
       }else{
         
         peaks_tb=c()
