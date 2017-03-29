@@ -304,18 +304,18 @@ shinyServer(
       
       
     }
-    , extensions = 'Scroller', options = list(
-      rownames= FALSE,
-      deferRender = TRUE,
+    ,extensions = 'Buttons', options = list(
+      buttons = c('copy', 'excel'),
+      dom = 'Bfrtip', 
+      pageLength = -1,
+      rownames = FALSE,
       scrollX = TRUE,
       fixedHeader = TRUE,
-      fixedColumns = TRUE,
-      scrollY = 600,
-      scroller = TRUE 
+      fixedColumns = TRUE 
     ), 
     filter = 'top',
-    escape = FALSE)## end for results;
-    
+    escape = FALSE
+    )
 
     ## all for metadata !!!
     if(T){
@@ -336,7 +336,7 @@ shinyServer(
         buttons = c('copy', 'excel'),
         dom = 'Bfrtip', 
         pageLength = -1,
-        rownames= FALSE,
+        rownames = FALSE,
         scrollX = TRUE,
         fixedHeader = TRUE,
         fixedColumns = TRUE 
@@ -380,18 +380,21 @@ shinyServer(
       
       dat
       }
-      , extensions = 'Scroller', options = list(
-        rownames= FALSE,
-        deferRender = TRUE,
+      ,extensions = 'Buttons', options = list(
+        buttons = c('copy', 'excel'),
+        dom = 'Bfrtip', 
+        pageLength = -1,
+        rownames = FALSE,
         scrollX = TRUE,
         fixedHeader = TRUE,
-        fixedColumns = TRUE,
-        scrollY = 600,
-        scroller = TRUE 
+        fixedColumns = TRUE 
       ), 
       filter = 'top',
       escape = FALSE
       )
+      
+      
+      
       output$GEO_mouse_TF_stat_table = DT::renderDataTable({
         dat <- mysql_getData(" select * from cistrome_metadata where species='mouse' and type='TF' ")
         dat$GSM=createLink(paste0("https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=",dat$GSM),dat$GSM )
@@ -404,18 +407,20 @@ shinyServer(
         
         dat
       }
-      , extensions = 'Scroller', options = list(
-        rownames= FALSE,
-        deferRender = TRUE,
+      , extensions = 'Buttons', options = list(
+        buttons = c('copy', 'excel'),
+        dom = 'Bfrtip', 
+        pageLength = -1,
+        rownames = FALSE,
         scrollX = TRUE,
         fixedHeader = TRUE,
-        fixedColumns = TRUE,
-        scrollY = 600,
-        scroller = TRUE 
+        fixedColumns = TRUE 
       ), 
       filter = 'top',
       escape = FALSE
       )
+      
+      
       output$ENCODE_human_histone_stat_table = DT::renderDataTable({
        
       })
