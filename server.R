@@ -228,16 +228,22 @@ shinyServer(
       dbDisconnect(con)
       
       ## can't find peak for some genomic features
-      
-      if(nrow(peaks_tb) >0 && nrow(metadata)>0 ){
-        tmp=merge(peaks_tb,metadata,by='sampleID')
-        ## It counld be NULL
-        if(nrow(tmp)>0){ 
-          closeAlert(session, "exampleAlert")
-          glob_values$results=tmp
+      if(nrow(peaks_tb) >0 ){
+        if(nrow(metadata)>0 ){
+          tmp=merge(peaks_tb,metadata,by='sampleID')
+          ## It counld be NULL
+          if(nrow(tmp)>0){ 
+            closeAlert(session, "exampleAlert")
+            glob_values$results=tmp
+          }else{
+            createAlert(session, "alert_search_results_anchorId", "exampleAlert", title = "Oops",
+                        content = " very strange, cell-line didn't match~~~", append = FALSE)
+            glob_values$results=NULL
+          }
+          
         }else{
           createAlert(session, "alert_search_results_anchorId", "exampleAlert", title = "Oops",
-                      content = " very strange, cell-line didn't match~~~", append = FALSE)
+                      content = " It should happen", append = FALSE)
           glob_values$results=NULL
         }
         
@@ -246,6 +252,7 @@ shinyServer(
                     content = " we can't find results for this gene", append = FALSE)
         glob_values$results=NULL
       }
+    
       
       
       
