@@ -68,12 +68,12 @@ shinyServer(
         x <- character(0)
       
       db=paste(x,'gene_mapping',sep='_')
-      library(RMySQL)
-      con <- dbConnect(MySQL(), host=host, port=port, user=user, password=password) 
-      dbSendQuery(con, "USE TF_map") 
-      gene_mapping=dbGetQuery(con,paste0("select symbols,geneNames  from ",db)) 
-      dbDisconnect(con)
-      
+      # library(RMySQL)
+      # con <- dbConnect(MySQL(), host=host, port=port, user=user, password=password) 
+      # dbSendQuery(con, "USE TF_map") 
+      # gene_mapping=dbGetQuery(con,paste0("select symbols,geneNames  from ",db)) 
+      # dbDisconnect(con)
+      gene_mapping=mysql_getData(paste0("select symbols,geneNames  from ",db))
       
       # Can also set the label and select items
       updateSelectizeInput(
@@ -96,7 +96,7 @@ shinyServer(
     
     
     
-    ## the cellLine choices  depends on the database user choosed
+    ## the cellLine choices  depends on the database and species and IP  user choosed
     observe({
       x <- input$database
       
@@ -105,18 +105,24 @@ shinyServer(
         x <- character(0)
       
       db=paste(x,'metadata',sep='_')
-      library(RMySQL)
-      con <- dbConnect(MySQL(), host=host, port=port, user=user, password=password) 
-      dbSendQuery(con, "USE TF_map") 
+   
       if(x=='cistrome'){
-        cellline_info=dbGetQuery(con,paste0("select distinct cellline,tissue,organ  from ",db))
+        sql=paste0("select distinct cellline,tissue,organ  from ",db,
+                                            " where species = ",shQuote(input$species)," and type=",shQuote(input$IP)
+                                            )
       }else{
-        cellline_info=dbGetQuery(con,paste0("select distinct cellline,celltype,tissue  from ",db))
+        sql=paste0("select distinct cellline,celltype,tissue  from ",db,
+                                            " where species = ",shQuote(input$species)," and type=",shQuote(input$IP)
+        )
       }
-      
+      library(RMySQL)
+      # con <- dbConnect(MySQL(), host=host, port=port, user=user, password=password) 
+      # dbSendQuery(con, "USE TF_map") 
+      # cellline_info=dbGetQuery(con,sql)
+      # dbDisconnect(con)
+      cellline_info=mysql_getData( sql ) 
       cellline_info=unique(cellline_info)
       cellline_info=rbind(c("ALL","ALL","ALL"),cellline_info)
-      dbDisconnect(con)
       
       
       # Can also set the label and select items
@@ -210,10 +216,12 @@ shinyServer(
       metadata_tab=paste0(input$database,'_metadata')
       
       if(cellline != 'ALL'){
-        sql=paste0("select * from ",metadata_tab," where cellline = ",shQuote(cellline))
+        sql=paste0("select * from ",metadata_tab," where cellline = ",shQuote(cellline),
+                   " and type=",shQuote(input$IP) ," and species=",shQuote(input$species) 
+                   )
         metadata <- dbGetQuery(con,sql)
       }else{
-        sql=paste0("select * from ",metadata_tab )
+        sql=paste0("select * from ",metadata_tab," where species = ",shQuote(input$species)," and type=",shQuote(input$IP) )
         metadata <- dbGetQuery(con,sql)
       }
       
@@ -225,13 +233,17 @@ shinyServer(
         tmp=merge(peaks_tb,metadata,by='sampleID')
         ## It counld be NULL
         if(nrow(tmp)>0){ 
+          closeAlert(session, "exampleAlert")
           glob_values$results=tmp
         }else{
+          createAlert(session, "alert_search_results_anchorId", "exampleAlert", title = "Oops",
+                      content = " very strange, cell-line didn't match~~~", append = FALSE)
           glob_values$results=NULL
         }
         
       }else{
-        
+        createAlert(session, "alert_search_results_anchorId", "exampleAlert", title = "Oops",
+                    content = " we can't find results for this gene", append = FALSE)
         glob_values$results=NULL
       }
       
@@ -320,14 +332,14 @@ shinyServer(
         
         dat
       }
-      , extensions = 'Scroller', options = list(
+      , extensions = 'Buttons', options = list(
+        buttons = c('copy', 'excel'),
+        dom = 'Bfrtip', 
+        pageLength = -1,
         rownames= FALSE,
-        deferRender = TRUE,
         scrollX = TRUE,
         fixedHeader = TRUE,
-        fixedColumns = TRUE,
-        scrollY = 600,
-        scroller = TRUE 
+        fixedColumns = TRUE 
       ), 
       filter = 'top',
       escape = FALSE
@@ -414,7 +426,7 @@ shinyServer(
       output$GEO_human_histone_stat_plot = renderPlot({
         
         dat <- mysql_getData(" select * from cistrome_metadata where species='human' and type='histone' ")
-        par(mfrow=c(1,2))
+        par(mfrow=c(2,1))
         tmp=sort(table(dat$cellline),decreasing = T);tmp=tmp[tmp>10]
         barplot( tmp  ,las=2)
         tmp=sort(table(dat$IP),decreasing = T);tmp=tmp[tmp>5]
@@ -424,7 +436,7 @@ shinyServer(
       output$GEO_human_TF_stat_plot = renderPlot({
         
         dat <- mysql_getData(" select * from cistrome_metadata where species='human' and type='TF' ")
-        par(mfrow=c(1,2))
+        par(mfrow=c(2,1))
         tmp=sort(table(dat$cellline),decreasing = T);tmp=tmp[tmp>10]
         barplot( tmp  ,las=2)
         tmp=sort(table(dat$IP),decreasing = T);tmp=tmp[tmp>5]
@@ -434,7 +446,7 @@ shinyServer(
       output$GEO_mouse_histone_stat_plot = renderPlot({
         
         dat <- mysql_getData(" select * from cistrome_metadata where species='mouse' and type='histone' ")
-        par(mfrow=c(1,2))
+        par(mfrow=c(2,1))
         tmp=sort(table(dat$cellline),decreasing = T);tmp=tmp[tmp>10]
         barplot( tmp  ,las=2)
         tmp=sort(table(dat$IP),decreasing = T);tmp=tmp[tmp>5]
@@ -444,7 +456,7 @@ shinyServer(
       output$GEO_mouse_TF_stat_plot = renderPlot({
         
         dat <- mysql_getData(" select * from cistrome_metadata where species='mouse' and type='TF' ")
-        par(mfrow=c(1,2))
+        par(mfrow=c(2,1))
         tmp=sort(table(dat$cellline),decreasing = T);tmp=tmp[tmp>10]
         barplot( tmp  ,las=2)
         tmp=sort(table(dat$IP),decreasing = T);tmp=tmp[tmp>5]
