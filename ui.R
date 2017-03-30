@@ -12,7 +12,7 @@ library(shinyjs)
 library(RMySQL)
 
 header = dashboardHeader(title = "TF map"
-                         ,titleWidth=350
+                         ,titleWidth=250
 )
 
 
@@ -81,12 +81,14 @@ page_Home<- fluidRow(
       flowLayout(
         actionButton("do", "Search", icon("paper-plane"), 
                      style="color: #fff; background-color: #337ab7; border-color: #2e6da4"),
-        actionLink("multiple_visualization","Choose IPs to visualize by WashU browser"),
+        actionLink("multiple_visualization","Choose IPs to visualize by WashU browser",width='150%'),
+        
         bsModal("modalExample", "Choose IPs", "multiple_visualization", size = "small",wellPanel(
-          checkboxGroupInput("campaigns","Choose campaign(s):",LETTERS[1:10]),
+          
           uiOutput('chooseIP_checkbox'),
           actionButton("selectALL_button", "select ALL"),
           h1('Go to:')
+          
         ))
       ),
     
