@@ -77,8 +77,20 @@ page_Home<- fluidRow(
                     )),
       #h2("OR"),
       #textInput('input_region',"type a genomic region" ,placeholder="Chromosomal region (chrN:start-end)"),
-      #hr(),
-      actionButton("do", "Search"),
+      #hr(), 
+      flowLayout(
+        actionButton("do", "Search", icon("paper-plane"), 
+                     style="color: #fff; background-color: #337ab7; border-color: #2e6da4"),
+        actionLink("multiple_visualization","Choose IPs to visualize by WashU browser"),
+        bsModal("modalExample", "Choose IPs", "multiple_visualization", size = "small",wellPanel(
+          checkboxGroupInput("campaigns","Choose campaign(s):",LETTERS[1:10]),
+          uiOutput('chooseIP_checkbox'),
+          actionButton("selectALL_button", "select ALL"),
+          h1('Go to:')
+        ))
+      ),
+    
+      
       br(),
       bsAlert("alert_search_results_anchorId"),
       br(),
