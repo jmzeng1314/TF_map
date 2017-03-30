@@ -301,8 +301,17 @@ shinyServer(
         }else{
           ## if choose the encode database:
           #return(NULL)
+          genome=ifelse(glob_values$species=='human','hg38','mm10')
+          
+          tmp1$visualization=createLink(paste0( "http://genome.ucsc.edu/cgi-bin/hgTracks?hubClear=https://www.encodeproject.org/", 
+                                                tmp1$uniqID,
+                                                "/@@hub/hub.txt&db=",genome,
+                                             "&position=",  tmp1$chrom,":",tmp1$start,"-",tmp1$end
+          )
+          ,'go to UCSC')
           tmp1$sampleID=createLink(paste0("https://www.encodeproject.org/files/",tmp1$sampleID),tmp1$sampleID)
           tmp1$uniqID=createLink(paste0("https://www.encodeproject.org/experiments/",tmp1$uniqID),tmp1$uniqID)
+          tmp1<-tmp1[,c(9,1,15,19,6:8,16,10:12)]
           return(tmp1)
         }
         
