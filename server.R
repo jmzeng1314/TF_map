@@ -341,7 +341,7 @@ shinyServer(
     output$chooseIP_checkbox <- renderUI({
       tmp1=glob_values$results
       if(! is.null(tmp1)){ 
-          currentIPs=unique(tmp1$IP)
+          currentIPs=sort(unique(tmp1$IP))
           checkboxGroupInput("choosed_IPs","Choose IP(s):",currentIPs) 
         }else{
         return(NULL)
@@ -349,14 +349,20 @@ shinyServer(
         
     })
     observe({
-      if(input$selectALL_button == 0) return(NULL)
-      else if (input$selectALL_button%%2 == 0)
-      {
-        updateCheckboxGroupInput(session,"choosed_IPs","Choose IP(s):",choices=currentIPs)     
-      }
-      else
-      {
-        updateCheckboxGroupInput(session,"choosed_IPs","Choose IP(s):",choices=currentIPs,selected=currentIPs)
+      tmp1=glob_values$results
+      if(! is.null(tmp1)){ 
+             currentIPs=sort(unique(tmp1$IP))
+            if(input$selectALL_button == 0) return(NULL)
+            else if (input$selectALL_button%%2 == 0)
+            {
+              updateCheckboxGroupInput(session,"choosed_IPs","Choose IP(s):",choices=currentIPs)     
+            }
+            else
+            {
+              updateCheckboxGroupInput(session,"choosed_IPs","Choose IP(s):",choices=currentIPs,selected=currentIPs)
+            }
+      }else{
+        return(NULL)
       }
     })
     
