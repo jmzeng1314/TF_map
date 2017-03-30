@@ -311,8 +311,9 @@ shinyServer(
           ,'go to UCSC')
           tmp1$sampleID=createLink(paste0("https://www.encodeproject.org/files/",tmp1$sampleID),tmp1$sampleID)
           tmp1$uniqID=createLink(paste0("https://www.encodeproject.org/experiments/",tmp1$uniqID),tmp1$uniqID)
-          tmp1<-tmp1[,c(9,1,15,19,6:8,16,10:12)]
+          tmp1<-tmp1[, c('uniqID','sampleID','TF','visualization','chrom','start','end','cellline','celltype','tissue')]
           return(tmp1)
+         
         }
         
         
