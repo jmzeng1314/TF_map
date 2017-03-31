@@ -79,14 +79,16 @@ page_Home<- fluidRow(
       
         actionButton("do", "Search", icon("paper-plane"), 
                      style="color: #fff; background-color: #337ab7; border-color: #2e6da4"),
+      hr(),br(),
       conditionalPanel(
           condition = ("input.do>0"),
           actionLink("multiple_visualization","Choose IPs to visualize by WashU browser",width='150%'),
     
-          bsModal("modalExample", "Choose IPs", "multiple_visualization", size = "small",wellPanel(
+          bsModal("modalExample", "Choose IPs", "multiple_visualization", size = "small",
+                  wellPanel(
             
-            uiOutput('chooseIP_checkbox'),
             actionButton("selectALL_button", "select ALL"),
+            uiOutput('chooseIP_checkbox'),
             actionButton("generateLink_button", "generate Link"),
             conditionalPanel(
               condition = ("input.generateLink_button>0"),
