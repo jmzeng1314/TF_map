@@ -87,7 +87,7 @@ page_Home<- fluidRow(
           
           uiOutput('chooseIP_checkbox'),
           actionButton("selectALL_button", "select ALL"),
-          h1('Go to:')
+          uiOutput('multiple_visualization_links')
           
         ))
       ),

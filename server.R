@@ -365,6 +365,24 @@ shinyServer(
         return(NULL)
       }
     })
+    output$multiple_visualization_links <-renderUI({
+      json_data='
+      [{"showscoreidx": 0, "mode": "barplot", "url": "http://dc2.cistrome.org/data5/browser/44026_sort_peaks.narrowPeak.bed.gz", "scorenamelst": ["signal value", "P value (-log10)", "Q value (-log10)"], "strokecolor": "#ff6600", "type": "hammock", "boxcolor": "#210085", "name": "44026_PC-3_AGO1"}, {"url": "http://dc2.cistrome.org/data5/browser/44026_treat.bw", "type": "bigwig", "mode": "show", "name": "44026_PC-3_AGO1", "height": 50}, {"showscoreidx": 0, "mode": "barplot", "url": "http://dc2.cistrome.org/data5/browser/48594_sort_peaks.narrowPeak.bed.gz", "scorenamelst": ["signal value", "P value (-log10)", "Q value (-log10)"], "strokecolor": "#ff6600", "type": "hammock", "boxcolor": "#210085", "name": "48594_MCF-7_AGO1"}, {"url": "http://dc2.cistrome.org/data5/browser/48594_treat.bw", "type": "bigwig", "mode": "show", "name": "48594_MCF-7_AGO1", "height": 50}, {"showscoreidx": 0, "mode": "barplot", "url": "http://dc2.cistrome.org/data5/browser/48609_sort_peaks.narrowPeak.bed.gz", "scorenamelst": ["signal value", "P value (-log10)", "Q value (-log10)"], "strokecolor": "#ff6600", "type": "hammock", "boxcolor": "#210085", "name": "48609_None_AGO1"}, {"url": "http://dc2.cistrome.org/data5/browser/48609_treat.bw", "type": "bigwig", "mode": "show", "name": "48609_None_AGO1", "height": 50}, {"showscoreidx": 0, "mode": "barplot", "url": "http://dc2.cistrome.org/data5/browser/48610_sort_peaks.narrowPeak.bed.gz", "scorenamelst": ["signal value", "P value (-log10)", "Q value (-log10)"], "strokecolor": "#ff6600", "type": "hammock", "boxcolor": "#210085", "name": "48610_MCF-7_AGO1"}, {"url": "http://dc2.cistrome.org/data5/browser/48610_treat.bw", "type": "bigwig", "mode": "show", "name": "48610_MCF-7_AGO1", "height": 50}]
+      '
+      outputDir <- "/var/www/html/shiny_files"
+      fileName <- sprintf("%s_%s.csv", as.integer(Sys.time()), digest::digest(json_data))
+      sink( file.path(outputDir, fileName) )
+      cat(json_data) 
+      sink()
+      json_file=paste0('http://52.37.109.26/shiny_files/',fileName)
+      genome=ifelse(glob_values$species=='human','hg38','mm10')
+      url=paste0("http://cistrome.org/browser/?genome=",genome,
+                 "wugb&datahub=", json_file
+                 ,'&gftk=refGene,full'
+                 
+                 )
+      a('go to WashU browse',href=url)
+    })
     
     
     ## all for metadata !!!
