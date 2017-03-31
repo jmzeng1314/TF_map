@@ -75,32 +75,31 @@ page_Home<- fluidRow(
                     #"snoRNA" = "snoRNA",
                     #"pseudo" = "pseudo"
                     )),
-      #h2("OR"),
-      #textInput('input_region',"type a genomic region" ,placeholder="Chromosomal region (chrN:start-end)"),
-      #hr(), 
-      flowLayout(
+     
+      
         actionButton("do", "Search", icon("paper-plane"), 
                      style="color: #fff; background-color: #337ab7; border-color: #2e6da4"),
-        actionLink("multiple_visualization","Choose IPs to visualize by WashU browser",width='150%'),
-        
-        bsModal("modalExample", "Choose IPs", "multiple_visualization", size = "small",wellPanel(
-          
-          uiOutput('chooseIP_checkbox'),
-          actionButton("selectALL_button", "select ALL"),
-          uiOutput('multiple_visualization_links')
-          
-        ))
-      ),
+      conditionalPanel(
+          condition = ("input.do>0"),
+          actionLink("multiple_visualization","Choose IPs to visualize by WashU browser",width='150%'),
     
-      
-      br(),
-      bsAlert("alert_search_results_anchorId"),
-      br(),
-      br(),
-      DT::dataTableOutput('results'),
-      hr(),
-      column(8, align="center", offset = 2,plotOutput('peaks_sushi',height = "800px")),
-      hr()
+          bsModal("modalExample", "Choose IPs", "multiple_visualization", size = "small",wellPanel(
+            
+            uiOutput('chooseIP_checkbox'),
+            actionButton("selectALL_button", "select ALL"),
+            actionButton("generateLink_button", "generate Link"),
+            conditionalPanel(
+              condition = ("input.generateLink_button>0"),
+              uiOutput('multiple_visualization_links')
+            )
+            
+          )), ## end for bsModal
+          br(),
+          bsAlert("alert_search_results_anchorId"),
+          br(),
+          br(),
+          DT::dataTableOutput('results') 
+      ) ## end for conditionalPanel
       ) ## end for the box 
 )
 page_contact <- fluidRow(
