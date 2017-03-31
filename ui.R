@@ -10,6 +10,7 @@ library(knitr)
 library(rmarkdown) 
 library(shinyjs)
 library(RMySQL)
+library(Sushi)
 
 header = dashboardHeader(title = "TF map"
                          ,titleWidth=250
@@ -82,17 +83,17 @@ page_Home<- fluidRow(
       hr(),br(),
       conditionalPanel(
           condition = ("input.do>0"),
-          actionLink("multiple_visualization","Choose IPs to visualize by WashU browser",width='150%'),
-    
-          bsModal("modalExample", "Choose IPs", "multiple_visualization", size = "small",
+          h3(actionLink("multiple_visualization","Choose IPs to visualize",width='150%')),
+
+          bsModal("modalExample", "Choose IPs", "multiple_visualization", size = "large",
                   wellPanel(
             
             actionButton("selectALL_button", "select ALL"),
             uiOutput('chooseIP_checkbox'),
-            actionButton("generateLink_button", "generate Link"),
+            actionButton("drawSushi", "Draw figure"),
             conditionalPanel(
-              condition = ("input.generateLink_button>0"),
-              uiOutput('multiple_visualization_links')
+              condition = ("input.drawSushi>0"),
+              plotOutput('sushi_peaks')
             )
             
           )), ## end for bsModal
