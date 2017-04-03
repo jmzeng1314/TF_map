@@ -345,7 +345,7 @@ shinyServer(
       tmp1=glob_values$results
       if(! is.null(tmp1)){ 
           currentIPs=sort(unique(tmp1$IP))
-          checkboxGroupInput("choosed_IPs","Choose IP(s):",currentIPs) 
+          checkboxGroupInput("choosed_IPs","Choose IP(s):",currentIPs,inline = T) 
         }else{
         return(NULL)
       }
@@ -394,6 +394,7 @@ shinyServer(
     
     output$sushi_peaks <-renderPlot(
       #height = 400+10*nrow(glob_values$sushi_dat),
+      height = 1000,
       {
       
       dat=glob_values$sushi_dat 
