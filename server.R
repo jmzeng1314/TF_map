@@ -393,7 +393,7 @@ shinyServer(
     
     
     output$sushi_peaks <-renderPlot(
-      height = 400+10*nrow(glob_values$sushi_dat),
+      #height = 400+10*nrow(glob_values$sushi_dat),
       {
       
       dat=glob_values$sushi_dat 
