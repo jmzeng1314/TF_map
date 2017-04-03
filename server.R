@@ -359,11 +359,11 @@ shinyServer(
             if(input$selectALL_button == 0) return(NULL)
             else if (input$selectALL_button%%2 == 0)
             {
-              updateCheckboxGroupInput(session,"choosed_IPs","Choose IP(s):",choices=currentIPs)     
+              updateCheckboxGroupInput(session,"choosed_IPs","Choose IP(s):",choices=currentIPs,inline = T)     
             }
             else
             {
-              updateCheckboxGroupInput(session,"choosed_IPs","Choose IP(s):",choices=currentIPs,selected=currentIPs)
+              updateCheckboxGroupInput(session,"choosed_IPs","Choose IP(s):",choices=currentIPs,selected=currentIPs,inline = T)
             }
       }else{
         return(NULL)
@@ -394,7 +394,7 @@ shinyServer(
     
     output$sushi_peaks <-renderPlot(
       #height = 400+10*nrow(glob_values$sushi_dat),
-      height = 1000,
+       height = 1000,
       {
       
       dat=glob_values$sushi_dat 
