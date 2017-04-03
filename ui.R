@@ -93,7 +93,7 @@ page_Home<- fluidRow(
             actionButton("drawSushi", "Draw figure"),
             conditionalPanel(
               condition = ("input.drawSushi>0"),
-              plotOutput('sushi_peaks',  height = 1000)
+              plotOutput('sushi_peaks' )
             )
             
           )), ## end for bsModal

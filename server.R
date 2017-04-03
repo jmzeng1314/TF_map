@@ -392,10 +392,7 @@ shinyServer(
     })
     
     
-    output$sushi_peaks <-renderPlot(
-      #height = 400+10*nrow(glob_values$sushi_dat),
-       height = 1000,
-      {
+    output$sushi_peaks <-renderPlot( {
       
       dat=glob_values$sushi_dat 
         if( ! is.null( dat )){
@@ -416,7 +413,12 @@ shinyServer(
         }else{ ## if there's no IPs
           return(NULL)
         } 
-    }) 
+    },
+    height = function() {
+      #session$clientData$output_plot1_width 
+      400+10*nrow(glob_values$sushi_dat) }
+    
+    )  ## end for sushi_peaks
     
     
     
