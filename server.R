@@ -44,7 +44,7 @@ shinyServer(
       results=NULL, ## the search results based on gene,species,db,ip,cellline
       input_gene=NULL,
       species=NULL,
-      sushi_dat=NULL,
+      sushi_dat=NULL, ## depends on peaks results
       database=NULL,
       IP=NULL,
       cellline=NULL,
@@ -392,7 +392,9 @@ shinyServer(
     })
     
     
-    output$sushi_peaks <-renderPlot(height = 400+10*nrow(glob_values$sushi_dat),{
+    output$sushi_peaks <-renderPlot(
+      height = 400+10*nrow(glob_values$sushi_dat),
+      {
       
       dat=glob_values$sushi_dat 
         if( ! is.null( dat )){
