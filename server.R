@@ -304,7 +304,7 @@ shinyServer(
             paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end)
           )
           , paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end) )
-          tmp1= tmp1[,-c('chrom','start','end')]
+          tmp1= tmp1[,-c(2:4)]## remove chrom,start,end
           return(tmp1)
           
         }else{
@@ -326,7 +326,7 @@ shinyServer(
             paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end)
           )
           , paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end) )
-          tmp1= tmp1[,-c('chrom','start','end')]
+          tmp1= tmp1[,-c(5:7)]## remove chrom,start,end
           return(tmp1)
          
         }
