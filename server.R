@@ -299,6 +299,12 @@ shinyServer(
           tmp1$Visualize=paste(WashU_link,UCSC_link)
           tmp1$sequence='ATCG_Test'
           tmp1<-tmp1[,c(9,6:8,16,10:13)]
+          tmp1$sequence=createLink(paste0(
+            "http://genome.ucsc.edu/cgi-bin/das/hg38/dna?segment=",
+            paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end)
+          )
+          , paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end) )
+          tmp1= tmp1[,c('chrom','start','end')]
           return(tmp1)
           
         }else{
@@ -315,6 +321,12 @@ shinyServer(
           tmp1$sampleID=createLink(paste0("https://www.encodeproject.org/files/",tmp1$sampleID),tmp1$sampleID)
           tmp1$uniqID=createLink(paste0("https://www.encodeproject.org/experiments/",tmp1$uniqID),tmp1$uniqID)
           tmp1<-tmp1[, c('uniqID','sampleID','TF','visualization','chrom','start','end','cellline','celltype','tissue')]
+          tmp1$sequence=createLink(paste0(
+            "http://genome.ucsc.edu/cgi-bin/das/hg38/dna?segment=",
+            paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end)
+          )
+          , paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end) )
+          tmp1= tmp1[,c('chrom','start','end')]
           return(tmp1)
          
         }
