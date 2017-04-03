@@ -81,7 +81,7 @@ page_Home<- fluidRow(
         actionButton("do", "Search", icon("paper-plane"), 
                      style="color: #fff; background-color: #337ab7; border-color: #2e6da4"),
       hr(),br(),
-      conditionalPanel(
+      conditionalPanel( ## only show results after user click the search button !
           condition = ("input.do>0"),
           h3(actionLink("multiple_visualization","Choose IPs to visualize",width='150%')),
 
@@ -196,44 +196,6 @@ page_statistics<- fluidRow(
   
 )
 
-
-
-page_statistics_1 <- fluidRow(
-
-  box(title = "GEO human TF stat ", status = "primary",width=12,
-      DT::dataTableOutput('GEO_human_TF_stat_table'),
-      plotOutput('GEO_human_TF_stat_plot')
-  ),
-  box(title = "GEO mouse TF stat ", status = "primary",width=12,
-      DT::dataTableOutput('GEO_mouse_TF_stat_table'),
-      plotOutput('GEO_mouse_TF_stat_plot')
-  ),
-  box(title = "GEO human histone stat ", status = "primary",width=12,
-      DT::dataTableOutput('GEO_human_histone_stat_table'),
-      plotOutput('GEO_human_histone_stat_plot')
-  ),
-  box(title = "GEO mouse histone stat ", status = "primary",width=12,
-      DT::dataTableOutput('GEO_mouse_histone_stat_table'),
-      plotOutput('GEO_mouse_histone_stat_plot')
-  ),
-  box(title = "ENCODE human TF stat ", status = "primary",width=12,
-      DT::dataTableOutput('ENCODE_human_TF_stat_table'),
-      plotOutput('ENCODE_human_TF_stat_plot')
-  ),
-  box(title = "ENCODE mouse TF stat ", status = "primary",width=12,
-      DT::dataTableOutput('ENCODE_mouse_TF_stat_table'),
-      plotOutput('ENCODE_mouse_TF_stat_plot')
-  ),
-  box(title = "ENCODE human histone stat ", status = "primary",width=12,
-      DT::dataTableOutput('ENCODE_human_histone_stat_table'),
-      plotOutput('ENCODE_human_histone_stat_plot')
-  ),
-  box(title = "ENCODE mouse histone stat ", status = "primary",width=12,
-      DT::dataTableOutput('ENCODE_mouse_histone_stat_table'),
-      plotOutput('ENCODE_mouse_histone_stat_plot')
-  )
-  
-)
 
 
 body = dashboardBody(

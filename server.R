@@ -44,6 +44,7 @@ shinyServer(
       results=NULL, ## the search results based on gene,species,db,ip,cellline
       input_gene=NULL,
       species=NULL,
+      sushi_dat=NULL,
       database=NULL,
       IP=NULL,
       cellline=NULL,
@@ -56,6 +57,7 @@ shinyServer(
       glob_values$input_gene=NULL
       glob_values$input_gene_choices=NULL
       glob_values$tmp=NULL
+      glob_values$sushi_dat=NULL
       
     }
     
@@ -349,6 +351,7 @@ shinyServer(
       }
         
     })
+    
     observe({
       tmp1=glob_values$results
       if(! is.null(tmp1)){ 
@@ -366,61 +369,51 @@ shinyServer(
         return(NULL)
       }
     })
+    
     observeEvent(input$drawSushi,{
-      
-      output$sushi_peaks <-renderPlot({
-        
-        tmp1=glob_values$results
-        if(! is.null(tmp1)){ 
-          if( ! is.null(input$choosed_IPs)){
-            a=tmp1[match(input$choosed_IPs,tmp1$IP),]
-            
-            dat=a[,c('chrom' ,'start','end')]
-            dat$name=paste(a$cellline,a$IP,a$GSM,sep = '_')
-            dat$score=0
-            dat$strand='.'
-            dat= dat[order(dat$name),]
-            dat$row=as.numeric(factor(dat$name))
-            
-            chrom=dat$chrom[1] 
-            chromstart=min(c(dat$start,dat$end))-500
-            chromend=max(c(dat$start,dat$end))+500
-            par(mar=c(5,15,5,5))
-            plotBed(beddata    = dat,chrom = chrom,
-                    chromstart = chromstart,chromend =chromend,
-                    rownumber  = dat$row, type = "region",
-                    color=dat$color,row="given",
-                    plotbg="grey95",rowlabels=unique(dat$name),
-                    rowlabelcol=unique(dat$color),rowlabelcex=0.75)
-            labelgenome(chrom,chromstart,chromend,n=3,scale="Kb")
-            mtext("ChIP-seq",side=3, adj=-0.065,line=0.5,font=2)
-            
-            # json_data='
-            # [{"showscoreidx": 0, "mode": "barplot", "url": "http://dc2.cistrome.org/data5/browser/44026_sort_peaks.narrowPeak.bed.gz", "scorenamelst": ["signal value", "P value (-log10)", "Q value (-log10)"], "strokecolor": "#ff6600", "type": "hammock", "boxcolor": "#210085", "name": "44026_PC-3_AGO1"}, {"url": "http://dc2.cistrome.org/data5/browser/44026_treat.bw", "type": "bigwig", "mode": "show", "name": "44026_PC-3_AGO1", "height": 50}, {"showscoreidx": 0, "mode": "barplot", "url": "http://dc2.cistrome.org/data5/browser/48594_sort_peaks.narrowPeak.bed.gz", "scorenamelst": ["signal value", "P value (-log10)", "Q value (-log10)"], "strokecolor": "#ff6600", "type": "hammock", "boxcolor": "#210085", "name": "48594_MCF-7_AGO1"}, {"url": "http://dc2.cistrome.org/data5/browser/48594_treat.bw", "type": "bigwig", "mode": "show", "name": "48594_MCF-7_AGO1", "height": 50}, {"showscoreidx": 0, "mode": "barplot", "url": "http://dc2.cistrome.org/data5/browser/48609_sort_peaks.narrowPeak.bed.gz", "scorenamelst": ["signal value", "P value (-log10)", "Q value (-log10)"], "strokecolor": "#ff6600", "type": "hammock", "boxcolor": "#210085", "name": "48609_None_AGO1"}, {"url": "http://dc2.cistrome.org/data5/browser/48609_treat.bw", "type": "bigwig", "mode": "show", "name": "48609_None_AGO1", "height": 50}, {"showscoreidx": 0, "mode": "barplot", "url": "http://dc2.cistrome.org/data5/browser/48610_sort_peaks.narrowPeak.bed.gz", "scorenamelst": ["signal value", "P value (-log10)", "Q value (-log10)"], "strokecolor": "#ff6600", "type": "hammock", "boxcolor": "#210085", "name": "48610_MCF-7_AGO1"}, {"url": "http://dc2.cistrome.org/data5/browser/48610_treat.bw", "type": "bigwig", "mode": "show", "name": "48610_MCF-7_AGO1", "height": 50}]
-            # '
-            # outputDir <- "/var/www/html/shiny_files"
-            # fileName <- sprintf("%s_%s.csv", as.integer(Sys.time()), digest::digest(json_data))
-            # sink( file.path(outputDir, fileName) )
-            # cat(json_data) 
-            # sink()
-            # json_file=paste0('http://52.37.109.26/shiny_files/',fileName)
-            # genome=ifelse(glob_values$species=='human','hg38','mm10')
-            # url=paste0("http://cistrome.org/browser/?genome=",genome,
-            #            "wugb&datahub=", json_file
-            #            ,'&gftk=refGene,full'
-            #            
-            # )
-            # a('go to WashU browse',href=url,target="_blank")
-          }else{ ## if there's no IPs
-            return(NULL)
-          }
-        }else{ ## if there's no peaks
+      tmp1=glob_values$results
+      if(! is.null(tmp1)){ 
+        if( ! is.null(input$choosed_IPs)){
+          a=tmp1[ tmp1$IP %in% input$choosed_IPs,]
+          
+          dat=a[,c('chrom' ,'start','end')]
+          dat$name=paste(a$cellline,a$IP,a$GSM,sep = '_')
+          dat$score=0
+          dat$strand='.'
+          dat= dat[order(dat$name),]
+          dat$row=as.numeric(factor(dat$name))
+        }else{ ## if there's no IPs
           return(NULL)
         }
-      })
-      
-      
+      }else{ ## if there's no peaks
+        return(NULL)
+      }
+      glob_values$sushi_dat =dat
     })
+    
+    
+    output$sushi_peaks <-renderPlot(height = 400+10*nrow(glob_values$sushi_dat){
+      
+      dat=glob_values$sushi_dat 
+        if( ! is.null( dat )){
+      
+          chrom=dat$chrom[1] 
+          chromstart=min(c(dat$start,dat$end))-500
+          chromend=max(c(dat$start,dat$end))+500
+          par(mar=c(5,15,5,5))
+          plotBed(beddata    = dat,chrom = chrom,
+                  chromstart = chromstart,chromend =chromend,
+                  rownumber  = dat$row, type = "region",
+                  color=dat$color,row="given",
+                  plotbg="grey95",rowlabels=unique(dat$name),
+                  rowlabelcol=unique(dat$color),rowlabelcex=0.75)
+          labelgenome(chrom,chromstart,chromend,n=3,scale="Kb")
+          mtext("ChIP-seq",side=3, adj=-0.065,line=0.5,font=2)
+ 
+        }else{ ## if there's no IPs
+          return(NULL)
+        } 
+    }) 
     
     
     
