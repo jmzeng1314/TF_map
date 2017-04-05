@@ -305,6 +305,7 @@ shinyServer(
             paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end)
           )
           , paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end) )
+          tmp1$dis_tss=as.numeric(tmp1$dis_tss)
           tmp1<-tmp1[, c('GSM','IP','Visualize','sequence','dis_tss','cellline','tissue','organ')]
           return(tmp1)
           
@@ -328,7 +329,7 @@ shinyServer(
           )
           , paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end) )
           tmp1<-tmp1[, c('uniqID','sampleID','IP','Visualize','sequence','dis_tss','cellline','celltype','tissue')]
-          
+          tmp1$dis_tss=as.numeric(tmp1$dis_tss)
           return(tmp1)
          
         }
