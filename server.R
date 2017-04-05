@@ -437,7 +437,7 @@ shinyServer(
     
     output$stat_table <-  DT::renderDataTable({
       metadata_tab=paste0(input$stat_database,'_metadata')
-      sql=paste0(" select * from ",metadata_tab,"  where species=",input$stat_species,"  and type=",input$stat_IP)
+      sql=paste0(" select * from ",metadata_tab," where species=",shQuote(input$species)," and type=",shQuote(input$stat_IP))
       dat <- mysql_getData(sql)
       if(input$stat_database == 'cistrome'){
         dat$GSM=createLink(paste0("https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=",dat$GSM),dat$GSM )
@@ -465,7 +465,7 @@ shinyServer(
     )
     output$stat_figure <- renderPlot({
       metadata_tab=paste0(input$stat_database,'_metadata')
-      sql=paste0(" select * from ",metadata_tab," where species= ",input$species," and type= ",input$stat_IP)
+      sql=paste0(" select * from ",metadata_tab," where species=",shQuote(input$species)," and type=",shQuote(input$stat_IP))
       dat <- mysql_getData(sql)
       par(mfrow=c(2,1))
       tmp=sort(table(dat$cellline),decreasing = T);tmp=tmp[tmp>10]
