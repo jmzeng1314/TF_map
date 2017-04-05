@@ -142,7 +142,7 @@ page_statistics<- fluidRow(
       )
       ) ## end for fluidRow
     ),## end for box 
-  DT::dataTableOutput('stat_table') ,
+  DT::dataTableOutput('stat_table',height = 800) ,
   plotOutput('stat_figure')
 )
 
