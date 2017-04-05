@@ -305,7 +305,7 @@ shinyServer(
             paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end)
           )
           , paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end) )
-          tmp1<-tmp1[, c('GSM','IP','visualization','sequence','dis_tss','cellline','tissue','organ')]
+          tmp1<-tmp1[, c('GSM','IP','Visualize','sequence','dis_tss','cellline','tissue','organ')]
           return(tmp1)
           
         }else{
@@ -313,7 +313,7 @@ shinyServer(
           #return(NULL)
           genome=ifelse(glob_values$species=='human','hg38','mm10')
           
-          tmp1$visualization=createLink(paste0( "http://genome.ucsc.edu/cgi-bin/hgTracks?hubClear=https://www.encodeproject.org/", 
+          tmp1$Visualize=createLink(paste0( "http://genome.ucsc.edu/cgi-bin/hgTracks?hubClear=https://www.encodeproject.org/", 
                                                 tmp1$uniqID,
                                                 "/@@hub/hub.txt&db=",genome,
                                              "&position=",  tmp1$chrom,":",tmp1$start,"-",tmp1$end
@@ -327,7 +327,7 @@ shinyServer(
             paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end)
           )
           , paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end) )
-          tmp1<-tmp1[, c('uniqID','sampleID','IP','visualization','sequence','dis_tss','cellline','celltype','tissue')]
+          tmp1<-tmp1[, c('uniqID','sampleID','IP','Visualize','sequence','dis_tss','cellline','celltype','tissue')]
           
           return(tmp1)
          
