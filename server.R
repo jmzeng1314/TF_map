@@ -447,7 +447,8 @@ shinyServer(
         )
         ,dat$sampleID) 
       }else{
-        
+        dat$sampleID=createLink(paste0("https://www.encodeproject.org/files/",dat$sampleID),dat$sampleID)
+        dat$uniqID=createLink(paste0("https://www.encodeproject.org/experiments/",dat$uniqID),dat$uniqID)
       }
       dat
     }
