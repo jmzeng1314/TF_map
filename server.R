@@ -205,8 +205,9 @@ shinyServer(
         attribute <- strsplit(peaks_tb$attribute,';')[[1]]
         tmp=as.data.frame(str_split_fixed(attribute, ":", 5),stringsAsFactors=F)
         colnames(tmp)=c('sampleID','dis_start','width','score','dis_tss')
-        if(glob_values$database=='cirstrome'){
+        if(glob_values$database=='cistrome'){
           tmp$sampleID=as.numeric(lapply(tmp$sampleID,function(x){strsplit(x,"_")[[1]][1]}))
+          ## change 49313_b to 49313 
         }
         
         peaks_tb=tmp
@@ -264,7 +265,7 @@ shinyServer(
       
       
       
-    }) 
+    }) ## end for observe searching!!!
     
     
     output$results <- DT::renderDataTable( {
@@ -300,7 +301,7 @@ shinyServer(
           tmp1$sequence='ATCG_Test'
           tmp1<-tmp1[,c(9,6:8,16,10:13)]
           tmp1$sequence=createLink(paste0(
-            "http://genome.ucsc.edu/cgi-bin/das/hg38/dna?segment=",
+            "http://genome.ucsc.edu/cgi-bin/das/",genome,"/dna?segment=",
             paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end)
           )
           , paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end) )
@@ -322,7 +323,7 @@ shinyServer(
           tmp1$uniqID=createLink(paste0("https://www.encodeproject.org/experiments/",tmp1$uniqID),tmp1$uniqID)
           tmp1<-tmp1[, c('uniqID','sampleID','TF','visualization','chrom','start','end','cellline','celltype','tissue')]
           tmp1$sequence=createLink(paste0(
-            "http://genome.ucsc.edu/cgi-bin/das/hg38/dna?segment=",
+            "http://genome.ucsc.edu/cgi-bin/das/",genome,"/dna?segment=",
             paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end)
           )
           , paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end) )
