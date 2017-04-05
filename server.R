@@ -321,7 +321,7 @@ shinyServer(
           ,'go to UCSC')
           tmp1$sampleID=createLink(paste0("https://www.encodeproject.org/files/",tmp1$sampleID),tmp1$sampleID)
           tmp1$uniqID=createLink(paste0("https://www.encodeproject.org/experiments/",tmp1$uniqID),tmp1$uniqID)
-          tmp1<-tmp1[, c('uniqID','sampleID','TF','visualization','chrom','start','end','cellline','celltype','tissue')]
+          tmp1<-tmp1[, c('uniqID','sampleID','IP','visualization','chrom','start','end','cellline','celltype','tissue')]
           tmp1$sequence=createLink(paste0(
             "http://genome.ucsc.edu/cgi-bin/das/",genome,"/dna?segment=",
             paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end)
