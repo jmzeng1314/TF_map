@@ -128,20 +128,17 @@ page_statistics<- fluidRow(
       fluidRow(
       column(4,radioButtons("stat_species", "Select species:",
                    c("Human(GRCh38)" = "human",
-                     "Mouse(mm10)" = "mouse"),
-                   inline=T)
+                     "Mouse(mm10)" = "mouse") )
       ),
       column(4,radioButtons("stat_IP", "Select IP:",
                    c("transcription factor" = "TF",
                      "histone" = "histone"
-                   ),
-                   inline=T)
+                   ) )
       ),
       column(4, radioButtons("stat_database", "Select database:",
                    c("GEO" = "cistrome",
                      "ENCODE" = "encode" 
-                   ),
-                   inline=T)
+                   ) )
       )
       ) ## end for fluidRow
     ),## end for box 
