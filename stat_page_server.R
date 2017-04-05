@@ -15,8 +15,7 @@ output$stat_table <-  DT::renderDataTable({
     
   }
 }
-, extensions = 'Buttons', options = list(
-  buttons = c('copy', 'excel'),
+, extensions = 'Buttons', options = list( 
   dom = 'Bfrtip', 
   pageLength = -1,
   rownames = FALSE,
