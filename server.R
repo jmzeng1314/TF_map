@@ -199,15 +199,20 @@ shinyServer(
       }
       #peaks_tb=dbGetQuery(con," select * from promoter_tss_human_tf_cistrome where symbol='EZH2' ")
       if(nrow(peaks_tb) >0){
-        attribute <- strsplit(peaks_tb$attribute,';')[[1]]
-        tmp=as.data.frame(str_split_fixed(attribute, ":", 5),stringsAsFactors=F)
-        colnames(tmp)=c('sampleID','dis_start','width','score','dis_tss')
-        if(glob_values$database=='cistrome'){
+        ## peaks_tb : symbol/attribute/genomic_feature
+        
+        peaks_merge_tb<-apply(peaks_tb, 1, function(x){
+          attribute <- strsplit(x[2],';')[[1]]
+          tmp=as.data.frame(str_split_fixed(attribute, ":", 5),stringsAsFactors=F)
+          colnames(tmp)=c('sampleID','dis_start','width','score','dis_tss')
+          if(glob_values$database=='cistrome'){
           tmp$sampleID=as.numeric(lapply(tmp$sampleID,function(x){strsplit(x,"_")[[1]][1]}))
           ## change 49313_b to 49313 
-        }
-        
-        peaks_tb=tmp
+          }
+          tmp$genomic_feature=x[3]
+          return(tmp)
+        })
+        peaks_tb<-  do.call(rbind, peaks_merge_tb)  
         
         search_gene_info=dbGetQuery(con,paste0("select * from hg38_position where symbol=",shQuote(gene)))[1,]
         peaks_tb$chrom=search_gene_info[1,1]
@@ -295,14 +300,12 @@ shinyServer(
           
           ,'UCSC')
           tmp1$Visualize=paste(WashU_link,UCSC_link)
-          tmp1$sequence='ATCG_Test'
-          tmp1<-tmp1[,c(9,6:8,16,10:13)]
           tmp1$sequence=createLink(paste0(
             "http://genome.ucsc.edu/cgi-bin/das/",genome,"/dna?segment=",
             paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end)
           )
           , paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end) )
-          tmp1= tmp1[,-c(2:4)]## remove chrom,start,end
+          tmp1<-tmp1[, c('GSM','IP','visualization','sequence','dis_tss','cellline','tissue','organ')]
           return(tmp1)
           
         }else{
@@ -318,13 +321,14 @@ shinyServer(
           ,'go to UCSC')
           tmp1$sampleID=createLink(paste0("https://www.encodeproject.org/files/",tmp1$sampleID),tmp1$sampleID)
           tmp1$uniqID=createLink(paste0("https://www.encodeproject.org/experiments/",tmp1$uniqID),tmp1$uniqID)
-          tmp1<-tmp1[, c('uniqID','sampleID','IP','visualization','chrom','start','end','cellline','celltype','tissue')]
+      
           tmp1$sequence=createLink(paste0(
             "http://genome.ucsc.edu/cgi-bin/das/",genome,"/dna?segment=",
             paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end)
           )
           , paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end) )
-          tmp1= tmp1[,-c(5:7)]## remove chrom,start,end
+          tmp1<-tmp1[, c('uniqID','sampleID','IP','visualization','sequence','dis_tss','cellline','celltype','tissue')]
+          
           return(tmp1)
          
         }
