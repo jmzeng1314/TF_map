@@ -1,0 +1,482 @@
+2017-05-23 09:51:10     Dim for the results table:	
+ 
+2017-05-23 09:51:10 161.64.208.94    Dim for the results table:	
+ 
+2017-05-23 09:51:23     Dim for the results table:	
+ 
+2017-05-23 09:51:31 161.64.208.94    select chromosome,cds_from,cds_to  from CCDS_current_hg38 where gene='ADA' 
+2017-05-23 09:51:31 161.64.208.94    select * from cistrome_metadata where bs1 = 'HeLa' and bs2 = 'Epithelium' and bs3 = 'Cervix' and type='TF' and species='human' 
+2017-05-23 09:51:31 161.64.208.94    select title,source_name_ch1,GSM  from  cistrome_GSM_metadata  
+2017-05-23 09:51:33 161.64.208.94     select * from cistrome_human_TF_chr20 where symbol='ADA' 
+2017-05-23 09:51:33 161.64.208.94    Dim for the results table:127	18
+ 
+2017-05-23 09:58:43     Dim for the results table:	
+ 
+2017-05-23 09:59:51     Dim for the results table:	
+ 
+2017-05-23 10:01:35     Dim for the results table:	
+ 
+2017-05-23 11:37:27     Dim for the results table:	
+ 
+2017-05-23 11:37:51     Dim for the results table:	
+ 
+2017-05-23 13:36:26     Dim for the results table:	
+ 
+2017-05-23 15:49:50     Dim for the results table:	
+ 
+2017-05-24 01:18:24     Dim for the results table:	
+ 
+2017-05-24 02:49:55     Dim for the results table:	
+ 
+2017-05-24 02:57:13 161.64.208.5    select chromosome,cds_from,cds_to  from CCDS_current_hg38 where gene='CBX8' 
+2017-05-24 02:57:13 161.64.208.5    select * from cistrome_metadata where bs1 = 'H1' and bs2 = 'Embryonic Stem Cell' and bs3 = 'Embryo' and type='TF' and species='human' 
+2017-05-24 02:57:14 161.64.208.5    select title,source_name_ch1,GSM  from  cistrome_GSM_metadata  
+2017-05-24 02:57:19 161.64.208.5     select * from cistrome_human_TF_chr17 where symbol='CBX8' 
+2017-05-24 02:57:19 161.64.208.5    Dim for the results table:304	18
+ 
+2017-05-24 03:10:22 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168/w/
+ 
+2017-05-24 03:10:29 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187/w/
+ 
+2017-05-24 03:10:30 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292/w/
+ 
+2017-05-24 03:10:30 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199/w/
+ 
+2017-05-24 03:10:31 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199/w/
+ 
+2017-05-24 03:10:31 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199/w/
+ 
+2017-05-24 03:10:36 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199/w/
+ 
+2017-05-24 03:10:37 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269/w/
+ 
+2017-05-24 03:10:37 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:10:38 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:10:38 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:10:38 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:10:39 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:10:39 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:10:40 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:10:40 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:10:41 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:10:41 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:10:42 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:10:45 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:10:46 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:10:46 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:10:47 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:10:47 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:10:48 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:10:48 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:10:49 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:10:50 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:10:50 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:10:51 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:10:51 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:15:43 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:15:44 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_38292_46199_35269_8097/w/
+ 
+2017-05-24 03:15:45 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46187_46199_35269_8097_38292/w/
+ 
+2017-05-24 03:15:46 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46168_46199_46187_35269_8097_38292/w/
+ 
+2017-05-24 03:15:46 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46199_46187_35269_8097_46168_38292/w/
+ 
+2017-05-24 03:19:00 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46199_46187_35269_8097_46168_38292/w/
+ 
+2017-05-24 03:20:00 161.64.208.5    Check the URL:http://dc2.cistrome.org/api/batchview/h/46199_35269_8097_46168_46187_38292/w/
+ 
+2017-05-24 07:30:13     Dim for the results table:	
+ 
+2017-05-24 07:33:34     Dim for the results table:	
+ 
+2017-05-24 08:19:00     Dim for the results table:	
+ 
+2017-05-24 08:20:52 161.64.208.98    select chromosome,cds_from,cds_to  from CCDS_current_hg38 where gene='NKX2-5' 
+2017-05-24 08:20:52 161.64.208.98    select * from cistrome_metadata where bs1 = 'H1' and bs2 = 'Embryonic Stem Cell' and bs3 = 'Embryo' and type='TF' and species='human' 
+2017-05-24 08:20:52 161.64.208.98    select title,source_name_ch1,GSM  from  cistrome_GSM_metadata  
+2017-05-24 08:20:55 161.64.208.98     select * from cistrome_human_TF_chr5 where symbol='NKX2-5' 
+2017-05-24 08:20:55 161.64.208.98    Dim for the results table:191	18
+ 
+2017-05-24 08:22:29 161.64.208.98    Check the URL:http://dc2.cistrome.org/api/batchview/h/8809/w/
+ 
+2017-05-24 08:22:40 161.64.208.98    Check the URL:http://dc2.cistrome.org/api/batchview/h/8809_50988/w/
+ 
+2017-05-24 08:26:34 161.64.208.98    select chromosome,cds_from,cds_to  from CCDS_current_hg38 where gene='NANOG' 
+2017-05-24 08:26:34 161.64.208.98    select * from cistrome_metadata where bs1 = 'H1' and bs2 = 'Embryonic Stem Cell' and bs3 = 'Embryo' and type='TF' and species='human' 
+2017-05-24 08:26:35 161.64.208.98    select title,source_name_ch1,GSM  from  cistrome_GSM_metadata  
+2017-05-24 08:26:36 161.64.208.98     select * from cistrome_human_TF_chr12 where symbol='NANOG' 
+2017-05-24 08:26:36 161.64.208.98    Dim for the results table:121	18
+ 
+2017-05-24 08:26:36 161.64.208.98    Check the URL:http://dc2.cistrome.org/api/batchview/h/46184_46172/w/
+ 
+2017-05-25 03:35:02     Dim for the results table:	
+ 
+2017-05-25 03:35:17 161.64.208.8    select chromosome,cds_from,cds_to  from CCDS_current_hg38 where gene='VCX3A' 
+2017-05-25 03:35:17 161.64.208.8    select * from cistrome_metadata where species = 'human' and type='histone' 
+2017-05-25 03:35:17 161.64.208.8    select title,source_name_ch1,GSM  from  cistrome_GSM_metadata  
+2017-05-25 03:35:21 161.64.208.8     select * from cistrome_human_histone_chr_other where symbol='VCX3A' 
+2017-05-25 03:35:21 161.64.208.8    Dim for the results table:5992	18
+ 
+2017-05-25 06:24:02     Dim for the results table:	
+ 
+2017-05-25 06:24:20 161.64.208.8    select chromosome,cds_from,cds_to  from CCDS_current_hg38 where gene='VCX3A' 
+2017-05-25 06:24:20 161.64.208.8    select * from cistrome_metadata where species = 'human' and type='TF' 
+2017-05-25 06:24:20 161.64.208.8    select title,source_name_ch1,GSM  from  cistrome_GSM_metadata  
+2017-05-25 06:24:22 161.64.208.8     select * from cistrome_human_TF_chr_other where symbol='VCX3A' 
+2017-05-25 06:24:22 161.64.208.8    Dim for the results table:2966	18
+ 
+2017-05-25 06:24:51 161.64.208.8    select chromosome,cds_from,cds_to  from CCDS_current_hg38 where gene='VCX3A' 
+2017-05-25 06:24:51 161.64.208.8    select * from cistrome_metadata where bs1 = 'H1' and bs2 = 'Embryonic Stem Cell' and bs3 = 'Embryo' and type='histone' and species='human' 
+2017-05-25 06:24:51 161.64.208.8    select title,source_name_ch1,GSM  from  cistrome_GSM_metadata  
+2017-05-25 06:24:52 161.64.208.8     select * from cistrome_human_histone_chr_other where symbol='VCX3A' 
+2017-05-25 06:24:52 161.64.208.8    Dim for the results table:246	18
+ 
+2017-05-25 06:25:21 161.64.208.8    Check the URL:http://dc2.cistrome.org/api/batchview/h/6440/w/
+ 
+2017-05-25 06:25:22 161.64.208.8    Check the URL:http://dc2.cistrome.org/api/batchview/h/6440_6441/w/
+ 
+2017-05-25 06:25:48 161.64.208.8    select chromosome,cds_from,cds_to  from CCDS_current_hg38 where gene='VCX3A' 
+2017-05-25 06:25:48 161.64.208.8    select * from cistrome_metadata where species = 'human' and type='histone' 
+2017-05-25 06:25:48 161.64.208.8    select title,source_name_ch1,GSM  from  cistrome_GSM_metadata  
+2017-05-25 06:25:48 161.64.208.8     select * from cistrome_human_histone_chr_other where symbol='VCX3A' 
+2017-05-25 06:25:48 161.64.208.8    Dim for the results table:5992	18
+ 
+2017-05-25 06:25:49 161.64.208.8    Check the URL:http://dc2.cistrome.org/api/batchview/h/50905_43463/w/
+ 
+2017-05-25 06:26:56 161.64.208.8    Check the URL:http://dc2.cistrome.org/api/batchview/h/47893/w/
+ 
+2017-05-25 06:27:19 161.64.208.8    Check the URL:http://dc2.cistrome.org/api/batchview/h/47893_33871/w/
+ 
+2017-05-25 06:27:22 161.64.208.8    Check the URL:http://dc2.cistrome.org/api/batchview/h/47893_33871_47657/w/
+ 
+2017-05-25 06:27:39 161.64.208.8    Check the URL:http://dc2.cistrome.org/api/batchview/h/47893_33871_47657_57484/w/
+ 
+2017-05-25 06:27:47 161.64.208.8    Check the URL:http://dc2.cistrome.org/api/batchview/h/47893_33871_47657_57484_59510/w/
+ 
+2017-05-25 06:27:52 161.64.208.8    Check the URL:http://dc2.cistrome.org/api/batchview/h/47893_33871_47657_57484_59510_39190/w/
+ 
+2017-05-25 06:27:58 161.64.208.8    Check the URL:http://dc2.cistrome.org/api/batchview/h/47893_33871_47657_57484_59510_39190_59490/w/
+ 
+2017-05-25 06:28:08 161.64.208.8    Check the URL:http://dc2.cistrome.org/api/batchview/h/47893_33871_47657_57484_59510_39190_59490_1239/w/
+ 
+2017-05-25 06:28:41 161.64.208.8    Check the URL:http://dc2.cistrome.org/api/batchview/h/47893_33871_47657_57484_59510_39190_59490_1239_53572/w/
+ 
+2017-05-25 06:28:49 161.64.208.8    Check the URL:http://dc2.cistrome.org/api/batchview/h/47893_33871_47657_57484_59510_39190_59490_1239_53572_59501/w/
+ 
+2017-05-25 06:28:52 161.64.208.8    Check the URL:http://dc2.cistrome.org/api/batchview/h/47893_33871_47657_57484_59510_39190_59490_1239_53572_59501_52566/w/
+ 
+2017-05-25 06:29:03 161.64.208.8    Check the URL:http://dc2.cistrome.org/api/batchview/h/47893_33871_47657_57484_59510_39190_59490_1239_53572_59501_52566_42128/w/
+ 
+2017-05-26 01:56:13     Dim for the results table:	
+ 
+2017-05-26 06:42:08     Dim for the results table:	
+ 
+2017-05-26 07:08:34     Dim for the results table:	
+ 
+2017-05-28 14:06:21     Dim for the results table:	
+ 
+2017-05-29 00:42:02     Dim for the results table:	
+ 
+2017-05-29 01:17:11     Dim for the results table:	
+ 
+2017-05-29 01:17:28     Dim for the results table:	
+ 
+2017-05-29 05:59:59     Dim for the results table:	
+ 
+2017-05-29 09:31:46     Dim for the results table:	
+ 
+2017-05-31 00:16:37     Dim for the results table:	
+ 
+2017-06-01 02:33:05     Dim for the results table:	
+ 
+2017-06-01 07:33:55     Dim for the results table:	
+ 
+2017-06-01 07:35:01 161.64.208.213    select chromosome,cds_from,cds_to  from CCDS_current_hg38 where gene='CBX6' 
+2017-06-01 07:35:01 161.64.208.213    select * from cistrome_metadata where species = 'human' and type='TF' 
+2017-06-01 07:35:02 161.64.208.213    select title,source_name_ch1,GSM  from  cistrome_GSM_metadata  
+2017-06-01 07:35:02 161.64.208.213     select * from cistrome_human_TF_chr22 where symbol='CBX6' and feature_type=1 
+2017-06-01 07:35:03 161.64.208.213    Dim for the results table:1056	18
+ 
+2017-06-01 07:35:09 161.64.208.213    select chromosome,cds_from,cds_to  from CCDS_current_hg38 where gene='CBX6' 
+2017-06-01 07:35:09 161.64.208.213    select * from cistrome_metadata where species = 'human' and type='TF' 
+2017-06-01 07:35:09 161.64.208.213    select title,source_name_ch1,GSM  from  cistrome_GSM_metadata  
+2017-06-01 07:35:09 161.64.208.213     select * from cistrome_human_TF_chr22 where symbol='CBX6' and feature_type=1 
+2017-06-01 07:35:09 161.64.208.213    Dim for the results table:1056	18
+ 
+2017-06-01 07:35:23 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/3301/w/
+ 
+2017-06-01 07:35:28 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/3301_45192/w/
+ 
+2017-06-01 07:40:20 161.64.208.213    select chromosome,cds_from,cds_to  from CCDS_current_hg38 where gene='CBX6' 
+2017-06-01 07:40:20 161.64.208.213    select * from cistrome_metadata where species = 'human' and type='histone' 
+2017-06-01 07:40:20 161.64.208.213    select title,source_name_ch1,GSM  from  cistrome_GSM_metadata  
+2017-06-01 07:40:22 161.64.208.213     select * from cistrome_human_histone_chr22 where symbol='CBX6' and feature_type=1 
+2017-06-01 07:40:22 161.64.208.213    Dim for the results table:2336	18
+ 
+2017-06-01 07:40:22 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_932/w/
+ 
+2017-06-01 07:40:30 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245/w/
+ 
+2017-06-01 07:40:37 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_47676/w/
+ 
+2017-06-01 07:40:42 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_47676_8254/w/
+ 
+2017-06-01 07:46:20 161.64.208.213    select chromosome,cds_from,cds_to  from CCDS_current_hg38 where gene='CBX6' 
+2017-06-01 07:46:20 161.64.208.213    select * from cistrome_metadata where bs1 = 'MCF-7' and bs2 = 'Epithelium' and bs3 = 'Mammary Gland' and type='TF' and species='human' 
+2017-06-01 07:46:20 161.64.208.213    select title,source_name_ch1,GSM  from  cistrome_GSM_metadata  
+2017-06-01 07:46:20 161.64.208.213     select * from cistrome_human_TF_chr22 where symbol='CBX6' and feature_type=1 
+2017-06-01 07:46:20 161.64.208.213    Dim for the results table:29	18
+ 
+2017-06-01 07:46:20 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/45993_54643_47791/w/
+ 
+2017-06-01 07:47:06 161.64.208.213    select chromosome,cds_from,cds_to  from CCDS_current_hg38 where gene='CBX6' 
+2017-06-01 07:47:06 161.64.208.213    select * from cistrome_metadata where bs1 = 'MDA-231' and bs2 = 'Epithelium' and bs3 = 'Mammary Gland' and type='TF' and species='human' 
+2017-06-01 07:47:06 161.64.208.213    select title,source_name_ch1,GSM  from  cistrome_GSM_metadata  
+2017-06-01 07:47:06 161.64.208.213     select * from cistrome_human_TF_chr22 where symbol='CBX6' and feature_type=1 
+2017-06-01 07:47:06 161.64.208.213    Dim for the results table:	
+ 
+2017-06-01 07:47:17 161.64.208.213    select chromosome,cds_from,cds_to  from CCDS_current_hg38 where gene='CBX6' 
+2017-06-01 07:47:17 161.64.208.213    select * from cistrome_metadata where bs1 = 'T47D' and bs2 = 'Epithelium' and bs3 = 'Mammary Gland' and type='TF' and species='human' 
+2017-06-01 07:47:17 161.64.208.213    select title,source_name_ch1,GSM  from  cistrome_GSM_metadata  
+2017-06-01 07:47:17 161.64.208.213     select * from cistrome_human_TF_chr22 where symbol='CBX6' and feature_type=1 
+2017-06-01 07:47:17 161.64.208.213    Dim for the results table:11	18
+ 
+2017-06-01 07:47:33 161.64.208.213    select chromosome,cds_from,cds_to  from CCDS_current_hg38 where gene='CBX6' 
+2017-06-01 07:47:33 161.64.208.213    select * from cistrome_metadata where species = 'human' and type='TF' 
+2017-06-01 07:47:33 161.64.208.213    select title,source_name_ch1,GSM  from  cistrome_GSM_metadata  
+2017-06-01 07:47:33 161.64.208.213     select * from cistrome_human_TF_chr22 where symbol='CBX6' and feature_type=1 
+2017-06-01 07:47:33 161.64.208.213    Dim for the results table:1056	18
+ 
+2017-06-01 07:48:34 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/45192/w/
+ 
+2017-06-01 07:48:35 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/45192_45294/w/
+ 
+2017-06-01 07:48:36 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/45192_45294_45466/w/
+ 
+2017-06-01 07:48:36 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/45192_45294_45466_48762/w/
+ 
+2017-06-01 07:48:37 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/45192_45294_45466_48762_35655/w/
+ 
+2017-06-01 07:48:38 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/45192_45294_45466_48762_35655_41788/w/
+ 
+2017-06-01 07:48:38 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/45192_45294_45466_48762_35655_41788_48764/w/
+ 
+2017-06-01 07:48:39 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/45192_45294_45466_48762_35655_41788_48764_45490/w/
+ 
+2017-06-01 07:48:40 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/45192_45294_45466_48762_35655_41788_48764_45490_45370/w/
+ 
+2017-06-01 07:48:41 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/45192_45294_45466_48762_35655_41788_48764_45490_45370/w/
+ 
+2017-06-01 07:48:41 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/45192_45294_45466_48762_35655_41788_48764_45490_45370_35647/w/
+ 
+2017-06-01 07:48:42 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/45192_45294_45466_48762_35655_41788_48764_45490_45370_35647_48765/w/
+ 
+2017-06-01 07:48:43 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/45192_45294_45466_48762_35655_41788_48764_45490_45370_35647_48765_48763/w/
+ 
+2017-06-01 07:48:43 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/45192_45294_45466_48762_35655_41788_48764_45490_45370_35647_48765_48763/w/
+ 
+2017-06-01 07:48:44 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/45192_45294_45466_48762_35655_41788_48764_45490_45370_35647_48765_48763_45312/w/
+ 
+2017-06-01 07:48:45 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/45192_45294_45466_48762_35655_41788_48764_45490_45370_35647_48765_48763_45312_35636/w/
+ 
+2017-06-01 07:48:46 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/45192_45294_45466_48762_35655_41788_48764_45490_45370_35647_48765_48763_45312_35636_45229/w/
+ 
+2017-06-01 07:48:46 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/45192_45294_45466_48762_35655_41788_48764_45490_45370_35647_48765_48763_45312_35636_45229_41794/w/
+ 
+2017-06-01 07:48:47 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/45192_45294_45466_48762_35655_41788_48764_45490_45370_35647_48765_48763_45312_35636_45229_41794/w/
+ 
+2017-06-01 07:48:48 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/45192_45294_45466_48762_35655_41788_48764_45490_45370_35647_48765_48763_45312_35636_45229_41794/w/
+ 
+2017-06-01 07:55:09 161.64.208.213    select chromosome,cds_from,cds_to  from CCDS_current_hg38 where gene='CBX6' 
+2017-06-01 07:55:09 161.64.208.213    select * from cistrome_metadata where species = 'human' and type='histone' 
+2017-06-01 07:55:09 161.64.208.213    select title,source_name_ch1,GSM  from  cistrome_GSM_metadata  
+2017-06-01 07:55:09 161.64.208.213     select * from cistrome_human_histone_chr22 where symbol='CBX6' and feature_type=1 
+2017-06-01 07:55:09 161.64.208.213    Dim for the results table:2336	18
+ 
+2017-06-01 07:55:10 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/932_56934_49916_50348_57095_47163_39144_269_45148_9929_58374_6478_48989_3805_6633_38117_56479_6678_2335_38011/w/
+ 
+2017-06-01 07:55:16 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245/w/
+ 
+2017-06-01 07:55:56 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471/w/
+ 
+2017-06-01 07:57:04 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388/w/
+ 
+2017-06-01 07:57:05 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451/w/
+ 
+2017-06-01 07:57:06 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657/w/
+ 
+2017-06-01 07:57:06 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460/w/
+ 
+2017-06-01 07:57:07 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510/w/
+ 
+2017-06-01 07:57:07 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469/w/
+ 
+2017-06-01 07:57:15 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42128/w/
+ 
+2017-06-01 07:57:16 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42128_32830/w/
+ 
+2017-06-01 07:57:18 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42128_32830_58088/w/
+ 
+2017-06-01 07:57:19 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42128_32830_58088_50369/w/
+ 
+2017-06-01 07:57:20 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42128_32830_58088_50369_42418/w/
+ 
+2017-06-01 07:57:21 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42128_32830_58088_50369_42418_58072/w/
+ 
+2017-06-01 07:57:22 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42128_32830_58088_50369_42418_58072_59510/w/
+ 
+2017-06-01 07:57:23 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42128_32830_58088_50369_42418_58072_59510_39403/w/
+ 
+2017-06-01 07:57:23 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42128_32830_58088_50369_42418_58072_59510_39403_48752/w/
+ 
+2017-06-01 07:57:25 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42128_32830_58088_50369_42418_58072_59510_39403_48752_52392/w/
+ 
+2017-06-01 07:57:25 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42128_32830_58088_50369_42418_58072_59510_39403_48752_52392_42302/w/
+ 
+2017-06-01 07:57:26 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42128_32830_58088_50369_42418_58072_59510_39403_48752_52392_42302_59511/w/
+ 
+2017-06-01 07:57:28 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42128_32830_58088_50369_42418_58072_59510_39403_48752_52392_42302_59511_34305/w/
+ 
+2017-06-01 07:57:28 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42128_32830_58088_50369_42418_58072_59510_39403_48752_52392_42302_59511_34305_59490/w/
+ 
+2017-06-01 07:57:30 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42128_32830_58088_50369_42418_58072_59510_39403_48752_52392_42302_59511_34305_59490_52389/w/
+ 
+2017-06-01 07:57:30 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42128_32830_58088_50369_42418_58072_59510_39403_48752_52392_42302_59511_34305_59490_52389_59491/w/
+ 
+2017-06-01 07:57:32 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42128_32830_58088_50369_42418_58072_59510_39403_48752_52392_42302_59511_34305_59490_52389_59491_42509/w/
+ 
+2017-06-01 07:57:32 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42128_32830_58088_50369_42418_58072_59510_39403_48752_52392_42302_59511_34305_59490_52389_59491_42509_59501/w/
+ 
+2017-06-01 07:57:33 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42128_32830_58088_50369_42418_58072_59510_39403_48752_52392_42302_59511_34305_59490_52389_59491_42509_59501_48734/w/
+ 
+2017-06-01 07:57:35 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42128_32830_58088_50369_42418_58072_59510_39403_48752_52392_42302_59511_34305_59490_52389_59491_42509_59501_48734_48572/w/
+ 
+2017-06-01 07:57:36 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42128_32830_58088_50369_42418_58072_59510_39403_48752_52392_42302_59511_34305_59490_52389_59491_42509_59501_48734_48572_59488/w/
+ 
+2017-06-01 07:57:37 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42128_32830_58088_50369_42418_58072_59510_39403_48752_52392_42302_59511_34305_59490_52389_59491_42509_59501_48734_48572_59488_51796/w/
+ 
+2017-06-01 08:07:55 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_32830_58088_50369_42418_58072_59510_39403_48752_52392_42302_59511_34305_59490_52389_59491_42509_59501_48734_48572_59488_51796/w/
+ 
+2017-06-01 08:07:56 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_58088_50369_42418_58072_59510_39403_48752_52392_42302_59511_34305_59490_52389_59491_42509_59501_48734_48572_59488_51796/w/
+ 
+2017-06-01 08:07:57 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_50369_42418_58072_59510_39403_48752_52392_42302_59511_34305_59490_52389_59491_42509_59501_48734_48572_59488_51796/w/
+ 
+2017-06-01 08:08:00 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42418_58072_59510_39403_48752_52392_42302_59511_34305_59490_52389_59491_42509_59501_48734_48572_59488_51796/w/
+ 
+2017-06-01 08:08:01 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_58072_59510_39403_48752_52392_42302_59511_34305_59490_52389_59491_42509_59501_48734_48572_59488_51796/w/
+ 
+2017-06-01 08:08:02 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_59510_39403_48752_52392_42302_59511_34305_59490_52389_59491_42509_59501_48734_48572_59488_51796/w/
+ 
+2017-06-01 08:08:02 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_39403_48752_52392_42302_59511_34305_59490_52389_59491_42509_59501_48734_48572_59488_51796/w/
+ 
+2017-06-01 08:08:03 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_48752_52392_42302_59511_34305_59490_52389_59491_42509_59501_48734_48572_59488_51796/w/
+ 
+2017-06-01 08:08:04 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_52392_42302_59511_34305_59490_52389_59491_42509_59501_48734_48572_59488_51796/w/
+ 
+2017-06-01 08:08:05 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42302_59511_34305_59490_52389_59491_42509_59501_48734_48572_59488_51796/w/
+ 
+2017-06-01 08:08:06 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_59511_34305_59490_52389_59491_42509_59501_48734_48572_59488_51796/w/
+ 
+2017-06-01 08:08:07 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_34305_59490_52389_59491_42509_59501_48734_48572_59488_51796/w/
+ 
+2017-06-01 08:08:08 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_59490_52389_59491_42509_59501_48734_48572_59488_51796/w/
+ 
+2017-06-01 08:08:08 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_52389_59491_42509_59501_48734_48572_59488_51796/w/
+ 
+2017-06-01 08:08:09 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_59491_42509_59501_48734_48572_59488_51796/w/
+ 
+2017-06-01 08:08:10 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_42509_59501_48734_48572_59488_51796/w/
+ 
+2017-06-01 08:08:11 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_59501_48734_48572_59488_51796/w/
+ 
+2017-06-01 08:08:12 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_48734_48572_59488_51796/w/
+ 
+2017-06-01 08:08:13 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_48734_59488_51796/w/
+ 
+2017-06-01 08:08:14 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_59488_51796/w/
+ 
+2017-06-01 08:08:15 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_42469_51796/w/
+ 
+2017-06-01 08:08:28 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_42510_51796/w/
+ 
+2017-06-01 08:08:28 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_35460_51796/w/
+ 
+2017-06-01 08:08:29 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_47657_51796/w/
+ 
+2017-06-01 08:08:30 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_42451_51796/w/
+ 
+2017-06-01 08:08:31 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_42388_51796/w/
+ 
+2017-06-01 08:08:32 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_42471_51796/w/
+ 
+2017-06-01 08:08:34 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/8245_51796/w/
+ 
+2017-06-01 08:08:34 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/51796/w/
+ 
+2017-06-01 10:59:42     Dim for the results table:	
+ 
+2017-06-01 11:00:00 161.64.208.213    select chromosome,cds_from,cds_to  from CCDS_current_hg38 where gene='CBX4' 
+2017-06-01 11:00:00 161.64.208.213    select * from cistrome_metadata where species = 'human' and type='TF' 
+2017-06-01 11:00:00 161.64.208.213    select title,source_name_ch1,GSM  from  cistrome_GSM_metadata  
+2017-06-01 11:00:02 161.64.208.213     select * from cistrome_human_TF_chr17 where symbol='CBX4' and feature_type=1 
+2017-06-01 11:00:02 161.64.208.213    Dim for the results table:1594	18
+ 
+2017-06-01 11:00:18 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/h/45498/w/
+ 
+2017-06-01 11:04:30 161.64.208.213    select chromosome,cds_from,cds_to  from CCDS_current_mm10 where gene='Cbx4' 
+2017-06-01 11:04:30 161.64.208.213    select * from cistrome_metadata where species = 'mouse' and type='TF' 
+2017-06-01 11:04:30 161.64.208.213    select title,source_name_ch1,GSM  from  cistrome_GSM_metadata  
+2017-06-01 11:04:30 161.64.208.213     select * from cistrome_mouse_TF_chr11 where symbol='Cbx4' and feature_type=1 
+2017-06-01 11:04:31 161.64.208.213    Dim for the results table:719	18
+ 
+2017-06-01 11:04:31 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/m/44860/w/
+ 
+2017-06-01 11:04:40 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/m/44860/w/
+ 
+2017-06-01 11:09:04 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/m/44860_46465/w/
+ 
+2017-06-01 11:10:54 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/m/44860_46465_44062/w/
+ 
+2017-06-01 11:10:55 161.64.208.213    Check the URL:http://dc2.cistrome.org/api/batchview/m/44860_46465_44062_37601/w/
+ 
+2017-06-01 15:06:04     Dim for the results table:	
+ 
+2017-06-01 15:09:23 161.64.208.80    select chromosome,cds_from,cds_to  from CCDS_current_hg38 where gene='EZH2' 
+2017-06-01 15:09:23 161.64.208.80    select * from cistrome_metadata where bs1 = 'H1' and bs2 = 'Embryonic Stem Cell' and bs3 = 'Embryo' and type='TF' and species='human' 
+2017-06-01 15:09:23 161.64.208.80    select title,source_name_ch1,GSM  from  cistrome_GSM_metadata  
+2017-06-01 15:09:28 161.64.208.80     select * from cistrome_human_TF_chr7 where symbol='EZH2' 
+2017-06-01 15:09:28 161.64.208.80    Dim for the results table:184	18
+ 
+2017-06-02 01:36:15     Dim for the results table:	
+ 
+2017-06-02 01:54:54     Dim for the results table:	
+ 
+2017-06-02 01:56:15     Dim for the results table:	
+ 
+2017-06-05 02:20:47     Dim for the results table:	
+ 
