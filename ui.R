@@ -1,16 +1,3 @@
-suppressPackageStartupMessages(library(shiny))
-suppressPackageStartupMessages(library(shinydashboard))
-suppressPackageStartupMessages(library(stringr))
-suppressPackageStartupMessages(library(DT))
-suppressPackageStartupMessages(library(shinyBS))
-suppressPackageStartupMessages(library(ggplot2))
-suppressPackageStartupMessages(library(shinyAce))
-suppressPackageStartupMessages(library(knitr))
-suppressPackageStartupMessages(library(rmarkdown))
-suppressPackageStartupMessages(library(RMySQL))
-suppressPackageStartupMessages(library(shinyjs))
-suppressPackageStartupMessages(library(Sushi))
-#suppressPackageStartupMessages(library(plotly))
 
 header = dashboardHeader(title = "TFmapper"
                          ,titleWidth=150
@@ -58,7 +45,7 @@ page_Home<- fluidRow(
 
       selectizeInput('cellline', label = "Biological source",
                      choices = NULL,# width = 275,
-                     options = list(placeholder = "Please choose#",
+                     options = list(placeholder = "Search by “Cell Line”; “Tissue”; “Organ”_Example: MCF-7;Epithelium;Mammary Gland",
                                     maxOptions = 1000)
       )
   ),
@@ -153,8 +140,8 @@ page_statistics<- fluidRow(
       )
       ) ## end for fluidRow
     ),## end for box 
-  wellPanel(DT::dataTableOutput('stat_table')),
-  plotOutput('stat_figure',height = 1000)
+  wellPanel(DT::dataTableOutput('stat_table')) 
+  #plotOutput('stat_figure',height = 1000)
 )
 
 
@@ -162,7 +149,8 @@ page_statistics<- fluidRow(
 body = dashboardBody(
   shinyjs::useShinyjs(),
   includeScript("google-analytics.js"),
-  tags$style(type="text/css", ".content-wrapper { background-color: write;font-size: 20px; }"),
+  #tags$style(type="text/css", ".content-wrapper { background-color: write;font-size: 20px; }"),
+  
   bsAlert("alert1"), 
   tabItems(
     tabItem(tabName = 'Home' ,page_Home),
