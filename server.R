@@ -1,46 +1,6 @@
-suppressPackageStartupMessages(library(shiny))
-suppressPackageStartupMessages(library(shinydashboard))
-suppressPackageStartupMessages(library(stringr))
-suppressPackageStartupMessages(library(DT))
-suppressPackageStartupMessages(library(shinyBS))
-suppressPackageStartupMessages(library(ggplot2))
-suppressPackageStartupMessages(library(shinyAce))
-suppressPackageStartupMessages(library(knitr))
-suppressPackageStartupMessages(library(rmarkdown))
-suppressPackageStartupMessages(library(RMySQL))
-suppressPackageStartupMessages(library(shinyjs))
-suppressPackageStartupMessages(library(Sushi))
-#suppressPackageStartupMessages(library(plotly))
-
-
-suppressPackageStartupMessages(library(ggplot2))
-suppressPackageStartupMessages(library(cowplot))
-suppressPackageStartupMessages(library(dplyr))
-
 
 ## input values : species/database/input_gene/cellline/genomic_feature
 
-createLink <- function(base,val) {
-  sprintf('<a href="%s" class="btn btn-link" target="_blank" >%s</a>',base,val) ##target="_blank" 
-}
-
-log_cat <- function(info='hello world~',file='log.txt'){
-  cat(as.character(Sys.time()),info ,"\n",file=file,append=TRUE)
-}
-
-mysql_getData <- function(sql="select * from cistrome_metadata limit 10;"){
-  host <<- "127.0.0.1"
-  port <<- 3306
-  user <<- "root" 
-  password <<- ifelse(.Platform$OS.type == 'unix','ganglijimmy','11111111')
-  library(RMySQL)
-  con <- dbConnect(MySQL(), host=host, port=port, user=user, password=password) 
-  dbSendQuery(con, "USE TF_map") 
-  dat=dbGetQuery(con,sql ) 
-  dbDisconnect(con)
-  cat(as.character(Sys.time()),sql, file=stderr());cat("\n",file=stderr())
-  return(dat)
-}
 
 all_human_gene<<- mysql_getData("select distinct V7,gene_name from human_N_MRP_gene_info ;")
 cat(as.character(Sys.time()),"Search all of the human gene \n",file=stderr())
@@ -51,30 +11,6 @@ cat(dim(all_mouse_gene), file=stderr());cat("\n",file=stderr())
 
 colnames(all_human_gene)=c('symbols','geneNames')
 colnames(all_mouse_gene)=c('symbols','geneNames')
-
-tmp2bed <- function(tmp){
-  #tmp="chr1:523613,523636\nchr2:562316,562335"
-  tmp=strsplit(tmp,'\n')[[1]]
-  n_tmp=length(tmp)
-  if( grepl('[:,-]',tmp[1])){
-    tmp <- lapply(tmp, function(x){ 
-      return( strsplit(x,'[:,-]')[[1]] )
-    })
-  }else{
-    tmp <- lapply(tmp, function(x){ 
-      return( strsplit(x,'\\s+')[[1]] )
-    })
-  }
-  
-  tmp<- do.call(rbind.data.frame, tmp)
-  colnames(tmp)[1:3]=c('chrom','start','end')
-  tmp=tmp[,1:3]
-  tmp$chrom=as.character(tmp$chrom)
-  tmp$start=as.numeric(as.character(tmp$start))
-  tmp$end=as.numeric(as.character(tmp$end))
-  return(tmp)
-}
-
 
 
 shinyServer(
@@ -171,12 +107,16 @@ shinyServer(
       )
         
       library(RMySQL) 
-      cellline_info=mysql_getData( sql ) 
-      cellline_info=unique( apply(cellline_info,1,function(x) paste(x,collapse = ';')))
-      cellline_info=c( "ALL" ,cellline_info)
+      cellline_info=mysql_getData( sql )
+      cellline_info=unique(cellline_info)
+      
+      cellline_input=unique( apply(cellline_info,1,function(x) paste(x,collapse = ';')))
+      cellline_input=c( "ALL" ,unique(cellline_info[,2]),unique(cellline_info[,3]),cellline_input)
+      
+      
       updateSelectizeInput(
         session, inputId='cellline', label = "Biological source", server = TRUE, 
-        choices = cellline_info 
+        choices = cellline_input 
           )## end for updateSelectizeInput 
       
       }) ## end for observe 
@@ -220,6 +160,7 @@ shinyServer(
       updateTextInput(session, 'position', label = 'Please input a position', value = tmp)
     })
     
+    
     observeEvent(input$do, {
       reactiveValues.reset()
       glob_values$results=NULL
@@ -244,25 +185,36 @@ shinyServer(
       cellline=input$cellline
       genomic_feature=input$genomic_feature
        
-      
       ## secendly meta information 
       
       metadata_tab=paste0(input$database,'_metadata')
       cat( cellline , file=stderr());cat("\n",file=stderr())
       if(cellline != 'ALL'){
-        tmp=strsplit(cellline,';')[[1]]
         
-        meta_sql <<- paste0("select * from ",metadata_tab," where bs1 = ",shQuote(tmp[1])," and bs2 = ",shQuote(tmp[2])
-                            ," and bs3 = ",shQuote(tmp[3]),
-                   " and type=",shQuote(input$IP) ," and species=",shQuote(input$species) 
-        )
-       
+        if(  grepl(';',cellline)  ){
+          tmp=strsplit(cellline,';')[[1]]
+          
+          meta_sql <<- paste0("select * from ",metadata_tab," where bs1 = ",shQuote(tmp[1])," and bs2 = ",shQuote(tmp[2])
+                              ," and bs3 = ",shQuote(tmp[3]),
+                              " and type=",shQuote(input$IP) ," and species=",shQuote(input$species) 
+          )
+        }else{
+          meta_sql <<- paste0("select * from ",metadata_tab,
+                              " where bs2 = ",shQuote( cellline ) 
+                              ," or bs3 = ",shQuote( cellline ),
+                              " and type=",shQuote(input$IP) ," and species=",shQuote(input$species) 
+          )
+        }
+        
+        
       }else{
         meta_sql  <<-  paste0("select * from ",metadata_tab," where species = ",shQuote(input$species),
                               " and type=",shQuote(input$IP) )
       } 
       metadata <- mysql_getData(meta_sql)
       log_cat(paste0(IP(),"    ",meta_sql))
+      
+
       
       if(input$database=='cistrome'){
         gsm_sql=paste0("select title,source_name_ch1,GSM  from  cistrome_GSM_metadata ")
@@ -319,7 +271,7 @@ shinyServer(
             
           }else{
             createAlert(session, "alert_search_results_anchorId", "exampleAlert", title = "Oops",
-                        content = " very strange, cell-line didn't match~~~", append = FALSE)
+                        content = "we can't find results for this criteria", append = FALSE)
             glob_values$results=NULL
           }
           
@@ -485,8 +437,13 @@ shinyServer(
           , paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end) )
          
           #tmp1<-tmp1[, c('GSM','IP','Visualize','sequence','dis','score','attri','bs1','bs2','bs3')]
-          tmp1<-tmp1[, c('GSM','IP','Visualize','sequence','dis','score','attri','title','source_name_ch1')]
-          names(tmp1)=c('GSM','IP','Visualization','Sequence','Distance','Score','Attribute','Title','Source Name')
+          tmp1<-tmp1[, c('GSM','sampleID','IP','Visualize','sequence','dis','score','p','q','attri','title','source_name_ch1')]
+          tmp1$p=round(tmp1$p,2)
+          tmp1$q=round(tmp1$q,2)
+          tmp1$score=round(tmp1$score,2)
+          names(tmp1)=c('GSM','sampleID','IP','Visualization','Sequence','Distance','Score','-log10(p value)','-log10(q value)','Attribute','Title','Source Name')
+          tmp1$Attribute = as.factor(as.character(sapply(tmp1$Attribute,function(x) strsplit(x,'\\(')[[1]][1])))
+
           return(tmp1)
           
         }else{
@@ -508,8 +465,11 @@ shinyServer(
             paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end)
           )
           , paste0(tmp1$chrom,':',tmp1$start,',',tmp1$end) )
-          tmp1<-tmp1[, c('uniqID','sampleID','IP','Visualize','sequence','dis','score','attri','bs1','bs2','bs3')]
-          names(tmp1)=c('UniqID','SampleID','IP','Visualize','Sequence','Distance','Score','Attribute','Bs1','Bs2','Bs3')
+          tmp1<-tmp1[, c('uniqID','sampleID','IP','Visualize','sequence','dis','score','p','q','attri','bs1','bs2','bs3')]
+          names(tmp1)=c('UniqID','SampleID','IP','Visualize','Sequence','Distance','Score','-log10(p value)','-log10(q value)','Attribute','Bs1','Bs2','Bs3')
+          ## to change the intron (NM_006755, intron 4 of 7)', which just have 8 category 
+          tmp1$Attribute = as.factor(as.character(sapply(tmp1$Attribute,function(x) strsplit(x,'\\(')[[1]][1])))
+
           return(tmp1)
          
         }
@@ -526,7 +486,7 @@ shinyServer(
     , rownames= FALSE,extensions = c('Scroller'), options = list(  
       pageLength = 50, 
       lengthMenu = list(c(10, 50, 100,-1), c('10', '50','100', 'All')),
-     
+      columnDefs = list(list(className = 'dt-center', targets = 0 :8)),
       scrollX = TRUE,
       fixedHeader = TRUE,
       fixedColumns = TRUE ,
@@ -547,7 +507,7 @@ shinyServer(
         dat$IP <- factor( dat$IP,  levels=dat$IP )
         
        p <-  ggplot(dat, aes(x = IP, y = number , label = number,theme_set(theme_bw()) )) +
-          geom_bar(stat = "identity",fill='steelblue',color='red') +
+          geom_bar(stat = "identity",fill='steelblue',color='red') +ylab('Number of samples')+
           geom_text(size = 6,color='white', position = position_stack(vjust = 0.5))+
            theme_set(theme_set(theme_bw(base_size=20)))+
            theme(text=element_text(face='bold'),
@@ -745,58 +705,62 @@ if(F){
     )
     
     
-    output$stat_figure <- renderPlot({
-      metadata_tab=paste0(input$stat_database,'_metadata')
-      sql=paste0(" select * from ",metadata_tab," where species=",shQuote(input$stat_species)," and type=",shQuote(input$stat_IP))
-      dat <- mysql_getData(sql)
-      
-      tmp=sort(table(dat$bs1),decreasing = T);tmp=tmp[tmp>20] 
-    
-      dat1=data.frame(name=names(tmp),number= as.numeric(tmp),stringsAsFactors = F)
-      dat1$name <- factor( dat1$name,  levels=dat1$name )
-      dat1$type='cellline'
-      
-      tmp=sort(table(dat$IP),decreasing = T);tmp=tmp[tmp>10]
-      dat2=data.frame(name=names(tmp),number= as.numeric(tmp),stringsAsFactors = F)
-      dat2$name <- factor( dat2$name,  levels=dat2$name )
-      dat2$type='IP'
-      
-      get_a <- function(){
-        dat=dat1
-        p <- ggplot(dat, aes(x = name, y = number , label = number,theme_set(theme_bw()) )) +
-          geom_bar(stat = "identity",fill='steelblue') +
-          geom_text(size = 4,color='white', position = position_stack(vjust = 0.5))+coord_flip()+
-          theme_set(theme_set(theme_bw(base_size=20)))+
-          theme(text=element_text(face='bold'),
-                axis.text.x=element_text(angle=30,hjust=1,size =15),
-                plot.title = element_text(hjust = 0.5) ,
-                panel.grid = element_blank() 
-          )
-        return(p)
-      }
-      
-      get_b <- function(){
-        dat=dat2
-        p <- ggplot(dat, aes(x = name, y = number , label = number,theme_set(theme_bw()) )) +
-          geom_bar(stat = "identity",fill='steelblue') +
-          geom_text(size = 3,color='white', position = position_stack(vjust = 0.5))+coord_flip()+
-          theme_set(theme_set(theme_bw(base_size=10)))+
-          theme(text=element_text(face='bold'),
-                axis.text.x=element_text(angle=30,hjust=1,size =8),
-                plot.title = element_text(hjust = 0.5) ,
-                panel.grid = element_blank() 
-          )
-        return(p)
-      }
-      
-      first_row <- plot_grid(get_a(), ncol = 1, labels = c("cell-line" ))
-      second_row <- plot_grid(get_b(), ncol = 1, labels = c("IP"))
-      plot_grid(first_row, second_row, ncol = 2,nrow = 1)
-      
-    
-    })
-    
-    
+    # output$stat_figure <- renderPlot({
+    #   metadata_tab=paste0(input$stat_database,'_metadata')
+    #   sql=paste0(" select * from ",metadata_tab," where species=",shQuote(input$stat_species)," and type=",shQuote(input$stat_IP))
+    #   dat <- mysql_getData(sql)
+    #   
+    #   tmp=sort(table(dat$bs1),decreasing = T);tmp=tmp[tmp>20] 
+    # 
+    #   dat1=data.frame(name=names(tmp),number= as.numeric(tmp),stringsAsFactors = F)
+    #   dat1$name <- factor( dat1$name,  levels=dat1$name )
+    #   dat1$type='cellline'
+    #   
+    #   tmp=sort(table(dat$IP),decreasing = T);tmp=tmp[tmp>10]
+    #   dat2=data.frame(name=names(tmp),number= as.numeric(tmp),stringsAsFactors = F)
+    #   dat2$name <- factor( dat2$name,  levels=dat2$name )
+    #   dat2$type='IP'
+    #   
+    #   
+    #  
+    #   
+    #   get_a <- function(){
+    #     dat=dat1
+    #     p <- ggplot(dat, aes(x = name, y = number , label = number,theme_set(theme_bw()) )) +
+    #       geom_bar(stat = "identity",fill='steelblue')+ylab('Number of samples')+xlab('Cell Line')+
+    #       geom_text(size = 4,color='white', position = position_stack(vjust = 0.5))+coord_flip()+
+    #       theme_set(theme_set(theme_bw(base_size=20)))+
+    #       theme(text=element_text(face='bold'),
+    #             axis.text.x=element_text(angle=30,hjust=1,size =15),
+    #             plot.title = element_text(hjust = 0.5) ,
+    #             panel.grid = element_blank() 
+    #       )
+    #     return(p)
+    #   }
+    #   
+    #   get_b <- function(){
+    #     dat=dat2
+    #     p <- ggplot(dat, aes(x = name, y = number , label = number,theme_set(theme_bw()) )) +
+    #       geom_bar(stat = "identity",fill='steelblue') +ylab('Number of samples')+xlab('Factors/Marks')+
+    #       geom_text(size = 3,color='white', position = position_stack(vjust = 0.5))+coord_flip()+
+    #       theme_set(theme_set(theme_bw(base_size=10)))+
+    #       theme(text=element_text(face='bold'),
+    #             axis.text.x=element_text(angle=30,hjust=1,size =8),
+    #             plot.title = element_text(hjust = 0.5) ,
+    #             panel.grid = element_blank() 
+    #       )
+    #     return(p)
+    #   }
+    #   
+    #   first_row <- plot_grid(get_a(), ncol = 1, labels = c("cell-line" ))
+    #   second_row <- plot_grid(get_b(), ncol = 1, labels = c("IP"))
+    #   plot_grid(first_row, second_row, ncol = 2,nrow = 1)
+    #   
+    #   
+    #   
+    # })
+    # 
+    # 
     
 }) ## END FOR shinyServer
 
