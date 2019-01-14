@@ -17,11 +17,11 @@ createLink <- function(base,val) {
   sprintf('<a href="%s" class="btn btn-link" target="_blank" >%s</a>',base,val) ##target="_blank" 
 }
 
-host <<- "127.0.0.1"
+host <<- " "
 port <<- 3306
-user <<- "root"
+user <<- " "
 if( .Platform$OS.type == 'unix')
-password <<- ifelse(.Platform$OS.type == 'unix','ganglijimmy','11111111')
+password <<- ifelse(.Platform$OS.type == 'unix','1','2')
 
  
 

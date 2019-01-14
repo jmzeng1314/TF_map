@@ -1,0 +1,8 @@
+BiocManager::install(c('shiny','shinydashboard','stringr','DT','ggplot2'),ask = F,update = F)
+BiocManager::install('shinyBS',ask = F,update = F)
+BiocManager::install('shinyAce',ask = F,update = F)
+BiocManager::install(c('knitr','rmarkdown','rmarkdown','cowplot','dplyr'),ask = F,update = F)
+BiocManager::install('RMySQL',ask = F,update = F) 
+BiocManager::install(c('tm','SnowballC','wordcloud','RColorBrewer'),ask = F,update = F)
+BiocManager::install('nik01010/dashboardthemes')
+BiocManager::install('Sushi')

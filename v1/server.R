@@ -1,9 +1,5 @@
 library(shiny)
-library(shinydashboard)
-
-library('Sushi')
-
-
+library(shinydashboard) 
 library(DT)    
 library(shinyBS)
 library(GGally)
@@ -21,7 +17,7 @@ createLink <- function(base,val) {
 
 
 library(RMySQL)
-con <- dbConnect(MySQL(), host="127.0.0.1", port=3306, user="root", password="11111111") 
+con <- dbConnect(MySQL(), host="127.0.0.1", port=3306, user="qqqq", password="111") 
 dbSendQuery(con, "USE TF_map") 
 gene_mapping=dbGetQuery(con,"select symbols,geneNames  from gene_mapping")
 dbDisconnect(con)
