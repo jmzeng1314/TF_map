@@ -1,0 +1,391 @@
+2188	GSM353648	Homo sapiens	LNCaP	Epithelium	Prostate	ERG	2188_sort_peaks.narrowPeak.bed
+2659	GSM353650	Homo sapiens	RWPE1	Epithelium	Prostate	ERG	2659_sort_peaks.narrowPeak.bed
+2660	GSM353649	Homo sapiens	RWPE1	Epithelium	Prostate	ERG	2660_sort_peaks.narrowPeak.bed
+2916	GSM353647	Homo sapiens	VCaP	Epithelium	Prostate	ERG	2916_sort_peaks.narrowPeak.bed
+2917	GSM353639	Homo sapiens	VCaP	Epithelium	Prostate	ERG	2917_sort_peaks.narrowPeak.bed
+2918	GSM353637	Homo sapiens	VCaP	Epithelium	Prostate	ERG	2918_sort_peaks.narrowPeak.bed
+3245	GSM353652	Homo sapiens	None	Epithelium	Prostate	ERG	3245_sort_peaks.narrowPeak.bed
+5511	GSM857200	Homo sapiens	BCBL1	T Lymphocyte	Blood	LANA	5511_sort_peaks.narrowPeak.bed
+5513	GSM857202	Homo sapiens	BCBL1	T Lymphocyte	Blood	LANA	5513_sort_peaks.narrowPeak.bed
+5822	GSM837613	Homo sapiens	None	Myoblast	Muscle	DUX4	5822_sort_peaks.narrowPeak.bed
+5823	GSM837614	Homo sapiens	None	Myoblast	Muscle	DUX4	5823_sort_peaks.narrowPeak.bed
+5930	GSM738823	Homo sapiens	RWPE1	Epithelium	Prostate	ERG	5930_sort_peaks.narrowPeak.bed
+5982	GSM769220	Homo sapiens	HeLa	Epithelium	Cervix	SUPT20H	5982_sort_peaks.narrowPeak.bed
+5983	GSM769221	Homo sapiens	GM12878	Lymphoblastoid	Blood	SUPT20H	5983_sort_peaks.narrowPeak.bed
+8654	GSM717395	Homo sapiens	VCaP	Epithelium	Prostate	ERG	8654_sort_peaks.narrowPeak.bed
+8655	GSM717396	Homo sapiens	VCaP	Epithelium	Prostate	ERG	8655_sort_peaks.narrowPeak.bed
+8656	GSM717397	Homo sapiens	VCaP	Epithelium	Prostate	ERG	8656_sort_peaks.narrowPeak.bed
+32847	GSM820434	Homo sapiens	MDA-231	None	None	HOTAIR	32847_sort_peaks.narrowPeak.bed
+32848	GSM820430	Homo sapiens	HeLa	Epithelium	Cervix	TERC	32848_sort_peaks.narrowPeak.bed
+32849	GSM820439	Homo sapiens	MDA-231	None	None	HOTAIR	32849_sort_peaks.narrowPeak.bed
+32850	GSM820437	Homo sapiens	HeLa	Epithelium	Cervix	TERC	32850_sort_peaks.narrowPeak.bed
+32852	GSM820436	Homo sapiens	MDA-231	None	None	HOTAIR	32852_sort_peaks.narrowPeak.bed
+32853	GSM820431	Homo sapiens	HeLa	Epithelium	Cervix	TERC	32853_sort_peaks.narrowPeak.bed
+32854	GSM820433	Homo sapiens	MDA-231	None	None	HOTAIR	32854_sort_peaks.narrowPeak.bed
+32856	GSM820438	Homo sapiens	HeLa	Epithelium	Cervix	TERC	32856_sort_peaks.narrowPeak.bed
+32874	GSM925735	Homo sapiens	MCF7-LTED	Epithelium	Mammary Gland	FAIRE	32874_sort_peaks.narrowPeak.bed
+32875	GSM925736	Homo sapiens	MCF7-LTED	Epithelium	Mammary Gland	FAIRE	32875_sort_peaks.narrowPeak.bed
+32939	GSM927071	Homo sapiens	RWPE1	Epithelium	Prostate	ERG	32939_sort_peaks.narrowPeak.bed
+32941	GSM1191937	Homo sapiens	IMR90	Fibroblast	Lung	NUP98	32941_sort_peaks.narrowPeak.bed
+32944	GSM1191936	Homo sapiens	IMR90	Fibroblast	Lung	NUP98	32944_sort_peaks.narrowPeak.bed
+32946	GSM1191931	Homo sapiens	HUES6	Embryonic Stem Cell	Embryo	NUP98	32946_sort_peaks.narrowPeak.bed
+32947	GSM1191935	Homo sapiens	None	Neuron	None	NUP98	32947_sort_peaks.narrowPeak.bed
+32948	GSM1191933	Homo sapiens	None	Neural Progenitor Cell	None	NUP98	32948_sort_peaks.narrowPeak.bed
+32984	GSM602298	Homo sapiens	H9	Embryonic Stem Cell	Embryo	FAIRE	32984_sort_peaks.narrowPeak.bed
+33458	GSM585608	Homo sapiens	None	Hematopoietic Cell	None	ERG	33458_sort_peaks.narrowPeak.bed
+33459	GSM585604	Homo sapiens	None	Hematopoietic Cell	None	ERG	33459_sort_peaks.narrowPeak.bed
+33594	GSM748524	Homo sapiens	NHEK	Keratinocyte	Skin	FAIRE	33594_sort_peaks.narrowPeak.bed
+33595	GSM748510	Homo sapiens	GM12878	Lymphoblastoid	Blood	FAIRE	33595_sort_peaks.narrowPeak.bed
+33597	GSM748523	Homo sapiens	K562	Erythroblast	Bone Marrow	FAIRE	33597_sort_peaks.narrowPeak.bed
+33598	GSM748514	Homo sapiens	H1	Embryonic Stem Cell	Embryo	FAIRE	33598_sort_peaks.narrowPeak.bed
+33599	GSM748515	Homo sapiens	None	Epithelium	Cervix	FAIRE	33599_sort_peaks.narrowPeak.bed
+33600	GSM748512	Homo sapiens	GM12878	Lymphoblastoid	Blood	FAIRE	33600_sort_peaks.narrowPeak.bed
+33601	GSM748513	Homo sapiens	H1	Embryonic Stem Cell	Embryo	FAIRE	33601_sort_peaks.narrowPeak.bed
+33602	GSM748519	Homo sapiens	HepG2	Epithelium	Liver	FAIRE	33602_sort_peaks.narrowPeak.bed
+33604	GSM748525	Homo sapiens	NHEK	Keratinocyte	Skin	FAIRE	33604_sort_peaks.narrowPeak.bed
+33605	GSM748518	Homo sapiens	HepG2	Epithelium	Liver	FAIRE	33605_sort_peaks.narrowPeak.bed
+33606	GSM748516	Homo sapiens	None	Epithelium	Cervix	FAIRE	33606_sort_peaks.narrowPeak.bed
+33607	GSM748511	Homo sapiens	GM12878	Lymphoblastoid	Blood	FAIRE	33607_sort_peaks.narrowPeak.bed
+33608	GSM748522	Homo sapiens	K562	Erythroblast	Bone Marrow	FAIRE	33608_sort_peaks.narrowPeak.bed
+33609	GSM748517	Homo sapiens	HepG2	Epithelium	Liver	FAIRE	33609_sort_peaks.narrowPeak.bed
+33610	GSM748520	Homo sapiens	None	Endothelial Cell	Umbilical Vein	FAIRE	33610_sort_peaks.narrowPeak.bed
+33611	GSM748521	Homo sapiens	None	Endothelial Cell	Umbilical Vein	FAIRE	33611_sort_peaks.narrowPeak.bed
+34001	GSM897578	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	OGT	34001_sort_peaks.narrowPeak.bed
+34353	GSM1012768	Homo sapiens	HeLa	Epithelium	Cervix	SUMO1	34353_sort_peaks.narrowPeak.bed
+34354	GSM1012775	Homo sapiens	HeLa	Epithelium	Cervix	SUMO1	34354_sort_peaks.narrowPeak.bed
+34355	GSM1012767	Homo sapiens	HeLa	Epithelium	Cervix	SUMO1	34355_sort_peaks.narrowPeak.bed
+34356	GSM1012764	Homo sapiens	HeLa	Epithelium	Cervix	SUMO1	34356_sort_peaks.narrowPeak.bed
+34357	GSM1012759	Homo sapiens	HeLa	Epithelium	Cervix	SUMO1	34357_sort_peaks.narrowPeak.bed
+34361	GSM1012763	Homo sapiens	HeLa	Epithelium	Cervix	SUMO1	34361_sort_peaks.narrowPeak.bed
+34364	GSM1012769	Homo sapiens	HeLa	Epithelium	Cervix	SUMO1	34364_sort_peaks.narrowPeak.bed
+34365	GSM1012771	Homo sapiens	HeLa	Epithelium	Cervix	SUMO1	34365_sort_peaks.narrowPeak.bed
+34366	GSM1012773	Homo sapiens	HeLa	Epithelium	Cervix	SUMO1	34366_sort_peaks.narrowPeak.bed
+34368	GSM1012762	Homo sapiens	HeLa	Epithelium	Cervix	SUMO1	34368_sort_peaks.narrowPeak.bed
+34369	GSM1012766	Homo sapiens	HeLa	Epithelium	Cervix	SUMO1	34369_sort_peaks.narrowPeak.bed
+34370	GSM1012765	Homo sapiens	HeLa	Epithelium	Cervix	SUMO1	34370_sort_peaks.narrowPeak.bed
+34371	GSM1012760	Homo sapiens	HeLa	Epithelium	Cervix	SUMO1	34371_sort_peaks.narrowPeak.bed
+34372	GSM1012772	Homo sapiens	HeLa	Epithelium	Cervix	SUMO1	34372_sort_peaks.narrowPeak.bed
+34373	GSM1012761	Homo sapiens	HeLa	Epithelium	Cervix	SUMO1	34373_sort_peaks.narrowPeak.bed
+34374	GSM1012770	Homo sapiens	HeLa	Epithelium	Cervix	SUMO1	34374_sort_peaks.narrowPeak.bed
+34479	GSM744581	Homo sapiens	None	Keratinocyte	Foreskin	NFKBIA	34479_sort_peaks.narrowPeak.bed
+35284	GSM922794	Homo sapiens	HeLa-S3	Epithelium	Cervix	BRDU	35284_sort_peaks.narrowPeak.bed
+35287	GSM922795	Homo sapiens	HeLa-S3	Epithelium	Cervix	BRDU	35287_sort_peaks.narrowPeak.bed
+35289	GSM922793	Homo sapiens	HeLa-S3	Epithelium	Cervix	BRDU	35289_sort_peaks.narrowPeak.bed
+35290	GSM922796	Homo sapiens	HeLa-S3	Epithelium	Cervix	BRDU	35290_sort_peaks.narrowPeak.bed
+35291	GSM922792	Homo sapiens	HeLa-S3	Epithelium	Cervix	BRDU	35291_sort_peaks.narrowPeak.bed
+35293	GSM922797	Homo sapiens	HeLa-S3	Epithelium	Cervix	BRDU	35293_sort_peaks.narrowPeak.bed
+35295	GSM922798	Homo sapiens	HeLa-S3	Epithelium	Cervix	BRDU	35295_sort_peaks.narrowPeak.bed
+35296	GSM922790	Homo sapiens	HeLa-S3	Epithelium	Cervix	ORC1	35296_sort_peaks.narrowPeak.bed
+35298	GSM585590	Homo sapiens	SKNO-1	Myeloblast	Bone Marrow	ERG	35298_sort_peaks.narrowPeak.bed
+35302	GSM585593	Homo sapiens	None	Hematopoietic Cell	None	ERG	35302_sort_peaks.narrowPeak.bed
+35312	GSM1026917	Homo sapiens	None	None	Pancreatic Islet	FAIRE	35312_sort_peaks.narrowPeak.bed
+35558	GSM1104362	Homo sapiens	HeLa-S3	Epithelium	Cervix	SFMBT1	35558_sort_peaks.narrowPeak.bed
+35559	GSM1104357	Homo sapiens	HeLa-S3	Epithelium	Cervix	SFMBT1	35559_sort_peaks.narrowPeak.bed
+35569	GSM1104351	Homo sapiens	HeLa-S3	Epithelium	Cervix	SFMBT1	35569_sort_peaks.narrowPeak.bed
+35627	GSM714810	Homo sapiens	None	Neural crest cell	Cranial	FAIRE	35627_sort_peaks.narrowPeak.bed
+35694	GSM1035434	Homo sapiens	WI-38	Fibroblast	Lung	SUMO1	35694_sort_peaks.narrowPeak.bed
+35700	GSM1035424	Homo sapiens	WI-38	Fibroblast	Lung	SUMO1	35700_sort_peaks.narrowPeak.bed
+35703	GSM1035436	Homo sapiens	WI-38	Fibroblast	Lung	UBE2I	35703_sort_peaks.narrowPeak.bed
+35704	GSM1035426	Homo sapiens	WI-38	Fibroblast	Lung	SUMO2	35704_sort_peaks.narrowPeak.bed
+35708	GSM1035441	Homo sapiens	WI-38	Fibroblast	Lung	PIAS4	35708_sort_peaks.narrowPeak.bed
+35715	GSM1035442	Homo sapiens	WI-38	Fibroblast	Lung	PIAS4	35715_sort_peaks.narrowPeak.bed
+35717	GSM1035427	Homo sapiens	WI-38	Fibroblast	Lung	UBE2I	35717_sort_peaks.narrowPeak.bed
+35719	GSM1035433	Homo sapiens	WI-38	Fibroblast	Lung	SUMO1	35719_sort_peaks.narrowPeak.bed
+35724	GSM1035425	Homo sapiens	WI-38	Fibroblast	Lung	SUMO1	35724_sort_peaks.narrowPeak.bed
+35725	GSM1035435	Homo sapiens	WI-38	Fibroblast	Lung	SUMO2	35725_sort_peaks.narrowPeak.bed
+35738	GSM631504	Homo sapiens	MCF-7	Epithelium	Mammary Gland	FAIRE	35738_sort_peaks.narrowPeak.bed
+35739	GSM631503	Homo sapiens	MCF-7	Epithelium	Mammary Gland	FAIRE	35739_sort_peaks.narrowPeak.bed
+35740	GSM631501	Homo sapiens	MCF-7	Epithelium	Mammary Gland	FAIRE	35740_sort_peaks.narrowPeak.bed
+35741	GSM631502	Homo sapiens	MCF-7	Epithelium	Mammary Gland	FAIRE	35741_sort_peaks.narrowPeak.bed
+36031	GSM1095931	Homo sapiens	None	Epithelium	Cervix	FAIRE	36031_sort_peaks.narrowPeak.bed
+36246	GSM1097879	Homo sapiens	None	Haematopoietic Progenitor Cell	Blood	ERG	36246_sort_peaks.narrowPeak.bed
+36349	GSM874638	Homo sapiens	A549	Epithelium	Lung	PTPN11	36349_sort_peaks.narrowPeak.bed
+36350	GSM874637	Homo sapiens	A549	Epithelium	Lung	PTPN11	36350_sort_peaks.narrowPeak.bed
+36839	GSM929903	Homo sapiens	K562	Erythroblast	Bone Marrow	FAIRE	36839_sort_peaks.narrowPeak.bed
+37580	GSM1122847	Homo sapiens	None	Epithelium	Mammary Gland	FAIRE	37580_sort_peaks.narrowPeak.bed
+37583	GSM1122314	Homo sapiens	ME-1	Leukemia Cell	None	ERG	37583_sort_peaks.narrowPeak.bed
+37605	GSM1122848	Homo sapiens	None	Epithelium	Mammary Gland	FAIRE	37605_sort_peaks.narrowPeak.bed
+37633	GSM726982	Homo sapiens	MCF-7	Epithelium	Mammary Gland	ERG	37633_sort_peaks.narrowPeak.bed
+37635	GSM726984	Homo sapiens	K562	Erythroblast	Bone Marrow	ERG	37635_sort_peaks.narrowPeak.bed
+37639	GSM726985	Homo sapiens	K562	Erythroblast	Bone Marrow	ERG	37639_sort_peaks.narrowPeak.bed
+37718	GSM970829	Homo sapiens	BCBL1	T Lymphocyte	Blood	LANA	37718_sort_peaks.narrowPeak.bed
+37767	GSM1186140	Homo sapiens	K562	Erythroblast	Bone Marrow	TALE	37767_sort_peaks.narrowPeak.bed
+37768	GSM1186139	Homo sapiens	K562	Erythroblast	Bone Marrow	TALE	37768_sort_peaks.narrowPeak.bed
+38174	GSM1153766	Homo sapiens	Mutu III	B Lymphocyte	None	EBNA3	38174_sort_peaks.narrowPeak.bed
+38483	GSM491291	Homo sapiens	None	None	Pancreatic Islet	FAIRE	38483_sort_peaks.narrowPeak.bed
+38484	GSM491290	Homo sapiens	None	None	Pancreatic Islet	FAIRE	38484_sort_peaks.narrowPeak.bed
+38485	GSM491292	Homo sapiens	None	None	Pancreatic Islet	FAIRE	38485_sort_peaks.narrowPeak.bed
+38659	GSM1208735	Homo sapiens	LoVo	Epithelium	Colon	ERG	38659_sort_peaks.narrowPeak.bed
+39008	GSM1038474	Homo sapiens	A549	Epithelium	Lung	H3Pan	39008_sort_peaks.narrowPeak.bed
+39911	GSM1037510	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	OGT	39911_sort_peaks.narrowPeak.bed
+39914	GSM1162754	Homo sapiens	HCT-116	Epithelium	Colon	ICE1	39914_sort_peaks.narrowPeak.bed
+39919	GSM1162747	Homo sapiens	HCT-116	Epithelium	Colon	ICE1	39919_sort_peaks.narrowPeak.bed
+39920	GSM1162751	Homo sapiens	HCT-116	Epithelium	Colon	ICE1	39920_sort_peaks.narrowPeak.bed
+39924	GSM1162748	Homo sapiens	HCT-116	Epithelium	Colon	ICE2	39924_sort_peaks.narrowPeak.bed
+41740	GSM1176704	Homo sapiens	HEK293	Epithelium	Embryonic Kidney	SUMO2	41740_sort_peaks.narrowPeak.bed
+41741	GSM1176705	Homo sapiens	HEK293	Epithelium	Embryonic Kidney	SUMO2	41741_sort_peaks.narrowPeak.bed
+41742	GSM1176706	Homo sapiens	HEK293	Epithelium	Embryonic Kidney	SUMO2	41742_sort_peaks.narrowPeak.bed
+41743	GSM1176707	Homo sapiens	HEK293	Epithelium	Embryonic Kidney	SUMO2	41743_sort_peaks.narrowPeak.bed
+43084	GSM1249900	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	7SK	43084_sort_peaks.narrowPeak.bed
+43085	GSM1249901	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	7SK	43085_sort_peaks.narrowPeak.bed
+43086	GSM1249902	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	7SK	43086_sort_peaks.narrowPeak.bed
+43087	GSM1249903	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	7SK	43087_sort_peaks.narrowPeak.bed
+43088	GSM1249904	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	7SK	43088_sort_peaks.narrowPeak.bed
+43363	GSM1273052	Homo sapiens	None	B Lymphocyte	None	EBNA3C	43363_sort_peaks.narrowPeak.bed
+43364	GSM1273053	Homo sapiens	None	B Lymphocyte	None	EBNA3C	43364_sort_peaks.narrowPeak.bed
+44026	GSM995943	Homo sapiens	PC-3	Epithelium	Prostate	AGO1	44026_sort_peaks.narrowPeak.bed
+44027	GSM995944	Homo sapiens	PC-3	Epithelium	Prostate	AGO2	44027_sort_peaks.narrowPeak.bed
+44603	GSM1328978	Homo sapiens	VCaP	Epithelium	Prostate	ERG	44603_sort_peaks.narrowPeak.bed
+44604	GSM1328979	Homo sapiens	VCaP	Epithelium	Prostate	ERG	44604_sort_peaks.narrowPeak.bed
+44605	GSM1328980	Homo sapiens	VCaP	Epithelium	Prostate	ERG	44605_sort_peaks.narrowPeak.bed
+44606	GSM1328981	Homo sapiens	VCaP	Epithelium	Prostate	ERG	44606_sort_peaks.narrowPeak.bed
+44686	GSM1359483	Homo sapiens	iSLK-219	Epithelium	Kidney	LANA	44686_sort_peaks.narrowPeak.bed
+44687	GSM1359484	Homo sapiens	iSLK-219	Epithelium	Kidney	LANA	44687_sort_peaks.narrowPeak.bed
+44688	GSM1359485	Homo sapiens	iSLK-219	Epithelium	Kidney	LANA	44688_sort_peaks.narrowPeak.bed
+44689	GSM1359486	Homo sapiens	iSLK-219	Epithelium	Kidney	LANA	44689_sort_peaks.narrowPeak.bed
+44690	GSM1359487	Homo sapiens	iSLK-219	Epithelium	Kidney	LANA	44690_sort_peaks.narrowPeak.bed
+44691	GSM1359488	Homo sapiens	iSLK-219	Epithelium	Kidney	LANA	44691_sort_peaks.narrowPeak.bed
+44692	GSM1359489	Homo sapiens	iSLK-219	Epithelium	Kidney	LANA	44692_sort_peaks.narrowPeak.bed
+44693	GSM1359490	Homo sapiens	iSLK-219	Epithelium	Kidney	LANA	44693_sort_peaks.narrowPeak.bed
+44694	GSM1359491	Homo sapiens	None	Endothelial Cell	None	LANA	44694_sort_peaks.narrowPeak.bed
+44695	GSM1359492	Homo sapiens	None	Endothelial Cell	None	LANA	44695_sort_peaks.narrowPeak.bed
+44696	GSM1359493	Homo sapiens	None	Endothelial Cell	None	LANA	44696_sort_peaks.narrowPeak.bed
+44697	GSM1359494	Homo sapiens	None	Endothelial Cell	None	LANA	44697_sort_peaks.narrowPeak.bed
+44698	GSM1359495	Homo sapiens	BEC	Endothelial Cell	Blood	LANA	44698_sort_peaks.narrowPeak.bed
+44699	GSM1359496	Homo sapiens	BEC	Endothelial Cell	Blood	LANA	44699_sort_peaks.narrowPeak.bed
+44700	GSM1359497	Homo sapiens	BJAB	B Lymphocyte	None	LANA	44700_sort_peaks.narrowPeak.bed
+44701	GSM1359498	Homo sapiens	BJAB	B Lymphocyte	None	LANA	44701_sort_peaks.narrowPeak.bed
+44703	GSM1359500	Homo sapiens	BCBL1	B Lymphocyte	None	LANA	44703_sort_peaks.narrowPeak.bed
+44704	GSM1359501	Homo sapiens	BCBL1	B Lymphocyte	None	LANA	44704_sort_peaks.narrowPeak.bed
+44874	GSM992935	Homo sapiens	None	Erythroid Cell	None	5HMC	44874_sort_peaks.narrowPeak.bed
+44875	GSM992936	Homo sapiens	None	Erythroid Cell	None	5HMC	44875_sort_peaks.narrowPeak.bed
+44876	GSM992937	Homo sapiens	None	Erythroid Cell	None	5HMC	44876_sort_peaks.narrowPeak.bed
+44877	GSM992938	Homo sapiens	None	Erythroid Cell	None	5HMC	44877_sort_peaks.narrowPeak.bed
+45637	GSM935417	Homo sapiens	GM12878	Lymphoblastoid	Blood	SUPT20H	45637_sort_peaks.narrowPeak.bed
+45773	GSM935615	Homo sapiens	HeLa-S3	Epithelium	Cervix	SUPT20H	45773_sort_peaks.narrowPeak.bed
+45803	GSM935620	Homo sapiens	HepG2	Epithelium	Liver	GRP20	45803_sort_peaks.narrowPeak.bed
+45891	GSM1003610	Homo sapiens	K562	Erythroblast	Bone Marrow	ZC3H11A	45891_sort_peaks.narrowPeak.bed
+47407	GSM1193656	Homo sapiens	VCaP	Epithelium	Prostate	ERG	47407_sort_peaks.narrowPeak.bed
+47408	GSM1193657	Homo sapiens	VCaP	Epithelium	Prostate	ERG	47408_sort_peaks.narrowPeak.bed
+47409	GSM1193658	Homo sapiens	VCaP	Epithelium	Prostate	ERG	47409_sort_peaks.narrowPeak.bed
+47415	GSM1193664	Homo sapiens	Jurkat	T Lymphocyte	Blood	ERG	47415_sort_peaks.narrowPeak.bed
+47416	GSM1193665	Homo sapiens	Jurkat	T Lymphocyte	Blood	ERG	47416_sort_peaks.narrowPeak.bed
+47735	GSM1265869	Homo sapiens	BCBL1	T Lymphocyte	Blood	LANA	47735_sort_peaks.narrowPeak.bed
+47736	GSM1265870	Homo sapiens	BCBL1	T Lymphocyte	Blood	LANA	47736_sort_peaks.narrowPeak.bed
+47737	GSM1265871	Homo sapiens	TIVE-LTC	T Lymphocyte	Blood	LANA	47737_sort_peaks.narrowPeak.bed
+47738	GSM1265872	Homo sapiens	TIVE-LTC	T Lymphocyte	Blood	LANA	47738_sort_peaks.narrowPeak.bed
+47739	GSM1265873	Homo sapiens	TIVE-LTC	T Lymphocyte	Blood	LANA	47739_sort_peaks.narrowPeak.bed
+48353	GSM1340089	Homo sapiens	None	Fibroblast	None	PRKDC	48353_sort_peaks.narrowPeak.bed
+48354	GSM1340090	Homo sapiens	None	Fibroblast	None	PRKDC	48354_sort_peaks.narrowPeak.bed
+48594	GSM1369944	Homo sapiens	MCF-7	Epithelium	Mammary Gland	AGO1	48594_sort_peaks.narrowPeak.bed
+48601	GSM1369951	Homo sapiens	None	Epithelium	None	AGO1	48601_sort_peaks.narrowPeak.bed
+48608	GSM1369958	Homo sapiens	MCF-7	Epithelium	Mammary Gland	AGO1	48608_sort_peaks.narrowPeak.bed
+48609	GSM1369959	Homo sapiens	None	Epithelium	None	AGO1	48609_sort_peaks.narrowPeak.bed
+48610	GSM1369960	Homo sapiens	MCF-7	Epithelium	Mammary Gland	AGO1	48610_sort_peaks.narrowPeak.bed
+48611	GSM1369961	Homo sapiens	None	Epithelium	None	AGO1	48611_sort_peaks.narrowPeak.bed
+48692	GSM1375207	Homo sapiens	None	Spermatid	None	H3F3B	48692_sort_peaks.narrowPeak.bed
+49009	GSM1405102	Homo sapiens	HeLa	Epithelium	Cervix	CPSF3L	49009_sort_peaks.narrowPeak.bed
+49010	GSM1405103	Homo sapiens	HeLa	Epithelium	Cervix	CPSF3L	49010_sort_peaks.narrowPeak.bed
+49011	GSM1405104	Homo sapiens	HeLa	Epithelium	Cervix	CPSF3L	49011_sort_peaks.narrowPeak.bed
+49012	GSM1405105	Homo sapiens	HeLa	Epithelium	Cervix	CPSF3L	49012_sort_peaks.narrowPeak.bed
+49021	GSM1405118	Homo sapiens	HeLa	Epithelium	Cervix	CPSF3L	49021_sort_peaks.narrowPeak.bed
+49022	GSM1405119	Homo sapiens	HeLa	Epithelium	Cervix	CPSF3L	49022_sort_peaks.narrowPeak.bed
+49156	GSM1411619	Homo sapiens	HeLa	Epithelium	Cervix	COIL	49156_sort_peaks.narrowPeak.bed
+49180	GSM1414506	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	EGFA-T1	49180_sort_peaks.narrowPeak.bed
+49181	GSM1414507	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	EGFA-T1	49181_sort_peaks.narrowPeak.bed
+49184	GSM1414510	Homo sapiens	HeLa	Epithelium	Cervix	EGFA-T1	49184_sort_peaks.narrowPeak.bed
+49193	GSM1415123	Homo sapiens	LNCaP	Epithelium	Prostate	CSNK2A1	49193_sort_peaks.narrowPeak.bed
+49225	GSM1422482	Homo sapiens	VCaP	Epithelium	Prostate	ERG	49225_sort_peaks.narrowPeak.bed
+49226	GSM1422483	Homo sapiens	VCaP	Epithelium	Prostate	ERG	49226_sort_peaks.narrowPeak.bed
+49448	GSM1462477	Homo sapiens	T47D	Epithelium	Mammary Gland	EGLN2	49448_sort_peaks.narrowPeak.bed
+49459	GSM1462955	Homo sapiens	MCF-7	Epithelium	Mammary Gland	552-SKD	49459_sort_peaks.narrowPeak.bed
+49460	GSM1462956	Homo sapiens	MCF-7	Epithelium	Mammary Gland	552-SKD	49460_sort_peaks.narrowPeak.bed
+49461	GSM1462957	Homo sapiens	MCF-7	Epithelium	Mammary Gland	598-SKD	49461_sort_peaks.narrowPeak.bed
+49462	GSM1462958	Homo sapiens	MCF-7	Epithelium	Mammary Gland	598-SKD	49462_sort_peaks.narrowPeak.bed
+49463	GSM1462959	Homo sapiens	MCF-7	Epithelium	Mammary Gland	552-SKD	49463_sort_peaks.narrowPeak.bed
+49464	GSM1462960	Homo sapiens	MCF-7	Epithelium	Mammary Gland	552-SKD	49464_sort_peaks.narrowPeak.bed
+49465	GSM1462961	Homo sapiens	MCF-7	Epithelium	Mammary Gland	552-SKD	49465_sort_peaks.narrowPeak.bed
+49466	GSM1462962	Homo sapiens	MCF-7	Epithelium	Mammary Gland	598-SKD	49466_sort_peaks.narrowPeak.bed
+49467	GSM1462963	Homo sapiens	MCF-7	Epithelium	Mammary Gland	598-SKD	49467_sort_peaks.narrowPeak.bed
+49468	GSM1462964	Homo sapiens	MCF-7	Epithelium	Mammary Gland	598-SKD	49468_sort_peaks.narrowPeak.bed
+49481	GSM1463920	Homo sapiens	None	Retinal pigment cell	None	RPE	49481_sort_peaks.narrowPeak.bed
+49633	GSM1470001	Homo sapiens	MCF-7	Epithelium	Mammary Gland	PRKDC	49633_sort_peaks.narrowPeak.bed
+49634	GSM1470002	Homo sapiens	MCF-7	Epithelium	Mammary Gland	PRKDC	49634_sort_peaks.narrowPeak.bed
+49635	GSM1470003	Homo sapiens	MCF-7	Epithelium	Mammary Gland	PRKDC	49635_sort_peaks.narrowPeak.bed
+49636	GSM1470004	Homo sapiens	MCF-7	Epithelium	Mammary Gland	PRKDC	49636_sort_peaks.narrowPeak.bed
+49637	GSM1470005	Homo sapiens	MCF-7	Epithelium	Mammary Gland	PRKDC	49637_sort_peaks.narrowPeak.bed
+49638	GSM1470006	Homo sapiens	MCF-7	Epithelium	Mammary Gland	PRKDC	49638_sort_peaks.narrowPeak.bed
+49742	GSM1503826	Homo sapiens	H1	Embryonic Stem Cell	Embryo	SSU72	49742_sort_peaks.narrowPeak.bed
+49931	GSM1521744	Homo sapiens	None	Neural Progenitor Cell	None	ERG	49931_sort_peaks.narrowPeak.bed
+49936	GSM1521749	Homo sapiens	None	Neural Progenitor Cell	None	ERG	49936_sort_peaks.narrowPeak.bed
+51050	GSM1354832	Homo sapiens	VCaP	Epithelium	Prostate	PIAS1	51050_sort_peaks.narrowPeak.bed
+51051	GSM1354833	Homo sapiens	VCaP	Epithelium	Prostate	PIAS1	51051_sort_peaks.narrowPeak.bed
+51052	GSM1354834	Homo sapiens	VCaP	Epithelium	Prostate	PIAS1	51052_sort_peaks.narrowPeak.bed
+51053	GSM1354835	Homo sapiens	VCaP	Epithelium	Prostate	PIAS1	51053_sort_peaks.narrowPeak.bed
+51866	GSM1555570	Homo sapiens	VCaP	Epithelium	Prostate	SUMO2	51866_sort_peaks.narrowPeak.bed
+51867	GSM1555571	Homo sapiens	VCaP	Epithelium	Prostate	SUMO2	51867_sort_peaks.narrowPeak.bed
+51868	GSM1555572	Homo sapiens	VCaP	Epithelium	Prostate	SUMO2	51868_sort_peaks.narrowPeak.bed
+51869	GSM1555573	Homo sapiens	VCaP	Epithelium	Prostate	SUMO2	51869_sort_peaks.narrowPeak.bed
+52153	GSM1327351	Homo sapiens	None	Macrophage	None	FAIRE	52153_sort_peaks.narrowPeak.bed
+52154	GSM1327352	Homo sapiens	None	Macrophage	None	FAIRE	52154_sort_peaks.narrowPeak.bed
+52155	GSM1327353	Homo sapiens	None	Macrophage	None	FAIRE	52155_sort_peaks.narrowPeak.bed
+52156	GSM1327354	Homo sapiens	None	Macrophage	None	FAIRE	52156_sort_peaks.narrowPeak.bed
+52157	GSM1327355	Homo sapiens	None	Macrophage	None	FAIRE	52157_sort_peaks.narrowPeak.bed
+52158	GSM1327356	Homo sapiens	None	Macrophage	None	FAIRE	52158_sort_peaks.narrowPeak.bed
+52205	GSM1375020	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	IL1RN	52205_sort_peaks.narrowPeak.bed
+52206	GSM1375021	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	IL1RN	52206_sort_peaks.narrowPeak.bed
+52207	GSM1375022	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	IL1RN	52207_sort_peaks.narrowPeak.bed
+52208	GSM1375023	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	TALE	52208_sort_peaks.narrowPeak.bed
+52209	GSM1375024	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	TALE	52209_sort_peaks.narrowPeak.bed
+52210	GSM1375025	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	TALE	52210_sort_peaks.narrowPeak.bed
+52211	GSM1375026	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	HBG1, HBG2	52211_sort_peaks.narrowPeak.bed
+52212	GSM1375027	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	HBG1, HBG2	52212_sort_peaks.narrowPeak.bed
+52213	GSM1375028	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	HBG1, HBG2	52213_sort_peaks.narrowPeak.bed
+52214	GSM1375029	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	TALE	52214_sort_peaks.narrowPeak.bed
+52215	GSM1375030	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	TALE	52215_sort_peaks.narrowPeak.bed
+52216	GSM1375031	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	TALE	52216_sort_peaks.narrowPeak.bed
+52217	GSM1375032	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	EBNA3A	52217_sort_peaks.narrowPeak.bed
+52218	GSM1375033	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	EBNA3A	52218_sort_peaks.narrowPeak.bed
+52219	GSM1375034	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	EBNA3A	52219_sort_peaks.narrowPeak.bed
+52241	GSM1404654	Homo sapiens	Akata	B Lymphocyte	None	ZTA	52241_sort_peaks.narrowPeak.bed
+52242	GSM1404655	Homo sapiens	Akata	B Lymphocyte	None	ZTA	52242_sort_peaks.narrowPeak.bed
+52587	GSM1530053	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	WIZ	52587_sort_peaks.narrowPeak.bed
+53075	GSM700536	Homo sapiens	U937	Monocyte	None	RBP2	53075_sort_peaks.narrowPeak.bed
+53076	GSM700537	Homo sapiens	U937	Monocyte	None	RBP2	53076_sort_peaks.narrowPeak.bed
+53077	GSM700538	Homo sapiens	U937	Monocyte	None	RBP2	53077_sort_peaks.narrowPeak.bed
+53078	GSM700539	Homo sapiens	U937	Monocyte	None	RBP2	53078_sort_peaks.narrowPeak.bed
+53165	GSM1385219	Homo sapiens	PC-3	Epithelium	Prostate	ALKBH3	53165_sort_peaks.narrowPeak.bed
+53296	GSM1480735	Homo sapiens	TSU-1621-MT	None	None	ERG	53296_sort_peaks.narrowPeak.bed
+53297	GSM1480736	Homo sapiens	TSU-1621-MT	None	None	ERG	53297_sort_peaks.narrowPeak.bed
+53303	GSM1480742	Homo sapiens	TSU-1621-MT	None	None	FUS	53303_sort_peaks.narrowPeak.bed
+53304	GSM1480743	Homo sapiens	TSU-1621-MT	None	None	FUS	53304_sort_peaks.narrowPeak.bed
+53330	GSM1482887	Homo sapiens	HeLa	Epithelium	Cervix	CPSF3L	53330_sort_peaks.narrowPeak.bed
+53471	GSM1542272	Homo sapiens	SH-SY5Y	Neuron	Bone Marrow	SVIL	53471_sort_peaks.narrowPeak.bed
+53472	GSM1542273	Homo sapiens	SH-SY5Y	Neuron	Bone Marrow	SVIL	53472_sort_peaks.narrowPeak.bed
+53823	GSM1635907	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	HBG1, HBG2	53823_sort_peaks.narrowPeak.bed
+53824	GSM1635908	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	HBG1, HBG2	53824_sort_peaks.narrowPeak.bed
+53825	GSM1635909	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	HBG1, HBG2	53825_sort_peaks.narrowPeak.bed
+53826	GSM1635910	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	HBG1, HBG2	53826_sort_peaks.narrowPeak.bed
+53827	GSM1635911	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	HBG1, HBG2	53827_sort_peaks.narrowPeak.bed
+53828	GSM1635912	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	HBG1, HBG2	53828_sort_peaks.narrowPeak.bed
+53829	GSM1635913	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	HBG1, HBG2	53829_sort_peaks.narrowPeak.bed
+53830	GSM1635914	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	HBG1, HBG2	53830_sort_peaks.narrowPeak.bed
+53832	GSM1635916	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	HBG1, HBG2	53832_sort_peaks.narrowPeak.bed
+53833	GSM1635917	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	TALE	53833_sort_peaks.narrowPeak.bed
+53834	GSM1635918	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	TALE	53834_sort_peaks.narrowPeak.bed
+53835	GSM1635919	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	TALE	53835_sort_peaks.narrowPeak.bed
+53837	GSM1635921	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	TALE	53837_sort_peaks.narrowPeak.bed
+53838	GSM1635922	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	HBG1, HBG2	53838_sort_peaks.narrowPeak.bed
+53839	GSM1635923	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	HBG1, HBG2	53839_sort_peaks.narrowPeak.bed
+53841	GSM1635925	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	HBG1, HBG2	53841_sort_peaks.narrowPeak.bed
+53842	GSM1635926	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	IL1RN	53842_sort_peaks.narrowPeak.bed
+53843	GSM1635927	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	IL1RN	53843_sort_peaks.narrowPeak.bed
+53844	GSM1635928	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	IL1RN	53844_sort_peaks.narrowPeak.bed
+53845	GSM1635929	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	IL1RN	53845_sort_peaks.narrowPeak.bed
+53847	GSM1635931	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	IL1RN	53847_sort_peaks.narrowPeak.bed
+53848	GSM1635932	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	IL1RN	53848_sort_peaks.narrowPeak.bed
+53849	GSM1635933	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	IL1RN	53849_sort_peaks.narrowPeak.bed
+53850	GSM1635934	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	IL1RN	53850_sort_peaks.narrowPeak.bed
+53851	GSM1635935	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	IL1RN	53851_sort_peaks.narrowPeak.bed
+53852	GSM1635936	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	IL1RN	53852_sort_peaks.narrowPeak.bed
+53853	GSM1635937	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	TALE	53853_sort_peaks.narrowPeak.bed
+53854	GSM1635938	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	TALE	53854_sort_peaks.narrowPeak.bed
+53855	GSM1635939	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	TALE	53855_sort_peaks.narrowPeak.bed
+53856	GSM1635940	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	TALE	53856_sort_peaks.narrowPeak.bed
+53858	GSM1635942	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	IL1RN	53858_sort_peaks.narrowPeak.bed
+53859	GSM1635943	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	IL1RN	53859_sort_peaks.narrowPeak.bed
+53860	GSM1635944	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	IL1RN	53860_sort_peaks.narrowPeak.bed
+53861	GSM1635945	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	IL1RN	53861_sort_peaks.narrowPeak.bed
+53863	GSM1635947	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	IL1RN	53863_sort_peaks.narrowPeak.bed
+54114	GSM1682261	Homo sapiens	K562	Erythroblast	Bone Marrow	AGO2	54114_sort_peaks.narrowPeak.bed
+54115	GSM1682262	Homo sapiens	K562	Erythroblast	Bone Marrow	AGO2	54115_sort_peaks.narrowPeak.bed
+54116	GSM1682263	Homo sapiens	K562	Erythroblast	Bone Marrow	AGO2	54116_sort_peaks.narrowPeak.bed
+54117	GSM1682264	Homo sapiens	K562	Erythroblast	Bone Marrow	AGO2	54117_sort_peaks.narrowPeak.bed
+54118	GSM1682265	Homo sapiens	K562	Erythroblast	Bone Marrow	AGO2	54118_sort_peaks.narrowPeak.bed
+54608	GSM1515738	Homo sapiens	SF268	None	None	YAP1	54608_sort_peaks.narrowPeak.bed
+54609	GSM1515739	Homo sapiens	SF268	None	None	YAP1	54609_sort_peaks.narrowPeak.bed
+54675	GSM1542532	Homo sapiens	NCI-H2052	None	None	YAP1	54675_sort_peaks.narrowPeak.bed
+54676	GSM1542533	Homo sapiens	NCI-H2052	None	None	YAP1	54676_sort_peaks.narrowPeak.bed
+55218	GSM1592503	Homo sapiens	HeLa	Epithelium	Cervix	598-SKD	55218_sort_peaks.narrowPeak.bed
+55219	GSM1592504	Homo sapiens	HeLa	Epithelium	Cervix	598-SKD	55219_sort_peaks.narrowPeak.bed
+55220	GSM1592505	Homo sapiens	HeLa	Epithelium	Cervix	598-SKD	55220_sort_peaks.narrowPeak.bed
+55221	GSM1592506	Homo sapiens	HeLa	Epithelium	Cervix	598-SKD	55221_sort_peaks.narrowPeak.bed
+55284	GSM1613323	Homo sapiens	LNCaP	Epithelium	Prostate	5MC	55284_sort_peaks.narrowPeak.bed
+55285	GSM1613324	Homo sapiens	LNCaP	Epithelium	Prostate	5HMC	55285_sort_peaks.narrowPeak.bed
+55287	GSM1613326	Homo sapiens	BicR	Epithelium	Prostate	5MC	55287_sort_peaks.narrowPeak.bed
+55288	GSM1613327	Homo sapiens	BicR	Epithelium	Prostate	5HMC	55288_sort_peaks.narrowPeak.bed
+55289	GSM1613328	Homo sapiens	BicR	Epithelium	Prostate	5MC	55289_sort_peaks.narrowPeak.bed
+55290	GSM1613329	Homo sapiens	BicR	Epithelium	Prostate	5HMC	55290_sort_peaks.narrowPeak.bed
+55291	GSM1614028	Homo sapiens	MDA-MB-231	Epithelium	Mammary Gland	YAP1	55291_sort_peaks.narrowPeak.bed
+55292	GSM1614029	Homo sapiens	MDA-MB-231	Epithelium	Mammary Gland	YAP1	55292_sort_peaks.narrowPeak.bed
+55293	GSM1614030	Homo sapiens	MDA-MB-231	Epithelium	Mammary Gland	WWTR1	55293_sort_peaks.narrowPeak.bed
+55294	GSM1614031	Homo sapiens	MDA-MB-231	Epithelium	Mammary Gland	WWTR1	55294_sort_peaks.narrowPeak.bed
+55336	GSM1622606	Homo sapiens	K562	Erythroblast	Bone Marrow	SUMO2	55336_sort_peaks.narrowPeak.bed
+55337	GSM1622607	Homo sapiens	K562	Erythroblast	Bone Marrow	SUMO2	55337_sort_peaks.narrowPeak.bed
+55338	GSM1622608	Homo sapiens	K562	Erythroblast	Bone Marrow	SUMO2	55338_sort_peaks.narrowPeak.bed
+55339	GSM1622609	Homo sapiens	K562	Erythroblast	Bone Marrow	SUMO2	55339_sort_peaks.narrowPeak.bed
+55342	GSM1622616	Homo sapiens	K562	Erythroblast	Bone Marrow	SUMO2	55342_sort_peaks.narrowPeak.bed
+55343	GSM1622617	Homo sapiens	K562	Erythroblast	Bone Marrow	SUMO2	55343_sort_peaks.narrowPeak.bed
+55344	GSM1622618	Homo sapiens	K562	Erythroblast	Bone Marrow	SUMO2	55344_sort_peaks.narrowPeak.bed
+55345	GSM1622619	Homo sapiens	K562	Erythroblast	Bone Marrow	SUMO2	55345_sort_peaks.narrowPeak.bed
+55346	GSM1622620	Homo sapiens	K562	Erythroblast	Bone Marrow	SUMO2	55346_sort_peaks.narrowPeak.bed
+55347	GSM1622621	Homo sapiens	K562	Erythroblast	Bone Marrow	SUMO2	55347_sort_peaks.narrowPeak.bed
+55348	GSM1622622	Homo sapiens	K562	Erythroblast	Bone Marrow	SUMO2	55348_sort_peaks.narrowPeak.bed
+55349	GSM1622623	Homo sapiens	K562	Erythroblast	Bone Marrow	SUMO2	55349_sort_peaks.narrowPeak.bed
+55350	GSM1622624	Homo sapiens	VCaP	Epithelium	Prostate	SUMO2	55350_sort_peaks.narrowPeak.bed
+55351	GSM1622625	Homo sapiens	VCaP	Epithelium	Prostate	SUMO2	55351_sort_peaks.narrowPeak.bed
+55352	GSM1622626	Homo sapiens	VCaP	Epithelium	Prostate	SUMO2	55352_sort_peaks.narrowPeak.bed
+55353	GSM1622627	Homo sapiens	VCaP	Epithelium	Prostate	SUMO2	55353_sort_peaks.narrowPeak.bed
+55354	GSM1622628	Homo sapiens	VCaP	Epithelium	Prostate	PIAS1	55354_sort_peaks.narrowPeak.bed
+55355	GSM1622629	Homo sapiens	VCaP	Epithelium	Prostate	PIAS1	55355_sort_peaks.narrowPeak.bed
+55356	GSM1622630	Homo sapiens	VCaP	Epithelium	Prostate	PIAS1	55356_sort_peaks.narrowPeak.bed
+55357	GSM1622631	Homo sapiens	VCaP	Epithelium	Prostate	PIAS1	55357_sort_peaks.narrowPeak.bed
+55364	GSM1633692	Homo sapiens	None	None	lens	LOXL1	55364_sort_peaks.narrowPeak.bed
+55365	GSM1633693	Homo sapiens	None	None	Schlemm's canal	LOXL1	55365_sort_peaks.narrowPeak.bed
+55366	GSM1633694	Homo sapiens	None	None	Lens capsule	LOXL1	55366_sort_peaks.narrowPeak.bed
+55512	GSM1696205	Homo sapiens	IMR90	Fibroblast	Lung	YAP1	55512_sort_peaks.narrowPeak.bed
+55513	GSM1696207	Homo sapiens	IMR90	Fibroblast	Lung	YAP1	55513_sort_peaks.narrowPeak.bed
+55715	GSM1777597	Homo sapiens	VCaP	Epithelium	Prostate	SUMO2	55715_sort_peaks.narrowPeak.bed
+55716	GSM1777598	Homo sapiens	VCaP	Epithelium	Prostate	SUMO2	55716_sort_peaks.narrowPeak.bed
+55717	GSM1777599	Homo sapiens	VCaP	Epithelium	Prostate	SUMO2	55717_sort_peaks.narrowPeak.bed
+55718	GSM1777601	Homo sapiens	VCaP	Epithelium	Prostate	SUMO2	55718_sort_peaks.narrowPeak.bed
+55721	GSM1777604	Homo sapiens	VCaP	Epithelium	Prostate	SUMO2	55721_sort_peaks.narrowPeak.bed
+55722	GSM1777605	Homo sapiens	VCaP	Epithelium	Prostate	SUMO2	55722_sort_peaks.narrowPeak.bed
+55723	GSM1777606	Homo sapiens	VCaP	Epithelium	Prostate	SUMO2	55723_sort_peaks.narrowPeak.bed
+55724	GSM1777608	Homo sapiens	VCaP	Epithelium	Prostate	SUMO2	55724_sort_peaks.narrowPeak.bed
+55725	GSM1777609	Homo sapiens	VCaP	Epithelium	Prostate	SUMO2	55725_sort_peaks.narrowPeak.bed
+55726	GSM1777610	Homo sapiens	VCaP	Epithelium	Prostate	SUMO2	55726_sort_peaks.narrowPeak.bed
+56126	GSM1372541	Homo sapiens	MCF-7	Epithelium	Mammary Gland	APOBEC3B	56126_sort_peaks.narrowPeak.bed
+56127	GSM1372542	Homo sapiens	MCF-7	Epithelium	Mammary Gland	APOBEC3B	56127_sort_peaks.narrowPeak.bed
+56244	GSM1524324	Homo sapiens	CClp1	None	None	YAP1	56244_sort_peaks.narrowPeak.bed
+56248	GSM1524329	Homo sapiens	CClp1	None	None	YAP1	56248_sort_peaks.narrowPeak.bed
+56534	GSM1664954	Homo sapiens	None	None	None	YAP1	56534_sort_peaks.narrowPeak.bed
+56537	GSM1667156	Homo sapiens	HuCCT1	None	None	YAP1	56537_sort_peaks.narrowPeak.bed
+56538	GSM1667157	Homo sapiens	HuCCT1	None	None	YAP1	56538_sort_peaks.narrowPeak.bed
+56541	GSM1667160	Homo sapiens	HuCCT1	None	None	YAP1	56541_sort_peaks.narrowPeak.bed
+56544	GSM1667163	Homo sapiens	HuCCT1	None	None	WWTR1	56544_sort_peaks.narrowPeak.bed
+56842	GSM1819865	Homo sapiens	K562	Erythroblast	Bone Marrow	KRAB	56842_sort_peaks.narrowPeak.bed
+56843	GSM1819866	Homo sapiens	K562	Erythroblast	Bone Marrow	KRAB	56843_sort_peaks.narrowPeak.bed
+56844	GSM1819867	Homo sapiens	K562	Erythroblast	Bone Marrow	KRAB	56844_sort_peaks.narrowPeak.bed
+56845	GSM1819868	Homo sapiens	K562	Erythroblast	Bone Marrow	KRAB	56845_sort_peaks.narrowPeak.bed
+56846	GSM1819869	Homo sapiens	K562	Erythroblast	Bone Marrow	KRAB	56846_sort_peaks.narrowPeak.bed
+56847	GSM1819870	Homo sapiens	K562	Erythroblast	Bone Marrow	KRAB	56847_sort_peaks.narrowPeak.bed
+56848	GSM1819871	Homo sapiens	K562	Erythroblast	Bone Marrow	KRAB	56848_sort_peaks.narrowPeak.bed
+56849	GSM1819872	Homo sapiens	K562	Erythroblast	Bone Marrow	KRAB	56849_sort_peaks.narrowPeak.bed
+56850	GSM1819873	Homo sapiens	K562	Erythroblast	Bone Marrow	KRAB	56850_sort_peaks.narrowPeak.bed
+56851	GSM1819874	Homo sapiens	K562	Erythroblast	Bone Marrow	KRAB	56851_sort_peaks.narrowPeak.bed
+56852	GSM1819875	Homo sapiens	K562	Erythroblast	Bone Marrow	KRAB	56852_sort_peaks.narrowPeak.bed
+56853	GSM1819876	Homo sapiens	K562	Erythroblast	Bone Marrow	KRAB	56853_sort_peaks.narrowPeak.bed
+56854	GSM1819877	Homo sapiens	K562	Erythroblast	Bone Marrow	KRAB	56854_sort_peaks.narrowPeak.bed
+56855	GSM1819878	Homo sapiens	K562	Erythroblast	Bone Marrow	KRAB	56855_sort_peaks.narrowPeak.bed
+56856	GSM1819879	Homo sapiens	K562	Erythroblast	Bone Marrow	KRAB	56856_sort_peaks.narrowPeak.bed
+56895	GSM1827555	Homo sapiens	IMR90	Fibroblast	Lung	MAP1LC3A	56895_sort_peaks.narrowPeak.bed
+56896	GSM1827556	Homo sapiens	IMR90	Fibroblast	Lung	MAP1LC3A	56896_sort_peaks.narrowPeak.bed
+56997	GSM1854427	Homo sapiens	None	None	Colon	DACOR1	56997_sort_peaks.narrowPeak.bed
+57092	GSM1866697	Homo sapiens	HCT-116	Epithelium	Colon	HEXIM1	57092_sort_peaks.narrowPeak.bed
+58186	GSM1645711	Homo sapiens	None	Keratinocyte	None	BANF1	58186_sort_peaks.narrowPeak.bed
+58187	GSM1645712	Homo sapiens	None	Keratinocyte	None	BANF1	58187_sort_peaks.narrowPeak.bed
+58188	GSM1645713	Homo sapiens	None	Keratinocyte	None	BANF1	58188_sort_peaks.narrowPeak.bed
+58829	GSM1868579	Homo sapiens	Raji	B Lymphocyte	Blood	CD59	58829_sort_peaks.narrowPeak.bed
+58994	GSM1895985	Homo sapiens	HEK293	Epithelium	Embryonic Kidney	FUS	58994_sort_peaks.narrowPeak.bed
+59381	GSM1967861	Homo sapiens	None	Myoblast	None	DUX4	59381_sort_peaks.narrowPeak.bed

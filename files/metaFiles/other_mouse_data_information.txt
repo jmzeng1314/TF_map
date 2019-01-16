@@ -1,0 +1,163 @@
+3039	GSM499741	Mus musculus	None	None	Retina	CRX	3039_sort_peaks.narrowPeak.bed
+3040	GSM499739	Mus musculus	None	None	Retina	CRX	3040_sort_peaks.narrowPeak.bed
+3041	GSM499737	Mus musculus	None	None	Retina	CRX	3041_sort_peaks.narrowPeak.bed
+3042	GSM499736	Mus musculus	None	None	Retina	CRX	3042_sort_peaks.narrowPeak.bed
+32903	GSM766451	Mus musculus	V6.5	Embryonic Stem Cell	Embryo	TMPRSS4	32903_sort_peaks.narrowPeak.bed
+32904	GSM766450	Mus musculus	V6.5	Embryonic Stem Cell	Embryo	TMPRSS4	32904_sort_peaks.narrowPeak.bed
+32905	GSM766452	Mus musculus	V6.5	Embryonic Stem Cell	Embryo	TMPRSS4	32905_sort_peaks.narrowPeak.bed
+32907	GSM766453	Mus musculus	V6.5	Embryonic Stem Cell	Embryo	TMPRSS4	32907_sort_peaks.narrowPeak.bed
+32909	GSM1064505	Mus musculus	None	B Lymphocyte	Spleen	RPA	32909_sort_peaks.narrowPeak.bed
+32911	GSM1064515	Mus musculus	None	B Lymphocyte	Spleen	BRDU	32911_sort_peaks.narrowPeak.bed
+32912	GSM1064509	Mus musculus	None	B Lymphocyte	Spleen	RPA	32912_sort_peaks.narrowPeak.bed
+32914	GSM1064508	Mus musculus	None	B Lymphocyte	Spleen	RPA	32914_sort_peaks.narrowPeak.bed
+32920	GSM1064499	Mus musculus	None	B Lymphocyte	Spleen	RPA	32920_sort_peaks.narrowPeak.bed
+32923	GSM1064500	Mus musculus	None	B Lymphocyte	Spleen	RPA	32923_sort_peaks.narrowPeak.bed
+32927	GSM1064514	Mus musculus	None	B Lymphocyte	Spleen	BRDU	32927_sort_peaks.narrowPeak.bed
+32935	GSM706677	Mus musculus	E14	Embryonic Stem Cell	Embryo	5HMC	32935_sort_peaks.narrowPeak.bed
+32937	GSM706679	Mus musculus	E14	Embryonic Stem Cell	Embryo	5HMC	32937_sort_peaks.narrowPeak.bed
+32938	GSM706674	Mus musculus	E14	Embryonic Stem Cell	Embryo	5HMC	32938_sort_peaks.narrowPeak.bed
+33038	GSM1106079	Mus musculus	None	Embryonic Fibroblast	Embryo	SRSF1	33038_sort_peaks.narrowPeak.bed
+33041	GSM1106081	Mus musculus	None	Embryonic Fibroblast	Embryo	SRSF2	33041_sort_peaks.narrowPeak.bed
+33044	GSM1106078	Mus musculus	None	Embryonic Fibroblast	Embryo	SRSF1	33044_sort_peaks.narrowPeak.bed
+33045	GSM1106074	Mus musculus	None	Embryonic Fibroblast	Embryo	SRSF1	33045_sort_peaks.narrowPeak.bed
+33049	GSM1106080	Mus musculus	None	Embryonic Fibroblast	Embryo	SRSF2	33049_sort_peaks.narrowPeak.bed
+33050	GSM1106075	Mus musculus	None	Embryonic Fibroblast	Embryo	SRSF2	33050_sort_peaks.narrowPeak.bed
+33052	GSM1106102	Mus musculus	None	Embryonic Fibroblast	Embryo	HEXIM1	33052_sort_peaks.narrowPeak.bed
+33087	GSM957084	Mus musculus	E14	Embryonic Stem Cell	Embryo	OGT	33087_sort_peaks.narrowPeak.bed
+33613	GSM1040409	Mus musculus	None	B Lymphocyte	None	RPA	33613_sort_peaks.narrowPeak.bed
+33614	GSM1040421	Mus musculus	None	B Lymphocyte	None	RPA	33614_sort_peaks.narrowPeak.bed
+33616	GSM1040411	Mus musculus	None	B Lymphocyte	None	RPA	33616_sort_peaks.narrowPeak.bed
+33618	GSM1040417	Mus musculus	None	B Lymphocyte	None	RPA	33618_sort_peaks.narrowPeak.bed
+33619	GSM1040439	Mus musculus	None	B Lymphocyte	None	RPA	33619_sort_peaks.narrowPeak.bed
+33620	GSM1040420	Mus musculus	None	B Lymphocyte	None	RPA	33620_sort_peaks.narrowPeak.bed
+33621	GSM1040403	Mus musculus	None	B Lymphocyte	None	RPA	33621_sort_peaks.narrowPeak.bed
+33622	GSM1040429	Mus musculus	None	B Lymphocyte	None	RPA	33622_sort_peaks.narrowPeak.bed
+33624	GSM1040396	Mus musculus	None	B Lymphocyte	None	RPA	33624_sort_peaks.narrowPeak.bed
+33625	GSM1040438	Mus musculus	None	Embryonic Fibroblast	None	RPA	33625_sort_peaks.narrowPeak.bed
+33626	GSM1040412	Mus musculus	None	B Lymphocyte	None	RPA	33626_sort_peaks.narrowPeak.bed
+33628	GSM1040394	Mus musculus	None	B Lymphocyte	None	RPA	33628_sort_peaks.narrowPeak.bed
+33629	GSM1040427	Mus musculus	None	B Lymphocyte	None	RPA	33629_sort_peaks.narrowPeak.bed
+33631	GSM1040400	Mus musculus	None	B Lymphocyte	None	RPA	33631_sort_peaks.narrowPeak.bed
+33632	GSM1040426	Mus musculus	None	B Lymphocyte	None	RPA	33632_sort_peaks.narrowPeak.bed
+33634	GSM1040415	Mus musculus	None	B Lymphocyte	None	RPA	33634_sort_peaks.narrowPeak.bed
+33636	GSM1040434	Mus musculus	None	Thymocyte	None	RPA	33636_sort_peaks.narrowPeak.bed
+33638	GSM1040435	Mus musculus	None	Thymocyte	None	RPA	33638_sort_peaks.narrowPeak.bed
+33639	GSM1040407	Mus musculus	None	B Lymphocyte	None	RPA	33639_sort_peaks.narrowPeak.bed
+33642	GSM1040408	Mus musculus	None	B Lymphocyte	None	RPA	33642_sort_peaks.narrowPeak.bed
+33643	GSM1040419	Mus musculus	None	B Lymphocyte	None	RPA	33643_sort_peaks.narrowPeak.bed
+33646	GSM1040418	Mus musculus	None	B Lymphocyte	None	RPA	33646_sort_peaks.narrowPeak.bed
+33647	GSM1040433	Mus musculus	None	Thymocyte	None	RPA	33647_sort_peaks.narrowPeak.bed
+33648	GSM1040437	Mus musculus	None	Thymocyte	None	RPA	33648_sort_peaks.narrowPeak.bed
+33649	GSM1040397	Mus musculus	None	B Lymphocyte	None	RPA	33649_sort_peaks.narrowPeak.bed
+33651	GSM1040413	Mus musculus	None	B Lymphocyte	None	RPA	33651_sort_peaks.narrowPeak.bed
+33653	GSM1040428	Mus musculus	None	B Lymphocyte	None	RPA	33653_sort_peaks.narrowPeak.bed
+33654	GSM1040423	Mus musculus	None	B Lymphocyte	None	RPA	33654_sort_peaks.narrowPeak.bed
+33655	GSM1040436	Mus musculus	None	Thymocyte	None	RPA	33655_sort_peaks.narrowPeak.bed
+33659	GSM1040425	Mus musculus	None	B Lymphocyte	None	RPA	33659_sort_peaks.narrowPeak.bed
+33662	GSM1040402	Mus musculus	None	B Lymphocyte	None	RPA	33662_sort_peaks.narrowPeak.bed
+33663	GSM1040399	Mus musculus	None	B Lymphocyte	None	RPA	33663_sort_peaks.narrowPeak.bed
+33666	GSM1040398	Mus musculus	None	B Lymphocyte	None	RPA	33666_sort_peaks.narrowPeak.bed
+33667	GSM1040432	Mus musculus	None	Thymocyte	None	RPA	33667_sort_peaks.narrowPeak.bed
+33669	GSM1040424	Mus musculus	None	B Lymphocyte	None	RPA	33669_sort_peaks.narrowPeak.bed
+33670	GSM1040401	Mus musculus	None	B Lymphocyte	None	RPA	33670_sort_peaks.narrowPeak.bed
+33673	GSM1040395	Mus musculus	None	B Lymphocyte	None	RPA	33673_sort_peaks.narrowPeak.bed
+33688	GSM1005493	Mus musculus	None	Epithelium	None	FAIRE	33688_sort_peaks.narrowPeak.bed
+33695	GSM1005494	Mus musculus	None	Epithelium	None	FAIRE	33695_sort_peaks.narrowPeak.bed
+33989	GSM897582	Mus musculus	None	None	Bone Marrow	OGT	33989_sort_peaks.narrowPeak.bed
+34445	GSM1023125	Mus musculus	None	Embryonic Stem Cell	Embryo	OGT	34445_sort_peaks.narrowPeak.bed
+35313	GSM797453	Mus musculus	None	Osteoblast	None	TNNI2	35313_sort_peaks.narrowPeak.bed
+35314	GSM797452	Mus musculus	None	Osteoblast	None	TNNI2	35314_sort_peaks.narrowPeak.bed
+35557	GSM1104370	Mus musculus	None	Spermatid	None	SFMBT1	35557_sort_peaks.narrowPeak.bed
+35566	GSM1104366	Mus musculus	None	Pachynema Cell	None	SFMBT1	35566_sort_peaks.narrowPeak.bed
+35601	GSM945906	Mus musculus	E14	Embryonic Stem Cell	Embryo	5HMC	35601_sort_peaks.narrowPeak.bed
+35602	GSM945905	Mus musculus	E14	Embryonic Stem Cell	Embryo	5HMC	35602_sort_peaks.narrowPeak.bed
+35603	GSM945904	Mus musculus	E14	Embryonic Stem Cell	Embryo	5HMC	35603_sort_peaks.narrowPeak.bed
+39105	GSM1132365	Mus musculus	None	None	Blood	ERG	39105_sort_peaks.narrowPeak.bed
+39109	GSM1132367	Mus musculus	None	None	Blood	ERG	39109_sort_peaks.narrowPeak.bed
+39308	GSM824836	Mus musculus	V6.5	Embryonic Stem Cell	Embryo	TMPRSS4	39308_sort_peaks.narrowPeak.bed
+39310	GSM824835	Mus musculus	V6.5	Embryonic Stem Cell	Embryo	TMPRSS4	39310_sort_peaks.narrowPeak.bed
+39313	GSM824837	Mus musculus	V6.5	Embryonic Stem Cell	Embryo	TMPRSS4	39313_sort_peaks.narrowPeak.bed
+39349	GSM1067407	Mus musculus	None	Epithelium	Liver	MTOR	39349_sort_peaks.narrowPeak.bed
+39369	GSM1145308	Mus musculus	None	Epithelium	Prostate	ERG	39369_sort_peaks.narrowPeak.bed
+39374	GSM1145318	Mus musculus	None	Epithelium	Prostate	ERG	39374_sort_peaks.narrowPeak.bed
+39384	GSM1145303	Mus musculus	None	Epithelium	Prostate	ERG	39384_sort_peaks.narrowPeak.bed
+39387	GSM1145313	Mus musculus	None	Epithelium	Prostate	ERG	39387_sort_peaks.narrowPeak.bed
+39769	GSM999790	Mus musculus	None	Macrophage	Bone Marrow	OGT	39769_sort_peaks.narrowPeak.bed
+39875	GSM1037391	Mus musculus	None	B Lymphocyte	Spleen	RPA	39875_sort_peaks.narrowPeak.bed
+39877	GSM1037389	Mus musculus	None	B Lymphocyte	Spleen	RPA	39877_sort_peaks.narrowPeak.bed
+39881	GSM1037390	Mus musculus	None	B Lymphocyte	Spleen	RPA	39881_sort_peaks.narrowPeak.bed
+39894	GSM1037393	Mus musculus	None	B Lymphocyte	Spleen	RPA	39894_sort_peaks.narrowPeak.bed
+39910	GSM1037392	Mus musculus	None	B Lymphocyte	Spleen	RPA	39910_sort_peaks.narrowPeak.bed
+40210	GSM873567	Mus musculus	None	None	Spleen	RPA	40210_sort_peaks.narrowPeak.bed
+40211	GSM873568	Mus musculus	None	None	Spleen	RPA	40211_sort_peaks.narrowPeak.bed
+40212	GSM873566	Mus musculus	None	None	Spleen	RPA	40212_sort_peaks.narrowPeak.bed
+41198	GSM1048208	Mus musculus	None	B Lymphocyte	Spleen	USP16	41198_sort_peaks.narrowPeak.bed
+41420	GSM1095383	Mus musculus	3T3-L1	Preadipocyte	Adipose	Ubiquitin	41420_sort_peaks.narrowPeak.bed
+41713	GSM1167156	Mus musculus	None	B Lymphocyte	None	H3S28ph	41713_sort_peaks.narrowPeak.bed
+41714	GSM1167157	Mus musculus	None	B Lymphocyte	None	H3S28ph	41714_sort_peaks.narrowPeak.bed
+43430	GSM1277672	Mus musculus	V6.5	Embryonic Stem Cell	Embryo	USP16	43430_sort_peaks.narrowPeak.bed
+43431	GSM1277673	Mus musculus	V6.5	Embryonic Stem Cell	Embryo	USP16	43431_sort_peaks.narrowPeak.bed
+43437	GSM1277679	Mus musculus	V6.5	Embryonic Stem Cell	Embryo	USP16	43437_sort_peaks.narrowPeak.bed
+43438	GSM1277680	Mus musculus	V6.5	Embryonic Stem Cell	Embryo	USP16	43438_sort_peaks.narrowPeak.bed
+43871	GSM838021	Mus musculus	3T3-L1	Preadipocyte	Adipose	Ubiquitin	43871_sort_peaks.narrowPeak.bed
+43872	GSM838022	Mus musculus	3T3-L1	Preadipocyte	Adipose	Ubiquitin	43872_sort_peaks.narrowPeak.bed
+43873	GSM838023	Mus musculus	3T3-L1	Preadipocyte	Adipose	Ubiquitin	43873_sort_peaks.narrowPeak.bed
+43874	GSM838024	Mus musculus	3T3-L1	Preadipocyte	Adipose	Ubiquitin	43874_sort_peaks.narrowPeak.bed
+43897	GSM859492	Mus musculus	E14	Embryonic Stem Cell	Embryo	5HMC	43897_sort_peaks.narrowPeak.bed
+44258	GSM1167576	Mus musculus	None	Mast Cell	Bone Marrow	ERG	44258_sort_peaks.narrowPeak.bed
+44547	GSM1323991	Mus musculus	961C	None	Blood	NUP98–PHF23	44547_sort_peaks.narrowPeak.bed
+44828	GSM1376276	Mus musculus	None	Embryonic Fibroblast	None	GSK3B	44828_sort_peaks.narrowPeak.bed
+46414	GSM1003792	Mus musculus	CH12	Lymphoblastoid	Blood	ZC3H11A	46414_sort_peaks.narrowPeak.bed
+46426	GSM1003810	Mus musculus	None	Embryonic Stem Cell	Embryo	ZC3H11A	46426_sort_peaks.narrowPeak.bed
+46501	GSM1003776	Mus musculus	MEL	Erythroid Progenitor Cell	Blood	ZC3H11A	46501_sort_peaks.narrowPeak.bed
+47448	GSM1202717	Mus musculus	None	Spermatocyte	Testis	5HMC	47448_sort_peaks.narrowPeak.bed
+47449	GSM1202718	Mus musculus	None	Spermatid	Testis	5HMC	47449_sort_peaks.narrowPeak.bed
+47450	GSM1202719	Mus musculus	None	Spermatid	Testis	5HMC	47450_sort_peaks.narrowPeak.bed
+48098	GSM1308614	Mus musculus	RAW264.7	Macrophage	None	TNFSF11	48098_sort_peaks.narrowPeak.bed
+48099	GSM1308615	Mus musculus	RAW264.7	Macrophage	None	TNFSF11	48099_sort_peaks.narrowPeak.bed
+48242	GSM1331248	Mus musculus	None	Satellite Cells	Muscle	YAP1	48242_sort_peaks.narrowPeak.bed
+48386	GSM1345929	Mus musculus	Swiss-3T3	Fibroblast	None	H3S28ph	48386_sort_peaks.narrowPeak.bed
+48387	GSM1345930	Mus musculus	Swiss-3T3	Fibroblast	None	H3S28ph	48387_sort_peaks.narrowPeak.bed
+48388	GSM1345931	Mus musculus	Swiss-3T3	Fibroblast	None	H3S28ph	48388_sort_peaks.narrowPeak.bed
+48389	GSM1345932	Mus musculus	Swiss-3T3	Fibroblast	None	H3S28ph	48389_sort_peaks.narrowPeak.bed
+48495	GSM1355162	Mus musculus	None	Embryonic Stem Cell	Embryo	FAIRE	48495_sort_peaks.narrowPeak.bed
+48508	GSM1355175	Mus musculus	None	Stem cell	Ectoderm	FAIRE	48508_sort_peaks.narrowPeak.bed
+48962	GSM1400770	Mus musculus	None	Spermatid	Testis	H3Pan	48962_sort_peaks.narrowPeak.bed
+49082	GSM1406443	Mus musculus	ES3	Embryonic Stem Cell	Embryo	GM6871	49082_sort_peaks.narrowPeak.bed
+51036	GSM1341311	Mus musculus	E14	Embryonic Stem Cell	Embryo	TDG	51036_sort_peaks.narrowPeak.bed
+51138	GSM1387479	Mus musculus	None	None	Heart	YAP1	51138_sort_peaks.narrowPeak.bed
+51323	GSM1486431	Mus musculus	None	None	Cerebellum	ZIC1/2	51323_sort_peaks.narrowPeak.bed
+51324	GSM1486432	Mus musculus	None	None	Cerebellum	ZIC1/2	51324_sort_peaks.narrowPeak.bed
+51325	GSM1486433	Mus musculus	None	None	Cerebellum	ZIC1/2	51325_sort_peaks.narrowPeak.bed
+51326	GSM1486434	Mus musculus	None	None	Cerebellum	ZIC1/2	51326_sort_peaks.narrowPeak.bed
+52851	GSM1614789	Mus musculus	None	Myeloid Cell	None	ERG	52851_sort_peaks.narrowPeak.bed
+52852	GSM1614790	Mus musculus	None	Myeloid Cell	None	ERG	52852_sort_peaks.narrowPeak.bed
+52979	GSM1650059	Mus musculus	None	Adipocyte	None	FAIRE	52979_sort_peaks.narrowPeak.bed
+53639	GSM1579234	Mus musculus	None	T Lymphocyte	Spleen	NLRP3	53639_sort_peaks.narrowPeak.bed
+53645	GSM1579240	Mus musculus	None	T Lymphocyte	Spleen	NLRP3	53645_sort_peaks.narrowPeak.bed
+54301	GSM1709190	Mus musculus	R1	Embryonic Stem Cell	Embryo	H3F3B	54301_sort_peaks.narrowPeak.bed
+54303	GSM1709192	Mus musculus	R1	Embryonic Stem Cell	Embryo	H3F3B	54303_sort_peaks.narrowPeak.bed
+54305	GSM1709194	Mus musculus	R1	Embryonic Stem Cell	Embryo	H3F3B	54305_sort_peaks.narrowPeak.bed
+54346	GSM1713728	Mus musculus	None	Germline stem cell	None	KCR	54346_sort_peaks.narrowPeak.bed
+54355	GSM1713737	Mus musculus	None	Spermatocyte	None	KCR	54355_sort_peaks.narrowPeak.bed
+54356	GSM1713738	Mus musculus	None	Spermatocyte	None	KCR	54356_sort_peaks.narrowPeak.bed
+55091	GSM1566189	Mus musculus	None	Embryonic Fibroblast	None	HRAS	55091_sort_peaks.narrowPeak.bed
+55092	GSM1566190	Mus musculus	None	Embryonic Fibroblast	None	HRAS	55092_sort_peaks.narrowPeak.bed
+55097	GSM1566195	Mus musculus	None	Embryonic Fibroblast	None	HRAS	55097_sort_peaks.narrowPeak.bed
+55098	GSM1566196	Mus musculus	None	Embryonic Fibroblast	None	HRAS	55098_sort_peaks.narrowPeak.bed
+55099	GSM1566197	Mus musculus	None	Embryonic Fibroblast	None	HRAS	55099_sort_peaks.narrowPeak.bed
+55100	GSM1566198	Mus musculus	None	Embryonic Fibroblast	None	HRAS	55100_sort_peaks.narrowPeak.bed
+56133	GSM1397521	Mus musculus	None	None	Heart	RBFOX2	56133_sort_peaks.narrowPeak.bed
+56594	GSM1679030	Mus musculus	None	Embryonic Fibroblast	None	ACTB	56594_sort_peaks.narrowPeak.bed
+57294	GSM1915736	Mus musculus	None	Epithelium	None	TEC	57294_sort_peaks.narrowPeak.bed
+57295	GSM1915737	Mus musculus	None	Epithelium	None	TEC	57295_sort_peaks.narrowPeak.bed
+57296	GSM1915738	Mus musculus	None	Epithelium	None	TEC	57296_sort_peaks.narrowPeak.bed
+57297	GSM1915739	Mus musculus	None	Epithelium	None	TEC	57297_sort_peaks.narrowPeak.bed
+57943	GSM1533881	Mus musculus	None	Hematopoietic stem and progenitor cell	Bone Marrow	USP16	57943_sort_peaks.narrowPeak.bed
+58099	GSM1619703	Mus musculus	None	Dendritic Cell	Bone Marrow	SUMO1	58099_sort_peaks.narrowPeak.bed
+58100	GSM1619704	Mus musculus	None	Dendritic Cell	Bone Marrow	SUMO1	58100_sort_peaks.narrowPeak.bed
+58101	GSM1619705	Mus musculus	None	Dendritic Cell	Bone Marrow	SUMO2	58101_sort_peaks.narrowPeak.bed
+58102	GSM1619706	Mus musculus	None	Dendritic Cell	Bone Marrow	SUMO2	58102_sort_peaks.narrowPeak.bed
+58830	GSM1868610	Mus musculus	None	Dendritic Cell	Bone Marrow	SUMO1	58830_sort_peaks.narrowPeak.bed
+58831	GSM1868611	Mus musculus	None	Dendritic Cell	Bone Marrow	SUMO2	58831_sort_peaks.narrowPeak.bed
+59362	GSM1961191	Mus musculus	S194	B Lymphocyte	None	CSTF3	59362_sort_peaks.narrowPeak.bed

@@ -1,0 +1,1076 @@
+1798	GSM530666	Homo sapiens	IMR90	Fibroblast	Lung	DNase	1798_sort_peaks.narrowPeak.bed
+1799	GSM530665	Homo sapiens	IMR90	Fibroblast	Lung	DNase	1799_sort_peaks.narrowPeak.bed
+1800	GSM468801	Homo sapiens	IMR90	Fibroblast	Lung	DNase	1800_sort_peaks.narrowPeak.bed
+1801	GSM468792	Homo sapiens	IMR90	Fibroblast	Lung	DNase	1801_sort_peaks.narrowPeak.bed
+1890	GSM665801	Homo sapiens	iPS DF 19.11	iPSC	Foreskin	DNase	1890_sort_peaks.narrowPeak.bed
+1898	GSM665800	Homo sapiens	iPS DF 19.7	iPSC	None	DNase	1898_sort_peaks.narrowPeak.bed
+1899	GSM665803	Homo sapiens	iPS DF 4.7	iPSC	None	DNase	1899_sort_peaks.narrowPeak.bed
+1900	GSM665802	Homo sapiens	iPS DF 6.9	iPSC	None	DNase	1900_sort_peaks.narrowPeak.bed
+3090	GSM701541	Homo sapiens	None	Monocyte	Blood	DNase	3090_sort_peaks.narrowPeak.bed
+3091	GSM701540	Homo sapiens	None	T Lymphocyte	Blood	DNase	3091_sort_peaks.narrowPeak.bed
+3092	GSM701539	Homo sapiens	None	T Lymphocyte	Blood	DNase	3092_sort_peaks.narrowPeak.bed
+3093	GSM701538	Homo sapiens	None	None	Fetal Stomach	DNase	3093_sort_peaks.narrowPeak.bed
+3094	GSM701537	Homo sapiens	None	T Lymphocyte	Fetal Thymus	DNase	3094_sort_peaks.narrowPeak.bed
+3095	GSM701536	Homo sapiens	None	None	Fetal Muscle Back	DNase	3095_sort_peaks.narrowPeak.bed
+3096	GSM701535	Homo sapiens	None	None	Fetal Muscle Arm	DNase	3096_sort_peaks.narrowPeak.bed
+3097	GSM701534	Homo sapiens	None	Epithelium	Fetal Lung Left	DNase	3097_sort_peaks.narrowPeak.bed
+3098	GSM701533	Homo sapiens	None	None	Fetal Muscle Trunk	DNase	3098_sort_peaks.narrowPeak.bed
+3099	GSM701532	Homo sapiens	None	Cortex	Fetal Kidney	DNase	3099_sort_peaks.narrowPeak.bed
+3100	GSM701531	Homo sapiens	None	Epithelium	Fetal Large Intestine	DNase	3100_sort_peaks.narrowPeak.bed
+3101	GSM701530	Homo sapiens	None	Epithelium	Fetal Small Intestine	DNase	3101_sort_peaks.narrowPeak.bed
+3102	GSM701529	Homo sapiens	None	Cortex	Fetal Kidney	DNase	3102_sort_peaks.narrowPeak.bed
+3103	GSM701528	Homo sapiens	None	None	Fetal Stomach	DNase	3103_sort_peaks.narrowPeak.bed
+3104	GSM701527	Homo sapiens	None	Epithelium	Fetal Lung Left	DNase	3104_sort_peaks.narrowPeak.bed
+3105	GSM701526	Homo sapiens	None	T Lymphocyte	Cord blood	DNase	3105_sort_peaks.narrowPeak.bed
+3106	GSM701525	Homo sapiens	None	T Lymphocyte	Cord blood	DNase	3106_sort_peaks.narrowPeak.bed
+3107	GSM701524	Homo sapiens	None	Epithelium	Fetal Lung Left	DNase	3107_sort_peaks.narrowPeak.bed
+3108	GSM701523	Homo sapiens	None	Epithelium	Fetal Lung Right	DNase	3108_sort_peaks.narrowPeak.bed
+3109	GSM701522	Homo sapiens	None	Epithelium	Upper Limb Muscle	DNase	3109_sort_peaks.narrowPeak.bed
+3110	GSM701521	Homo sapiens	None	None	Fetal Stomach	DNase	3110_sort_peaks.narrowPeak.bed
+3111	GSM701520	Homo sapiens	None	None	Fetal Renal Pelvis Left	DNase	3111_sort_peaks.narrowPeak.bed
+3112	GSM701519	Homo sapiens	None	Cortex	Fetal Kidney Left	DNase	3112_sort_peaks.narrowPeak.bed
+3113	GSM701518	Homo sapiens	None	None	Fetal Renal Pelvis Right	DNase	3113_sort_peaks.narrowPeak.bed
+3114	GSM701517	Homo sapiens	None	Cortex	Fetal Kidney Right	DNase	3114_sort_peaks.narrowPeak.bed
+3115	GSM701516	Homo sapiens	None	T Lymphocyte	Blood	DNase	3115_sort_peaks.narrowPeak.bed
+3116	GSM701515	Homo sapiens	None	Epithelium	Kidney	DNase	3116_sort_peaks.narrowPeak.bed
+3117	GSM701514	Homo sapiens	None	Epithelium	Fetal Large Intestine	DNase	3117_sort_peaks.narrowPeak.bed
+3118	GSM701513	Homo sapiens	None	T Lymphocyte	Fetal Thymus	DNase	3118_sort_peaks.narrowPeak.bed
+3119	GSM701512	Homo sapiens	None	Epithelium	Fetal Lung Left	DNase	3119_sort_peaks.narrowPeak.bed
+3120	GSM701511	Homo sapiens	None	Cortex	Fetal Kidney	DNase	3120_sort_peaks.narrowPeak.bed
+3121	GSM701510	Homo sapiens	None	None	Fetal Renal Pelvis	DNase	3121_sort_peaks.narrowPeak.bed
+3122	GSM701509	Homo sapiens	None	Lymphocyte	Spleen	DNase	3122_sort_peaks.narrowPeak.bed
+3123	GSM701508	Homo sapiens	None	Natural Killer Cell	Blood	DNase	3123_sort_peaks.narrowPeak.bed
+3124	GSM701507	Homo sapiens	None	B Lymphocyte	Spleen	DNase	3124_sort_peaks.narrowPeak.bed
+3125	GSM701506	Homo sapiens	None	None	Fetal Muscle Arm	DNase	3125_sort_peaks.narrowPeak.bed
+3126	GSM701505	Homo sapiens	None	None	Fetal Muscle Leg	DNase	3126_sort_peaks.narrowPeak.bed
+3127	GSM701504	Homo sapiens	None	Epithelium	Fetal Small Intestine	DNase	3127_sort_peaks.narrowPeak.bed
+3128	GSM701503	Homo sapiens	None	Monocyte	Blood	DNase	3128_sort_peaks.narrowPeak.bed
+3129	GSM701502	Homo sapiens	None	Cortex	Fetal Kidney	DNase	3129_sort_peaks.narrowPeak.bed
+3130	GSM701501	Homo sapiens	None	None	Fetal Renal Pelvis	DNase	3130_sort_peaks.narrowPeak.bed
+3131	GSM701500	Homo sapiens	None	B Lymphocyte	Blood	DNase	3131_sort_peaks.narrowPeak.bed
+3132	GSM701499	Homo sapiens	None	T Lymphocyte	Blood	DNase	3132_sort_peaks.narrowPeak.bed
+3133	GSM701498	Homo sapiens	None	None	Fetal Stomach	DNase	3133_sort_peaks.narrowPeak.bed
+3134	GSM701497	Homo sapiens	None	T Lymphocyte	Fetal Thymus	DNase	3134_sort_peaks.narrowPeak.bed
+3135	GSM701496	Homo sapiens	None	Epithelium	Fetal Small Intestine	DNase	3135_sort_peaks.narrowPeak.bed
+3136	GSM701495	Homo sapiens	None	Epithelium	Fetal Large Intestine	DNase	3136_sort_peaks.narrowPeak.bed
+3137	GSM701494	Homo sapiens	None	Cortex	Fetal Kidney	DNase	3137_sort_peaks.narrowPeak.bed
+3138	GSM701493	Homo sapiens	None	B Lymphocyte	Spleen	DNase	3138_sort_peaks.narrowPeak.bed
+3139	GSM701492	Homo sapiens	None	B Lymphocyte	Spleen	DNase	3139_sort_peaks.narrowPeak.bed
+3140	GSM701491	Homo sapiens	None	T Lymphocyte	Blood	DNase	3140_sort_peaks.narrowPeak.bed
+3141	GSM701490	Homo sapiens	None	Epithelium	Fetal Large Intestine	DNase	3141_sort_peaks.narrowPeak.bed
+3142	GSM701489	Homo sapiens	None	T Lymphocyte	Blood	DNase	3142_sort_peaks.narrowPeak.bed
+3143	GSM701488	Homo sapiens	None	T Lymphocyte	Blood	DNase	3143_sort_peaks.narrowPeak.bed
+3144	GSM701487	Homo sapiens	None	Epithelium	Fetal Small Intestine	DNase	3144_sort_peaks.narrowPeak.bed
+3145	GSM665840	Homo sapiens	None	Monocyte	Blood	DNase	3145_sort_peaks.narrowPeak.bed
+3146	GSM665839	Homo sapiens	None	T Lymphocyte	Blood	DNase	3146_sort_peaks.narrowPeak.bed
+3147	GSM665838	Homo sapiens	None	T Lymphocyte	Blood	DNase	3147_sort_peaks.narrowPeak.bed
+3148	GSM665837	Homo sapiens	None	T Lymphocyte	Blood	DNase	3148_sort_peaks.narrowPeak.bed
+3149	GSM665836	Homo sapiens	None	Natural Killer Cell	Blood	DNase	3149_sort_peaks.narrowPeak.bed
+3150	GSM665835	Homo sapiens	None	Epithelium	Small Intestine	DNase	3150_sort_peaks.narrowPeak.bed
+3151	GSM665834	Homo sapiens	None	Epithelium	Kidney	DNase	3151_sort_peaks.narrowPeak.bed
+3152	GSM665833	Homo sapiens	None	Epithelium	Fetal Kidney Right	DNase	3152_sort_peaks.narrowPeak.bed
+3153	GSM665832	Homo sapiens	None	Epithelium	Lung	DNase	3153_sort_peaks.narrowPeak.bed
+3154	GSM665831	Homo sapiens	None	Epithelium	Fetal Heart	DNase	3154_sort_peaks.narrowPeak.bed
+3155	GSM665830	Homo sapiens	None	Epithelium	Fetal Heart	DNase	3155_sort_peaks.narrowPeak.bed
+3156	GSM665829	Homo sapiens	None	Epithelium	Kidney	DNase	3156_sort_peaks.narrowPeak.bed
+3157	GSM665828	Homo sapiens	None	Epithelium	Lung	DNase	3157_sort_peaks.narrowPeak.bed
+3158	GSM665827	Homo sapiens	None	Epithelium	Lung	DNase	3158_sort_peaks.narrowPeak.bed
+3159	GSM665826	Homo sapiens	None	Epithelium	Large Intestine	DNase	3159_sort_peaks.narrowPeak.bed
+3160	GSM665825	Homo sapiens	None	Epithelium	Small Intestine	DNase	3160_sort_peaks.narrowPeak.bed
+3161	GSM665824	Homo sapiens	None	Epithelium	Fetal Heart	DNase	3161_sort_peaks.narrowPeak.bed
+3162	GSM665823	Homo sapiens	None	T Lymphocyte	Fetal Thymus	DNase	3162_sort_peaks.narrowPeak.bed
+3163	GSM665822	Homo sapiens	None	Epithelium	Kidney	DNase	3163_sort_peaks.narrowPeak.bed
+3164	GSM665821	Homo sapiens	None	Epithelium	Fetal Kidney Right	DNase	3164_sort_peaks.narrowPeak.bed
+3165	GSM665820	Homo sapiens	None	Natural Killer Cell	Blood	DNase	3165_sort_peaks.narrowPeak.bed
+3166	GSM665819	Homo sapiens	None	None	Fetal Brain	DNase	3166_sort_peaks.narrowPeak.bed
+3167	GSM665818	Homo sapiens	None	Epithelium	Large Intestine	DNase	3167_sort_peaks.narrowPeak.bed
+3168	GSM665817	Homo sapiens	None	Epithelium	Fetal Heart	DNase	3168_sort_peaks.narrowPeak.bed
+3169	GSM665816	Homo sapiens	None	Epithelium	Kidney	DNase	3169_sort_peaks.narrowPeak.bed
+3170	GSM665815	Homo sapiens	None	Epithelium	Large Intestine	DNase	3170_sort_peaks.narrowPeak.bed
+3171	GSM665814	Homo sapiens	None	Epithelium	Fetal Heart	DNase	3171_sort_peaks.narrowPeak.bed
+3172	GSM665813	Homo sapiens	None	T Lymphocyte	Blood	DNase	3172_sort_peaks.narrowPeak.bed
+3173	GSM665812	Homo sapiens	None	T Lymphocyte	Blood	DNase	3173_sort_peaks.narrowPeak.bed
+3174	GSM665811	Homo sapiens	None	Epithelium	Fetal Heart	DNase	3174_sort_peaks.narrowPeak.bed
+3175	GSM665810	Homo sapiens	None	Epithelium	Fetal Kidney Right	DNase	3175_sort_peaks.narrowPeak.bed
+3176	GSM665809	Homo sapiens	None	Epithelium	Fetal Heart	DNase	3176_sort_peaks.narrowPeak.bed
+3177	GSM665808	Homo sapiens	None	Epithelium	Lung	DNase	3177_sort_peaks.narrowPeak.bed
+3178	GSM665807	Homo sapiens	None	Epithelium	Lung	DNase	3178_sort_peaks.narrowPeak.bed
+3179	GSM665806	Homo sapiens	None	Epithelium	Lung	DNase	3179_sort_peaks.narrowPeak.bed
+3180	GSM665805	Homo sapiens	None	Epithelium	Lung	DNase	3180_sort_peaks.narrowPeak.bed
+3181	GSM665804	Homo sapiens	None	None	Fetal Brain	DNase	3181_sort_peaks.narrowPeak.bed
+3182	GSM665799	Homo sapiens	None	None	Fetal Adrenal Gland	DNase	3182_sort_peaks.narrowPeak.bed
+3183	GSM665798	Homo sapiens	None	Haematopoietic Progenitor Cell	Blood	DNase	3183_sort_peaks.narrowPeak.bed
+3184	GSM595930	Homo sapiens	None	Epithelium	Lung	DNase	3184_sort_peaks.narrowPeak.bed
+3185	GSM595929	Homo sapiens	None	Epithelium	Lung	DNase	3185_sort_peaks.narrowPeak.bed
+3186	GSM595928	Homo sapiens	None	None	Fetal Brain	DNase	3186_sort_peaks.narrowPeak.bed
+3187	GSM595927	Homo sapiens	None	Epithelium	Lung	DNase	3187_sort_peaks.narrowPeak.bed
+3188	GSM595926	Homo sapiens	None	None	Fetal Brain	DNase	3188_sort_peaks.narrowPeak.bed
+3189	GSM595925	Homo sapiens	None	Epithelium	Lung	DNase	3189_sort_peaks.narrowPeak.bed
+3190	GSM595924	Homo sapiens	None	Epithelium	Lung	DNase	3190_sort_peaks.narrowPeak.bed
+3191	GSM595923	Homo sapiens	None	None	Fetal Brain	DNase	3191_sort_peaks.narrowPeak.bed
+3192	GSM595922	Homo sapiens	None	None	Fetal Brain	DNase	3192_sort_peaks.narrowPeak.bed
+3193	GSM595921	Homo sapiens	None	Epithelium	Lung	DNase	3193_sort_peaks.narrowPeak.bed
+3194	GSM595920	Homo sapiens	None	None	Fetal Brain	DNase	3194_sort_peaks.narrowPeak.bed
+3195	GSM595919	Homo sapiens	None	Haematopoietic Progenitor Cell	Blood	DNase	3195_sort_peaks.narrowPeak.bed
+3196	GSM595918	Homo sapiens	None	Haematopoietic Progenitor Cell	Blood	DNase	3196_sort_peaks.narrowPeak.bed
+3197	GSM595917	Homo sapiens	None	Haematopoietic Progenitor Cell	Blood	DNase	3197_sort_peaks.narrowPeak.bed
+3198	GSM595916	Homo sapiens	None	Epithelium	Lung	DNase	3198_sort_peaks.narrowPeak.bed
+3199	GSM595915	Homo sapiens	None	Epithelium	Lung	DNase	3199_sort_peaks.narrowPeak.bed
+3200	GSM595914	Homo sapiens	None	Haematopoietic Progenitor Cell	Blood	DNase	3200_sort_peaks.narrowPeak.bed
+3201	GSM595913	Homo sapiens	None	None	Fetal Brain	DNase	3201_sort_peaks.narrowPeak.bed
+3202	GSM530664	Homo sapiens	None	Haematopoietic Progenitor Cell	Blood	DNase	3202_sort_peaks.narrowPeak.bed
+3203	GSM530663	Homo sapiens	None	Haematopoietic Progenitor Cell	Blood	DNase	3203_sort_peaks.narrowPeak.bed
+3204	GSM530662	Homo sapiens	None	Epithelium	Lung	DNase	3204_sort_peaks.narrowPeak.bed
+3205	GSM530661	Homo sapiens	None	Epithelium	Fetal Heart	DNase	3205_sort_peaks.narrowPeak.bed
+3206	GSM530660	Homo sapiens	None	Haematopoietic Progenitor Cell	Blood	DNase	3206_sort_peaks.narrowPeak.bed
+3207	GSM530659	Homo sapiens	None	Haematopoietic Progenitor Cell	Blood	DNase	3207_sort_peaks.narrowPeak.bed
+3208	GSM530658	Homo sapiens	None	Haematopoietic Progenitor Cell	Blood	DNase	3208_sort_peaks.narrowPeak.bed
+3209	GSM530657	Homo sapiens	None	Haematopoietic Progenitor Cell	Blood	DNase	3209_sort_peaks.narrowPeak.bed
+3210	GSM530656	Homo sapiens	None	Epithelium	Lung	DNase	3210_sort_peaks.narrowPeak.bed
+3211	GSM530655	Homo sapiens	None	Cortex	Fetal Kidney	DNase	3211_sort_peaks.narrowPeak.bed
+3212	GSM530654	Homo sapiens	None	Epithelium	Fetal Heart	DNase	3212_sort_peaks.narrowPeak.bed
+3213	GSM530653	Homo sapiens	None	None	Fetal Adrenal Gland	DNase	3213_sort_peaks.narrowPeak.bed
+3214	GSM530652	Homo sapiens	None	Haematopoietic Progenitor Cell	Blood	DNase	3214_sort_peaks.narrowPeak.bed
+3215	GSM530651	Homo sapiens	None	None	Fetal Brain	DNase	3215_sort_peaks.narrowPeak.bed
+3216	GSM493387	Homo sapiens	None	Haematopoietic Progenitor Cell	Blood	DNase	3216_sort_peaks.narrowPeak.bed
+3217	GSM493386	Homo sapiens	None	Haematopoietic Progenitor Cell	Blood	DNase	3217_sort_peaks.narrowPeak.bed
+3218	GSM493385	Homo sapiens	None	Cortex	Fetal Kidney	DNase	3218_sort_peaks.narrowPeak.bed
+3219	GSM493384	Homo sapiens	None	Haematopoietic Progenitor Cell	Blood	DNase	3219_sort_peaks.narrowPeak.bed
+5020	GSM763533	Homo sapiens	HeLa	Epithelium	Cervix	DNase	5020_sort_peaks.narrowPeak.bed
+5021	GSM763534	Homo sapiens	BJ	Fibroblast	Skin	DNase	5021_sort_peaks.narrowPeak.bed
+5026	GSM759667	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	5026_sort_peaks.narrowPeak.bed
+5027	GSM759668	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	5027_sort_peaks.narrowPeak.bed
+5120	GSM816628	Homo sapiens	None	B Lymphocyte	Lymph Node	DNase	5120_sort_peaks.narrowPeak.bed
+5151	GSM623484	Homo sapiens	None	Lymphocyte	Blood	DNase	5151_sort_peaks.narrowPeak.bed
+5152	GSM623485	Homo sapiens	None	Lymphocyte	Blood	DNase	5152_sort_peaks.narrowPeak.bed
+5153	GSM623486	Homo sapiens	None	Lymphocyte	Blood	DNase	5153_sort_peaks.narrowPeak.bed
+5154	GSM623487	Homo sapiens	None	Lymphocyte	Blood	DNase	5154_sort_peaks.narrowPeak.bed
+5155	GSM623488	Homo sapiens	None	Lymphocyte	Blood	DNase	5155_sort_peaks.narrowPeak.bed
+5156	GSM623489	Homo sapiens	None	Lymphocyte	Blood	DNase	5156_sort_peaks.narrowPeak.bed
+5157	GSM623490	Homo sapiens	None	Lymphocyte	Blood	DNase	5157_sort_peaks.narrowPeak.bed
+5158	GSM623491	Homo sapiens	None	Lymphocyte	Blood	DNase	5158_sort_peaks.narrowPeak.bed
+5159	GSM623492	Homo sapiens	None	Lymphocyte	Blood	DNase	5159_sort_peaks.narrowPeak.bed
+5160	GSM623493	Homo sapiens	None	Lymphocyte	Blood	DNase	5160_sort_peaks.narrowPeak.bed
+5161	GSM623494	Homo sapiens	None	Lymphocyte	Blood	DNase	5161_sort_peaks.narrowPeak.bed
+5162	GSM623495	Homo sapiens	None	Lymphocyte	Blood	DNase	5162_sort_peaks.narrowPeak.bed
+5163	GSM623496	Homo sapiens	None	Lymphocyte	Blood	DNase	5163_sort_peaks.narrowPeak.bed
+5164	GSM623497	Homo sapiens	None	Lymphocyte	Blood	DNase	5164_sort_peaks.narrowPeak.bed
+5165	GSM623498	Homo sapiens	None	Lymphocyte	Blood	DNase	5165_sort_peaks.narrowPeak.bed
+5166	GSM623499	Homo sapiens	None	Lymphocyte	Blood	DNase	5166_sort_peaks.narrowPeak.bed
+5215	GSM586893	Homo sapiens	None	Epithelium	Pancreatic Islet	DNase	5215_sort_peaks.narrowPeak.bed
+5216	GSM586892	Homo sapiens	None	Epithelium	Pancreatic Islet	DNase	5216_sort_peaks.narrowPeak.bed
+5217	GSM586891	Homo sapiens	None	Epithelium	Pancreatic Islet	DNase	5217_sort_peaks.narrowPeak.bed
+6712	GSM489277	Homo sapiens	GM12878	Lymphoblastoid	Blood	DNase	6712_sort_peaks.narrowPeak.bed
+6713	GSM489278	Homo sapiens	GM12878	Lymphoblastoid	Blood	DNase	6713_sort_peaks.narrowPeak.bed
+6714	GSM489279	Homo sapiens	GM12878	Lymphoblastoid	Blood	DNase	6714_sort_peaks.narrowPeak.bed
+6715	GSM489280	Homo sapiens	GM12891	Lymphoblastoid	Blood	DNase	6715_sort_peaks.narrowPeak.bed
+6716	GSM489281	Homo sapiens	GM12891	Lymphoblastoid	Blood	DNase	6716_sort_peaks.narrowPeak.bed
+6717	GSM489282	Homo sapiens	GM12892	Lymphoblastoid	Blood	DNase	6717_sort_peaks.narrowPeak.bed
+6718	GSM489283	Homo sapiens	GM12892	Lymphoblastoid	Blood	DNase	6718_sort_peaks.narrowPeak.bed
+6719	GSM489284	Homo sapiens	GM19240	Lymphoblastoid	Blood	DNase	6719_sort_peaks.narrowPeak.bed
+6720	GSM489285	Homo sapiens	GM19240	Lymphoblastoid	Blood	DNase	6720_sort_peaks.narrowPeak.bed
+6721	GSM489286	Homo sapiens	GM19238	Lymphoblastoid	Blood	DNase	6721_sort_peaks.narrowPeak.bed
+6722	GSM489287	Homo sapiens	GM19238	Lymphoblastoid	Blood	DNase	6722_sort_peaks.narrowPeak.bed
+6723	GSM489288	Homo sapiens	GM19239	Lymphoblastoid	Blood	DNase	6723_sort_peaks.narrowPeak.bed
+6724	GSM489289	Homo sapiens	GM19239	Lymphoblastoid	Blood	DNase	6724_sort_peaks.narrowPeak.bed
+7436	GSM816639	Homo sapiens	HPDE6-E6E7	Epithelium	Pancreas	DNase	7436_sort_peaks.narrowPeak.bed
+7480	GSM816655	Homo sapiens	K562	Erythroblast	Bone Marrow	DNase	7480_sort_peaks.narrowPeak.bed
+7638	GSM816634	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	7638_sort_peaks.narrowPeak.bed
+7639	GSM816637	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	7639_sort_peaks.narrowPeak.bed
+7647	GSM816627	Homo sapiens	MCF-7	Epithelium	Mammary Gland	DNase	7647_sort_peaks.narrowPeak.bed
+7648	GSM816670	Homo sapiens	MCF-7	Epithelium	Mammary Gland	DNase	7648_sort_peaks.narrowPeak.bed
+7670	GSM816636	Homo sapiens	None	None	Brain	DNase	7670_sort_peaks.narrowPeak.bed
+7713	GSM816631	Homo sapiens	None	Melanocyte	Skin	DNase	7713_sort_peaks.narrowPeak.bed
+7727	GSM816635	Homo sapiens	NHEK	Keratinocyte	Skin	DNase	7727_sort_peaks.narrowPeak.bed
+7838	GSM816673	Homo sapiens	T47D	Epithelium	Mammary Gland	DNase	7838_sort_peaks.narrowPeak.bed
+7922	GSM816654	Homo sapiens	None	Osteoblast	Bone	DNase	7922_sort_peaks.narrowPeak.bed
+7924	GSM816672	Homo sapiens	None	Epithelium	Liver	DNase	7924_sort_peaks.narrowPeak.bed
+8488	GSM722713	Homo sapiens	Kasumi-1	Myeloblast	Blood	DNase	8488_sort_peaks.narrowPeak.bed
+8489	GSM722714	Homo sapiens	None	Myeloblast	Blood	DNase	8489_sort_peaks.narrowPeak.bed
+8490	GSM722715	Homo sapiens	None	Myeloblast	Bone Marrow	DNase	8490_sort_peaks.narrowPeak.bed
+8491	GSM722716	Homo sapiens	None	Myeloblast	Bone Marrow	DNase	8491_sort_peaks.narrowPeak.bed
+8495	GSM822387	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	8495_sort_peaks.narrowPeak.bed
+8496	GSM822388	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	8496_sort_peaks.narrowPeak.bed
+8497	GSM822389	Homo sapiens	MCF-7	Epithelium	Mammary Gland	DNase	8497_sort_peaks.narrowPeak.bed
+8498	GSM822390	Homo sapiens	MCF-7	Epithelium	Mammary Gland	DNase	8498_sort_peaks.narrowPeak.bed
+33596	GSM748509	Homo sapiens	HepG2	Epithelium	Liver	DNase	33596_sort_peaks.narrowPeak.bed
+33603	GSM748507	Homo sapiens	HepG2	Epithelium	Liver	DNase	33603_sort_peaks.narrowPeak.bed
+33612	GSM748508	Homo sapiens	HepG2	Epithelium	Liver	DNase	33612_sort_peaks.narrowPeak.bed
+35742	GSM623513	Homo sapiens	H1	Embryonic Stem Cell	Embryo	DNase	35742_sort_peaks.narrowPeak.bed
+35743	GSM623516	Homo sapiens	K562	Erythroblast	Bone Marrow	DNase	35743_sort_peaks.narrowPeak.bed
+35744	GSM623515	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	35744_sort_peaks.narrowPeak.bed
+35745	GSM623512	Homo sapiens	GM18507	Lymphoblastoid	Blood	DNase	35745_sort_peaks.narrowPeak.bed
+35746	GSM623517	Homo sapiens	NHEK	Keratinocyte	Skin	DNase	35746_sort_peaks.narrowPeak.bed
+35747	GSM623514	Homo sapiens	HeLa-S3	Epithelium	Cervix	DNase	35747_sort_peaks.narrowPeak.bed
+39138	GSM883679	Homo sapiens	None	Epithelium	Colon	DNase	39138_sort_peaks.narrowPeak.bed
+39154	GSM883680	Homo sapiens	None	Epithelium	Colon	DNase	39154_sort_peaks.narrowPeak.bed
+40395	GSM1036259	Homo sapiens	None	T Lymphocyte	Blood	DNase	40395_sort_peaks.narrowPeak.bed
+40396	GSM1036260	Homo sapiens	None	Epithelium	Fetal Large Intestine	DNase	40396_sort_peaks.narrowPeak.bed
+40397	GSM1036373	Homo sapiens	None	T Lymphocyte	Blood	DNase	40397_sort_peaks.narrowPeak.bed
+40398	GSM1036374	Homo sapiens	None	T Lymphocyte	Blood	DNase	40398_sort_peaks.narrowPeak.bed
+40399	GSM1036372	Homo sapiens	None	Natural Killer Cell	Blood	DNase	40399_sort_peaks.narrowPeak.bed
+40400	GSM778701	Homo sapiens	GM19127	Lymphoblastoid	None	DNase	40400_sort_peaks.narrowPeak.bed
+40401	GSM778724	Homo sapiens	GM19207	Lymphoblastoid	None	DNase	40401_sort_peaks.narrowPeak.bed
+40402	GSM778702	Homo sapiens	GM19130	Lymphoblastoid	None	DNase	40402_sort_peaks.narrowPeak.bed
+40403	GSM778711	Homo sapiens	GM19152	Lymphoblastoid	None	DNase	40403_sort_peaks.narrowPeak.bed
+40404	GSM778700	Homo sapiens	GM19119	Lymphoblastoid	None	DNase	40404_sort_peaks.narrowPeak.bed
+40405	GSM778727	Homo sapiens	GM19222	Lymphoblastoid	None	DNase	40405_sort_peaks.narrowPeak.bed
+40406	GSM778728	Homo sapiens	GM19223	Lymphoblastoid	None	DNase	40406_sort_peaks.narrowPeak.bed
+40407	GSM778726	Homo sapiens	GM19210	Lymphoblastoid	None	DNase	40407_sort_peaks.narrowPeak.bed
+40408	GSM778732	Homo sapiens	GM19257	Lymphoblastoid	None	DNase	40408_sort_peaks.narrowPeak.bed
+40409	GSM778725	Homo sapiens	GM19209	Lymphoblastoid	None	DNase	40409_sort_peaks.narrowPeak.bed
+40410	GSM778715	Homo sapiens	GM19171	Lymphoblastoid	None	DNase	40410_sort_peaks.narrowPeak.bed
+40411	GSM778718	Homo sapiens	GM19193	Lymphoblastoid	Blood	DNase	40411_sort_peaks.narrowPeak.bed
+40412	GSM778730	Homo sapiens	GM19238	Lymphoblastoid	Blood	DNase	40412_sort_peaks.narrowPeak.bed
+40413	GSM778706	Homo sapiens	GM19140	Lymphoblastoid	None	DNase	40413_sort_peaks.narrowPeak.bed
+40414	GSM778731	Homo sapiens	GM19239	Lymphoblastoid	Blood	DNase	40414_sort_peaks.narrowPeak.bed
+40415	GSM778713	Homo sapiens	GM19159	Lymphoblastoid	None	DNase	40415_sort_peaks.narrowPeak.bed
+40416	GSM778707	Homo sapiens	GM19141	Lymphoblastoid	Blood	DNase	40416_sort_peaks.narrowPeak.bed
+40417	GSM778712	Homo sapiens	GM19153	Lymphoblastoid	None	DNase	40417_sort_peaks.narrowPeak.bed
+40418	GSM778721	Homo sapiens	GM19203	Lymphoblastoid	None	DNase	40418_sort_peaks.narrowPeak.bed
+40419	GSM778729	Homo sapiens	GM19225	Lymphoblastoid	None	DNase	40419_sort_peaks.narrowPeak.bed
+40420	GSM778709	Homo sapiens	GM19144	Lymphoblastoid	None	DNase	40420_sort_peaks.narrowPeak.bed
+40421	GSM778710	Homo sapiens	GM19147	Lymphoblastoid	None	DNase	40421_sort_peaks.narrowPeak.bed
+40422	GSM778719	Homo sapiens	GM19200	Lymphoblastoid	Blood	DNase	40422_sort_peaks.narrowPeak.bed
+40423	GSM778717	Homo sapiens	GM19192	Lymphoblastoid	None	DNase	40423_sort_peaks.narrowPeak.bed
+40424	GSM778716	Homo sapiens	GM19190	Lymphoblastoid	None	DNase	40424_sort_peaks.narrowPeak.bed
+40425	GSM778703	Homo sapiens	GM19131	Lymphoblastoid	None	DNase	40425_sort_peaks.narrowPeak.bed
+40426	GSM778705	Homo sapiens	GM19138	Lymphoblastoid	None	DNase	40426_sort_peaks.narrowPeak.bed
+40427	GSM778720	Homo sapiens	GM19201	Lymphoblastoid	None	DNase	40427_sort_peaks.narrowPeak.bed
+40428	GSM778704	Homo sapiens	GM19137	Lymphoblastoid	None	DNase	40428_sort_peaks.narrowPeak.bed
+40429	GSM778722	Homo sapiens	GM19204	Lymphoblastoid	Blood	DNase	40429_sort_peaks.narrowPeak.bed
+40430	GSM778708	Homo sapiens	GM19143	Lymphoblastoid	None	DNase	40430_sort_peaks.narrowPeak.bed
+40431	GSM778723	Homo sapiens	GM19206	Lymphoblastoid	None	DNase	40431_sort_peaks.narrowPeak.bed
+40432	GSM778714	Homo sapiens	GM19160	Lymphoblastoid	None	DNase	40432_sort_peaks.narrowPeak.bed
+40434	GSM1024610	Homo sapiens	None	Melanocyte	Foreskin	DNase	40434_sort_peaks.narrowPeak.bed
+40440	GSM1024607	Homo sapiens	None	Epithelium	Fetal Kidney Right	DNase	40440_sort_peaks.narrowPeak.bed
+40458	GSM1024608	Homo sapiens	None	Epithelium	Fetal Kidney	DNase	40458_sort_peaks.narrowPeak.bed
+40468	GSM1024605	Homo sapiens	None	None	Fetal Muscle Arm	DNase	40468_sort_peaks.narrowPeak.bed
+40474	GSM1024609	Homo sapiens	None	Epithelium	Mammary Gland	DNase	40474_sort_peaks.narrowPeak.bed
+40494	GSM1024606	Homo sapiens	None	None	Fetal Stomach	DNase	40494_sort_peaks.narrowPeak.bed
+40498	GSM817212	Homo sapiens	None	None	Fetal Muscle Back	DNase	40498_sort_peaks.narrowPeak.bed
+40499	GSM817211	Homo sapiens	None	Cortex	Fetal Kidney Left	DNase	40499_sort_peaks.narrowPeak.bed
+40500	GSM817207	Homo sapiens	None	None	Fetal Muscle Back	DNase	40500_sort_peaks.narrowPeak.bed
+40501	GSM817201	Homo sapiens	None	None	Fetal Muscle Leg	DNase	40501_sort_peaks.narrowPeak.bed
+40502	GSM817217	Homo sapiens	None	None	Fetal Muscle Back	DNase	40502_sort_peaks.narrowPeak.bed
+40503	GSM817200	Homo sapiens	None	None	Fetal Muscle Back	DNase	40503_sort_peaks.narrowPeak.bed
+40504	GSM817205	Homo sapiens	None	Epithelium	Fetal Renal Pelvis Left	DNase	40504_sort_peaks.narrowPeak.bed
+40505	GSM817216	Homo sapiens	None	None	Fetal Muscle Arm	DNase	40505_sort_peaks.narrowPeak.bed
+40506	GSM817218	Homo sapiens	None	Epithelium	Fetal Renal Pelvis	DNase	40506_sort_peaks.narrowPeak.bed
+40507	GSM817214	Homo sapiens	None	None	Fetal Muscle Arm	DNase	40507_sort_peaks.narrowPeak.bed
+40508	GSM817208	Homo sapiens	None	Epithelium	Fetal Renal Pelvis Right	DNase	40508_sort_peaks.narrowPeak.bed
+40509	GSM817206	Homo sapiens	None	None	Fetal Muscle Leg	DNase	40509_sort_peaks.narrowPeak.bed
+40510	GSM817204	Homo sapiens	None	Epithelium	Fetal Renal Pelvis Right	DNase	40510_sort_peaks.narrowPeak.bed
+40511	GSM817220	Homo sapiens	None	Epithelium	Fetal Heart	DNase	40511_sort_peaks.narrowPeak.bed
+40512	GSM817203	Homo sapiens	None	Cortex	Fetal Kidney Left	DNase	40512_sort_peaks.narrowPeak.bed
+40513	GSM817215	Homo sapiens	H1	Embryonic Stem Cell	Embryo	DNase	40513_sort_peaks.narrowPeak.bed
+40514	GSM817209	Homo sapiens	None	Epithelium	Fetal Renal Pelvis Left	DNase	40514_sort_peaks.narrowPeak.bed
+40515	GSM817219	Homo sapiens	None	Epithelium	Fetal Placenta	DNase	40515_sort_peaks.narrowPeak.bed
+40516	GSM817202	Homo sapiens	None	Cortex	Fetal Kidney Right	DNase	40516_sort_peaks.narrowPeak.bed
+40517	GSM817213	Homo sapiens	None	None	Fetal Muscle Leg	DNase	40517_sort_peaks.narrowPeak.bed
+40518	GSM817210	Homo sapiens	None	Cortex	Fetal Kidney Right	DNase	40518_sort_peaks.narrowPeak.bed
+40520	GSM905351	Homo sapiens	U87MG	Glial Cell	Brain	DNase	40520_sort_peaks.narrowPeak.bed
+40521	GSM905353	Homo sapiens	U87MG	Glial Cell	Brain	DNase	40521_sort_peaks.narrowPeak.bed
+40522	GSM905352	Homo sapiens	U87MG	Glial Cell	Brain	DNase	40522_sort_peaks.narrowPeak.bed
+40523	GSM905354	Homo sapiens	U87MG	Glial Cell	Brain	DNase	40523_sort_peaks.narrowPeak.bed
+40524	GSM1059535	Homo sapiens	None	Epithelium	Fetal Placenta	DNase	40524_sort_peaks.narrowPeak.bed
+40525	GSM1059531	Homo sapiens	None	None	Fetal Muscle Back	DNase	40525_sort_peaks.narrowPeak.bed
+40526	GSM1059530	Homo sapiens	None	T Lymphocyte	Blood	DNase	40526_sort_peaks.narrowPeak.bed
+40527	GSM1059534	Homo sapiens	None	None	Fetal Muscle Trunk	DNase	40527_sort_peaks.narrowPeak.bed
+40528	GSM1059533	Homo sapiens	None	None	Fetal Muscle Leg	DNase	40528_sort_peaks.narrowPeak.bed
+40529	GSM1059536	Homo sapiens	None	None	Fetal Spinal Cord	DNase	40529_sort_peaks.narrowPeak.bed
+40530	GSM1059532	Homo sapiens	None	None	Fetal Stomach	DNase	40530_sort_peaks.narrowPeak.bed
+40531	GSM1059529	Homo sapiens	None	None	Cord blood	DNase	40531_sort_peaks.narrowPeak.bed
+40558	GSM778668	Homo sapiens	GM18504	Lymphoblastoid	None	DNase	40558_sort_peaks.narrowPeak.bed
+40559	GSM778699	Homo sapiens	GM19116	Lymphoblastoid	None	DNase	40559_sort_peaks.narrowPeak.bed
+40560	GSM778679	Homo sapiens	GM18852	Lymphoblastoid	None	DNase	40560_sort_peaks.narrowPeak.bed
+40561	GSM778687	Homo sapiens	GM18870	Lymphoblastoid	None	DNase	40561_sort_peaks.narrowPeak.bed
+40562	GSM778665	Homo sapiens	GM18499	Lymphoblastoid	None	DNase	40562_sort_peaks.narrowPeak.bed
+40563	GSM778698	Homo sapiens	GM19114	Lymphoblastoid	None	DNase	40563_sort_peaks.narrowPeak.bed
+40564	GSM778683	Homo sapiens	GM18858	Lymphoblastoid	None	DNase	40564_sort_peaks.narrowPeak.bed
+40565	GSM778695	Homo sapiens	GM19098	Lymphoblastoid	None	DNase	40565_sort_peaks.narrowPeak.bed
+40566	GSM778669	Homo sapiens	GM18505	Lymphoblastoid	Blood	DNase	40566_sort_peaks.narrowPeak.bed
+40567	GSM778693	Homo sapiens	GM19092	Lymphoblastoid	None	DNase	40567_sort_peaks.narrowPeak.bed
+40568	GSM778684	Homo sapiens	GM18859	Lymphoblastoid	None	DNase	40568_sort_peaks.narrowPeak.bed
+40569	GSM778696	Homo sapiens	GM19099	Lymphoblastoid	Blood	DNase	40569_sort_peaks.narrowPeak.bed
+40570	GSM778677	Homo sapiens	GM18520	Lymphoblastoid	None	DNase	40570_sort_peaks.narrowPeak.bed
+40571	GSM778670	Homo sapiens	GM18507	Lymphoblastoid	Blood	DNase	40571_sort_peaks.narrowPeak.bed
+40572	GSM778694	Homo sapiens	GM19093	Lymphoblastoid	None	DNase	40572_sort_peaks.narrowPeak.bed
+40573	GSM778692	Homo sapiens	GM18916	Lymphoblastoid	None	DNase	40573_sort_peaks.narrowPeak.bed
+40574	GSM778663	Homo sapiens	GM18486	Lymphoblastoid	Blood	DNase	40574_sort_peaks.narrowPeak.bed
+40575	GSM778664	Homo sapiens	GM18498	Lymphoblastoid	None	DNase	40575_sort_peaks.narrowPeak.bed
+40576	GSM778689	Homo sapiens	GM18909	Lymphoblastoid	None	DNase	40576_sort_peaks.narrowPeak.bed
+40577	GSM778685	Homo sapiens	GM18861	Lymphoblastoid	None	DNase	40577_sort_peaks.narrowPeak.bed
+40578	GSM778674	Homo sapiens	GM18516	Lymphoblastoid	Blood	DNase	40578_sort_peaks.narrowPeak.bed
+40579	GSM778697	Homo sapiens	GM19101	Lymphoblastoid	None	DNase	40579_sort_peaks.narrowPeak.bed
+40580	GSM778690	Homo sapiens	GM18912	Lymphoblastoid	None	DNase	40580_sort_peaks.narrowPeak.bed
+40581	GSM778671	Homo sapiens	GM18508	Lymphoblastoid	Blood	DNase	40581_sort_peaks.narrowPeak.bed
+40582	GSM778672	Homo sapiens	GM18510	Lymphoblastoid	None	DNase	40582_sort_peaks.narrowPeak.bed
+40583	GSM778691	Homo sapiens	GM18913	Lymphoblastoid	None	DNase	40583_sort_peaks.narrowPeak.bed
+40584	GSM778682	Homo sapiens	GM18856	Lymphoblastoid	None	DNase	40584_sort_peaks.narrowPeak.bed
+40585	GSM778667	Homo sapiens	GM18502	Lymphoblastoid	None	DNase	40585_sort_peaks.narrowPeak.bed
+40586	GSM778676	Homo sapiens	GM18519	Lymphoblastoid	None	DNase	40586_sort_peaks.narrowPeak.bed
+40587	GSM778673	Homo sapiens	GM18511	Lymphoblastoid	None	DNase	40587_sort_peaks.narrowPeak.bed
+40588	GSM778686	Homo sapiens	GM18862	Lymphoblastoid	None	DNase	40588_sort_peaks.narrowPeak.bed
+40589	GSM778678	Homo sapiens	GM18522	Lymphoblastoid	Blood	DNase	40589_sort_peaks.narrowPeak.bed
+40590	GSM778675	Homo sapiens	GM18517	Lymphoblastoid	None	DNase	40590_sort_peaks.narrowPeak.bed
+40591	GSM778688	Homo sapiens	GM18907	Lymphoblastoid	None	DNase	40591_sort_peaks.narrowPeak.bed
+40592	GSM778680	Homo sapiens	GM18853	Lymphoblastoid	None	DNase	40592_sort_peaks.narrowPeak.bed
+40593	GSM778681	Homo sapiens	GM18855	Lymphoblastoid	None	DNase	40593_sort_peaks.narrowPeak.bed
+40594	GSM778666	Homo sapiens	GM18501	Lymphoblastoid	None	DNase	40594_sort_peaks.narrowPeak.bed
+40595	GSM646568	Homo sapiens	GM06990	B Lymphocyte	Blood	DNase	40595_sort_peaks.narrowPeak.bed
+40596	GSM646564	Homo sapiens	None	Fibroblast	Skin	DNase	40596_sort_peaks.narrowPeak.bed
+40598	GSM646565	Homo sapiens	None	Epithelium	None	DNase	40598_sort_peaks.narrowPeak.bed
+40599	GSM646560	Homo sapiens	None	Epithelium	Amnion	DNase	40599_sort_peaks.narrowPeak.bed
+40600	GSM646561	Homo sapiens	None	Epithelium	Mammary Gland	DNase	40600_sort_peaks.narrowPeak.bed
+40601	GSM646566	Homo sapiens	SK-N-SH_RA	Neuron	Brain	DNase	40601_sort_peaks.narrowPeak.bed
+40602	GSM646569	Homo sapiens	None	Th1	None	DNase	40602_sort_peaks.narrowPeak.bed
+40603	GSM646563	Homo sapiens	H7	Embryonic Stem Cell	Embryo	DNase	40603_sort_peaks.narrowPeak.bed
+40604	GSM646567	Homo sapiens	K562	Erythroblast	Bone Marrow	DNase	40604_sort_peaks.narrowPeak.bed
+40605	GSM646570	Homo sapiens	None	Endothelial Cell	Blood	DNase	40605_sort_peaks.narrowPeak.bed
+40606	GSM646559	Homo sapiens	HepG2	Epithelium	Liver	DNase	40606_sort_peaks.narrowPeak.bed
+40614	GSM753974	Homo sapiens	None	Epithelium	Mammary Gland	DNase	40614_sort_peaks.narrowPeak.bed
+40615	GSM753973	Homo sapiens	None	Epithelium	Mammary Gland	DNase	40615_sort_peaks.narrowPeak.bed
+40646	GSM736513	Homo sapiens	None	Monocyte	Blood	DNase	40646_sort_peaks.narrowPeak.bed
+40692	GSM909313	Homo sapiens	H1	Embryonic Stem Cell	Embryo	DNase	40692_sort_peaks.narrowPeak.bed
+40693	GSM909311	Homo sapiens	iPS DF 19.11	iPSC	Foreskin	DNase	40693_sort_peaks.narrowPeak.bed
+40694	GSM909314	Homo sapiens	H1	Embryonic Stem Cell	Embryo	DNase	40694_sort_peaks.narrowPeak.bed
+40695	GSM909312	Homo sapiens	None	Fibroblast	Foreskin	DNase	40695_sort_peaks.narrowPeak.bed
+40696	GSM931361	Homo sapiens	WI-38	Fibroblast	Embryonic Lung	DNase	40696_sort_peaks.narrowPeak.bed
+40697	GSM931362	Homo sapiens	WI-38	Fibroblast	Embryonic Lung	DNase	40697_sort_peaks.narrowPeak.bed
+40698	GSM1102740	Homo sapiens	None	Epithelium	Fetal Kidney	DNase	40698_sort_peaks.narrowPeak.bed
+40699	GSM1102737	Homo sapiens	None	T Lymphocyte	Cord blood	DNase	40699_sort_peaks.narrowPeak.bed
+40700	GSM1102736	Homo sapiens	None	Monocyte	Blood	DNase	40700_sort_peaks.narrowPeak.bed
+40701	GSM878645	Homo sapiens	None	None	Fetal Skin Biceps Left	DNase	40701_sort_peaks.narrowPeak.bed
+40702	GSM878659	Homo sapiens	None	Epithelium	Fetal Placenta	DNase	40702_sort_peaks.narrowPeak.bed
+40703	GSM878620	Homo sapiens	None	None	Fetal Muscle Arm	DNase	40703_sort_peaks.narrowPeak.bed
+40704	GSM878644	Homo sapiens	None	None	Fetal Skin Biceps Left	DNase	40704_sort_peaks.narrowPeak.bed
+40705	GSM878636	Homo sapiens	None	None	Fetal Skin Abdomen	DNase	40705_sort_peaks.narrowPeak.bed
+40706	GSM878621	Homo sapiens	H1	Embryonic Stem Cell	Embryo	DNase	40706_sort_peaks.narrowPeak.bed
+40707	GSM878610	Homo sapiens	None	None	Fetal Muscle Arm	DNase	40707_sort_peaks.narrowPeak.bed
+40708	GSM878656	Homo sapiens	None	None	Fetal Thymus	DNase	40708_sort_peaks.narrowPeak.bed
+40709	GSM878623	Homo sapiens	None	Fibroblast	Fetal Skin Back	DNase	40709_sort_peaks.narrowPeak.bed
+40710	GSM878624	Homo sapiens	None	Fibroblast	Fetal Skin Back	DNase	40710_sort_peaks.narrowPeak.bed
+40711	GSM878616	Homo sapiens	H1	Embryonic Stem Cell	Embryo	DNase	40711_sort_peaks.narrowPeak.bed
+40712	GSM878660	Homo sapiens	None	None	Fetal Stomach	DNase	40712_sort_peaks.narrowPeak.bed
+40713	GSM878626	Homo sapiens	None	None	Fetal Muscle Leg	DNase	40713_sort_peaks.narrowPeak.bed
+40714	GSM878652	Homo sapiens	None	None	Fetal Brain	DNase	40714_sort_peaks.narrowPeak.bed
+40715	GSM878628	Homo sapiens	H1	Embryonic Stem Cell	Embryo	DNase	40715_sort_peaks.narrowPeak.bed
+40716	GSM878648	Homo sapiens	None	None	Fetal Skin Quadriceps Left	DNase	40716_sort_peaks.narrowPeak.bed
+40717	GSM878617	Homo sapiens	None	None	Fetal Testis	DNase	40717_sort_peaks.narrowPeak.bed
+40718	GSM878639	Homo sapiens	None	None	Fetal Muscle Back	DNase	40718_sort_peaks.narrowPeak.bed
+40719	GSM878658	Homo sapiens	None	None	Fetal Adrenal Gland	DNase	40719_sort_peaks.narrowPeak.bed
+40720	GSM878622	Homo sapiens	None	None	Fetal Muscle Leg	DNase	40720_sort_peaks.narrowPeak.bed
+40721	GSM878619	Homo sapiens	None	None	Fetal Muscle Arm	DNase	40721_sort_peaks.narrowPeak.bed
+40722	GSM878642	Homo sapiens	None	None	Fetal Skin Biceps Right	DNase	40722_sort_peaks.narrowPeak.bed
+40723	GSM878647	Homo sapiens	None	None	Fetal Skin Quadriceps Right	DNase	40723_sort_peaks.narrowPeak.bed
+40724	GSM878613	Homo sapiens	H9	Embryonic Stem Cell	Embryo	DNase	40724_sort_peaks.narrowPeak.bed
+40725	GSM878653	Homo sapiens	None	None	Fetal Muscle Leg	DNase	40725_sort_peaks.narrowPeak.bed
+40726	GSM878637	Homo sapiens	None	None	Fetal Muscle Leg	DNase	40726_sort_peaks.narrowPeak.bed
+40727	GSM878651	Homo sapiens	None	None	Fetal Brain	DNase	40727_sort_peaks.narrowPeak.bed
+40728	GSM878627	Homo sapiens	None	None	Fetal Thymus	DNase	40728_sort_peaks.narrowPeak.bed
+40729	GSM878655	Homo sapiens	None	None	Fetal Muscle Back	DNase	40729_sort_peaks.narrowPeak.bed
+40730	GSM878657	Homo sapiens	None	None	Fetal Thymus	DNase	40730_sort_peaks.narrowPeak.bed
+40731	GSM878633	Homo sapiens	None	Fibroblast	Fetal Skin Scalp	DNase	40731_sort_peaks.narrowPeak.bed
+40732	GSM878649	Homo sapiens	None	None	Fetal Skin Quadriceps Left	DNase	40732_sort_peaks.narrowPeak.bed
+40733	GSM878611	Homo sapiens	None	None	Fetal Muscle Back	DNase	40733_sort_peaks.narrowPeak.bed
+40734	GSM878662	Homo sapiens	None	Epithelium	Fetal Renal Pelvis	DNase	40734_sort_peaks.narrowPeak.bed
+40735	GSM878640	Homo sapiens	None	None	Fetal Skin Upper Back	DNase	40735_sort_peaks.narrowPeak.bed
+40736	GSM878661	Homo sapiens	None	None	Fetal Spinal Cord	DNase	40736_sort_peaks.narrowPeak.bed
+40737	GSM878646	Homo sapiens	None	None	Fetal Skin Quadriceps Right	DNase	40737_sort_peaks.narrowPeak.bed
+40738	GSM878631	Homo sapiens	None	None	Fetal Muscle Leg	DNase	40738_sort_peaks.narrowPeak.bed
+40739	GSM878629	Homo sapiens	None	Cortex	Fetal Kidney	DNase	40739_sort_peaks.narrowPeak.bed
+40740	GSM878632	Homo sapiens	None	None	Fetal Muscle Back	DNase	40740_sort_peaks.narrowPeak.bed
+40741	GSM878625	Homo sapiens	None	None	Fetal Muscle Arm	DNase	40741_sort_peaks.narrowPeak.bed
+40742	GSM878641	Homo sapiens	None	None	Fetal Skin Upper Back	DNase	40742_sort_peaks.narrowPeak.bed
+40743	GSM878665	Homo sapiens	None	None	Fetal Stomach	DNase	40743_sort_peaks.narrowPeak.bed
+40744	GSM878618	Homo sapiens	None	None	Fetal Muscle Arm	DNase	40744_sort_peaks.narrowPeak.bed
+40745	GSM878615	Homo sapiens	H1	Embryonic Stem Cell	Embryo	DNase	40745_sort_peaks.narrowPeak.bed
+40746	GSM878654	Homo sapiens	None	None	Fetal Muscle Trunk	DNase	40746_sort_peaks.narrowPeak.bed
+40747	GSM878667	Homo sapiens	None	Cortex	Fetal Kidney	DNase	40747_sort_peaks.narrowPeak.bed
+40748	GSM878630	Homo sapiens	None	Epithelium	Fetal Heart	DNase	40748_sort_peaks.narrowPeak.bed
+40749	GSM878664	Homo sapiens	None	None	Fetal Muscle Trunk	DNase	40749_sort_peaks.narrowPeak.bed
+40750	GSM878638	Homo sapiens	None	None	Fetal Muscle Arm	DNase	40750_sort_peaks.narrowPeak.bed
+40751	GSM878614	Homo sapiens	H1	Embryonic Stem Cell	Embryo	DNase	40751_sort_peaks.narrowPeak.bed
+40752	GSM878663	Homo sapiens	None	None	Fetal Spinal Cord	DNase	40752_sort_peaks.narrowPeak.bed
+40753	GSM878635	Homo sapiens	None	None	Fetal Skin Abdomen	DNase	40753_sort_peaks.narrowPeak.bed
+40754	GSM878650	Homo sapiens	None	None	Fetal Brain	DNase	40754_sort_peaks.narrowPeak.bed
+40755	GSM878643	Homo sapiens	None	None	Fetal Skin Biceps Right	DNase	40755_sort_peaks.narrowPeak.bed
+40756	GSM878634	Homo sapiens	None	Fibroblast	Fetal Skin Scalp	DNase	40756_sort_peaks.narrowPeak.bed
+40757	GSM878666	Homo sapiens	None	Epithelium	Fetal Kidney	DNase	40757_sort_peaks.narrowPeak.bed
+40758	GSM878612	Homo sapiens	H9	Embryonic Stem Cell	Embryo	DNase	40758_sort_peaks.narrowPeak.bed
+40759	GSM816643	Homo sapiens	HeLa-S3	Epithelium	Cervix	DNase	40759_sort_peaks.narrowPeak.bed
+40760	GSM816657	Homo sapiens	GM12892	Lymphoblastoid	Blood	DNase	40760_sort_peaks.narrowPeak.bed
+40761	GSM816641	Homo sapiens	None	Hepatocyte	Liver	DNase	40761_sort_peaks.narrowPeak.bed
+40762	GSM816663	Homo sapiens	None	Hepatocyte	Liver	DNase	40762_sort_peaks.narrowPeak.bed
+40763	GSM816665	Homo sapiens	GM12878	Lymphoblastoid	Blood	DNase	40763_sort_peaks.narrowPeak.bed
+40764	GSM816646	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	40764_sort_peaks.narrowPeak.bed
+40765	GSM816658	Homo sapiens	GM19238	Lymphoblastoid	Blood	DNase	40765_sort_peaks.narrowPeak.bed
+40766	GSM816659	Homo sapiens	GM19239	Lymphoblastoid	Blood	DNase	40766_sort_peaks.narrowPeak.bed
+40767	GSM816632	Homo sapiens	H1	Embryonic Stem Cell	Embryo	DNase	40767_sort_peaks.narrowPeak.bed
+40768	GSM816648	Homo sapiens	GM19240	Lymphoblastoid	Blood	DNase	40768_sort_peaks.narrowPeak.bed
+40769	GSM816667	Homo sapiens	8988t	Epithelium	Pancreas	DNase	40769_sort_peaks.narrowPeak.bed
+40770	GSM816671	Homo sapiens	None	Hepatocyte	Liver	DNase	40770_sort_peaks.narrowPeak.bed
+40771	GSM816649	Homo sapiens	A549	Epithelium	Lung	DNase	40771_sort_peaks.narrowPeak.bed
+40772	GSM816662	Homo sapiens	HepG2	Epithelium	Liver	DNase	40772_sort_peaks.narrowPeak.bed
+40773	GSM816656	Homo sapiens	GM12891	Lymphoblastoid	Blood	DNase	40773_sort_peaks.narrowPeak.bed
+40774	GSM816653	Homo sapiens	GM18507	Lymphoblastoid	Blood	DNase	40774_sort_peaks.narrowPeak.bed
+40775	GSM816629	Homo sapiens	None	Embryonic Stem Cell	Embryo	DNase	40775_sort_peaks.narrowPeak.bed
+40776	GSM816668	Homo sapiens	H54	Glial Cell	Brain	DNase	40776_sort_peaks.narrowPeak.bed
+40777	GSM816633	Homo sapiens	HeLa-S3	Epithelium	Cervix	DNase	40777_sort_peaks.narrowPeak.bed
+40778	GSM816644	Homo sapiens	TSC	Trophoblast Stem Cell	Embryo	DNase	40778_sort_peaks.narrowPeak.bed
+40783	GSM906379	Homo sapiens	H1	Embryonic Stem Cell	Embryo	DNase	40783_sort_peaks.narrowPeak.bed
+40784	GSM906381	Homo sapiens	H1	Embryonic Stem Cell	Embryo	DNase	40784_sort_peaks.narrowPeak.bed
+40785	GSM906382	Homo sapiens	H1	Embryonic Stem Cell	Embryo	DNase	40785_sort_peaks.narrowPeak.bed
+40786	GSM906380	Homo sapiens	H1	Embryonic Stem Cell	Embryo	DNase	40786_sort_peaks.narrowPeak.bed
+40787	GSM1027330	Homo sapiens	None	None	Fetal Muscle Back	DNase	40787_sort_peaks.narrowPeak.bed
+40788	GSM1027318	Homo sapiens	None	None	Fetal Stomach	DNase	40788_sort_peaks.narrowPeak.bed
+40789	GSM1027311	Homo sapiens	None	None	Fetal Adrenal Gland	DNase	40789_sort_peaks.narrowPeak.bed
+40790	GSM1027326	Homo sapiens	None	None	Pancreas	DNase	40790_sort_peaks.narrowPeak.bed
+40791	GSM1027342	Homo sapiens	None	Epithelium	Fetal Kidney	DNase	40791_sort_peaks.narrowPeak.bed
+40792	GSM1027346	Homo sapiens	None	Epithelium	Fetal Kidney Right	DNase	40792_sort_peaks.narrowPeak.bed
+40793	GSM1027315	Homo sapiens	None	Epithelium	Fetal Renal Pelvis	DNase	40793_sort_peaks.narrowPeak.bed
+40794	GSM1027335	Homo sapiens	None	None	Pancreas	DNase	40794_sort_peaks.narrowPeak.bed
+40795	GSM1027333	Homo sapiens	None	None	Fetal Muscle Leg	DNase	40795_sort_peaks.narrowPeak.bed
+40796	GSM1027323	Homo sapiens	None	Cortex	Fetal Kidney	DNase	40796_sort_peaks.narrowPeak.bed
+40797	GSM1027347	Homo sapiens	None	Epithelium	Fetal Kidney Left	DNase	40797_sort_peaks.narrowPeak.bed
+40798	GSM1027325	Homo sapiens	None	None	Stomach	DNase	40798_sort_peaks.narrowPeak.bed
+40799	GSM1027349	Homo sapiens	None	None	Fetal Muscle Arm	DNase	40799_sort_peaks.narrowPeak.bed
+40800	GSM1027332	Homo sapiens	None	Epithelium	Fetal Placenta	DNase	40800_sort_peaks.narrowPeak.bed
+40801	GSM1027317	Homo sapiens	None	Epithelium	Fetal Renal Pelvis	DNase	40801_sort_peaks.narrowPeak.bed
+40802	GSM1027341	Homo sapiens	None	None	Fetal Muscle Back	DNase	40802_sort_peaks.narrowPeak.bed
+40803	GSM1027314	Homo sapiens	None	Cortex	Fetal Kidney	DNase	40803_sort_peaks.narrowPeak.bed
+40804	GSM1027331	Homo sapiens	None	None	Fetal Stomach	DNase	40804_sort_peaks.narrowPeak.bed
+40805	GSM1027339	Homo sapiens	None	None	Fetal Spinal Cord	DNase	40805_sort_peaks.narrowPeak.bed
+40806	GSM1027329	Homo sapiens	None	Epithelium	Fetal Kidney	DNase	40806_sort_peaks.narrowPeak.bed
+40807	GSM1027344	Homo sapiens	None	Epithelium	Fetal Lung Right	DNase	40807_sort_peaks.narrowPeak.bed
+40808	GSM1027345	Homo sapiens	None	Epithelium	Fetal Lung Left	DNase	40808_sort_peaks.narrowPeak.bed
+40809	GSM1027307	Homo sapiens	None	Melanocyte	Foreskin	DNase	40809_sort_peaks.narrowPeak.bed
+40810	GSM1027324	Homo sapiens	None	Epithelium	Fetal Renal Pelvis	DNase	40810_sort_peaks.narrowPeak.bed
+40811	GSM1027309	Homo sapiens	None	None	Fetal Muscle Leg	DNase	40811_sort_peaks.narrowPeak.bed
+40812	GSM1027351	Homo sapiens	None	None	Fetal Thymus	DNase	40812_sort_peaks.narrowPeak.bed
+40813	GSM1027322	Homo sapiens	None	Epithelium	Fetal Heart	DNase	40813_sort_peaks.narrowPeak.bed
+40814	GSM1027338	Homo sapiens	None	Epithelium	Fetal Kidney Left	DNase	40814_sort_peaks.narrowPeak.bed
+40815	GSM1027350	Homo sapiens	None	Keratinocyte	Foreskin	DNase	40815_sort_peaks.narrowPeak.bed
+40816	GSM1027340	Homo sapiens	None	Epithelium	Fetal Kidney Right	DNase	40816_sort_peaks.narrowPeak.bed
+40817	GSM1027320	Homo sapiens	None	None	Stomach	DNase	40817_sort_peaks.narrowPeak.bed
+40818	GSM1027308	Homo sapiens	None	None	Fetal Spinal Cord	DNase	40818_sort_peaks.narrowPeak.bed
+40819	GSM1027348	Homo sapiens	None	Epithelium	Fetal Small Intestine	DNase	40819_sort_peaks.narrowPeak.bed
+40820	GSM1027336	Homo sapiens	None	Epithelium	Fetal Kidney Left	DNase	40820_sort_peaks.narrowPeak.bed
+40821	GSM1027316	Homo sapiens	None	Cortex	Fetal Kidney	DNase	40821_sort_peaks.narrowPeak.bed
+40822	GSM1027313	Homo sapiens	None	None	Fetal Thymus	DNase	40822_sort_peaks.narrowPeak.bed
+40823	GSM1027334	Homo sapiens	None	None	Ovary	DNase	40823_sort_peaks.narrowPeak.bed
+40824	GSM1027310	Homo sapiens	None	None	Fetal Adrenal Gland	DNase	40824_sort_peaks.narrowPeak.bed
+40825	GSM1027319	Homo sapiens	None	None	Fetal Testis	DNase	40825_sort_peaks.narrowPeak.bed
+40826	GSM1027321	Homo sapiens	None	None	Psoas Muscle	DNase	40826_sort_peaks.narrowPeak.bed
+40827	GSM1027337	Homo sapiens	None	Epithelium	Fetal Kidney Right	DNase	40827_sort_peaks.narrowPeak.bed
+40828	GSM1027312	Homo sapiens	None	Melanocyte	Foreskin	DNase	40828_sort_peaks.narrowPeak.bed
+40829	GSM1027328	Homo sapiens	None	None	Fetal Brain	DNase	40829_sort_peaks.narrowPeak.bed
+40830	GSM1027343	Homo sapiens	None	Epithelium	Fetal Placenta	DNase	40830_sort_peaks.narrowPeak.bed
+40831	GSM1027306	Homo sapiens	None	None	Fetal Ovary	DNase	40831_sort_peaks.narrowPeak.bed
+40832	GSM1027327	Homo sapiens	None	Epithelium	Fetal Small Intestine	DNase	40832_sort_peaks.narrowPeak.bed
+40833	GSM817172	Homo sapiens	None	None	Fetal Thymus	DNase	40833_sort_peaks.narrowPeak.bed
+40834	GSM817195	Homo sapiens	None	Keratinocyte	Foreskin	DNase	40834_sort_peaks.narrowPeak.bed
+40835	GSM817190	Homo sapiens	None	Cortex	Fetal Kidney Left	DNase	40835_sort_peaks.narrowPeak.bed
+40836	GSM817194	Homo sapiens	None	Keratinocyte	Foreskin	DNase	40836_sort_peaks.narrowPeak.bed
+40837	GSM817197	Homo sapiens	None	Keratinocyte	Foreskin	DNase	40837_sort_peaks.narrowPeak.bed
+40838	GSM817180	Homo sapiens	None	Epithelium	Fetal Kidney Right	DNase	40838_sort_peaks.narrowPeak.bed
+40839	GSM817192	Homo sapiens	None	Epithelium	Fetal Renal Pelvis Right	DNase	40839_sort_peaks.narrowPeak.bed
+40840	GSM817165	Homo sapiens	None	None	Fetal Adrenal Gland	DNase	40840_sort_peaks.narrowPeak.bed
+40841	GSM817183	Homo sapiens	None	None	Fetal Muscle Leg	DNase	40841_sort_peaks.narrowPeak.bed
+40842	GSM817169	Homo sapiens	None	Fibroblast	Foreskin	DNase	40842_sort_peaks.narrowPeak.bed
+40843	GSM817163	Homo sapiens	None	Epithelium	Fetal Kidney Right	DNase	40843_sort_peaks.narrowPeak.bed
+40844	GSM817182	Homo sapiens	None	None	Fetal Muscle Back	DNase	40844_sort_peaks.narrowPeak.bed
+40845	GSM817179	Homo sapiens	None	None	Fetal Muscle Leg	DNase	40845_sort_peaks.narrowPeak.bed
+40846	GSM817189	Homo sapiens	None	None	Fetal Spinal Cord	DNase	40846_sort_peaks.narrowPeak.bed
+40847	GSM817173	Homo sapiens	None	None	Fetal Stomach	DNase	40847_sort_peaks.narrowPeak.bed
+40848	GSM817188	Homo sapiens	None	Epithelium	Fetal Large Intestine	DNase	40848_sort_peaks.narrowPeak.bed
+40849	GSM817196	Homo sapiens	None	Keratinocyte	Foreskin	DNase	40849_sort_peaks.narrowPeak.bed
+40850	GSM817184	Homo sapiens	None	None	Fetal Muscle Arm	DNase	40850_sort_peaks.narrowPeak.bed
+40851	GSM817199	Homo sapiens	None	None	Fetal Stomach	DNase	40851_sort_peaks.narrowPeak.bed
+40852	GSM817175	Homo sapiens	None	Epithelium	Fetal Lung Left	DNase	40852_sort_peaks.narrowPeak.bed
+40853	GSM817181	Homo sapiens	None	Epithelium	Fetal Kidney Left	DNase	40853_sort_peaks.narrowPeak.bed
+40854	GSM817193	Homo sapiens	None	Epithelium	Fetal Renal Pelvis Left	DNase	40854_sort_peaks.narrowPeak.bed
+40855	GSM817164	Homo sapiens	None	Epithelium	Fetal Lung Right	DNase	40855_sort_peaks.narrowPeak.bed
+40856	GSM817171	Homo sapiens	None	None	Fetal Muscle Back	DNase	40856_sort_peaks.narrowPeak.bed
+40857	GSM817177	Homo sapiens	None	Epithelium	Fetal Renal Pelvis	DNase	40857_sort_peaks.narrowPeak.bed
+40858	GSM817170	Homo sapiens	None	Fibroblast	Foreskin	DNase	40858_sort_peaks.narrowPeak.bed
+40859	GSM817159	Homo sapiens	None	Epithelium	Fetal Kidney	DNase	40859_sort_peaks.narrowPeak.bed
+40860	GSM817166	Homo sapiens	None	T Lymphocyte	Blood	DNase	40860_sort_peaks.narrowPeak.bed
+40861	GSM817176	Homo sapiens	None	Cortex	Fetal Kidney	DNase	40861_sort_peaks.narrowPeak.bed
+40862	GSM817162	Homo sapiens	None	Epithelium	Fetal Large Intestine	DNase	40862_sort_peaks.narrowPeak.bed
+40863	GSM817187	Homo sapiens	None	Epithelium	Fetal Small Intestine	DNase	40863_sort_peaks.narrowPeak.bed
+40864	GSM817167	Homo sapiens	None	None	Fetal Adrenal Gland	DNase	40864_sort_peaks.narrowPeak.bed
+40865	GSM817178	Homo sapiens	None	None	Fetal Muscle Arm	DNase	40865_sort_peaks.narrowPeak.bed
+40866	GSM817161	Homo sapiens	None	Epithelium	Fetal Small Intestine	DNase	40866_sort_peaks.narrowPeak.bed
+40867	GSM817191	Homo sapiens	None	None	Fetal Muscle Arm	DNase	40867_sort_peaks.narrowPeak.bed
+40868	GSM817168	Homo sapiens	None	Epithelium	Fetal Lung Left	DNase	40868_sort_peaks.narrowPeak.bed
+40869	GSM817158	Homo sapiens	None	None	Fetal Skin	DNase	40869_sort_peaks.narrowPeak.bed
+40870	GSM817186	Homo sapiens	None	Epithelium	Fetal Lung Right	DNase	40870_sort_peaks.narrowPeak.bed
+40871	GSM817174	Homo sapiens	None	Epithelium	Fetal Lung Right	DNase	40871_sort_peaks.narrowPeak.bed
+40872	GSM817160	Homo sapiens	None	T Lymphocyte	Blood	DNase	40872_sort_peaks.narrowPeak.bed
+40873	GSM817198	Homo sapiens	H1	Embryonic Stem Cell	Embryo	DNase	40873_sort_peaks.narrowPeak.bed
+40874	GSM817185	Homo sapiens	None	Epithelium	Fetal Lung Left	DNase	40874_sort_peaks.narrowPeak.bed
+40875	GSM1009641	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	40875_sort_peaks.narrowPeak.bed
+40876	GSM1009640	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	40876_sort_peaks.narrowPeak.bed
+40877	GSM1009646	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	40877_sort_peaks.narrowPeak.bed
+40878	GSM1009642	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	40878_sort_peaks.narrowPeak.bed
+40879	GSM1009639	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	40879_sort_peaks.narrowPeak.bed
+40880	GSM1009645	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	40880_sort_peaks.narrowPeak.bed
+40881	GSM1009643	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	40881_sort_peaks.narrowPeak.bed
+40882	GSM1009644	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	40882_sort_peaks.narrowPeak.bed
+40884	GSM1014510	Homo sapiens	None	Fibroblast	Connective Tissue	DNase	40884_sort_peaks.narrowPeak.bed
+40885	GSM1014539	Homo sapiens	LHCN-M2	Myoblast	Skeletal Muscle	DNase	40885_sort_peaks.narrowPeak.bed
+40886	GSM1014512	Homo sapiens	NHDF-neo	Fibroblast	Skin	DNase	40886_sort_peaks.narrowPeak.bed
+40890	GSM1014523	Homo sapiens	None	T Lymphocyte	Blood	DNase	40890_sort_peaks.narrowPeak.bed
+40894	GSM1014541	Homo sapiens	None	Th17	None	DNase	40894_sort_peaks.narrowPeak.bed
+40897	GSM1014514	Homo sapiens	None	Myoblast	Skeletal Muscle	DNase	40897_sort_peaks.narrowPeak.bed
+40904	GSM1014528	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	40904_sort_peaks.narrowPeak.bed
+40908	GSM1014529	Homo sapiens	None	Endothelial Cell	Blood	DNase	40908_sort_peaks.narrowPeak.bed
+40910	GSM1014518	Homo sapiens	None	Embryonic Fibroblast	Heart	DNase	40910_sort_peaks.narrowPeak.bed
+40914	GSM1014532	Homo sapiens	None	Endothelial Cell	Blood	DNase	40914_sort_peaks.narrowPeak.bed
+40917	GSM1014533	Homo sapiens	None	Endothelial Cell	Blood	DNase	40917_sort_peaks.narrowPeak.bed
+40919	GSM1014535	Homo sapiens	RPMI-7951	Melanoma Cell	Skin	DNase	40919_sort_peaks.narrowPeak.bed
+40921	GSM1014537	Homo sapiens	None	T Lymphocyte	Blood	DNase	40921_sort_peaks.narrowPeak.bed
+40923	GSM1014508	Homo sapiens	HA-sp	Astrocyte	Spinal Cord	DNase	40923_sort_peaks.narrowPeak.bed
+40925	GSM1014511	Homo sapiens	None	Epithelium	Esophagus	DNase	40925_sort_peaks.narrowPeak.bed
+40927	GSM1014519	Homo sapiens	None	Endothelial Cell	Blood	DNase	40927_sort_peaks.narrowPeak.bed
+40928	GSM1014526	Homo sapiens	GM12865	B Lymphocyte	Blood	DNase	40928_sort_peaks.narrowPeak.bed
+40929	GSM1014509	Homo sapiens	NHLF	Fibroblast	Lung	DNase	40929_sort_peaks.narrowPeak.bed
+40933	GSM1014527	Homo sapiens	AG10803	Fibroblast	Skin	DNase	40933_sort_peaks.narrowPeak.bed
+40934	GSM1014524	Homo sapiens	LHCN-M2	Myoblast	Skeletal Muscle	DNase	40934_sort_peaks.narrowPeak.bed
+40935	GSM1014516	Homo sapiens	HA-h	Astrocyte	Hippocampus	DNase	40935_sort_peaks.narrowPeak.bed
+40936	GSM1014515	Homo sapiens	None	Myocyte	Heart	DNase	40936_sort_peaks.narrowPeak.bed
+40937	GSM1014525	Homo sapiens	None	B Lymphocyte	Blood	DNase	40937_sort_peaks.narrowPeak.bed
+40941	GSM1014517	Homo sapiens	A549	Epithelium	Lung	DNase	40941_sort_peaks.narrowPeak.bed
+40942	GSM1014530	Homo sapiens	None	Fibroblast	Heart	DNase	40942_sort_peaks.narrowPeak.bed
+40943	GSM1014531	Homo sapiens	None	Embryonic Fibroblast	Foreskin	DNase	40943_sort_peaks.narrowPeak.bed
+40944	GSM1014520	Homo sapiens	None	Epithelium	None	DNase	40944_sort_peaks.narrowPeak.bed
+40946	GSM1014522	Homo sapiens	None	Th2	None	DNase	40946_sort_peaks.narrowPeak.bed
+40948	GSM1014536	Homo sapiens	T47D	Epithelium	Mammary Gland	DNase	40948_sort_peaks.narrowPeak.bed
+40949	GSM1014534	Homo sapiens	HGF	Fibroblast	Gingiva	DNase	40949_sort_peaks.narrowPeak.bed
+40963	GSM1014521	Homo sapiens	None	Th2	None	DNase	40963_sort_peaks.narrowPeak.bed
+40966	GSM1014513	Homo sapiens	NB4	Promyelocytic cell	Blood	DNase	40966_sort_peaks.narrowPeak.bed
+40967	GSM1014540	Homo sapiens	None	Th1	None	DNase	40967_sort_peaks.narrowPeak.bed
+40968	GSM1014538	Homo sapiens	M059J	Glial Cell	Brain	DNase	40968_sort_peaks.narrowPeak.bed
+40970	GSM1058790	Homo sapiens	None	T Lymphocyte	Blood	DNase	40970_sort_peaks.narrowPeak.bed
+40971	GSM1008582	Homo sapiens	None	Monocyte	Blood	DNase	40971_sort_peaks.narrowPeak.bed
+40972	GSM1008574	Homo sapiens	ECC-1	Epithelium	Endometrium	DNase	40972_sort_peaks.narrowPeak.bed
+40973	GSM1008572	Homo sapiens	None	Th0	Blood	DNase	40973_sort_peaks.narrowPeak.bed
+40974	GSM1008576	Homo sapiens	T47D	Epithelium	Mammary Gland	DNase	40974_sort_peaks.narrowPeak.bed
+40975	GSM1008593	Homo sapiens	Ishikawa	Epithelium	Uterus	DNase	40975_sort_peaks.narrowPeak.bed
+40976	GSM1008587	Homo sapiens	GM20000	Lymphoblastoid	Blood	DNase	40976_sort_peaks.narrowPeak.bed
+40977	GSM1008580	Homo sapiens	K562	Erythroblast	Bone Marrow	DNase	40977_sort_peaks.narrowPeak.bed
+40978	GSM1008579	Homo sapiens	None	B Lymphocyte	None	DNase	40978_sort_peaks.narrowPeak.bed
+40979	GSM1008591	Homo sapiens	GM13976	Lymphoblastoid	Blood	DNase	40979_sort_peaks.narrowPeak.bed
+40980	GSM1008578	Homo sapiens	None	None	Cerebrum	DNase	40980_sort_peaks.narrowPeak.bed
+40981	GSM1008571	Homo sapiens	COLO-829	None	Skin	DNase	40981_sort_peaks.narrowPeak.bed
+40982	GSM1008556	Homo sapiens	GM13977	Lymphoblastoid	Blood	DNase	40982_sort_peaks.narrowPeak.bed
+40983	GSM1008562	Homo sapiens	None	Fibroblast	None	DNase	40983_sort_peaks.narrowPeak.bed
+40984	GSM1008568	Homo sapiens	None	Fibroblast	Skin	DNase	40984_sort_peaks.narrowPeak.bed
+40985	GSM1008606	Homo sapiens	None	None	Ureter	DNase	40985_sort_peaks.narrowPeak.bed
+40986	GSM1008573	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	DNase	40986_sort_peaks.narrowPeak.bed
+40987	GSM1008595	Homo sapiens	RWPE1	Epithelium	Prostate	DNase	40987_sort_peaks.narrowPeak.bed
+40988	GSM1008601	Homo sapiens	K562	Erythroblast	Bone Marrow	DNase	40988_sort_peaks.narrowPeak.bed
+40989	GSM1008590	Homo sapiens	GM10266	Lymphoblastoid	Blood	DNase	40989_sort_peaks.narrowPeak.bed
+40990	GSM1008583	Homo sapiens	None	None	Cerebellum	DNase	40990_sort_peaks.narrowPeak.bed
+40991	GSM1008605	Homo sapiens	None	None	Ureter	DNase	40991_sort_peaks.narrowPeak.bed
+40992	GSM1008600	Homo sapiens	None	iPSC	None	DNase	40992_sort_peaks.narrowPeak.bed
+40993	GSM1008585	Homo sapiens	SK-N-SH_RA	Neuron	Brain	DNase	40993_sort_peaks.narrowPeak.bed
+40994	GSM1008575	Homo sapiens	None	Fibroblast	None	DNase	40994_sort_peaks.narrowPeak.bed
+40995	GSM1008581	Homo sapiens	MCF-7	Epithelium	Mammary Gland	DNase	40995_sort_peaks.narrowPeak.bed
+40996	GSM1008602	Homo sapiens	K562	Erythroblast	Bone Marrow	DNase	40996_sort_peaks.narrowPeak.bed
+40997	GSM1008596	Homo sapiens	H7	Embryonic Stem Cell	Embryo	DNase	40997_sort_peaks.narrowPeak.bed
+40998	GSM1008584	Homo sapiens	None	Neurosphere	None	DNase	40998_sort_peaks.narrowPeak.bed
+40999	GSM1008559	Homo sapiens	None	Epithelium	Heart	DNase	40999_sort_peaks.narrowPeak.bed
+41000	GSM1008597	Homo sapiens	ECC-1	Epithelium	Endometrium	DNase	41000_sort_peaks.narrowPeak.bed
+41001	GSM1008577	Homo sapiens	D-341	None	Brain	DNase	41001_sort_peaks.narrowPeak.bed
+41002	GSM1008604	Homo sapiens	None	Th1	Blood	DNase	41002_sort_peaks.narrowPeak.bed
+41003	GSM1008594	Homo sapiens	Ishikawa	Epithelium	Uterus	DNase	41003_sort_peaks.narrowPeak.bed
+41004	GSM1008569	Homo sapiens	None	iPSC	None	DNase	41004_sort_peaks.narrowPeak.bed
+41005	GSM1008561	Homo sapiens	None	Fibroblast	None	DNase	41005_sort_peaks.narrowPeak.bed
+41006	GSM1008557	Homo sapiens	None	B Lymphocyte	None	DNase	41006_sort_peaks.narrowPeak.bed
+41007	GSM1008558	Homo sapiens	K562	Erythroblast	Bone Marrow	DNase	41007_sort_peaks.narrowPeak.bed
+41008	GSM1008570	Homo sapiens	None	iPSC	None	DNase	41008_sort_peaks.narrowPeak.bed
+41009	GSM1008586	Homo sapiens	IMR90	Fibroblast	Lung	DNase	41009_sort_peaks.narrowPeak.bed
+41010	GSM1008565	Homo sapiens	MCF-7	Epithelium	Mammary Gland	DNase	41010_sort_peaks.narrowPeak.bed
+41012	GSM1008563	Homo sapiens	None	Fibroblast	Skin	DNase	41012_sort_peaks.narrowPeak.bed
+41013	GSM1008588	Homo sapiens	None	B Lymphocyte	Blood	DNase	41013_sort_peaks.narrowPeak.bed
+41015	GSM1008603	Homo sapiens	MCF-7	Epithelium	Mammary Gland	DNase	41015_sort_peaks.narrowPeak.bed
+41016	GSM1008560	Homo sapiens	None	None	Muscle	DNase	41016_sort_peaks.narrowPeak.bed
+41017	GSM1008589	Homo sapiens	GM10248	Lymphoblastoid	Blood	DNase	41017_sort_peaks.narrowPeak.bed
+41018	GSM1008564	Homo sapiens	None	Fibroblast	Skin	DNase	41018_sort_peaks.narrowPeak.bed
+41020	GSM1008566	Homo sapiens	None	Cortex	Prefrontal	DNase	41020_sort_peaks.narrowPeak.bed
+41022	GSM723023	Homo sapiens	None	Epithelium	Fetal Heart	DNase	41022_sort_peaks.narrowPeak.bed
+41023	GSM723022	Homo sapiens	None	Haematopoietic Progenitor Cell	Cord blood	DNase	41023_sort_peaks.narrowPeak.bed
+41024	GSM723021	Homo sapiens	None	None	Fetal Brain	DNase	41024_sort_peaks.narrowPeak.bed
+41025	GSM723024	Homo sapiens	IMR90	Fibroblast	Lung	DNase	41025_sort_peaks.narrowPeak.bed
+41026	GSM723025	Homo sapiens	None	Epithelium	Fetal Lung	DNase	41026_sort_peaks.narrowPeak.bed
+41027	GSM774203	Homo sapiens	None	Epithelium	Fetal Heart	DNase	41027_sort_peaks.narrowPeak.bed
+41028	GSM774238	Homo sapiens	None	Epithelium	Fetal Muscle Lower Limb	DNase	41028_sort_peaks.narrowPeak.bed
+41029	GSM774219	Homo sapiens	None	Epithelium	Fetal Placenta	DNase	41029_sort_peaks.narrowPeak.bed
+41030	GSM774227	Homo sapiens	None	Epithelium	Fetal Lung Right	DNase	41030_sort_peaks.narrowPeak.bed
+41031	GSM774224	Homo sapiens	None	None	Fetal Muscle Back	DNase	41031_sort_peaks.narrowPeak.bed
+41032	GSM774220	Homo sapiens	None	Epithelium	Fetal Large Intestine	DNase	41032_sort_peaks.narrowPeak.bed
+41033	GSM774211	Homo sapiens	None	Epithelium	Fetal Lung Left	DNase	41033_sort_peaks.narrowPeak.bed
+41034	GSM774209	Homo sapiens	None	Epithelium	Fetal Kidney Left	DNase	41034_sort_peaks.narrowPeak.bed
+41035	GSM774223	Homo sapiens	None	None	Fetal Muscle Arm	DNase	41035_sort_peaks.narrowPeak.bed
+41036	GSM774225	Homo sapiens	None	Epithelium	Fetal Small Intestine	DNase	41036_sort_peaks.narrowPeak.bed
+41037	GSM774229	Homo sapiens	None	Epithelium	Fetal Small Intestine	DNase	41037_sort_peaks.narrowPeak.bed
+41038	GSM774244	Homo sapiens	None	Melanocyte	Foreskin	DNase	41038_sort_peaks.narrowPeak.bed
+41039	GSM774242	Homo sapiens	None	None	Fetal Muscle Leg	DNase	41039_sort_peaks.narrowPeak.bed
+41040	GSM774218	Homo sapiens	None	None	Fetal Muscle Upper Trunk	DNase	41040_sort_peaks.narrowPeak.bed
+41041	GSM774243	Homo sapiens	None	Melanocyte	Foreskin	DNase	41041_sort_peaks.narrowPeak.bed
+41042	GSM774202	Homo sapiens	None	None	Fetal Stomach	DNase	41042_sort_peaks.narrowPeak.bed
+41043	GSM774231	Homo sapiens	None	Epithelium	Fetal Lung Right	DNase	41043_sort_peaks.narrowPeak.bed
+41044	GSM774215	Homo sapiens	None	Epithelium	Fetal Placenta	DNase	41044_sort_peaks.narrowPeak.bed
+41045	GSM774232	Homo sapiens	None	None	Fetal Stomach	DNase	41045_sort_peaks.narrowPeak.bed
+41046	GSM774228	Homo sapiens	None	Epithelium	Fetal Large Intestine	DNase	41046_sort_peaks.narrowPeak.bed
+41047	GSM774201	Homo sapiens	None	T Lymphocyte	Blood	DNase	41047_sort_peaks.narrowPeak.bed
+41048	GSM774241	Homo sapiens	None	Fibroblast	Foreskin	DNase	41048_sort_peaks.narrowPeak.bed
+41049	GSM774226	Homo sapiens	None	None	Fetal Muscle Arm	DNase	41049_sort_peaks.narrowPeak.bed
+41050	GSM774234	Homo sapiens	None	None	Fetal Muscle Arm	DNase	41050_sort_peaks.narrowPeak.bed
+41051	GSM774221	Homo sapiens	None	Epithelium	Fetal Kidney	DNase	41051_sort_peaks.narrowPeak.bed
+41052	GSM774208	Homo sapiens	None	Haematopoietic Progenitor Cell	Blood	DNase	41052_sort_peaks.narrowPeak.bed
+41053	GSM774212	Homo sapiens	None	None	Fetal Stomach	DNase	41053_sort_peaks.narrowPeak.bed
+41054	GSM774235	Homo sapiens	None	None	Fetal Muscle Back	DNase	41054_sort_peaks.narrowPeak.bed
+41055	GSM774233	Homo sapiens	None	Epithelium	Fetal Large Intestine	DNase	41055_sort_peaks.narrowPeak.bed
+41056	GSM774222	Homo sapiens	None	Epithelium	Fetal Renal Pelvis	DNase	41056_sort_peaks.narrowPeak.bed
+41057	GSM774210	Homo sapiens	None	Epithelium	Fetal Small Intestine	DNase	41057_sort_peaks.narrowPeak.bed
+41058	GSM774206	Homo sapiens	None	Epithelium	Fetal Lung Right	DNase	41058_sort_peaks.narrowPeak.bed
+41059	GSM774207	Homo sapiens	None	Epithelium	Fetal Lung Left	DNase	41059_sort_peaks.narrowPeak.bed
+41060	GSM774216	Homo sapiens	None	Epithelium	Fetal Small Intestine	DNase	41060_sort_peaks.narrowPeak.bed
+41061	GSM774204	Homo sapiens	None	None	Fetal Thymus	DNase	41061_sort_peaks.narrowPeak.bed
+41062	GSM774217	Homo sapiens	None	Epithelium	Fetal Large Intestine	DNase	41062_sort_peaks.narrowPeak.bed
+41063	GSM774240	Homo sapiens	None	Fibroblast	Foreskin	DNase	41063_sort_peaks.narrowPeak.bed
+41064	GSM774236	Homo sapiens	None	Epithelium	Fetal Renal Pelvis	DNase	41064_sort_peaks.narrowPeak.bed
+41065	GSM774213	Homo sapiens	None	Epithelium	Fetal Large Intestine	DNase	41065_sort_peaks.narrowPeak.bed
+41066	GSM774237	Homo sapiens	None	Epithelium	Fetal Lung Left	DNase	41066_sort_peaks.narrowPeak.bed
+41067	GSM774230	Homo sapiens	None	None	Fetal Thymus	DNase	41067_sort_peaks.narrowPeak.bed
+41068	GSM774214	Homo sapiens	None	Epithelium	Fetal Large Intestine	DNase	41068_sort_peaks.narrowPeak.bed
+41069	GSM774239	Homo sapiens	None	None	Fetal Muscle Arm	DNase	41069_sort_peaks.narrowPeak.bed
+41070	GSM774205	Homo sapiens	None	Epithelium	Fetal Small Intestine	DNase	41070_sort_peaks.narrowPeak.bed
+41104	GSM849030	Homo sapiens	None	Fibroblast	Periodontal Ligament	DNase	41104_sort_peaks.narrowPeak.bed
+41105	GSM849031	Homo sapiens	None	Fibroblast	Pulmonary Artery	DNase	41105_sort_peaks.narrowPeak.bed
+41106	GSM849029	Homo sapiens	None	Fibroblast	Umbilical Vein	DNase	41106_sort_peaks.narrowPeak.bed
+41107	GSM849025	Homo sapiens	None	Epithelium	Lung	DNase	41107_sort_peaks.narrowPeak.bed
+41108	GSM849027	Homo sapiens	None	Cortex	Kidney	DNase	41108_sort_peaks.narrowPeak.bed
+41109	GSM849026	Homo sapiens	None	Astrocyte	Brain	DNase	41109_sort_peaks.narrowPeak.bed
+41110	GSM849028	Homo sapiens	None	Fibroblast	Lung	DNase	41110_sort_peaks.narrowPeak.bed
+41429	GSM1102738	Homo sapiens	None	None	Psoas Muscle	DNase	41429_sort_peaks.narrowPeak.bed
+41430	GSM1102739	Homo sapiens	None	Epithelium	Small Intestine	DNase	41430_sort_peaks.narrowPeak.bed
+42138	GSM1220602	Homo sapiens	None	Epithelium	Fetal Kidney	DNase	42138_sort_peaks.narrowPeak.bed
+42139	GSM1220603	Homo sapiens	None	Epithelium	Fetal Kidney	DNase	42139_sort_peaks.narrowPeak.bed
+42140	GSM1220604	Homo sapiens	None	B Lymphocyte	Spleen	DNase	42140_sort_peaks.narrowPeak.bed
+42141	GSM1220605	Homo sapiens	None	Fibroblast	Fetal Skin Back	DNase	42141_sort_peaks.narrowPeak.bed
+42142	GSM1220606	Homo sapiens	None	Fibroblast	Fetal Skin Scalp	DNase	42142_sort_peaks.narrowPeak.bed
+42143	GSM1220607	Homo sapiens	None	None	Fetal Skin Abdomen	DNase	42143_sort_peaks.narrowPeak.bed
+42144	GSM1220608	Homo sapiens	None	None	Fetal Skin Upper Back	DNase	42144_sort_peaks.narrowPeak.bed
+42145	GSM1220609	Homo sapiens	None	None	Fetal Skin Biceps Right	DNase	42145_sort_peaks.narrowPeak.bed
+42146	GSM1220610	Homo sapiens	None	None	Fetal Skin Quadriceps Right	DNase	42146_sort_peaks.narrowPeak.bed
+42165	GSM1224666	Homo sapiens	HCT-116	Epithelium	Colon	DNase	42165_sort_peaks.narrowPeak.bed
+42166	GSM1224667	Homo sapiens	HCT-116	Epithelium	Colon	DNase	42166_sort_peaks.narrowPeak.bed
+42167	GSM1224668	Homo sapiens	HCT-116	Epithelium	Colon	DNase	42167_sort_peaks.narrowPeak.bed
+42168	GSM1224669	Homo sapiens	HCT-116	Epithelium	Colon	DNase	42168_sort_peaks.narrowPeak.bed
+42601	GSM1234469	Homo sapiens	None	Epithelium	Epididymis	DNase	42601_sort_peaks.narrowPeak.bed
+42602	GSM1234470	Homo sapiens	None	Epithelium	Epididymis	DNase	42602_sort_peaks.narrowPeak.bed
+43138	GSM1255262	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	43138_sort_peaks.narrowPeak.bed
+43139	GSM1255263	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	43139_sort_peaks.narrowPeak.bed
+43140	GSM1255264	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	43140_sort_peaks.narrowPeak.bed
+43141	GSM1255265	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	43141_sort_peaks.narrowPeak.bed
+43142	GSM1255266	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	43142_sort_peaks.narrowPeak.bed
+43143	GSM1255267	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	43143_sort_peaks.narrowPeak.bed
+43144	GSM1255268	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	43144_sort_peaks.narrowPeak.bed
+43145	GSM1255269	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	43145_sort_peaks.narrowPeak.bed
+43146	GSM1255270	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	43146_sort_peaks.narrowPeak.bed
+43147	GSM1255271	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	43147_sort_peaks.narrowPeak.bed
+43148	GSM1255272	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	43148_sort_peaks.narrowPeak.bed
+43149	GSM1255273	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	43149_sort_peaks.narrowPeak.bed
+43150	GSM1255274	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	43150_sort_peaks.narrowPeak.bed
+43151	GSM1255275	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	43151_sort_peaks.narrowPeak.bed
+43152	GSM1255276	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	43152_sort_peaks.narrowPeak.bed
+43153	GSM1255277	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	43153_sort_peaks.narrowPeak.bed
+43154	GSM1255278	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	43154_sort_peaks.narrowPeak.bed
+43155	GSM1255279	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	43155_sort_peaks.narrowPeak.bed
+43156	GSM1255280	Homo sapiens	MCF-7	Epithelium	Mammary Gland	DNase	43156_sort_peaks.narrowPeak.bed
+43157	GSM1255281	Homo sapiens	MCF-7	Epithelium	Mammary Gland	DNase	43157_sort_peaks.narrowPeak.bed
+43158	GSM1255282	Homo sapiens	MCF-7	Epithelium	Mammary Gland	DNase	43158_sort_peaks.narrowPeak.bed
+43159	GSM1255283	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	43159_sort_peaks.narrowPeak.bed
+43203	GSM1260860	Homo sapiens	None	Epithelium	Trachea	DNase	43203_sort_peaks.narrowPeak.bed
+43204	GSM1260861	Homo sapiens	None	Epithelium	Trachea	DNase	43204_sort_peaks.narrowPeak.bed
+43790	GSM1326422	Homo sapiens	None	Lymphoblastoid	Blood	DNase	43790_sort_peaks.narrowPeak.bed
+43791	GSM1326423	Homo sapiens	None	Fibroblast	Skin	DNase	43791_sort_peaks.narrowPeak.bed
+43792	GSM1326424	Homo sapiens	None	Lymphoblastoid	Blood	DNase	43792_sort_peaks.narrowPeak.bed
+43793	GSM1326425	Homo sapiens	None	Fibroblast	Skin	DNase	43793_sort_peaks.narrowPeak.bed
+43794	GSM1326426	Homo sapiens	None	Lymphoblastoid	Blood	DNase	43794_sort_peaks.narrowPeak.bed
+43795	GSM1326427	Homo sapiens	None	Fibroblast	Skin	DNase	43795_sort_peaks.narrowPeak.bed
+44611	GSM1338307	Homo sapiens	None	Fibroblast	None	DNase	44611_sort_peaks.narrowPeak.bed
+44612	GSM1338308	Homo sapiens	None	Fibroblast	None	DNase	44612_sort_peaks.narrowPeak.bed
+44613	GSM1338309	Homo sapiens	None	Fibroblast	None	DNase	44613_sort_peaks.narrowPeak.bed
+44614	GSM1338310	Homo sapiens	None	Fibroblast	None	DNase	44614_sort_peaks.narrowPeak.bed
+44882	GSM736506	Homo sapiens	A549	Epithelium	Lung	DNase	44882_sort_peaks.narrowPeak.bed
+44883	GSM736580	Homo sapiens	A549	Epithelium	Lung	DNase	44883_sort_peaks.narrowPeak.bed
+44884	GSM736590	Homo sapiens	AG04449	Fibroblast	Skin	DNase	44884_sort_peaks.narrowPeak.bed
+44885	GSM736562	Homo sapiens	AG04449	Fibroblast	Skin	DNase	44885_sort_peaks.narrowPeak.bed
+44886	GSM736514	Homo sapiens	AG04450	Fibroblast	Fetal Lung	DNase	44886_sort_peaks.narrowPeak.bed
+44887	GSM736563	Homo sapiens	AG04450	Fibroblast	Fetal Lung	DNase	44887_sort_peaks.narrowPeak.bed
+44888	GSM736551	Homo sapiens	AG09309	Fibroblast	Skin	DNase	44888_sort_peaks.narrowPeak.bed
+44889	GSM736616	Homo sapiens	AG09309	Fibroblast	Skin	DNase	44889_sort_peaks.narrowPeak.bed
+44890	GSM736619	Homo sapiens	AG09319	Fibroblast	Gingiva	DNase	44890_sort_peaks.narrowPeak.bed
+44891	GSM736531	Homo sapiens	AG09319	Fibroblast	Gingiva	DNase	44891_sort_peaks.narrowPeak.bed
+44892	GSM736598	Homo sapiens	AG10803	Fibroblast	Skin	DNase	44892_sort_peaks.narrowPeak.bed
+44893	GSM736633	Homo sapiens	AG10803	Fibroblast	Skin	DNase	44893_sort_peaks.narrowPeak.bed
+44894	GSM736505	Homo sapiens	None	Fibroblast	Umbilical Vein	DNase	44894_sort_peaks.narrowPeak.bed
+44895	GSM736583	Homo sapiens	None	Fibroblast	Umbilical Vein	DNase	44895_sort_peaks.narrowPeak.bed
+44896	GSM736622	Homo sapiens	BE2-C	None	Brain	DNase	44896_sort_peaks.narrowPeak.bed
+44897	GSM736508	Homo sapiens	BE2-C	None	Brain	DNase	44897_sort_peaks.narrowPeak.bed
+44898	GSM736518	Homo sapiens	BJ	Fibroblast	Skin	DNase	44898_sort_peaks.narrowPeak.bed
+44899	GSM736596	Homo sapiens	BJ	Fibroblast	Skin	DNase	44899_sort_peaks.narrowPeak.bed
+44900	GSM1024785	Homo sapiens	HS27a	Fibroblast	Bone Marrow	DNase	44900_sort_peaks.narrowPeak.bed
+44901	GSM1024746	Homo sapiens	HS27a	Fibroblast	Bone Marrow	DNase	44901_sort_peaks.narrowPeak.bed
+44902	GSM1024757	Homo sapiens	HS27a	Fibroblast	Bone Marrow	DNase	44902_sort_peaks.narrowPeak.bed
+44903	GSM1024748	Homo sapiens	HS27a	Fibroblast	Bone Marrow	DNase	44903_sort_peaks.narrowPeak.bed
+44904	GSM736587	Homo sapiens	Caco-2	Epithelium	Colon	DNase	44904_sort_peaks.narrowPeak.bed
+44905	GSM736500	Homo sapiens	Caco-2	Epithelium	Colon	DNase	44905_sort_peaks.narrowPeak.bed
+44906	GSM1024765	Homo sapiens	None	B Lymphocyte	Blood	DNase	44906_sort_peaks.narrowPeak.bed
+44907	GSM1024766	Homo sapiens	None	B Lymphocyte	Blood	DNase	44907_sort_peaks.narrowPeak.bed
+44908	GSM1024770	Homo sapiens	None	Haematopoietic Progenitor Cell	Blood	DNase	44908_sort_peaks.narrowPeak.bed
+44909	GSM1024789	Homo sapiens	None	T Lymphocyte	Blood	DNase	44909_sort_peaks.narrowPeak.bed
+44910	GSM1024782	Homo sapiens	None	T Lymphocyte	Blood	DNase	44910_sort_peaks.narrowPeak.bed
+44911	GSM736607	Homo sapiens	CMK	Megakaryocyte	Blood	DNase	44911_sort_peaks.narrowPeak.bed
+44912	GSM1024777	Homo sapiens	GM04503	Fibroblast	Skin	DNase	44912_sort_peaks.narrowPeak.bed
+44913	GSM1024780	Homo sapiens	GM04503	Fibroblast	Skin	DNase	44913_sort_peaks.narrowPeak.bed
+44914	GSM1024776	Homo sapiens	GM04504	Fibroblast	Skin	DNase	44914_sort_peaks.narrowPeak.bed
+44915	GSM1024775	Homo sapiens	GM04504	Fibroblast	Skin	DNase	44915_sort_peaks.narrowPeak.bed
+44916	GSM736635	Homo sapiens	GM06990	B Lymphocyte	Blood	DNase	44916_sort_peaks.narrowPeak.bed
+44917	GSM736558	Homo sapiens	GM06990	B Lymphocyte	Blood	DNase	44917_sort_peaks.narrowPeak.bed
+44918	GSM736525	Homo sapiens	GM12864	B Lymphocyte	Blood	DNase	44918_sort_peaks.narrowPeak.bed
+44919	GSM736512	Homo sapiens	GM12865	B Lymphocyte	Blood	DNase	44919_sort_peaks.narrowPeak.bed
+44920	GSM736561	Homo sapiens	GM12865	B Lymphocyte	Blood	DNase	44920_sort_peaks.narrowPeak.bed
+44921	GSM736496	Homo sapiens	GM12878	Lymphoblastoid	Blood	DNase	44921_sort_peaks.narrowPeak.bed
+44922	GSM736620	Homo sapiens	GM12878	Lymphoblastoid	Blood	DNase	44922_sort_peaks.narrowPeak.bed
+44923	GSM736582	Homo sapiens	H1	Embryonic Stem Cell	Embryo	DNase	44923_sort_peaks.narrowPeak.bed
+44924	GSM736610	Homo sapiens	H7	Embryonic Stem Cell	Embryo	DNase	44924_sort_peaks.narrowPeak.bed
+44925	GSM736638	Homo sapiens	H7	Embryonic Stem Cell	Embryo	DNase	44925_sort_peaks.narrowPeak.bed
+44926	GSM1024774	Homo sapiens	H7	Embryonic Stem Cell	Embryo	DNase	44926_sort_peaks.narrowPeak.bed
+44927	GSM1024778	Homo sapiens	H7	Embryonic Stem Cell	Embryo	DNase	44927_sort_peaks.narrowPeak.bed
+44928	GSM1024754	Homo sapiens	H7	Embryonic Stem Cell	Embryo	DNase	44928_sort_peaks.narrowPeak.bed
+44929	GSM1024755	Homo sapiens	H7	Embryonic Stem Cell	Embryo	DNase	44929_sort_peaks.narrowPeak.bed
+44930	GSM1024758	Homo sapiens	H7	Embryonic Stem Cell	Embryo	DNase	44930_sort_peaks.narrowPeak.bed
+44931	GSM1024759	Homo sapiens	H7	Embryonic Stem Cell	Embryo	DNase	44931_sort_peaks.narrowPeak.bed
+44932	GSM736586	Homo sapiens	None	Astrocyte	Cerebellum	DNase	44932_sort_peaks.narrowPeak.bed
+44933	GSM736538	Homo sapiens	None	Astrocyte	Cerebellum	DNase	44933_sort_peaks.narrowPeak.bed
+44934	GSM736606	Homo sapiens	None	Epithelium	Amnion	DNase	44934_sort_peaks.narrowPeak.bed
+44935	GSM736631	Homo sapiens	None	Epithelium	Amnion	DNase	44935_sort_peaks.narrowPeak.bed
+44936	GSM736594	Homo sapiens	HA-h	Astrocyte	Hippocampus	DNase	44936_sort_peaks.narrowPeak.bed
+44937	GSM736535	Homo sapiens	HA-h	Astrocyte	Hippocampus	DNase	44937_sort_peaks.narrowPeak.bed
+44938	GSM736625	Homo sapiens	HA-sp	Astrocyte	Spinal Cord	DNase	44938_sort_peaks.narrowPeak.bed
+44939	GSM736537	Homo sapiens	HA-sp	Astrocyte	Spinal Cord	DNase	44939_sort_peaks.narrowPeak.bed
+44940	GSM736554	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	44940_sort_peaks.narrowPeak.bed
+44941	GSM736509	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	44941_sort_peaks.narrowPeak.bed
+44942	GSM1024750	Homo sapiens	None	Pericyte	Umbilical Vein	DNase	44942_sort_peaks.narrowPeak.bed
+44943	GSM1024769	Homo sapiens	None	Smooth Muscle Cell	Umbilical Vein	DNase	44943_sort_peaks.narrowPeak.bed
+44944	GSM1024768	Homo sapiens	None	Smooth Muscle Cell	Umbilical Vein	DNase	44944_sort_peaks.narrowPeak.bed
+44945	GSM736540	Homo sapiens	None	Fibroblast	Heart	DNase	44945_sort_peaks.narrowPeak.bed
+44946	GSM736568	Homo sapiens	None	Fibroblast	Heart	DNase	44946_sort_peaks.narrowPeak.bed
+44947	GSM736494	Homo sapiens	None	Embryonic Fibroblast	Heart	DNase	44947_sort_peaks.narrowPeak.bed
+44948	GSM736601	Homo sapiens	None	Embryonic Fibroblast	Heart	DNase	44948_sort_peaks.narrowPeak.bed
+44949	GSM736504	Homo sapiens	None	Myocyte	Heart	DNase	44949_sort_peaks.narrowPeak.bed
+44950	GSM736516	Homo sapiens	None	Myocyte	Heart	DNase	44950_sort_peaks.narrowPeak.bed
+44951	GSM736547	Homo sapiens	None	Fibroblast	Eye	DNase	44951_sort_peaks.narrowPeak.bed
+44952	GSM736515	Homo sapiens	None	Fibroblast	Eye	DNase	44952_sort_peaks.narrowPeak.bed
+44953	GSM736569	Homo sapiens	None	Epithelium	None	DNase	44953_sort_peaks.narrowPeak.bed
+44954	GSM736597	Homo sapiens	None	Epithelium	None	DNase	44954_sort_peaks.narrowPeak.bed
+44955	GSM736600	Homo sapiens	HCT-116	Epithelium	Colon	DNase	44955_sort_peaks.narrowPeak.bed
+44956	GSM736493	Homo sapiens	HCT-116	Epithelium	Colon	DNase	44956_sort_peaks.narrowPeak.bed
+44957	GSM736532	Homo sapiens	None	Epithelium	Esophagus	DNase	44957_sort_peaks.narrowPeak.bed
+44958	GSM736585	Homo sapiens	None	Epithelium	Esophagus	DNase	44958_sort_peaks.narrowPeak.bed
+44959	GSM736510	Homo sapiens	HeLa-S3	Epithelium	Cervix	DNase	44959_sort_peaks.narrowPeak.bed
+44960	GSM736564	Homo sapiens	HeLa-S3	Epithelium	Cervix	DNase	44960_sort_peaks.narrowPeak.bed
+44961	GSM736637	Homo sapiens	HepG2	Epithelium	Liver	DNase	44961_sort_peaks.narrowPeak.bed
+44962	GSM736639	Homo sapiens	HepG2	Epithelium	Liver	DNase	44962_sort_peaks.narrowPeak.bed
+44963	GSM736572	Homo sapiens	None	Embryonic Fibroblast	Foreskin	DNase	44963_sort_peaks.narrowPeak.bed
+44964	GSM736602	Homo sapiens	None	Embryonic Fibroblast	Foreskin	DNase	44964_sort_peaks.narrowPeak.bed
+44965	GSM736605	Homo sapiens	None	Embryonic Fibroblast	Foreskin	DNase	44965_sort_peaks.narrowPeak.bed
+44966	GSM736524	Homo sapiens	None	Embryonic Fibroblast	Foreskin	DNase	44966_sort_peaks.narrowPeak.bed
+44967	GSM736576	Homo sapiens	HGF	Fibroblast	Gingiva	DNase	44967_sort_peaks.narrowPeak.bed
+44968	GSM736579	Homo sapiens	HGF	Fibroblast	Gingiva	DNase	44968_sort_peaks.narrowPeak.bed
+44969	GSM736589	Homo sapiens	None	Epithelium	None	DNase	44969_sort_peaks.narrowPeak.bed
+44971	GSM736626	Homo sapiens	HL-60	Myeloblast	Blood	DNase	44971_sort_peaks.narrowPeak.bed
+44972	GSM736595	Homo sapiens	HL-60	Myeloblast	Blood	DNase	44972_sort_peaks.narrowPeak.bed
+44973	GSM736634	Homo sapiens	None	Epithelium	Mammary Gland	DNase	44973_sort_peaks.narrowPeak.bed
+44974	GSM736552	Homo sapiens	None	Epithelium	Mammary Gland	DNase	44974_sort_peaks.narrowPeak.bed
+44975	GSM736541	Homo sapiens	None	Epithelium	Mammary Gland	DNase	44975_sort_peaks.narrowPeak.bed
+44976	GSM736628	Homo sapiens	None	Epithelium	Mammary Gland	DNase	44976_sort_peaks.narrowPeak.bed
+44977	GSM1024747	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	44977_sort_peaks.narrowPeak.bed
+44978	GSM1024745	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	44978_sort_peaks.narrowPeak.bed
+44979	GSM736523	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	44979_sort_peaks.narrowPeak.bed
+44980	GSM736609	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	44980_sort_peaks.narrowPeak.bed
+44981	GSM736521	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	44981_sort_peaks.narrowPeak.bed
+44982	GSM736571	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	44982_sort_peaks.narrowPeak.bed
+44983	GSM736599	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	44983_sort_peaks.narrowPeak.bed
+44984	GSM736591	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	44984_sort_peaks.narrowPeak.bed
+44985	GSM736577	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	44985_sort_peaks.narrowPeak.bed
+44986	GSM736573	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	44986_sort_peaks.narrowPeak.bed
+44987	GSM736611	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	44987_sort_peaks.narrowPeak.bed
+44988	GSM736624	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	44988_sort_peaks.narrowPeak.bed
+44989	GSM736542	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	44989_sort_peaks.narrowPeak.bed
+44990	GSM736511	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	44990_sort_peaks.narrowPeak.bed
+44991	GSM736507	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	44991_sort_peaks.narrowPeak.bed
+44992	GSM736627	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	44992_sort_peaks.narrowPeak.bed
+44993	GSM736550	Homo sapiens	None	Epithelium	None	DNase	44993_sort_peaks.narrowPeak.bed
+44994	GSM736621	Homo sapiens	None	Epithelium	None	DNase	44994_sort_peaks.narrowPeak.bed
+44995	GSM1024763	Homo sapiens	None	Endothelial Cell	Pulmonary Artery	DNase	44995_sort_peaks.narrowPeak.bed
+44996	GSM736555	Homo sapiens	None	Fibroblast	Pulmonary Artery	DNase	44996_sort_peaks.narrowPeak.bed
+44997	GSM736614	Homo sapiens	None	Fibroblast	Pulmonary Artery	DNase	44997_sort_peaks.narrowPeak.bed
+44998	GSM736528	Homo sapiens	None	Fibroblast	Periodontal Ligament	DNase	44998_sort_peaks.narrowPeak.bed
+44999	GSM736632	Homo sapiens	None	Fibroblast	Periodontal Ligament	DNase	44999_sort_peaks.narrowPeak.bed
+45000	GSM736574	Homo sapiens	None	Fibroblast	Lung	DNase	45000_sort_peaks.narrowPeak.bed
+45001	GSM736503	Homo sapiens	None	Fibroblast	Lung	DNase	45001_sort_peaks.narrowPeak.bed
+45002	GSM736549	Homo sapiens	None	Cortex	Kidney	DNase	45002_sort_peaks.narrowPeak.bed
+45003	GSM736557	Homo sapiens	None	Cortex	Kidney	DNase	45003_sort_peaks.narrowPeak.bed
+45004	GSM736548	Homo sapiens	HRE	Epithelium	None	DNase	45004_sort_peaks.narrowPeak.bed
+45005	GSM736527	Homo sapiens	HRE	Epithelium	None	DNase	45005_sort_peaks.narrowPeak.bed
+45006	GSM736618	Homo sapiens	None	Endothelial Cell	Kidney	DNase	45006_sort_peaks.narrowPeak.bed
+45007	GSM736499	Homo sapiens	None	Endothelial Cell	Kidney	DNase	45007_sort_peaks.narrowPeak.bed
+45008	GSM736630	Homo sapiens	None	Epithelium	None	DNase	45008_sort_peaks.narrowPeak.bed
+45009	GSM736623	Homo sapiens	None	Epithelium	None	DNase	45009_sort_peaks.narrowPeak.bed
+45010	GSM736560	Homo sapiens	None	Myoblast	Skeletal Muscle	DNase	45010_sort_peaks.narrowPeak.bed
+45011	GSM736553	Homo sapiens	None	Myoblast	Skeletal Muscle	DNase	45011_sort_peaks.narrowPeak.bed
+45012	GSM736530	Homo sapiens	None	Myoblast	Skeletal Muscle	DNase	45012_sort_peaks.narrowPeak.bed
+45013	GSM1024788	Homo sapiens	None	Myoblast	Skeletal Muscle	DNase	45013_sort_peaks.narrowPeak.bed
+45014	GSM736533	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	45014_sort_peaks.narrowPeak.bed
+45015	GSM736575	Homo sapiens	None	Endothelial Cell	Umbilical Vein	DNase	45015_sort_peaks.narrowPeak.bed
+45016	GSM736491	Homo sapiens	None	Fibroblast	Connective Tissue	DNase	45016_sort_peaks.narrowPeak.bed
+45017	GSM736534	Homo sapiens	None	Fibroblast	Connective Tissue	DNase	45017_sort_peaks.narrowPeak.bed
+45018	GSM736501	Homo sapiens	Jurkat	T Lymphocyte	Blood	DNase	45018_sort_peaks.narrowPeak.bed
+45019	GSM736492	Homo sapiens	Jurkat	T Lymphocyte	Blood	DNase	45019_sort_peaks.narrowPeak.bed
+45020	GSM736566	Homo sapiens	K562	Erythroblast	Bone Marrow	DNase	45020_sort_peaks.narrowPeak.bed
+45021	GSM736629	Homo sapiens	K562	Erythroblast	Bone Marrow	DNase	45021_sort_peaks.narrowPeak.bed
+45022	GSM1024772	Homo sapiens	LHCN-M2	Myoblast	Skeletal Muscle	DNase	45022_sort_peaks.narrowPeak.bed
+45023	GSM1024771	Homo sapiens	LHCN-M2	Myoblast	Skeletal Muscle	DNase	45023_sort_peaks.narrowPeak.bed
+45024	GSM1024787	Homo sapiens	LHCN-M2	Myoblast	Skeletal Muscle	DNase	45024_sort_peaks.narrowPeak.bed
+45025	GSM1024786	Homo sapiens	LHCN-M2	Myoblast	Skeletal Muscle	DNase	45025_sort_peaks.narrowPeak.bed
+45026	GSM736565	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	45026_sort_peaks.narrowPeak.bed
+45027	GSM736603	Homo sapiens	LNCaP	Epithelium	Prostate	DNase	45027_sort_peaks.narrowPeak.bed
+45028	GSM1024773	Homo sapiens	M059J	Glial Cell	Brain	DNase	45028_sort_peaks.narrowPeak.bed
+45029	GSM1024794	Homo sapiens	M059J	Glial Cell	Brain	DNase	45029_sort_peaks.narrowPeak.bed
+45030	GSM736581	Homo sapiens	MCF-7	Epithelium	Mammary Gland	DNase	45030_sort_peaks.narrowPeak.bed
+45031	GSM736588	Homo sapiens	MCF-7	Epithelium	Mammary Gland	DNase	45031_sort_peaks.narrowPeak.bed
+45032	GSM1024764	Homo sapiens	MCF-7	Epithelium	Mammary Gland	DNase	45032_sort_peaks.narrowPeak.bed
+45033	GSM1024767	Homo sapiens	MCF-7	Epithelium	Mammary Gland	DNase	45033_sort_peaks.narrowPeak.bed
+45034	GSM1024784	Homo sapiens	MCF-7	Epithelium	Mammary Gland	DNase	45034_sort_peaks.narrowPeak.bed
+45035	GSM1024783	Homo sapiens	MCF-7	Epithelium	Mammary Gland	DNase	45035_sort_peaks.narrowPeak.bed
+45036	GSM1024791	Homo sapiens	None	Monocyte	Blood	DNase	45036_sort_peaks.narrowPeak.bed
+45037	GSM736604	Homo sapiens	NB4	Promyelocytic cell	Blood	DNase	45037_sort_peaks.narrowPeak.bed
+45038	GSM736529	Homo sapiens	NB4	Promyelocytic cell	Blood	DNase	45038_sort_peaks.narrowPeak.bed
+45039	GSM736584	Homo sapiens	None	Astrocyte	Brain	DNase	45039_sort_peaks.narrowPeak.bed
+45040	GSM736544	Homo sapiens	None	Astrocyte	Brain	DNase	45040_sort_peaks.narrowPeak.bed
+45041	GSM1024756	Homo sapiens	NHBE_RA	Epithelium	Bronchia	DNase	45041_sort_peaks.narrowPeak.bed
+45042	GSM1024781	Homo sapiens	NHBE_RA	Epithelium	Bronchia	DNase	45042_sort_peaks.narrowPeak.bed
+45043	GSM736520	Homo sapiens	NHDF-Ad	Fibroblast	Skin	DNase	45043_sort_peaks.narrowPeak.bed
+45044	GSM736567	Homo sapiens	NHDF-Ad	Fibroblast	Skin	DNase	45044_sort_peaks.narrowPeak.bed
+45045	GSM736498	Homo sapiens	NHDF-neo	Fibroblast	Skin	DNase	45045_sort_peaks.narrowPeak.bed
+45046	GSM736546	Homo sapiens	NHDF-neo	Fibroblast	Skin	DNase	45046_sort_peaks.narrowPeak.bed
+45047	GSM736556	Homo sapiens	NHEK	Keratinocyte	Skin	DNase	45047_sort_peaks.narrowPeak.bed
+45048	GSM736545	Homo sapiens	NHEK	Keratinocyte	Skin	DNase	45048_sort_peaks.narrowPeak.bed
+45049	GSM736612	Homo sapiens	NHLF	Fibroblast	Lung	DNase	45049_sort_peaks.narrowPeak.bed
+45050	GSM736536	Homo sapiens	NHLF	Fibroblast	Lung	DNase	45050_sort_peaks.narrowPeak.bed
+45051	GSM1024751	Homo sapiens	NT2-D1	None	Embryo	DNase	45051_sort_peaks.narrowPeak.bed
+45052	GSM1024795	Homo sapiens	NT2-D1	None	Embryo	DNase	45052_sort_peaks.narrowPeak.bed
+45053	GSM736519	Homo sapiens	PANC-1	Epithelium	Pancreas	DNase	45053_sort_peaks.narrowPeak.bed
+45054	GSM736517	Homo sapiens	PANC-1	Epithelium	Pancreas	DNase	45054_sort_peaks.narrowPeak.bed
+45055	GSM1024743	Homo sapiens	PrEC	Epithelium	Prostate	DNase	45055_sort_peaks.narrowPeak.bed
+45056	GSM1024742	Homo sapiens	PrEC	Epithelium	Prostate	DNase	45056_sort_peaks.narrowPeak.bed
+45057	GSM1024779	Homo sapiens	RPMI-7951	Melanoma Cell	Skin	DNase	45057_sort_peaks.narrowPeak.bed
+45058	GSM1024793	Homo sapiens	RPMI-7951	Melanoma Cell	Skin	DNase	45058_sort_peaks.narrowPeak.bed
+45059	GSM736543	Homo sapiens	RPTEC	Cortex	Kidney	DNase	45059_sort_peaks.narrowPeak.bed
+45060	GSM736539	Homo sapiens	RPTEC	Cortex	Kidney	DNase	45060_sort_peaks.narrowPeak.bed
+45061	GSM736608	Homo sapiens	SAEC	Epithelium	Lung	DNase	45061_sort_peaks.narrowPeak.bed
+45062	GSM736617	Homo sapiens	SAEC	Epithelium	Lung	DNase	45062_sort_peaks.narrowPeak.bed
+45063	GSM736497	Homo sapiens	SKMC	Myoblast	Skeletal Muscle	DNase	45063_sort_peaks.narrowPeak.bed
+45064	GSM736593	Homo sapiens	SKMC	Myoblast	Skeletal Muscle	DNase	45064_sort_peaks.narrowPeak.bed
+45065	GSM736522	Homo sapiens	SK-N-MC	Epithelium	Brain	DNase	45065_sort_peaks.narrowPeak.bed
+45066	GSM736570	Homo sapiens	SK-N-MC	Epithelium	Brain	DNase	45066_sort_peaks.narrowPeak.bed
+45067	GSM736559	Homo sapiens	SK-N-SH_RA	Neuron	Brain	DNase	45067_sort_peaks.narrowPeak.bed
+45068	GSM736578	Homo sapiens	SK-N-SH_RA	Neuron	Brain	DNase	45068_sort_peaks.narrowPeak.bed
+45069	GSM1024761	Homo sapiens	T47D	Epithelium	Mammary Gland	DNase	45069_sort_peaks.narrowPeak.bed
+45070	GSM1024762	Homo sapiens	T47D	Epithelium	Mammary Gland	DNase	45070_sort_peaks.narrowPeak.bed
+45071	GSM1024760	Homo sapiens	None	Th1	Blood	DNase	45071_sort_peaks.narrowPeak.bed
+45072	GSM736592	Homo sapiens	None	Th1	Blood	DNase	45072_sort_peaks.narrowPeak.bed
+45073	GSM1024790	Homo sapiens	None	Th17	Blood	DNase	45073_sort_peaks.narrowPeak.bed
+45074	GSM1024749	Homo sapiens	None	Th1	Blood	DNase	45074_sort_peaks.narrowPeak.bed
+45075	GSM1024752	Homo sapiens	None	Th1	Blood	DNase	45075_sort_peaks.narrowPeak.bed
+45076	GSM1024753	Homo sapiens	None	Th1	Blood	DNase	45076_sort_peaks.narrowPeak.bed
+45077	GSM1024792	Homo sapiens	None	Th2	Blood	DNase	45077_sort_peaks.narrowPeak.bed
+45078	GSM736502	Homo sapiens	None	Th2	Blood	DNase	45078_sort_peaks.narrowPeak.bed
+45079	GSM1024740	Homo sapiens	None	Th2	Blood	DNase	45079_sort_peaks.narrowPeak.bed
+45080	GSM1024739	Homo sapiens	None	Th2	Blood	DNase	45080_sort_peaks.narrowPeak.bed
+45081	GSM1024744	Homo sapiens	None	T Lymphocyte	Blood	DNase	45081_sort_peaks.narrowPeak.bed
+45082	GSM1024741	Homo sapiens	None	T Lymphocyte	Blood	DNase	45082_sort_peaks.narrowPeak.bed
+45083	GSM736495	Homo sapiens	WERI-Rb-1	None	Eye	DNase	45083_sort_peaks.narrowPeak.bed
+45084	GSM736636	Homo sapiens	WERI-Rb-1	None	Eye	DNase	45084_sort_peaks.narrowPeak.bed
+45085	GSM736613	Homo sapiens	WI-38	Fibroblast	Embryonic Lung	DNase	45085_sort_peaks.narrowPeak.bed
+45086	GSM736526	Homo sapiens	WI-38	Fibroblast	Embryonic Lung	DNase	45086_sort_peaks.narrowPeak.bed
+47604	GSM1251561	Homo sapiens	L1236	B Lymphocyte	Blood	DNase	47604_sort_peaks.narrowPeak.bed
+47605	GSM1251562	Homo sapiens	L428	B Lymphocyte	Blood	DNase	47605_sort_peaks.narrowPeak.bed
+47606	GSM1251563	Homo sapiens	L591	B Lymphocyte	Blood	DNase	47606_sort_peaks.narrowPeak.bed
+47607	GSM1251564	Homo sapiens	Reh	Lymphoblast	Blood	DNase	47607_sort_peaks.narrowPeak.bed
+47608	GSM1251565	Homo sapiens	Namalwa	B Lymphocyte	Blood	DNase	47608_sort_peaks.narrowPeak.bed
+49062	GSM1406338	Homo sapiens	None	Macrophage	Blood	DNase	49062_sort_peaks.narrowPeak.bed
+49063	GSM1406339	Homo sapiens	None	Macrophage	Blood	DNase	49063_sort_peaks.narrowPeak.bed
+49064	GSM1406340	Homo sapiens	None	Macrophage	Blood	DNase	49064_sort_peaks.narrowPeak.bed
+49065	GSM1406341	Homo sapiens	None	Macrophage	Blood	DNase	49065_sort_peaks.narrowPeak.bed
+49066	GSM1406342	Homo sapiens	None	Macrophage	Blood	DNase	49066_sort_peaks.narrowPeak.bed
+49067	GSM1406343	Homo sapiens	None	Macrophage	Blood	DNase	49067_sort_peaks.narrowPeak.bed
+49068	GSM1406344	Homo sapiens	None	Macrophage	Blood	DNase	49068_sort_peaks.narrowPeak.bed
+49069	GSM1406345	Homo sapiens	None	Macrophage	Blood	DNase	49069_sort_peaks.narrowPeak.bed
+49070	GSM1406346	Homo sapiens	None	Macrophage	Blood	DNase	49070_sort_peaks.narrowPeak.bed
+49071	GSM1406347	Homo sapiens	None	Macrophage	Blood	DNase	49071_sort_peaks.narrowPeak.bed
+49072	GSM1406348	Homo sapiens	None	Monocyte	Blood	DNase	49072_sort_peaks.narrowPeak.bed
+49073	GSM1406349	Homo sapiens	None	Monocyte	Blood	DNase	49073_sort_peaks.narrowPeak.bed
+49074	GSM1406350	Homo sapiens	None	Macrophage	Blood	DNase	49074_sort_peaks.narrowPeak.bed
+49075	GSM1406351	Homo sapiens	None	Macrophage	Blood	DNase	49075_sort_peaks.narrowPeak.bed
+49076	GSM1406352	Homo sapiens	None	Macrophage	Blood	DNase	49076_sort_peaks.narrowPeak.bed
+49077	GSM1406353	Homo sapiens	None	Monocyte	Blood	DNase	49077_sort_peaks.narrowPeak.bed
+49078	GSM1406354	Homo sapiens	None	Monocyte	Blood	DNase	49078_sort_peaks.narrowPeak.bed
+49079	GSM1406355	Homo sapiens	None	Macrophage	Blood	DNase	49079_sort_peaks.narrowPeak.bed
+49080	GSM1406356	Homo sapiens	None	Macrophage	Blood	DNase	49080_sort_peaks.narrowPeak.bed
+49081	GSM1406357	Homo sapiens	None	Macrophage	Blood	DNase	49081_sort_peaks.narrowPeak.bed
+49719	GSM1496625	Homo sapiens	K562	Erythroblast	Bone Marrow	DNase	49719_sort_peaks.narrowPeak.bed
+49720	GSM1496626	Homo sapiens	MCF-7	Epithelium	Mammary Gland	DNase	49720_sort_peaks.narrowPeak.bed
+50400	GSM1443801	Homo sapiens	hMADS-3	Adipocyte	Adipose	DNase	50400_sort_peaks.narrowPeak.bed
+50401	GSM1443802	Homo sapiens	hMADS-3	Adipocyte	Adipose	DNase	50401_sort_peaks.narrowPeak.bed
+51253	GSM1446346	Homo sapiens	None	None	Fetal epididymis	DNase	51253_sort_peaks.narrowPeak.bed
+51254	GSM1446347	Homo sapiens	None	None	Fetal epididymis	DNase	51254_sort_peaks.narrowPeak.bed
+51645	GSM1513901	Homo sapiens	None	Stromal Cell	None	DNase	51645_sort_peaks.narrowPeak.bed
+51646	GSM1513902	Homo sapiens	None	Stromal Cell	None	DNase	51646_sort_peaks.narrowPeak.bed
+51647	GSM1513903	Homo sapiens	None	Stromal Cell	None	DNase	51647_sort_peaks.narrowPeak.bed
+53603	GSM1566739	Homo sapiens	None	Adipocyte	None	DNase	53603_sort_peaks.narrowPeak.bed
+53817	GSM1635901	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	DNase	53817_sort_peaks.narrowPeak.bed
+53818	GSM1635902	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	DNase	53818_sort_peaks.narrowPeak.bed
+53819	GSM1635903	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	DNase	53819_sort_peaks.narrowPeak.bed
+53821	GSM1635905	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	DNase	53821_sort_peaks.narrowPeak.bed
+53822	GSM1635906	Homo sapiens	HEK293T	Epithelium	Embryonic Kidney	DNase	53822_sort_peaks.narrowPeak.bed
+55173	GSM1581819	Homo sapiens	None	Stem cell	Blood	DNase	55173_sort_peaks.narrowPeak.bed
+55174	GSM1581820	Homo sapiens	None	Stem cell	Blood	DNase	55174_sort_peaks.narrowPeak.bed
+55175	GSM1581821	Homo sapiens	None	Myeloid Cell	None	DNase	55175_sort_peaks.narrowPeak.bed
+55176	GSM1581822	Homo sapiens	None	Myeloid Cell	None	DNase	55176_sort_peaks.narrowPeak.bed
+55177	GSM1581823	Homo sapiens	None	Myeloid Cell	None	DNase	55177_sort_peaks.narrowPeak.bed
+55178	GSM1581824	Homo sapiens	None	Myeloid Cell	None	DNase	55178_sort_peaks.narrowPeak.bed
+55179	GSM1581825	Homo sapiens	None	Myeloid Cell	None	DNase	55179_sort_peaks.narrowPeak.bed
+55180	GSM1581826	Homo sapiens	None	Myeloid Cell	None	DNase	55180_sort_peaks.narrowPeak.bed
+55181	GSM1581827	Homo sapiens	None	Myeloid Cell	None	DNase	55181_sort_peaks.narrowPeak.bed
+55182	GSM1581828	Homo sapiens	None	Myeloid Cell	None	DNase	55182_sort_peaks.narrowPeak.bed
+55183	GSM1581829	Homo sapiens	None	Myeloid Cell	None	DNase	55183_sort_peaks.narrowPeak.bed
+55184	GSM1581830	Homo sapiens	None	Myeloid Cell	None	DNase	55184_sort_peaks.narrowPeak.bed
+55185	GSM1581831	Homo sapiens	None	Myeloid Cell	None	DNase	55185_sort_peaks.narrowPeak.bed
+55186	GSM1581832	Homo sapiens	None	Myeloid Cell	None	DNase	55186_sort_peaks.narrowPeak.bed
+55187	GSM1581833	Homo sapiens	None	Myeloid Cell	None	DNase	55187_sort_peaks.narrowPeak.bed
+55188	GSM1581834	Homo sapiens	None	Myeloid Cell	None	DNase	55188_sort_peaks.narrowPeak.bed
+55189	GSM1581835	Homo sapiens	None	Myeloid Cell	None	DNase	55189_sort_peaks.narrowPeak.bed
+55190	GSM1581836	Homo sapiens	None	Myeloid Cell	None	DNase	55190_sort_peaks.narrowPeak.bed
+56938	GSM1841293	Homo sapiens	RS4	B Lymphocyte	None	DNase	56938_sort_peaks.narrowPeak.bed
+58042	GSM1607165	Homo sapiens	None	None	Thymus	DNase	58042_sort_peaks.narrowPeak.bed
+58043	GSM1607166	Homo sapiens	None	None	Thymus	DNase	58043_sort_peaks.narrowPeak.bed
+58044	GSM1607167	Homo sapiens	None	None	Thymus	DNase	58044_sort_peaks.narrowPeak.bed
+58045	GSM1607168	Homo sapiens	None	None	Thymus	DNase	58045_sort_peaks.narrowPeak.bed
+58046	GSM1607169	Homo sapiens	None	None	Thymus	DNase	58046_sort_peaks.narrowPeak.bed
+58047	GSM1607170	Homo sapiens	None	None	Thymus	DNase	58047_sort_peaks.narrowPeak.bed
+58048	GSM1607171	Homo sapiens	None	None	Thymus	DNase	58048_sort_peaks.narrowPeak.bed
+58049	GSM1607172	Homo sapiens	None	None	Thymus	DNase	58049_sort_peaks.narrowPeak.bed
+58050	GSM1607173	Homo sapiens	None	None	Thymus	DNase	58050_sort_peaks.narrowPeak.bed
+58051	GSM1607174	Homo sapiens	None	None	Thymus	DNase	58051_sort_peaks.narrowPeak.bed
+58052	GSM1607175	Homo sapiens	None	None	Thymus	DNase	58052_sort_peaks.narrowPeak.bed
+58053	GSM1607176	Homo sapiens	None	None	Thymus	DNase	58053_sort_peaks.narrowPeak.bed
+59671	GSM1602243	Homo sapiens	Raji	B Lymphocyte	Blood	ATAC-seq	59671_sort_peaks.narrowPeak.bed
+59672	GSM1602244	Homo sapiens	Raji	B Lymphocyte	Blood	ATAC-seq	59672_sort_peaks.narrowPeak.bed
+59673	GSM1602245	Homo sapiens	Rj2.2.5	None	None	ATAC-seq	59673_sort_peaks.narrowPeak.bed
+59674	GSM1602246	Homo sapiens	Rj2.2.5	None	None	ATAC-seq	59674_sort_peaks.narrowPeak.bed
+59676	GSM1621352	Homo sapiens	GM12878	Lymphoblastoid	Blood	ATAC-seq	59676_sort_peaks.narrowPeak.bed
+59678	GSM1621354	Homo sapiens	GM12878	Lymphoblastoid	Blood	ATAC-seq	59678_sort_peaks.narrowPeak.bed
+59683	GSM1565734	Homo sapiens	None	Dendritic Cell	None	ATAC-seq	59683_sort_peaks.narrowPeak.bed
+59684	GSM1565735	Homo sapiens	None	Dendritic Cell	None	ATAC-seq	59684_sort_peaks.narrowPeak.bed
+59697	GSM1484783	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59697_sort_peaks.narrowPeak.bed
+59698	GSM1484784	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59698_sort_peaks.narrowPeak.bed
+59699	GSM1484785	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59699_sort_peaks.narrowPeak.bed
+59700	GSM1484786	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59700_sort_peaks.narrowPeak.bed
+59701	GSM1484787	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59701_sort_peaks.narrowPeak.bed
+59702	GSM1484788	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59702_sort_peaks.narrowPeak.bed
+59703	GSM1484789	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59703_sort_peaks.narrowPeak.bed
+59704	GSM1484790	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59704_sort_peaks.narrowPeak.bed
+59705	GSM1484791	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59705_sort_peaks.narrowPeak.bed
+59706	GSM1484792	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59706_sort_peaks.narrowPeak.bed
+59707	GSM1484793	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59707_sort_peaks.narrowPeak.bed
+59708	GSM1484794	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59708_sort_peaks.narrowPeak.bed
+59709	GSM1484795	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59709_sort_peaks.narrowPeak.bed
+59710	GSM1484796	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59710_sort_peaks.narrowPeak.bed
+59711	GSM1484797	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59711_sort_peaks.narrowPeak.bed
+59712	GSM1484798	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59712_sort_peaks.narrowPeak.bed
+59713	GSM1484799	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59713_sort_peaks.narrowPeak.bed
+59714	GSM1484800	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59714_sort_peaks.narrowPeak.bed
+59715	GSM1484801	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59715_sort_peaks.narrowPeak.bed
+59716	GSM1484802	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59716_sort_peaks.narrowPeak.bed
+59717	GSM1484803	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59717_sort_peaks.narrowPeak.bed
+59718	GSM1484804	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59718_sort_peaks.narrowPeak.bed
+59719	GSM1484805	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59719_sort_peaks.narrowPeak.bed
+59720	GSM1484806	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59720_sort_peaks.narrowPeak.bed
+59721	GSM1484807	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59721_sort_peaks.narrowPeak.bed
+59722	GSM1484808	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59722_sort_peaks.narrowPeak.bed
+59723	GSM1484809	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59723_sort_peaks.narrowPeak.bed
+59724	GSM1484810	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59724_sort_peaks.narrowPeak.bed
+59725	GSM1484811	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59725_sort_peaks.narrowPeak.bed
+59726	GSM1484812	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59726_sort_peaks.narrowPeak.bed
+59727	GSM1484813	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59727_sort_peaks.narrowPeak.bed
+59728	GSM1484814	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59728_sort_peaks.narrowPeak.bed
+59729	GSM1484815	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59729_sort_peaks.narrowPeak.bed
+59730	GSM1484816	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59730_sort_peaks.narrowPeak.bed
+59731	GSM1484817	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59731_sort_peaks.narrowPeak.bed
+59732	GSM1484818	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59732_sort_peaks.narrowPeak.bed
+59733	GSM1484819	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59733_sort_peaks.narrowPeak.bed
+59734	GSM1484820	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59734_sort_peaks.narrowPeak.bed
+59735	GSM1484821	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59735_sort_peaks.narrowPeak.bed
+59736	GSM1484822	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59736_sort_peaks.narrowPeak.bed
+59737	GSM1484823	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59737_sort_peaks.narrowPeak.bed
+59738	GSM1484824	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59738_sort_peaks.narrowPeak.bed
+59739	GSM1484825	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59739_sort_peaks.narrowPeak.bed
+59740	GSM1484826	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59740_sort_peaks.narrowPeak.bed
+59741	GSM1484827	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59741_sort_peaks.narrowPeak.bed
+59742	GSM1484828	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59742_sort_peaks.narrowPeak.bed
+59743	GSM1484829	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59743_sort_peaks.narrowPeak.bed
+59744	GSM1484830	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59744_sort_peaks.narrowPeak.bed
+59746	GSM1484832	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59746_sort_peaks.narrowPeak.bed
+59747	GSM1484833	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59747_sort_peaks.narrowPeak.bed
+59748	GSM1484834	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59748_sort_peaks.narrowPeak.bed
+59749	GSM1484835	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59749_sort_peaks.narrowPeak.bed
+59750	GSM1484836	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59750_sort_peaks.narrowPeak.bed
+59751	GSM1484837	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59751_sort_peaks.narrowPeak.bed
+59752	GSM1484838	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59752_sort_peaks.narrowPeak.bed
+59753	GSM1484839	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59753_sort_peaks.narrowPeak.bed
+59754	GSM1484840	Homo sapiens	None	T Lymphocyte	None	ATAC-seq	59754_sort_peaks.narrowPeak.bed
+61416	GSM1645709	Homo sapiens	None	Keratinocyte	None	ATAC-seq	61416_sort_peaks.narrowPeak.bed
+61417	GSM1652448	Homo sapiens	None	None	None	ATAC-seq	61417_sort_peaks.narrowPeak.bed
+61418	GSM1652449	Homo sapiens	None	None	None	ATAC-seq	61418_sort_peaks.narrowPeak.bed
+61419	GSM1652450	Homo sapiens	None	None	None	ATAC-seq	61419_sort_peaks.narrowPeak.bed
+61420	GSM1652451	Homo sapiens	None	None	None	ATAC-seq	61420_sort_peaks.narrowPeak.bed
+61421	GSM1652452	Homo sapiens	None	None	None	ATAC-seq	61421_sort_peaks.narrowPeak.bed
+61422	GSM1652453	Homo sapiens	None	None	None	ATAC-seq	61422_sort_peaks.narrowPeak.bed
+61424	GSM1652455	Homo sapiens	None	None	None	ATAC-seq	61424_sort_peaks.narrowPeak.bed
+61426	GSM1652457	Homo sapiens	None	None	None	ATAC-seq	61426_sort_peaks.narrowPeak.bed
+61485	GSM1782765	Homo sapiens	K562	Erythroblast	Bone Marrow	ATAC-seq	61485_sort_peaks.narrowPeak.bed
+61492	GSM1817203	Homo sapiens	None	Neural crest cell	Cranial	ATAC-seq	61492_sort_peaks.narrowPeak.bed
+61493	GSM1817204	Homo sapiens	None	Neural crest cell	Cranial	ATAC-seq	61493_sort_peaks.narrowPeak.bed
+61494	GSM1817205	Homo sapiens	None	Neural crest cell	Cranial	ATAC-seq	61494_sort_peaks.narrowPeak.bed
+61495	GSM1817206	Homo sapiens	None	Neural crest cell	Cranial	ATAC-seq	61495_sort_peaks.narrowPeak.bed
+61496	GSM1817207	Homo sapiens	None	Neural crest cell	Cranial	ATAC-seq	61496_sort_peaks.narrowPeak.bed
+61497	GSM1818000	Homo sapiens	MUGCHOR	None	None	ATAC-seq	61497_sort_peaks.narrowPeak.bed
+61498	GSM1818001	Homo sapiens	UCH2	None	None	ATAC-seq	61498_sort_peaks.narrowPeak.bed
+61499	GSM1818002	Homo sapiens	UCH2	None	None	ATAC-seq	61499_sort_peaks.narrowPeak.bed
+61525	GSM1888534	Homo sapiens	None	Hematopoietic stem and progenitor cell	None	ATAC-seq	61525_sort_peaks.narrowPeak.bed
+61526	GSM1888535	Homo sapiens	None	Hematopoietic stem and progenitor cell	None	ATAC-seq	61526_sort_peaks.narrowPeak.bed
+61527	GSM1888536	Homo sapiens	None	Hematopoietic stem and progenitor cell	None	ATAC-seq	61527_sort_peaks.narrowPeak.bed
+61528	GSM1888537	Homo sapiens	None	Hematopoietic stem and progenitor cell	None	ATAC-seq	61528_sort_peaks.narrowPeak.bed
+61529	GSM1888538	Homo sapiens	None	Hematopoietic stem and progenitor cell	None	ATAC-seq	61529_sort_peaks.narrowPeak.bed
+61530	GSM1888539	Homo sapiens	None	Hematopoietic stem and progenitor cell	None	ATAC-seq	61530_sort_peaks.narrowPeak.bed
+61531	GSM1888540	Homo sapiens	None	Hematopoietic stem and progenitor cell	None	ATAC-seq	61531_sort_peaks.narrowPeak.bed
+61532	GSM1888541	Homo sapiens	None	Hematopoietic stem and progenitor cell	None	ATAC-seq	61532_sort_peaks.narrowPeak.bed

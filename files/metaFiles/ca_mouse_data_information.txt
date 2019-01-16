@@ -1,0 +1,295 @@
+501	GSM746553	Mus musculus	G1E	Erythroid Cell	Blood	DNase	501_sort_peaks.narrowPeak.bed
+517	GSM746567	Mus musculus	G1E-ER4	Erythroid Cell	Blood	DNase	517_sort_peaks.narrowPeak.bed
+5024	GSM652857	Mus musculus	None	Macrophage	Bone Marrow	DNase	5024_sort_peaks.narrowPeak.bed
+5025	GSM652858	Mus musculus	None	B Lymphocyte	Blood	DNase	5025_sort_peaks.narrowPeak.bed
+5033	GSM686964	Mus musculus	3T3-L1	Preadipocyte	Adipose	DNase	5033_sort_peaks.narrowPeak.bed
+5034	GSM686965	Mus musculus	3T3-L1	Preadipocyte	Adipose	DNase	5034_sort_peaks.narrowPeak.bed
+5035	GSM686966	Mus musculus	3T3-L1	Preadipocyte	Adipose	DNase	5035_sort_peaks.narrowPeak.bed
+5036	GSM686967	Mus musculus	3T3-L1	Preadipocyte	Adipose	DNase	5036_sort_peaks.narrowPeak.bed
+5037	GSM686968	Mus musculus	3T3-L1	Preadipocyte	Adipose	DNase	5037_sort_peaks.narrowPeak.bed
+5038	GSM686969	Mus musculus	3T3-L1	Preadipocyte	Adipose	DNase	5038_sort_peaks.narrowPeak.bed
+5132	GSM542592	Mus musculus	None	Epithelium	Liver	DNase	5132_sort_peaks.narrowPeak.bed
+5133	GSM542593	Mus musculus	None	Epithelium	Liver	DNase	5133_sort_peaks.narrowPeak.bed
+5134	GSM542594	Mus musculus	None	Epithelium	Liver	DNase	5134_sort_peaks.narrowPeak.bed
+5135	GSM542595	Mus musculus	None	Epithelium	Liver	DNase	5135_sort_peaks.narrowPeak.bed
+5137	GSM542596	Mus musculus	None	Epithelium	Liver	DNase	5137_sort_peaks.narrowPeak.bed
+5138	GSM542597	Mus musculus	None	Epithelium	Liver	DNase	5138_sort_peaks.narrowPeak.bed
+5139	GSM542598	Mus musculus	None	Epithelium	Liver	DNase	5139_sort_peaks.narrowPeak.bed
+5140	GSM542599	Mus musculus	None	Epithelium	Liver	DNase	5140_sort_peaks.narrowPeak.bed
+9015	GSM932968	Mus musculus	None	B Lymphocyte	Bone Marrow	DNase	9015_sort_peaks.narrowPeak.bed
+9016	GSM932969	Mus musculus	None	B Lymphocyte	Bone Marrow	DNase	9016_sort_peaks.narrowPeak.bed
+9017	GSM932970	Mus musculus	None	B Lymphocyte	Bone Marrow	DNase	9017_sort_peaks.narrowPeak.bed
+9018	GSM932971	Mus musculus	None	B Lymphocyte	Bone Marrow	DNase	9018_sort_peaks.narrowPeak.bed
+9019	GSM932972	Mus musculus	None	B Lymphocyte	Bone Marrow	DNase	9019_sort_peaks.narrowPeak.bed
+9020	GSM932973	Mus musculus	None	B Lymphocyte	Lymph Node	DNase	9020_sort_peaks.narrowPeak.bed
+9021	GSM932974	Mus musculus	None	B Lymphocyte	Lymph Node	DNase	9021_sort_peaks.narrowPeak.bed
+32918	GSM1064516	Mus musculus	None	B Lymphocyte	Spleen	DNase	32918_sort_peaks.narrowPeak.bed
+37591	GSM1122524	Mus musculus	None	Epithelium	Liver	DNase	37591_sort_peaks.narrowPeak.bed
+37595	GSM1122532	Mus musculus	None	Epithelium	Liver	DNase	37595_sort_peaks.narrowPeak.bed
+37612	GSM1122518	Mus musculus	None	Epithelium	Liver	DNase	37612_sort_peaks.narrowPeak.bed
+37614	GSM1122526	Mus musculus	None	Epithelium	Liver	DNase	37614_sort_peaks.narrowPeak.bed
+37615	GSM1122525	Mus musculus	None	Epithelium	Liver	DNase	37615_sort_peaks.narrowPeak.bed
+37617	GSM1122527	Mus musculus	None	Epithelium	Liver	DNase	37617_sort_peaks.narrowPeak.bed
+37620	GSM1122516	Mus musculus	None	Epithelium	Liver	DNase	37620_sort_peaks.narrowPeak.bed
+37627	GSM1122519	Mus musculus	None	Epithelium	Liver	DNase	37627_sort_peaks.narrowPeak.bed
+37628	GSM1122533	Mus musculus	None	Epithelium	Liver	DNase	37628_sort_peaks.narrowPeak.bed
+37630	GSM1122517	Mus musculus	None	Epithelium	Liver	DNase	37630_sort_peaks.narrowPeak.bed
+40532	GSM542601	Mus musculus	None	Epithelium	Liver	DNase	40532_sort_peaks.narrowPeak.bed
+40533	GSM542600	Mus musculus	None	Epithelium	Liver	DNase	40533_sort_peaks.narrowPeak.bed
+40538	GSM1003814	Mus musculus	None	B Lymphocyte	None	DNase	40538_sort_peaks.narrowPeak.bed
+40539	GSM1003238	Mus musculus	G1E-ER4	Erythroid Cell	Blood	DNase	40539_sort_peaks.narrowPeak.bed
+40540	GSM1003833	Mus musculus	None	T Helper cell	Blood	DNase	40540_sort_peaks.narrowPeak.bed
+40543	GSM1003834	Mus musculus	None	Activated Treg	Blood	DNase	40543_sort_peaks.narrowPeak.bed
+40544	GSM1003815	Mus musculus	416B	Myeloid Progenitor Cell	Blood	DNase	40544_sort_peaks.narrowPeak.bed
+40546	GSM1003830	Mus musculus	ES-CJ7	Embryonic Stem Cell	Hindbrain	DNase	40546_sort_peaks.narrowPeak.bed
+40552	GSM1003239	Mus musculus	G1E	Erythroid Cell	Blood	DNase	40552_sort_peaks.narrowPeak.bed
+40554	GSM1003819	Mus musculus	None	None	Kidney	DNase	40554_sort_peaks.narrowPeak.bed
+40556	GSM1003824	Mus musculus	K562	Erythroblast	Bone Marrow	DNase	40556_sort_peaks.narrowPeak.bed
+40557	GSM1003832	Mus musculus	None	None	Retina	DNase	40557_sort_peaks.narrowPeak.bed
+40691	GSM967653	Mus musculus	TSC	Trophoblast Stem Cell	Embryo	DNase	40691_sort_peaks.narrowPeak.bed
+40779	GSM1123949	Mus musculus	7438	Epithelium	Mammary Gland	DNase	40779_sort_peaks.narrowPeak.bed
+40780	GSM1123951	Mus musculus	7438	Epithelium	Mammary Gland	DNase	40780_sort_peaks.narrowPeak.bed
+40781	GSM1123948	Mus musculus	7438	Epithelium	Mammary Gland	DNase	40781_sort_peaks.narrowPeak.bed
+40782	GSM1123950	Mus musculus	7438	Epithelium	Mammary Gland	DNase	40782_sort_peaks.narrowPeak.bed
+41907	GSM1199553	Mus musculus	None	Erythroblast	Fetal Liver	DNase	41907_sort_peaks.narrowPeak.bed
+42980	GSM1246046	Mus musculus	None	None	Intestinal Crypt	DNase	42980_sort_peaks.narrowPeak.bed
+42981	GSM1246047	Mus musculus	None	None	Intestinal Crypt	DNase	42981_sort_peaks.narrowPeak.bed
+43466	GSM1281689	Mus musculus	None	Embryonic Stem Cell	Embryo	DNase	43466_sort_peaks.narrowPeak.bed
+43467	GSM1281690	Mus musculus	None	Fibroblast	None	DNase	43467_sort_peaks.narrowPeak.bed
+43468	GSM1281691	Mus musculus	None	Cortex	Brain	DNase	43468_sort_peaks.narrowPeak.bed
+43469	GSM1281692	Mus musculus	None	Epithelium	Heart	DNase	43469_sort_peaks.narrowPeak.bed
+43470	GSM1281693	Mus musculus	None	Epithelium	Kidney	DNase	43470_sort_peaks.narrowPeak.bed
+43471	GSM1281694	Mus musculus	None	None	Liver	DNase	43471_sort_peaks.narrowPeak.bed
+43602	GSM1296409	Mus musculus	3134	Epithelium	Mammary Gland	DNase	43602_sort_peaks.narrowPeak.bed
+43603	GSM1296410	Mus musculus	3134	Epithelium	Mammary Gland	DNase	43603_sort_peaks.narrowPeak.bed
+43604	GSM1296411	Mus musculus	3134	Epithelium	Mammary Gland	DNase	43604_sort_peaks.narrowPeak.bed
+43605	GSM1296412	Mus musculus	3134	Epithelium	Mammary Gland	DNase	43605_sort_peaks.narrowPeak.bed
+43606	GSM1296413	Mus musculus	3134	Epithelium	Mammary Gland	DNase	43606_sort_peaks.narrowPeak.bed
+43607	GSM1296414	Mus musculus	3134	Epithelium	Mammary Gland	DNase	43607_sort_peaks.narrowPeak.bed
+43608	GSM1296415	Mus musculus	3134	Epithelium	Mammary Gland	DNase	43608_sort_peaks.narrowPeak.bed
+43609	GSM1296416	Mus musculus	3134	Epithelium	Mammary Gland	DNase	43609_sort_peaks.narrowPeak.bed
+43663	GSM1300603	Mus musculus	None	Embryonic Stem Cell	Embryo	DNase	43663_sort_peaks.narrowPeak.bed
+43664	GSM1300604	Mus musculus	None	Embryonic Stem Cell	Embryo	DNase	43664_sort_peaks.narrowPeak.bed
+43666	GSM1300606	Mus musculus	None	None	Endoderm	DNase	43666_sort_peaks.narrowPeak.bed
+43667	GSM1300607	Mus musculus	None	None	Endoderm	DNase	43667_sort_peaks.narrowPeak.bed
+43902	GSM873977	Mus musculus	3T3-L1	Preadipocyte	Adipose	DNase	43902_sort_peaks.narrowPeak.bed
+43903	GSM873978	Mus musculus	3T3-L1	Preadipocyte	Adipose	DNase	43903_sort_peaks.narrowPeak.bed
+43904	GSM873979	Mus musculus	3T3-L1	Preadipocyte	Adipose	DNase	43904_sort_peaks.narrowPeak.bed
+43905	GSM873980	Mus musculus	3T3-L1	Preadipocyte	Adipose	DNase	43905_sort_peaks.narrowPeak.bed
+43906	GSM873981	Mus musculus	3T3-L1	Preadipocyte	Adipose	DNase	43906_sort_peaks.narrowPeak.bed
+43907	GSM873982	Mus musculus	3T3-L1	Preadipocyte	Adipose	DNase	43907_sort_peaks.narrowPeak.bed
+45087	GSM1014196	Mus musculus	3134	Epithelium	Mammary Gland	DNase	45087_sort_peaks.narrowPeak.bed
+45088	GSM1014163	Mus musculus	416B	Myeloid Progenitor Cell	Blood	DNase	45088_sort_peaks.narrowPeak.bed
+45089	GSM1014167	Mus musculus	A20	B Lymphocyte	Blood	DNase	45089_sort_peaks.narrowPeak.bed
+45090	GSM1014190	Mus musculus	None	B Lymphocyte	Blood	DNase	45090_sort_peaks.narrowPeak.bed
+45091	GSM1014170	Mus musculus	None	B Lymphocyte	Blood	DNase	45091_sort_peaks.narrowPeak.bed
+45092	GSM1014164	Mus musculus	None	None	Cerebellum	DNase	45092_sort_peaks.narrowPeak.bed
+45093	GSM1014168	Mus musculus	None	None	Cerebrum	DNase	45093_sort_peaks.narrowPeak.bed
+45094	GSM1014153	Mus musculus	CH12	Lymphoblastoid	Blood	DNase	45094_sort_peaks.narrowPeak.bed
+45095	GSM1014156	Mus musculus	None	Epithelium	Fetal Liver	DNase	45095_sort_peaks.narrowPeak.bed
+45096	GSM1014155	Mus musculus	None	Epithelium	Blood	DNase	45096_sort_peaks.narrowPeak.bed
+45097	GSM1014158	Mus musculus	None	Epithelium	Blood	DNase	45097_sort_peaks.narrowPeak.bed
+45098	GSM1014157	Mus musculus	None	Erythroblast	Fetal Liver	DNase	45098_sort_peaks.narrowPeak.bed
+45099	GSM1014187	Mus musculus	ES-CJ7	Embryonic Stem Cell	Embryo	DNase	45099_sort_peaks.narrowPeak.bed
+45100	GSM1014154	Mus musculus	E14	Embryonic Stem Cell	Embryo	DNase	45100_sort_peaks.narrowPeak.bed
+45101	GSM1014159	Mus musculus	WW6	Embryonic Stem Cell	Embryo	DNase	45101_sort_peaks.narrowPeak.bed
+45102	GSM1014160	Mus musculus	WW6	Embryonic Stem Cell	Embryo	DNase	45102_sort_peaks.narrowPeak.bed
+45103	GSM1014165	Mus musculus	None	None	Adipose	DNase	45103_sort_peaks.narrowPeak.bed
+45104	GSM1014199	Mus musculus	None	Epithelium	Lung	DNase	45104_sort_peaks.narrowPeak.bed
+45105	GSM1014174	Mus musculus	None	Epithelium	Limb	DNase	45105_sort_peaks.narrowPeak.bed
+45106	GSM1014173	Mus musculus	None	None	Adipose	DNase	45106_sort_peaks.narrowPeak.bed
+45107	GSM1014172	Mus musculus	None	None	Embryo	DNase	45107_sort_peaks.narrowPeak.bed
+45108	GSM1014166	Mus musculus	None	Epithelium	Heart	DNase	45108_sort_peaks.narrowPeak.bed
+45109	GSM1014179	Mus musculus	None	Epithelium	Limb	DNase	45109_sort_peaks.narrowPeak.bed
+45110	GSM1014193	Mus musculus	None	Epithelium	Kidney	DNase	45110_sort_peaks.narrowPeak.bed
+45111	GSM1014186	Mus musculus	None	Epithelium	Large Intestine	DNase	45111_sort_peaks.narrowPeak.bed
+45112	GSM1014183	Mus musculus	None	Epithelium	Liver	DNase	45112_sort_peaks.narrowPeak.bed
+45113	GSM1014161	Mus musculus	None	Epithelium	Liver	DNase	45113_sort_peaks.narrowPeak.bed
+45114	GSM1014195	Mus musculus	None	Epithelium	Liver	DNase	45114_sort_peaks.narrowPeak.bed
+45115	GSM1014162	Mus musculus	None	Epithelium	Liver	DNase	45115_sort_peaks.narrowPeak.bed
+45116	GSM1014194	Mus musculus	None	Epithelium	Lung	DNase	45116_sort_peaks.narrowPeak.bed
+45117	GSM1014191	Mus musculus	MEL	Erythroid Progenitor Cell	Blood	DNase	45117_sort_peaks.narrowPeak.bed
+45118	GSM1014178	Mus musculus	None	None	Embryo	DNase	45118_sort_peaks.narrowPeak.bed
+45119	GSM1014180	Mus musculus	mG/ER	None	Blood	DNase	45119_sort_peaks.narrowPeak.bed
+45120	GSM1014176	Mus musculus	mG/ER	None	Blood	DNase	45120_sort_peaks.narrowPeak.bed
+45121	GSM1014181	Mus musculus	mG/ER	None	Blood	DNase	45121_sort_peaks.narrowPeak.bed
+45122	GSM1014177	Mus musculus	NIH-3T3	Fibroblast	Embryo	DNase	45122_sort_peaks.narrowPeak.bed
+45123	GSM1014171	Mus musculus	Patski	Fibroblast	Embryonic Kidney	DNase	45123_sort_peaks.narrowPeak.bed
+45124	GSM1014175	Mus musculus	None	None	Brain	DNase	45124_sort_peaks.narrowPeak.bed
+45125	GSM1014198	Mus musculus	None	None	Brain	DNase	45125_sort_peaks.narrowPeak.bed
+45126	GSM1014188	Mus musculus	None	None	Brain	DNase	45126_sort_peaks.narrowPeak.bed
+45127	GSM1014189	Mus musculus	None	None	Skeletal Muscle	DNase	45127_sort_peaks.narrowPeak.bed
+45128	GSM1014182	Mus musculus	None	None	Spleen	DNase	45128_sort_peaks.narrowPeak.bed
+45129	GSM1014149	Mus musculus	None	T Helper cell	Blood	DNase	45129_sort_peaks.narrowPeak.bed
+45130	GSM1014185	Mus musculus	None	None	Thymus	DNase	45130_sort_peaks.narrowPeak.bed
+45131	GSM1014192	Mus musculus	None	T Lymphocyte	Blood	DNase	45131_sort_peaks.narrowPeak.bed
+45132	GSM1014148	Mus musculus	None	T Lymphocyte	Blood	DNase	45132_sort_peaks.narrowPeak.bed
+45133	GSM1014200	Mus musculus	None	Activated Treg	Blood	DNase	45133_sort_peaks.narrowPeak.bed
+45134	GSM1014197	Mus musculus	None	None	Brain	DNase	45134_sort_peaks.narrowPeak.bed
+45135	GSM1014151	Mus musculus	None	None	Brain	DNase	45135_sort_peaks.narrowPeak.bed
+45136	GSM1014184	Mus musculus	None	None	Brain	DNase	45136_sort_peaks.narrowPeak.bed
+45137	GSM1014150	Mus musculus	ZhBTc4	Embryonic Stem Cell	Embryo	DNase	45137_sort_peaks.narrowPeak.bed
+45138	GSM1014152	Mus musculus	ZhBTc4	Embryonic Stem Cell	Embryo	DNase	45138_sort_peaks.narrowPeak.bed
+45139	GSM1014169	Mus musculus	ZhBTc4	Embryonic Stem Cell	Embryo	DNase	45139_sort_peaks.narrowPeak.bed
+47031	GSM1032644	Mus musculus	None	Epithelium	Liver	DNase	47031_sort_peaks.narrowPeak.bed
+47484	GSM1230377	Mus musculus	None	Fibroblast	None	DNase	47484_sort_peaks.narrowPeak.bed
+47485	GSM1230378	Mus musculus	None	Fibroblast	None	DNase	47485_sort_peaks.narrowPeak.bed
+48707	GSM1382216	Mus musculus	EpiSC9	Stem cell	Ectoderm	DNase	48707_sort_peaks.narrowPeak.bed
+48713	GSM1382275	Mus musculus	3T3-L1	Preadipocyte	Adipose	DNase	48713_sort_peaks.narrowPeak.bed
+48714	GSM1382276	Mus musculus	3T3-L1	Preadipocyte	Adipose	DNase	48714_sort_peaks.narrowPeak.bed
+48879	GSM1395176	Mus musculus	None	Fibroblast	None	DNase	48879_sort_peaks.narrowPeak.bed
+48880	GSM1395177	Mus musculus	None	Fibroblast	None	DNase	48880_sort_peaks.narrowPeak.bed
+48884	GSM1397413	Mus musculus	None	Epithelium	Ileum	DNase	48884_sort_peaks.narrowPeak.bed
+48885	GSM1397414	Mus musculus	None	Epithelium	Ileum	DNase	48885_sort_peaks.narrowPeak.bed
+48886	GSM1397415	Mus musculus	None	Epithelium	Ileum	DNase	48886_sort_peaks.narrowPeak.bed
+48887	GSM1397416	Mus musculus	None	Epithelium	Ileum	DNase	48887_sort_peaks.narrowPeak.bed
+48888	GSM1397417	Mus musculus	None	Epithelium	Ileum	DNase	48888_sort_peaks.narrowPeak.bed
+48889	GSM1397418	Mus musculus	None	Epithelium	Ileum	DNase	48889_sort_peaks.narrowPeak.bed
+48890	GSM1397419	Mus musculus	None	Epithelium	Ileum	DNase	48890_sort_peaks.narrowPeak.bed
+48891	GSM1397420	Mus musculus	None	Epithelium	Ileum	DNase	48891_sort_peaks.narrowPeak.bed
+48894	GSM1397423	Mus musculus	None	Epithelium	Colon	DNase	48894_sort_peaks.narrowPeak.bed
+48895	GSM1397424	Mus musculus	None	Epithelium	Colon	DNase	48895_sort_peaks.narrowPeak.bed
+48896	GSM1397425	Mus musculus	None	Epithelium	Colon	DNase	48896_sort_peaks.narrowPeak.bed
+48897	GSM1397426	Mus musculus	None	Epithelium	Colon	DNase	48897_sort_peaks.narrowPeak.bed
+48898	GSM1397427	Mus musculus	None	Epithelium	Colon	DNase	48898_sort_peaks.narrowPeak.bed
+48899	GSM1397428	Mus musculus	None	Epithelium	Colon	DNase	48899_sort_peaks.narrowPeak.bed
+48900	GSM1397429	Mus musculus	None	Epithelium	Colon	DNase	48900_sort_peaks.narrowPeak.bed
+48903	GSM1397432	Mus musculus	None	Epithelium	Duodenum	DNase	48903_sort_peaks.narrowPeak.bed
+48904	GSM1397433	Mus musculus	None	Epithelium	Duodenum	DNase	48904_sort_peaks.narrowPeak.bed
+49828	GSM1516372	Mus musculus	G1E	Embryonic Stem Cell	Embryo	DNase	49828_sort_peaks.narrowPeak.bed
+49829	GSM1516373	Mus musculus	G1E	Embryonic Stem Cell	Embryo	DNase	49829_sort_peaks.narrowPeak.bed
+49830	GSM1516374	Mus musculus	G1E	Embryonic Stem Cell	Embryo	DNase	49830_sort_peaks.narrowPeak.bed
+49831	GSM1516375	Mus musculus	G1E	Embryonic Stem Cell	Embryo	DNase	49831_sort_peaks.narrowPeak.bed
+49832	GSM1516376	Mus musculus	G1E	Embryonic Stem Cell	Embryo	DNase	49832_sort_peaks.narrowPeak.bed
+49833	GSM1516377	Mus musculus	G1E	Embryonic Stem Cell	Embryo	DNase	49833_sort_peaks.narrowPeak.bed
+49834	GSM1516378	Mus musculus	G1E-ER4	Embryonic Stem Cell	None	DNase	49834_sort_peaks.narrowPeak.bed
+49835	GSM1516379	Mus musculus	G1E-ER4	Embryonic Stem Cell	None	DNase	49835_sort_peaks.narrowPeak.bed
+49836	GSM1516380	Mus musculus	G1E-ER4	Embryonic Stem Cell	None	DNase	49836_sort_peaks.narrowPeak.bed
+49837	GSM1516381	Mus musculus	G1E-ER4	Embryonic Stem Cell	None	DNase	49837_sort_peaks.narrowPeak.bed
+49838	GSM1516382	Mus musculus	G1E-ER4	Embryonic Stem Cell	None	DNase	49838_sort_peaks.narrowPeak.bed
+49839	GSM1516383	Mus musculus	G1E-ER4	Embryonic Stem Cell	None	DNase	49839_sort_peaks.narrowPeak.bed
+51299	GSM1486381	Mus musculus	None	None	Cerebellum	DNase	51299_sort_peaks.narrowPeak.bed
+51300	GSM1486382	Mus musculus	None	None	Cerebellum	DNase	51300_sort_peaks.narrowPeak.bed
+51301	GSM1486383	Mus musculus	None	None	Cerebellum	DNase	51301_sort_peaks.narrowPeak.bed
+51302	GSM1486384	Mus musculus	None	None	Cerebellum	DNase	51302_sort_peaks.narrowPeak.bed
+51303	GSM1486385	Mus musculus	None	None	Cerebellum	DNase	51303_sort_peaks.narrowPeak.bed
+51304	GSM1486386	Mus musculus	None	None	Cerebellum	DNase	51304_sort_peaks.narrowPeak.bed
+51305	GSM1486387	Mus musculus	None	None	Cerebellum	DNase	51305_sort_peaks.narrowPeak.bed
+51306	GSM1486388	Mus musculus	None	None	Cerebellum	DNase	51306_sort_peaks.narrowPeak.bed
+51307	GSM1486389	Mus musculus	None	None	Cerebellum	DNase	51307_sort_peaks.narrowPeak.bed
+51308	GSM1486390	Mus musculus	None	Neuron	Cerebellar	DNase	51308_sort_peaks.narrowPeak.bed
+51309	GSM1486391	Mus musculus	None	Neuron	Cerebellar	DNase	51309_sort_peaks.narrowPeak.bed
+51310	GSM1486392	Mus musculus	None	Neuron	Cerebellar	DNase	51310_sort_peaks.narrowPeak.bed
+51311	GSM1486393	Mus musculus	None	Neuron	Cerebellar	DNase	51311_sort_peaks.narrowPeak.bed
+51312	GSM1486394	Mus musculus	None	Neuron	Cerebellar	DNase	51312_sort_peaks.narrowPeak.bed
+51313	GSM1486395	Mus musculus	None	Neuron	Cerebellar	DNase	51313_sort_peaks.narrowPeak.bed
+51314	GSM1486396	Mus musculus	None	Neuron	Cerebellar	DNase	51314_sort_peaks.narrowPeak.bed
+51315	GSM1486397	Mus musculus	None	Neuron	Cerebellar	DNase	51315_sort_peaks.narrowPeak.bed
+51316	GSM1486398	Mus musculus	None	Neuron	Cerebellar	DNase	51316_sort_peaks.narrowPeak.bed
+51317	GSM1486399	Mus musculus	None	Neuron	Cerebellar	DNase	51317_sort_peaks.narrowPeak.bed
+51318	GSM1486400	Mus musculus	None	Neuron	Cerebellar	DNase	51318_sort_peaks.narrowPeak.bed
+51319	GSM1486401	Mus musculus	None	Neuron	Cerebellar	DNase	51319_sort_peaks.narrowPeak.bed
+51320	GSM1486402	Mus musculus	None	None	Heart	DNase	51320_sort_peaks.narrowPeak.bed
+51321	GSM1486403	Mus musculus	None	None	Kidney	DNase	51321_sort_peaks.narrowPeak.bed
+51322	GSM1486404	Mus musculus	None	None	Liver	DNase	51322_sort_peaks.narrowPeak.bed
+51414	GSM1500004	Mus musculus	3134	Epithelium	Mammary Gland	DNase	51414_sort_peaks.narrowPeak.bed
+51415	GSM1500005	Mus musculus	3134	Epithelium	Mammary Gland	DNase	51415_sort_peaks.narrowPeak.bed
+51416	GSM1500006	Mus musculus	3134	Epithelium	Mammary Gland	DNase	51416_sort_peaks.narrowPeak.bed
+51417	GSM1500007	Mus musculus	3134	Epithelium	Mammary Gland	DNase	51417_sort_peaks.narrowPeak.bed
+51418	GSM1500008	Mus musculus	3134	Epithelium	Mammary Gland	DNase	51418_sort_peaks.narrowPeak.bed
+51419	GSM1500009	Mus musculus	3134	Epithelium	Mammary Gland	DNase	51419_sort_peaks.narrowPeak.bed
+51420	GSM1500010	Mus musculus	3134	Epithelium	Mammary Gland	DNase	51420_sort_peaks.narrowPeak.bed
+51421	GSM1500011	Mus musculus	3134	Epithelium	Mammary Gland	DNase	51421_sort_peaks.narrowPeak.bed
+52069	GSM1614716	Mus musculus	3134	Epithelium	Mammary Gland	DNase	52069_sort_peaks.narrowPeak.bed
+52070	GSM1614717	Mus musculus	3134	Epithelium	Mammary Gland	DNase	52070_sort_peaks.narrowPeak.bed
+52071	GSM1614718	Mus musculus	3134	Epithelium	Mammary Gland	DNase	52071_sort_peaks.narrowPeak.bed
+52072	GSM1614719	Mus musculus	3134	Epithelium	Mammary Gland	DNase	52072_sort_peaks.narrowPeak.bed
+52720	GSM1556283	Mus musculus	None	Thymocyte	None	DNase	52720_sort_peaks.narrowPeak.bed
+53120	GSM1328460	Mus musculus	MC3T3	Preosteoblast	None	DNase	53120_sort_peaks.narrowPeak.bed
+53121	GSM1328461	Mus musculus	MC3T3	None	None	DNase	53121_sort_peaks.narrowPeak.bed
+53122	GSM1328462	Mus musculus	MC3T3	None	None	DNase	53122_sort_peaks.narrowPeak.bed
+55944	GSM1828885	Mus musculus	None	B Lymphocyte	Spleen	DNase	55944_sort_peaks.narrowPeak.bed
+57902	GSM1515602	Mus musculus	None	Embryonic Stem Cell	Embryo	DNase	57902_sort_peaks.narrowPeak.bed
+57903	GSM1515603	Mus musculus	None	Embryonic Stem Cell	Embryo	DNase	57903_sort_peaks.narrowPeak.bed
+57905	GSM1515612	Mus musculus	None	Embryonic Stem Cell	Embryo	DNase	57905_sort_peaks.narrowPeak.bed
+57906	GSM1515613	Mus musculus	None	Embryonic Stem Cell	Embryo	DNase	57906_sort_peaks.narrowPeak.bed
+58279	GSM1657323	Mus musculus	None	None	Liver	DNase	58279_sort_peaks.narrowPeak.bed
+58280	GSM1657324	Mus musculus	None	None	Liver	DNase	58280_sort_peaks.narrowPeak.bed
+58281	GSM1657325	Mus musculus	None	None	Liver	DNase	58281_sort_peaks.narrowPeak.bed
+58282	GSM1657326	Mus musculus	None	None	Liver	DNase	58282_sort_peaks.narrowPeak.bed
+58283	GSM1657364	Mus musculus	None	Embryonic Stem Cell	Embryo	DNase	58283_sort_peaks.narrowPeak.bed
+58284	GSM1657365	Mus musculus	None	Embryonic Stem Cell	Embryo	DNase	58284_sort_peaks.narrowPeak.bed
+58285	GSM1657366	Mus musculus	TKO	None	Blood	DNase	58285_sort_peaks.narrowPeak.bed
+58286	GSM1657367	Mus musculus	TKO	None	Blood	DNase	58286_sort_peaks.narrowPeak.bed
+58380	GSM1697056	Mus musculus	NIH-3T3	Fibroblast	None	DNase	58380_sort_peaks.narrowPeak.bed
+58381	GSM1697057	Mus musculus	None	Embryonic Stem Cell	Embryo	DNase	58381_sort_peaks.narrowPeak.bed
+58382	GSM1697058	Mus musculus	None	Embryonic Stem Cell	Embryo	DNase	58382_sort_peaks.narrowPeak.bed
+58383	GSM1697059	Mus musculus	None	Embryonic Stem Cell	Embryo	DNase	58383_sort_peaks.narrowPeak.bed
+58384	GSM1697060	Mus musculus	None	Embryonic Stem Cell	Embryo	DNase	58384_sort_peaks.narrowPeak.bed
+58385	GSM1697061	Mus musculus	None	Embryonic Stem Cell	Embryo	DNase	58385_sort_peaks.narrowPeak.bed
+58386	GSM1697062	Mus musculus	None	Embryonic Stem Cell	Embryo	DNase	58386_sort_peaks.narrowPeak.bed
+58387	GSM1697063	Mus musculus	None	Embryonic Stem Cell	Embryo	DNase	58387_sort_peaks.narrowPeak.bed
+58388	GSM1697064	Mus musculus	None	Embryonic Stem Cell	Embryo	DNase	58388_sort_peaks.narrowPeak.bed
+59421	GSM1249151	Mus musculus	TSC	Trophoblast Stem Cell	Embryo	DNase	59421_sort_peaks.narrowPeak.bed
+59643	GSM1463173	Mus musculus	None	Granulocyte	None	ATAC-seq	59643_sort_peaks.narrowPeak.bed
+59644	GSM1463174	Mus musculus	None	Monocyte	None	ATAC-seq	59644_sort_peaks.narrowPeak.bed
+59645	GSM1463175	Mus musculus	None	T Lymphocyte	None	ATAC-seq	59645_sort_peaks.narrowPeak.bed
+59646	GSM1463176	Mus musculus	None	Granulocyte	None	ATAC-seq	59646_sort_peaks.narrowPeak.bed
+59647	GSM1463177	Mus musculus	None	Natural Killer Cell	None	ATAC-seq	59647_sort_peaks.narrowPeak.bed
+59648	GSM1463178	Mus musculus	None	T Lymphocyte	None	ATAC-seq	59648_sort_peaks.narrowPeak.bed
+59651	GSM1463181	Mus musculus	None	Megakaryocitic Erythroyd Progenitor	None	ATAC-seq	59651_sort_peaks.narrowPeak.bed
+59657	GSM1531750	Mus musculus	None	None	Bone Marrow	ATAC-seq	59657_sort_peaks.narrowPeak.bed
+59658	GSM1531751	Mus musculus	None	Plasmacytoid dendritic cell	Bone Marrow	ATAC-seq	59658_sort_peaks.narrowPeak.bed
+59661	GSM1550786	Mus musculus	None	Germ Cell	Testis	ATAC-seq	59661_sort_peaks.narrowPeak.bed
+59664	GSM1495568	Mus musculus	None	None	Bone Marrow	ATAC-seq	59664_sort_peaks.narrowPeak.bed
+59665	GSM1495569	Mus musculus	None	None	Bone Marrow	ATAC-seq	59665_sort_peaks.narrowPeak.bed
+59666	GSM1495570	Mus musculus	None	None	Bone Marrow	ATAC-seq	59666_sort_peaks.narrowPeak.bed
+59669	GSM1495573	Mus musculus	None	None	Bone Marrow	ATAC-seq	59669_sort_peaks.narrowPeak.bed
+59685	GSM1635399	Mus musculus	None	B Lymphocyte	None	ATAC-seq	59685_sort_peaks.narrowPeak.bed
+59686	GSM1635400	Mus musculus	None	B Lymphocyte	None	ATAC-seq	59686_sort_peaks.narrowPeak.bed
+59687	GSM1635401	Mus musculus	None	B Lymphocyte	None	ATAC-seq	59687_sort_peaks.narrowPeak.bed
+59688	GSM1635402	Mus musculus	None	B Lymphocyte	None	ATAC-seq	59688_sort_peaks.narrowPeak.bed
+59689	GSM1635403	Mus musculus	None	B Lymphocyte	None	ATAC-seq	59689_sort_peaks.narrowPeak.bed
+59690	GSM1635404	Mus musculus	None	B Lymphocyte	None	ATAC-seq	59690_sort_peaks.narrowPeak.bed
+59691	GSM1635405	Mus musculus	None	B Lymphocyte	None	ATAC-seq	59691_sort_peaks.narrowPeak.bed
+59692	GSM1635406	Mus musculus	None	B Lymphocyte	None	ATAC-seq	59692_sort_peaks.narrowPeak.bed
+59693	GSM1635407	Mus musculus	None	B Lymphocyte	None	ATAC-seq	59693_sort_peaks.narrowPeak.bed
+59755	GSM1541964	Mus musculus	None	Neuron	Brain	ATAC-seq	59755_sort_peaks.narrowPeak.bed
+59756	GSM1541965	Mus musculus	None	Neuron	Brain	ATAC-seq	59756_sort_peaks.narrowPeak.bed
+59757	GSM1541966	Mus musculus	None	Neuron	Brain	ATAC-seq	59757_sort_peaks.narrowPeak.bed
+59758	GSM1541967	Mus musculus	None	Neuron	Brain	ATAC-seq	59758_sort_peaks.narrowPeak.bed
+59759	GSM1541968	Mus musculus	None	Neuron	Brain	ATAC-seq	59759_sort_peaks.narrowPeak.bed
+59763	GSM1545327	Mus musculus	R1	Embryonic Stem Cell	Embryo	ATAC-seq	59763_sort_peaks.narrowPeak.bed
+61398	GSM1624617	Mus musculus	None	Intermediate	Embryo	ATAC-seq	61398_sort_peaks.narrowPeak.bed
+61399	GSM1624618	Mus musculus	None	Intermediate	Embryo	ATAC-seq	61399_sort_peaks.narrowPeak.bed
+61400	GSM1624619	Mus musculus	None	Intermediate	Embryo	ATAC-seq	61400_sort_peaks.narrowPeak.bed
+61401	GSM1624620	Mus musculus	None	Intermediate	Embryo	ATAC-seq	61401_sort_peaks.narrowPeak.bed
+61402	GSM1624621	Mus musculus	None	Intermediate	Embryo	ATAC-seq	61402_sort_peaks.narrowPeak.bed
+61403	GSM1624622	Mus musculus	None	Intermediate	Embryo	ATAC-seq	61403_sort_peaks.narrowPeak.bed
+61404	GSM1624623	Mus musculus	None	Intermediate	Embryo	ATAC-seq	61404_sort_peaks.narrowPeak.bed
+61405	GSM1624624	Mus musculus	None	Intermediate	Embryo	ATAC-seq	61405_sort_peaks.narrowPeak.bed
+61406	GSM1624625	Mus musculus	None	iPSC	None	ATAC-seq	61406_sort_peaks.narrowPeak.bed
+61500	GSM1843220	Mus musculus	None	None	Bone Marrow	ATAC-seq	61500_sort_peaks.narrowPeak.bed
+61501	GSM1843221	Mus musculus	None	None	Bone Marrow	ATAC-seq	61501_sort_peaks.narrowPeak.bed
+61502	GSM1843335	Mus musculus	None	B Lymphocyte	None	ATAC-seq	61502_sort_peaks.narrowPeak.bed
+61503	GSM1843336	Mus musculus	None	B Lymphocyte	None	ATAC-seq	61503_sort_peaks.narrowPeak.bed
+61504	GSM1843337	Mus musculus	None	Plasmablast	None	ATAC-seq	61504_sort_peaks.narrowPeak.bed
+61505	GSM1843338	Mus musculus	None	Plasmablast	None	ATAC-seq	61505_sort_peaks.narrowPeak.bed
+61506	GSM1843339	Mus musculus	None	Plasmablast	None	ATAC-seq	61506_sort_peaks.narrowPeak.bed
+61507	GSM1861106	Mus musculus	None	None	Bone Marrow	ATAC-seq	61507_sort_peaks.narrowPeak.bed
+61508	GSM1861107	Mus musculus	None	None	Bone Marrow	ATAC-seq	61508_sort_peaks.narrowPeak.bed
+61509	GSM1861108	Mus musculus	None	None	Bone Marrow	ATAC-seq	61509_sort_peaks.narrowPeak.bed
+61510	GSM1861109	Mus musculus	None	None	Bone Marrow	ATAC-seq	61510_sort_peaks.narrowPeak.bed
+61511	GSM1867729	Mus musculus	None	Embryonic Fibroblast	Embryo	ATAC-seq	61511_sort_peaks.narrowPeak.bed
+61512	GSM1867730	Mus musculus	None	Embryonic Fibroblast	Embryo	ATAC-seq	61512_sort_peaks.narrowPeak.bed
+61513	GSM1867731	Mus musculus	None	Embryonic Fibroblast	Embryo	ATAC-seq	61513_sort_peaks.narrowPeak.bed
+61515	GSM1867733	Mus musculus	None	Embryonic Fibroblast	Embryo	ATAC-seq	61515_sort_peaks.narrowPeak.bed
+61518	GSM1867736	Mus musculus	None	Embryonic Fibroblast	Embryo	ATAC-seq	61518_sort_peaks.narrowPeak.bed
+61533	GSM1888841	Mus musculus	None	None	Bone Marrow	ATAC-seq	61533_sort_peaks.narrowPeak.bed
+61534	GSM1888842	Mus musculus	None	None	Bone Marrow	ATAC-seq	61534_sort_peaks.narrowPeak.bed
+61535	GSM1888843	Mus musculus	None	None	Bone Marrow	ATAC-seq	61535_sort_peaks.narrowPeak.bed
+61536	GSM1888844	Mus musculus	None	None	Bone Marrow	ATAC-seq	61536_sort_peaks.narrowPeak.bed
+61537	GSM1888845	Mus musculus	None	None	Bone Marrow	ATAC-seq	61537_sort_peaks.narrowPeak.bed
+61538	GSM1888846	Mus musculus	None	None	Bone Marrow	ATAC-seq	61538_sort_peaks.narrowPeak.bed
+61539	GSM1888847	Mus musculus	None	None	Bone Marrow	ATAC-seq	61539_sort_peaks.narrowPeak.bed
+61546	GSM1973012	Mus musculus	None	Erythrocyte A	None	ATAC-seq	61546_sort_peaks.narrowPeak.bed
