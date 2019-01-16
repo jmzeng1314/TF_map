@@ -4,3 +4,13 @@
 2019-01-14 22:16:27 Now the user::search the gene for  
 2019-01-14 22:16:30 Now the user::search the gene for  
 2019-01-14 22:16:33 Now the user::search the gene for  
+2019-01-16 14:33:25 Now the user::search the gene for  
+2019-01-16 14:37:25 Now the user::search the gene for  
+2019-01-16 15:04:40 Now the user::search the gene for NAT2 
+2019-01-16 15:52:41 Now the user::search the gene for NAT2 
+2019-01-16 16:01:32 Now the user::search the gene for NAT2 
+2019-01-16 16:01:54 Now the user::search the gene for MIR890 
+2019-01-16 16:02:00 Now the user::search the gene for MIR890 
+2019-01-16 16:18:14 Now the user::search the gene for ADA 
+2019-01-16 16:18:49 Now the user::search the gene for MIR300 
+2019-01-16 16:19:10 Now the user::search the gene for FMR1-AS1 

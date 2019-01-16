@@ -27,6 +27,21 @@ if(F){
   sql='show tables;'
   dbGetQuery(con, sql)
   
+  
+}
+
+if(F){
+  library(org.Hs.eg.db)
+  g2s=toTable(org.Hs.egSYMBOL)
+  g2n=toTable(org.Hs.egGENENAME)
+  s2n=merge(g2s,g2n,by='gene_id')
+  dbWriteTable(con, 'human_genename',s2n, append=F,row.names=F)
+  library(org.Mm.eg.db)
+  g2s=toTable(org.Mm.egSYMBOL)
+  g2n=toTable(org.Mm.egGENENAME)
+  s2n=merge(g2s,g2n,by='gene_id')
+  head(s2n)
+  dbWriteTable(con, 'mouse_genename',s2n, append=F,row.names=F)
 }
 
 ## Then upload the cistrome_metadata 
@@ -72,6 +87,7 @@ if(F){
 all_tables<-dbListTables(con)
 all_tables
 root_dir = '/Volumes/Untitled/ping_batch4_organoids/db'
+## totally 100Gb files
 all_files=list.files(root_dir,pattern='*merge.txt',all.files=T,recursive=T)
 all_files 
 lapply(all_files, function(x){

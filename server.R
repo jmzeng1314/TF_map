@@ -22,6 +22,12 @@ library(DT)
 ## do_position/zoom_in/zoom_out
 ############# actionButton #############
 
+all_human_gene<<- mysql_getData("select distinct symbol,gene_name from human_genename ;") 
+all_mouse_gene<<- mysql_getData("select distinct symbol,gene_name from mouse_genename ;") 
+colnames(all_human_gene)=c('symbols','geneNames')
+colnames(all_mouse_gene)=c('symbols','geneNames')
+
+
 
 shinyServer(
   function(input,output,session){
@@ -56,19 +62,34 @@ shinyServer(
       glob_values$bed_filename=NULL
       glob_values$gene_position=NULL
     }
+    ####################################################
+    # update   inputId='cellline' #
+    # update    inputId='input_gene' #
+    source('updateSelectizeInput.R', local = TRUE)$value
+    ## user can only choose the gene which come from org.Hs.eg.db or org.Mm.eg.db 
+    ## human_genename and mouse_genename 
+    ###################################################  
     
-    ## once the user click the button for searching by gene.
-    observeEvent(input$do_gene, { 
-      glob_values$results=NULL
-      glob_values$input_gene=input$input_gene
-      glob_values$species=input$species
-      glob_values$database=input$database
-      glob_values$IP=input$IP
-      glob_values$cellline=input$cellline
-      
-      log_cat(paste0("Now the user:",getIP(),":search the gene for ",glob_values$input_gene))
-      
-    })
+    ####################################################
+    # Get the position of choosed gene according to GENCODE database.
+    # gencode_v29_human_gene_info  and  gencode_vM20_mouse_gene_info 
+    source('positions.R', local = TRUE)$value
+    # first the choosed gene will change the positon.
+    ## the zoom_in and zoom_out will also change the position.
+    ###################################################      
+     
+    
+    ####################################################
+    # once the user click the button for searching by gene.
+    source('search_by_gene.R', local = TRUE)$value
+    # 
+    ###################################################  
+    
+    ####################################################
+    # The table show in home page, return all the peaks found based on user.
+    source('output_main_result_table.R', local = TRUE)$value
+    # 
+    ###################################################  
     
 })
 

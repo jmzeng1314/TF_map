@@ -2,13 +2,8 @@
 ## input values : species/database/input_gene/cellline/genomic_feature
 
 
-all_human_gene<<- mysql_getData("select distinct V7,gene_name from human_N_MRP_gene_info ;")
-cat(as.character(Sys.time()),"Search all of the human gene \n",file=stderr())
-cat(dim(all_human_gene), file=stderr());cat("\n",file=stderr())
-all_mouse_gene<<- mysql_getData("select distinct V7,gene_name from mouse_N_MRP_gene_info ;")
-cat(as.character(Sys.time()),"Search all of the mouse gene \n",file=stderr())
-cat(dim(all_mouse_gene), file=stderr());cat("\n",file=stderr())
-
+all_human_gene<<- mysql_getData("select distinct symbol,gene_name from human_genename ;") 
+all_mouse_gene<<- mysql_getData("select distinct symbol,gene_name from mouse_genename ;") 
 colnames(all_human_gene)=c('symbols','geneNames')
 colnames(all_mouse_gene)=c('symbols','geneNames')
 
@@ -62,10 +57,7 @@ shinyServer(
         gene_mapping <<- all_human_gene
       }else{
         gene_mapping <<-  all_mouse_gene
-      }
-      #gene_mapping <<- ifelse( x=='human',all_human_gene,all_mouse_gene) 
-      cat(dim(gene_mapping), file=stderr());cat("\n",file=stderr())
-      
+      } 
       # Can also set the label and select items
       updateSelectizeInput(
         session, inputId='input_gene', label = "Please type a gene name (HUGO symbol)", server = TRUE, 
