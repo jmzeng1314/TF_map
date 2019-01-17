@@ -1,6 +1,6 @@
 # Follow me to create a web-tool by shiny 
 
-### Publications
+## Publications
 
 Please cite our latest paper when using our TFmapper
 
@@ -8,7 +8,7 @@ Please cite our latest paper when using our TFmapper
 - http://www.ijbs.com/v14p1724.htm
 - http://www.tfmapper.org/
 
-### Contact
+## Contact
 
 Jianming Zeng (PHD student in university of Macau) : jmzeng1314@163.com 
 
@@ -104,13 +104,47 @@ Pay attention that the columns for this table:
 ············
 ```
 
-Lastly, upload all the peaks annotation to mysql ( extremely time consuming and really big size )
+Lastly, upload all the `peaks annotation files`  to mysql ( extremely time consuming and really big size ), about `200` tables. (by chromosome, database,type,species)
 
 You should read my codes from begin to end: [upload_into_mysql.R](./upload_into_mysql.R)
 
-### step3: create user user interface
+Please send me email to request those files ( about 100 Gb)
+
+### step3: create user interface
+
+With the help of Xiaojie Sun, We create a beautiful `ui` framework, as below :
+
+![](figures/home_page_inputs.png)
 
 
 
-### Papers citing [TFmapper](www.tfmapper.org/)
+There are 4 pages in our tool, which are : home, statistics, more, help.
 
+You can check the codes in [UI](ui.R)
+
+Please remember the `IDs` we create in UI page:
+
+- input values 
+  - species/IP/database/cellline
+  - input_gene/genomic_feature
+  -  position, such as '18:28176327,28178670'
+
+- output values 
+  - DT::dataTableOutput('results') 
+  - plotOutput('results_stat')
+  - DT::dataTableOutput('stat_table')
+
+
+-  actionButton 
+  - do_gene
+  - do_position/zoom_in/zoom_out
+
+### step4 : create server client
+
+You can check the codes in [server](server.R)
+
+
+
+## Papers citing [TFmapper](www.tfmapper.org/)
+
+So far, no paper cite this tool.
