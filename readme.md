@@ -49,7 +49,12 @@ cat gencode.v29.annotation.gtf |perl -alne  '{next unless  $F[1] eq "HAVANA";nex
 cat gencode.vM20.annotation.gtf |perl -alne  '{next unless  $F[1] eq "HAVANA";next unless $F[2] eq "gene";/gene_id \"(.*?)\.\d+\"; gene_type \"(.*?)\"; gene_name \"(.*?)\"/;print "$3\t$2\t$1\t$F[0]\t$F[3]\t$F[4]"}' > gencode_vM20_mouse_gene_info
 ```
 
-Then we can upload these files into our datbase by R codes below:
+It doesn't matter if you can't understant the perl scripts above, just check two files 
+
+- [gencode_v29_human_gene_info](files/gencode_v29_human_gene_info)
+- [gencode_vM20_mouse_gene_info](files/gencode_vM20_mouse_gene_info)
+
+Then we can upload `these files` into our datbase by R codes below:
 
 ```r
 library(RMySQL)
@@ -64,7 +69,7 @@ dbSendQuery(con, sql)
 sql='show tables;'
 dbGetQuery(con, sql)
 options(stringsAsFactors = F)
-
+# a simple example to upload one file into mysql .
 a=read.table('files/gencode_v29_human_gene_info',sep = '\t')
 head(a)
 colnames(a)=c('symbol'   ,  'type' ,   'ensembl'   , 'chr' ,'start', 'end' )
@@ -75,7 +80,7 @@ dbGetQuery(con, sql)
 
 By this way, we should upload all the information for our web-tool into mysql.
 
-Upload the txt files in to `cistrome_metadata`:
+Upload the txt files (I download those files from cistrome) in to `cistrome_metadata`:
 
 ```
 TF_human_information.txt
@@ -88,13 +93,13 @@ other_human_data_information.txt
 other_mouse_data_information.txt
 ```
 
-Pay attention that the columns for this table: 
+Pay attention that the `columns` for this table: 
 
 ```
 sampleID       GSM    bs1                 bs2      bs3       IP species    type
 ```
 
-gather all the GSM IDs and search the details by using GEOmetadb then upload them into `cistrome_GSM_metadata` 
+gather all the GSM IDs and search the details by using `GEOmetadb` then upload them into `cistrome_GSM_metadata` 
 
 Pay attention that the columns for this table: 
 
@@ -108,7 +113,7 @@ Lastly, upload all the `peaks annotation files`  to mysql ( extremely time consu
 
 You should read my codes from begin to end: [upload_into_mysql.R](scripts/upload_into_mysql.R)
 
-Please send me email to request those files ( about 100 Gb)
+Please `send me email` to me to request those files ( about 100 Gb),  you should read my paper to study the details for how to generate the files 
 
 ### step3: create user interface
 
