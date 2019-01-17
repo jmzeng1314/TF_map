@@ -66,7 +66,7 @@ text2bed <- function(text){
   text<- do.call(rbind.data.frame, text)
   colnames(text)[1:3]=c('chrom','start','end')
   text=text[,1:3]
-  text$chrom=as.character(text$chrom)
+  text$chrom=gsub('chr','',as.character(text$chrom))
   text$start=as.numeric(as.character(text$start))
   text$end=as.numeric(as.character(text$end))
   bed=text

@@ -81,6 +81,7 @@ box3 <-  box(
     condition = ("input.do_gene>0 | input.do_position>0"),
     downloadLink('downloadData_csv', 'Download the CSV file'),br(),
     downloadLink('downloadData_bed', 'Download the BED file'),br(),
+    ## we should change the link behind this UI in server client.
     uiOutput('washUlink'),
     
     br(),

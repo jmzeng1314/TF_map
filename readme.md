@@ -106,7 +106,7 @@ Pay attention that the columns for this table:
 
 Lastly, upload all the `peaks annotation files`  to mysql ( extremely time consuming and really big size ), about `200` tables. (by chromosome, database,type,species)
 
-You should read my codes from begin to end: [upload_into_mysql.R](./upload_into_mysql.R)
+You should read my codes from begin to end: [upload_into_mysql.R](scripts/upload_into_mysql.R)
 
 Please send me email to request those files ( about 100 Gb)
 
@@ -125,9 +125,9 @@ You can check the codes in [UI](ui.R)
 Please remember the `IDs` we create in UI page:
 
 - input values 
-  - species/IP/database/cellline
+  - species(human or mouse )/IP(TF or 	histone)/database(cistrome or ENCODE)/cellline( too many )
   - input_gene/genomic_feature
-  -  position, such as '18:28176327,28178670'
+  - position, such as '18:28176327,28178670'
 
 - output values 
   - DT::dataTableOutput('results') 
@@ -142,6 +142,60 @@ Please remember the `IDs` we create in UI page:
 ### step4 : create server client
 
 You can check the codes in [server](server.R)
+
+#### part 1 : refresh two input button by updateSelectizeInput
+
+check the codes  in [updateSelectizeInput](scripts/updateSelectizeInput.R)
+
+the gene choices  depends on the `species` user choosed ( we should search all the genes from mysql)
+
+ the cellLine choices  depends on the database and species and IP  user choosed
+
+#### part 2 : get the specific position for choosed gene
+
+check the codes  in [positions.R](scripts/positions.R)
+
+Get the position of choosed gene according to GENCODE database. ( gencode_v29_human_gene_info  and  gencode_vM20_mouse_gene_info  in mysql) 
+
+first the choosed gene will change the positon.the zoom_in and zoom_out will also change the position.
+
+#### part 3 :  search peaks by gene
+
+Check the codes in [search_by_gene.R](scripts/search_by_gene.R)
+
+Once the user click the button for searching by gene, we should return the result table( the peaks information).
+
+```r
+paste0(" select * from ",peaks_tab," where symbol=",shQuote(gene) ) 
+```
+
+#### part 4 :  search peaks by position
+
+Check the codes in [search_by_position.R](scripts/search_by_position.R) 
+
+The similar codes as above, this time we don't search peaks by gene, instead of position.
+
+```r
+paste0("select * from ",peaks_tab," where start > ",start," and end < ",end)
+```
+
+#### part 5 : reture the peaks table.
+
+Check the codes in [output_main_result_table.R](scripts/output_main_result_table.R)
+
+this table is a little complicate. 
+
+#### part 6 : referesh links
+
+Check the codes in [output_links.R](scripts/output_links.R)
+
+There are  two files : downloadData_csv and  downloadData_bed and  one link : uiOutput('washUlink')  
+
+#### part 7 : 
+
+Check the codes in [output_stat.R](scripts/output_stat.R)
+
+
 
 
 
