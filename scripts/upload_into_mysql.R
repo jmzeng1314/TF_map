@@ -30,6 +30,7 @@ if(F){
   
 }
 
+## then upload gene name information from org.eg... package(R)
 if(F){
   library(org.Hs.eg.db)
   g2s=toTable(org.Hs.egSYMBOL)
@@ -45,18 +46,21 @@ if(F){
 }
 
 ## Then upload the cistrome_metadata 
-tmp = lapply(list.files(path = 'files/metaFiles/'),function(x){
-  a=read.table(file.path('files/metaFiles/',x),sep='\t',fill = T,quote = "")
-  a$species=strsplit(x,'_')[[1]][2]
-  a$type=strsplit(x,'_')[[1]][1]
-  return(a)
-})
-tmp =  do.call(rbind,tmp)[,c(1,2,4:7,9:10)]
-head(tmp)
-colnames(tmp)= strsplit('sampleID       GSM    bs1                 bs2      bs3       IP species    type','\\s+' )[[1]]
-head(tmp)
-dbWriteTable(con, 'cistrome_metadata', tmp , append=F,row.names=F)
-write.csv(tmp,'cistrome_metadata.csv')
+if(F){
+  tmp = lapply(list.files(path = 'files/metaFiles/'),function(x){
+    a=read.table(file.path('files/metaFiles/',x),sep='\t',fill = T,quote = "")
+    a$species=strsplit(x,'_')[[1]][2]
+    a$type=strsplit(x,'_')[[1]][1]
+    return(a)
+  })
+  tmp =  do.call(rbind,tmp)[,c(1,2,4:7,9:10)]
+  head(tmp)
+  colnames(tmp)= strsplit('sampleID       GSM    bs1                 bs2      bs3       IP species    type','\\s+' )[[1]]
+  head(tmp)
+  dbWriteTable(con, 'cistrome_metadata', tmp , append=F,row.names=F)
+  write.csv(tmp,'cistrome_metadata.csv')
+}
+
 
 # Then upload the cistrome_GSM_metadata
 if(F){
@@ -82,6 +86,38 @@ if(F){
   write.csv(tmp2,'cistrome_GSM_metadata.csv')
 }
 
+# then upload the encode_metadata
+if(F){
+  setwd('files/metaFiles/')
+  a=read.table('human_histone_GRCh38.replicated.peaks.bed.list.txt',sep = '\t',
+               colClasses=c('character'),stringsAsFactors = F,quote = '') 
+  # OLD :'cellline','celltype','tissue' 
+  # NEW : 'bs1','bs2','bs3'
+  colnames(a)=c('sampleID','uniqID','bs1','bs2','bs3','gender','age','IP','url')
+  a$species='human';a$type='histone'
+  head(a)
+  # dbGetQuery(con,"DROP TABLE encode_metadata")
+  dbWriteTable(con, 'encode_metadata', a, append=F,row.names=F)
+  
+  a=read.table('human_TF_GRCh38.conservative.bed.list.txt',sep = '\t',
+               colClasses=c('character'),stringsAsFactors = F,quote = '') 
+  colnames(a)=c('sampleID','uniqID','bs1','bs2','bs3','gender','age','IP','url')
+  a$species='human';a$type='TF'
+  dbWriteTable(con, 'encode_metadata', a, append=T,row.names=F)
+  
+  a=read.table('mouse_histone_mm10.replicated.peaks.bed.list.txt',sep = '\t',
+               colClasses=c('character'),stringsAsFactors = F,quote = '') 
+  colnames(a)=c('sampleID','uniqID','bs1','bs2','bs3','gender','age','IP','url')
+  a$species='mouse';a$type='histone'
+  dbWriteTable(con, 'encode_metadata', a, append=T,row.names=F)
+  
+  a=read.table('mouse_TF_mm10.conservative.peaks.bed.list.txt',sep = '\t',
+               colClasses=c('character'),stringsAsFactors = F,quote = '') 
+  colnames(a)=c('sampleID','uniqID','bs1','bs2','bs3','gender','age','IP','url')
+  a$species='mouse';a$type='TF'
+  dbWriteTable(con, 'encode_metadata', a, append=T,row.names=F)
+  setwd('../../')
+}
 
 
 all_tables<-dbListTables(con)

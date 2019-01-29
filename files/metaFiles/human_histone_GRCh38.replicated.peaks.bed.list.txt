@@ -1,0 +1,771 @@
+ENCFF731CHG	ENCSR000AMR	fibroblast of lung	primary cell	adult, unknown	female, male	45 year, 11 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF731CHG/@@download/ENCFF731CHG.bed.gz
+ENCFF089ITH	ENCSR000DQB	BE2C	immortalized cell line	child	male	2 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF089ITH/@@download/ENCFF089ITH.bed.gz
+ENCFF835WQT	ENCSR000DRC	GM12865	immortalized cell line	unknown	female	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF835WQT/@@download/ENCFF835WQT.bed.gz
+ENCFF219LOO	ENCSR000APK	osteoblast	primary cell	unknown	unknown	unknown	H3K4me2-human	https://www.encodeproject.org/files/ENCFF219LOO/@@download/ENCFF219LOO.bed.gz
+ENCFF552JEE	ENCSR000API	osteoblast	primary cell	unknown	unknown	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF552JEE/@@download/ENCFF552JEE.bed.gz
+ENCFF538JXQ	ENCSR000DSY	astrocyte of the cerebellum	primary cell	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF538JXQ/@@download/ENCFF538JXQ.bed.gz
+ENCFF982HNO	ENCSR000DPD	A549	immortalized cell line	adult	male	58 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF982HNO/@@download/ENCFF982HNO.bed.gz
+ENCFF630ZPK	ENCSR000EXA	NT2/D1	immortalized cell line	unknown	male	22 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF630ZPK/@@download/ENCFF630ZPK.bed.gz
+ENCFF514BKI	ENCSR000DWJ	MCF-7	immortalized cell line	adult	female	69 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF514BKI/@@download/ENCFF514BKI.bed.gz
+ENCFF411AGB	ENCSR000EXW	mononuclear cell	primary cell	unknown	male	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF411AGB/@@download/ENCFF411AGB.bed.gz
+ENCFF522XUT	ENCSR000DWF	LNCaP clone FGC	immortalized cell line	adult	male	50 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF522XUT/@@download/ENCFF522XUT.bed.gz
+ENCFF540FNZ	ENCSR000DXB	Panc1	immortalized cell line	unknown	male	56 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF540FNZ/@@download/ENCFF540FNZ.bed.gz
+ENCFF806AYM	ENCSR810BDB	HCT116	immortalized cell line	unknown	male	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF806AYM/@@download/ENCFF806AYM.bed.gz
+ENCFF575AUU	ENCSR000DTQ	HCT116	immortalized cell line	unknown	male	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF575AUU/@@download/ENCFF575AUU.bed.gz
+ENCFF589EOA	ENCSR000DSI	cardiac mesoderm	in vitro differentiated cells	unknown	unknown	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF589EOA/@@download/ENCFF589EOA.bed.gz
+ENCFF776BSP	ENCSR000DSL	cardiac mesoderm	in vitro differentiated cells	unknown	unknown	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF776BSP/@@download/ENCFF776BSP.bed.gz
+ENCFF418JMO	ENCSR000DXU	WERI-Rb-1	immortalized cell line	child	female	1 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF418JMO/@@download/ENCFF418JMO.bed.gz
+ENCFF487ZPV	ENCSR000ARU	astrocyte	primary cell	unknown	unknown	unknown	H4K20me1-human	https://www.encodeproject.org/files/ENCFF487ZPV/@@download/ENCFF487ZPV.bed.gz
+ENCFF083ADY	ENCSR000EUT	HCT116	immortalized cell line	unknown	male	unknown	H3K27ac-human	https://www.encodeproject.org/files/ENCFF083ADY/@@download/ENCFF083ADY.bed.gz
+ENCFF399HUL	ENCSR000ASL	CD14-positive monocyte	primary cell	unknown	female	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF399HUL/@@download/ENCFF399HUL.bed.gz
+ENCFF586UDB	ENCSR000APR	fibroblast of dermis	primary cell	adult, unknown	female, unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF586UDB/@@download/ENCFF586UDB.bed.gz
+ENCFF127KAB	ENCSR000ATE	CD14-positive monocyte	primary cell	unknown	female	unknown	H3K4me2-human	https://www.encodeproject.org/files/ENCFF127KAB/@@download/ENCFF127KAB.bed.gz
+ENCFF657MIQ	ENCSR000DVN	endothelial cell of umbilical vein	primary cell	newborn	male	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF657MIQ/@@download/ENCFF657MIQ.bed.gz
+ENCFF362FSB	ENCSR000DXT	skeletal muscle cell	primary cell	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF362FSB/@@download/ENCFF362FSB.bed.gz
+ENCFF856SEW	ENCSR000EXB	NT2/D1	immortalized cell line	unknown	male	22 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF856SEW/@@download/ENCFF856SEW.bed.gz
+ENCFF224GRF	ENCSR000DQH	foreskin fibroblast	primary cell	newborn	male	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF224GRF/@@download/ENCFF224GRF.bed.gz
+ENCFF796ZRF	ENCSR000DVK	retinal pigment epithelial cell	primary cell	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF796ZRF/@@download/ENCFF796ZRF.bed.gz
+ENCFF252HJC	ENCSR000DXP	SK-N-SH	immortalized cell line	child	female	4 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF252HJC/@@download/ENCFF252HJC.bed.gz
+ENCFF950CZM	ENCSR000DPR	fibroblast of pedal digit skin	primary cell	adult	female	21 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF950CZM/@@download/ENCFF950CZM.bed.gz
+ENCFF045EPF	ENCSR859JNA	OCI-LY1	immortalized cell line	adult	male	44 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF045EPF/@@download/ENCFF045EPF.bed.gz
+ENCFF270RNZ	ENCSR000DWW	keratinocyte	primary cell	unknown	female	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF270RNZ/@@download/ENCFF270RNZ.bed.gz
+ENCFF655JIF	ENCSR910PDW	epithelial cell of prostate	primary cell	unknown	male	unknown	H3K27ac-human	https://www.encodeproject.org/files/ENCFF655JIF/@@download/ENCFF655JIF.bed.gz
+ENCFF826VIT	ENCSR000DTK	cardiac muscle cell	primary cell	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF826VIT/@@download/ENCFF826VIT.bed.gz
+ENCFF082SDP	ENCSR189AGR	OCI-LY1	immortalized cell line	adult	male	44 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF082SDP/@@download/ENCFF082SDP.bed.gz
+ENCFF856JNQ	ENCSR000ANY	myotube	in vitro differentiated cells	adult	male	22 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF856JNQ/@@download/ENCFF856JNQ.bed.gz
+ENCFF682RJQ	ENCSR000ASP	CD14-positive monocyte	primary cell	unknown	female	unknown	H3K9me3-human	https://www.encodeproject.org/files/ENCFF682RJQ/@@download/ENCFF682RJQ.bed.gz
+ENCFF958IYH	ENCSR000ASF	fibroblast of lung	primary cell	adult, unknown	female, male	45 year, 11 year	H3K79me2-human	https://www.encodeproject.org/files/ENCFF958IYH/@@download/ENCFF958IYH.bed.gz
+ENCFF396BLZ	ENCSR000EXK	Panc1	immortalized cell line	unknown	male	56 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF396BLZ/@@download/ENCFF396BLZ.bed.gz
+ENCFF710TRX	ENCSR000DQA	fibroblast of the aortic adventitia	primary cell	unknown	female	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF710TRX/@@download/ENCFF710TRX.bed.gz
+ENCFF037SXA	ENCSR000FCJ	HEK293	immortalized cell line	embryonic	female	unknown	H3K9me3-human	https://www.encodeproject.org/files/ENCFF037SXA/@@download/ENCFF037SXA.bed.gz
+ENCFF558VHL	ENCSR000AUK	A549	immortalized cell line	adult	male	58 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF558VHL/@@download/ENCFF558VHL.bed.gz
+ENCFF212ARN	ENCSR000ASO	CD14-positive monocyte	primary cell	unknown	female	unknown	H3K79me2-human	https://www.encodeproject.org/files/ENCFF212ARN/@@download/ENCFF212ARN.bed.gz
+ENCFF982CSD	ENCSR000DUE	HepG2	immortalized cell line	child	male	15 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF982CSD/@@download/ENCFF982CSD.bed.gz
+ENCFF959LWN	ENCSR000ARQ	fibroblast of lung	primary cell	adult, unknown	female, male	45 year, 11 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF959LWN/@@download/ENCFF959LWN.bed.gz
+ENCFF104EEJ	ENCSR000DSO	cardiac mesoderm	in vitro differentiated cells	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF104EEJ/@@download/ENCFF104EEJ.bed.gz
+ENCFF591BUX	ENCSR000APJ	osteoblast	primary cell	unknown	unknown	unknown	H3K4me1-human	https://www.encodeproject.org/files/ENCFF591BUX/@@download/ENCFF591BUX.bed.gz
+ENCFF116OPY	ENCSR596NOF	skeletal muscle myoblast	primary cell	adult	male	22 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF116OPY/@@download/ENCFF116OPY.bed.gz
+ENCFF773MWG	ENCSR597UDW	OCI-LY1	immortalized cell line	adult	male	44 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF773MWG/@@download/ENCFF773MWG.bed.gz
+ENCFF524PMT	ENCSR000DUD	HepG2	immortalized cell line	child	male	15 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF524PMT/@@download/ENCFF524PMT.bed.gz
+ENCFF636FWF	ENCSR000DRY	GM12878	immortalized cell line	adult	female	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF636FWF/@@download/ENCFF636FWF.bed.gz
+ENCFF594BUF	ENCSR000DPO	fibroblast of lung	primary cell	fetal	male	12 week	H3K4me3-human	https://www.encodeproject.org/files/ENCFF594BUF/@@download/ENCFF594BUF.bed.gz
+ENCFF047SHC	ENCSR000DTN	choroid plexus epithelial cell	primary cell	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF047SHC/@@download/ENCFF047SHC.bed.gz
+ENCFF739VAP	ENCSR000AVF	A549	immortalized cell line	adult	male	58 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF739VAP/@@download/ENCFF739VAP.bed.gz
+ENCFF099HVR	ENCSR000FCR	SK-N-SH	immortalized cell line	child	female	4 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF099HVR/@@download/ENCFF099HVR.bed.gz
+ENCFF158BJO	ENCSR000APG	osteoblast	primary cell	unknown	unknown	unknown	H2AFZ-human	https://www.encodeproject.org/files/ENCFF158BJO/@@download/ENCFF158BJO.bed.gz
+ENCFF023EKM	ENCSR000DTE	cardiac fibroblast	primary cell	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF023EKM/@@download/ENCFF023EKM.bed.gz
+ENCFF123EGK	ENCSR000DSG	cardiac mesoderm	in vitro differentiated cells	unknown	unknown	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF123EGK/@@download/ENCFF123EGK.bed.gz
+ENCFF498VPQ	ENCSR000AUI	A549	immortalized cell line	adult	male	58 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF498VPQ/@@download/ENCFF498VPQ.bed.gz
+ENCFF124YNL	ENCSR000EXJ	Panc1	immortalized cell line	unknown	male	56 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF124YNL/@@download/ENCFF124YNL.bed.gz
+ENCFF579OXO	ENCSR000EXD	NT2/D1	immortalized cell line	unknown	male	22 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF579OXO/@@download/ENCFF579OXO.bed.gz
+ENCFF025CSY	ENCSR000DWV	keratinocyte	primary cell	unknown	female	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF025CSY/@@download/ENCFF025CSY.bed.gz
+ENCFF034USW	ENCSR000DUO	HL-60	immortalized cell line	adult	female	36 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF034USW/@@download/ENCFF034USW.bed.gz
+ENCFF565IZP	ENCSR000DUK	HFF-Myc	primary cell	postnatal	male	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF565IZP/@@download/ENCFF565IZP.bed.gz
+ENCFF901ZPG	ENCSR000DPI	fibroblast of upper leg skin	primary cell	fetal	male	12 week	H3K4me3-human	https://www.encodeproject.org/files/ENCFF901ZPG/@@download/ENCFF901ZPG.bed.gz
+ENCFF561GBS	ENCSR000DSH	cardiac mesoderm	in vitro differentiated cells	unknown	unknown	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF561GBS/@@download/ENCFF561GBS.bed.gz
+ENCFF257VHT	ENCSR000ARX	fibroblast of dermis	primary cell	unknown	unknown	unknown	H3K9me3-human	https://www.encodeproject.org/files/ENCFF257VHT/@@download/ENCFF257VHT.bed.gz
+ENCFF018TUB	ENCSR000AVI	A549	immortalized cell line	adult	male	58 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF018TUB/@@download/ENCFF018TUB.bed.gz
+ENCFF534MFA	ENCSR000ANU	myotube	in vitro differentiated cells	adult	male	22 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF534MFA/@@download/ENCFF534MFA.bed.gz
+ENCFF720IXG	ENCSR000AOZ	myotube	in vitro differentiated cells	adult	male	22 year	H4K20me1-human	https://www.encodeproject.org/files/ENCFF720IXG/@@download/ENCFF720IXG.bed.gz
+ENCFF792HXN	ENCSR000DQG	foreskin fibroblast	primary cell	newborn	male	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF792HXN/@@download/ENCFF792HXN.bed.gz
+ENCFF811QRH	ENCSR000ATI	myotube	in vitro differentiated cells	adult	male	22 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF811QRH/@@download/ENCFF811QRH.bed.gz
+ENCFF717AMW	ENCSR000DPU	fibroblast of gingiva	primary cell	adult	female	24 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF717AMW/@@download/ENCFF717AMW.bed.gz
+ENCFF869PUE	ENCSR000DST	H7-hESC	stem cell	unknown	unknown	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF869PUE/@@download/ENCFF869PUE.bed.gz
+ENCFF324MMT	ENCSR000DVG	kidney epithelial cell	primary cell	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF324MMT/@@download/ENCFF324MMT.bed.gz
+ENCFF641UFJ	ENCSR000DSD	cardiac mesoderm	in vitro differentiated cells	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF641UFJ/@@download/ENCFF641UFJ.bed.gz
+ENCFF111YIF	ENCSR000DWS	foreskin fibroblast	primary cell	postnatal	male	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF111YIF/@@download/ENCFF111YIF.bed.gz
+ENCFF417QIV	ENCSR000DSW	astrocyte of the spinal cord	primary cell	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF417QIV/@@download/ENCFF417QIV.bed.gz
+ENCFF985WEH	ENCSR000ANX	myotube	in vitro differentiated cells	adult	male	22 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF985WEH/@@download/ENCFF985WEH.bed.gz
+ENCFF626ZXA	ENCSR000ANV	myotube	in vitro differentiated cells	adult	male	22 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF626ZXA/@@download/ENCFF626ZXA.bed.gz
+ENCFF963BLP	ENCSR000EUS	HCT116	immortalized cell line	unknown	male	unknown	H3K4me1-human	https://www.encodeproject.org/files/ENCFF963BLP/@@download/ENCFF963BLP.bed.gz
+ENCFF781VYS	ENCSR000AMW	fibroblast of lung	primary cell	adult, unknown	female, male	45 year, 11 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF781VYS/@@download/ENCFF781VYS.bed.gz
+ENCFF858GTA	ENCSR000AMX	fibroblast of lung	primary cell	adult, unknown	female, male	45 year, 11 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF858GTA/@@download/ENCFF858GTA.bed.gz
+ENCFF360KYL	ENCSR000APL	osteoblast	primary cell	unknown	unknown	unknown	H3K9me3-human	https://www.encodeproject.org/files/ENCFF360KYL/@@download/ENCFF360KYL.bed.gz
+ENCFF653ZCJ	ENCSR000AMU	fibroblast of lung	primary cell	adult, unknown	female, male	45 year, 11 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF653ZCJ/@@download/ENCFF653ZCJ.bed.gz
+ENCFF864ZXP	ENCSR000DTZ	HeLa-S3	immortalized cell line	adult	female	31 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF864ZXP/@@download/ENCFF864ZXP.bed.gz
+ENCFF805VHZ	ENCSR000ATF	CD14-positive monocyte	primary cell	unknown	female	unknown	H3K9ac-human	https://www.encodeproject.org/files/ENCFF805VHZ/@@download/ENCFF805VHZ.bed.gz
+ENCFF200FQB	ENCSR016JWS	mammary epithelial cell	primary cell	unknown	female	50 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF200FQB/@@download/ENCFF200FQB.bed.gz
+ENCFF381VIX	ENCSR000EXC	NT2/D1	immortalized cell line	unknown	male	22 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF381VIX/@@download/ENCFF381VIX.bed.gz
+ENCFF636MAR	ENCSR000ATP	A549	immortalized cell line	adult	male	58 year	H3K79me2-human	https://www.encodeproject.org/files/ENCFF636MAR/@@download/ENCFF636MAR.bed.gz
+ENCFF722WLN	ENCSR000FCO	Panc1	immortalized cell line	unknown	male	56 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF722WLN/@@download/ENCFF722WLN.bed.gz
+ENCFF013LPW	ENCSR000AST	A549	immortalized cell line	adult	male	58 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF013LPW/@@download/ENCFF013LPW.bed.gz
+ENCFF118PWC	ENCSR000ASG	osteoblast	primary cell	unknown	unknown	unknown	H3K79me2-human	https://www.encodeproject.org/files/ENCFF118PWC/@@download/ENCFF118PWC.bed.gz
+ENCFF116GSP	ENCSR000DXH	bronchial epithelial cell	primary cell	unknown	unknown	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF116GSP/@@download/ENCFF116GSP.bed.gz
+ENCFF543GQH	ENCSR000ARV	fibroblast of dermis	primary cell	unknown	unknown	unknown	H3K4me1-human	https://www.encodeproject.org/files/ENCFF543GQH/@@download/ENCFF543GQH.bed.gz
+ENCFF930FBR	ENCSR000AML	mammary epithelial cell	primary cell	unknown	female	50 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF930FBR/@@download/ENCFF930FBR.bed.gz
+ENCFF867OVA	ENCSR000APS	fibroblast of dermis	primary cell	unknown	unknown	unknown	H3K9ac-human	https://www.encodeproject.org/files/ENCFF867OVA/@@download/ENCFF867OVA.bed.gz
+ENCFF268HMO	ENCSR000DRW	GM12878	immortalized cell line	adult	female	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF268HMO/@@download/ENCFF268HMO.bed.gz
+ENCFF426HSL	ENCSR000EWZ	NT2/D1	immortalized cell line	unknown	male	22 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF426HSL/@@download/ENCFF426HSL.bed.gz
+ENCFF249APF	ENCSR000ASQ	CD14-positive monocyte	primary cell	unknown	female	unknown	H4K20me1-human	https://www.encodeproject.org/files/ENCFF249APF/@@download/ENCFF249APF.bed.gz
+ENCFF510ZUB	ENCSR000AUH	A549	immortalized cell line	adult	male	58 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF510ZUB/@@download/ENCFF510ZUB.bed.gz
+ENCFF035PQG	ENCSR000DRX	GM12878	immortalized cell line	adult	female	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF035PQG/@@download/ENCFF035PQG.bed.gz
+ENCFF233MCK	ENCSR000DXJ	bronchial epithelial cell	primary cell	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF233MCK/@@download/ENCFF233MCK.bed.gz
+ENCFF840CMI	ENCSR000AMS	fibroblast of lung	primary cell	adult, unknown	female, male	45 year, 11 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF840CMI/@@download/ENCFF840CMI.bed.gz
+ENCFF159IYQ	ENCSR000DVM	endothelial cell of umbilical vein	primary cell	newborn	male	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF159IYQ/@@download/ENCFF159IYQ.bed.gz
+ENCFF298ECX	ENCSR000ARP	fibroblast of lung	primary cell	adult, unknown	female, male	45 year, 11 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF298ECX/@@download/ENCFF298ECX.bed.gz
+ENCFF988FQM	ENCSR000DXR	SK-N-SH	immortalized cell line	child	female	4 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF988FQM/@@download/ENCFF988FQM.bed.gz
+ENCFF261AED	ENCSR000ATH	osteoblast	primary cell	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF261AED/@@download/ENCFF261AED.bed.gz
+ENCFF799LFQ	ENCSR000APH	osteoblast	primary cell	unknown	unknown	unknown	H3K27ac-human	https://www.encodeproject.org/files/ENCFF799LFQ/@@download/ENCFF799LFQ.bed.gz
+ENCFF008PVB	ENCSR000AQM	myotube	in vitro differentiated cells	adult	male	22 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF008PVB/@@download/ENCFF008PVB.bed.gz
+ENCFF938HJZ	ENCSR000AQT	osteoblast	primary cell	unknown	unknown	unknown	H4K20me1-human	https://www.encodeproject.org/files/ENCFF938HJZ/@@download/ENCFF938HJZ.bed.gz
+ENCFF493YLO	ENCSR000DQL	Caco-2	immortalized cell line	adult	male	72 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF493YLO/@@download/ENCFF493YLO.bed.gz
+ENCFF699QNO	ENCSR000DVE	kidney epithelial cell	primary cell	unknown	unknown	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF699QNO/@@download/ENCFF699QNO.bed.gz
+ENCFF277NRX	ENCSR914QOK	SK-N-SH	immortalized cell line	child	female	4 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF277NRX/@@download/ENCFF277NRX.bed.gz
+ENCFF764XCI	ENCSR449AYM	OCI-LY1	immortalized cell line	adult	male	44 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF764XCI/@@download/ENCFF764XCI.bed.gz
+ENCFF498MXO	ENCSR000DXO	SK-N-SH	immortalized cell line	child	female	4 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF498MXO/@@download/ENCFF498MXO.bed.gz
+ENCFF635FOC	ENCSR000DPJ	fibroblast of lung	primary cell	fetal	male	12 week	H3K9me3-human	https://www.encodeproject.org/files/ENCFF635FOC/@@download/ENCFF635FOC.bed.gz
+ENCFF450JBC	ENCSR000APO	fibroblast of dermis	primary cell	unknown	unknown	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF450JBC/@@download/ENCFF450JBC.bed.gz
+ENCFF862DOX	ENCSR000AMV	fibroblast of lung	primary cell	adult, unknown	female, male	45 year, 11 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF862DOX/@@download/ENCFF862DOX.bed.gz
+ENCFF259LYY	ENCSR000DQK	Caco-2	immortalized cell line	adult	male	72 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF259LYY/@@download/ENCFF259LYY.bed.gz
+ENCFF193WOX	ENCSR000DTC	brain microvascular endothelial cell	primary cell	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF193WOX/@@download/ENCFF193WOX.bed.gz
+ENCFF898QWY	ENCSR000EXU	mononuclear cell	primary cell	unknown	male	unknown	H3K9me3-human	https://www.encodeproject.org/files/ENCFF898QWY/@@download/ENCFF898QWY.bed.gz
+ENCFF296VDQ	ENCSR000DUQ	mammary epithelial cell	primary cell	unknown	female	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF296VDQ/@@download/ENCFF296VDQ.bed.gz
+ENCFF008RMH	ENCSR000DVC	fibroblast of lung	primary cell	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF008RMH/@@download/ENCFF008RMH.bed.gz
+ENCFF248PEO	ENCSR000DUF	HepG2	immortalized cell line	child	male	15 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF248PEO/@@download/ENCFF248PEO.bed.gz
+ENCFF707IBR	ENCSR000DQV	GM06990	immortalized cell line	unknown	female	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF707IBR/@@download/ENCFF707IBR.bed.gz
+ENCFF680UEY	ENCSR000EXT	mononuclear cell	primary cell	unknown	male	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF680UEY/@@download/ENCFF680UEY.bed.gz
+ENCFF374WLN	ENCSR000DUW	fibroblast of mammary gland	primary cell	unknown	female	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF374WLN/@@download/ENCFF374WLN.bed.gz
+ENCFF308JCR	ENCSR422JNY	OCI-LY1	immortalized cell line	adult	male	44 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF308JCR/@@download/ENCFF308JCR.bed.gz
+ENCFF560PQQ	ENCSR000ASJ	CD14-positive monocyte	primary cell	unknown	female	unknown	H3K27ac-human	https://www.encodeproject.org/files/ENCFF560PQQ/@@download/ENCFF560PQQ.bed.gz
+ENCFF099KJP	ENCSR000DXK	bronchial epithelial cell	primary cell	unknown	unknown	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF099KJP/@@download/ENCFF099KJP.bed.gz
+ENCFF667VWL	ENCSR000EVZ	K562	immortalized cell line	adult	female	53 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF667VWL/@@download/ENCFF667VWL.bed.gz
+ENCFF558JOB	ENCSR000EVZ	K562	immortalized cell line	adult	female	53 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF558JOB/@@download/ENCFF558JOB.bed.gz
+ENCFF210DMC	ENCSR000DXZ	WI38	immortalized cell line	unknown	female	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF210DMC/@@download/ENCFF210DMC.bed.gz
+ENCFF852RJF	ENCSR000DSJ	cardiac mesoderm	in vitro differentiated cells	unknown	unknown	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF852RJF/@@download/ENCFF852RJF.bed.gz
+ENCFF192GHN	ENCSR000DSE	cardiac mesoderm	in vitro differentiated cells	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF192GHN/@@download/ENCFF192GHN.bed.gz
+ENCFF493TKQ	ENCSR000ASM	CD14-positive monocyte	primary cell	unknown	female	unknown	H3K4me1-human	https://www.encodeproject.org/files/ENCFF493TKQ/@@download/ENCFF493TKQ.bed.gz
+ENCFF466NRJ	ENCSR000DXF	epithelial cell of proximal tubule	primary cell	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF466NRJ/@@download/ENCFF466NRJ.bed.gz
+ENCFF829STQ	ENCSR000ARW	fibroblast of dermis	primary cell	unknown	unknown	unknown	H3K79me2-human	https://www.encodeproject.org/files/ENCFF829STQ/@@download/ENCFF829STQ.bed.gz
+ENCFF022DZS	ENCSR000FCM	Panc1	immortalized cell line	unknown	male	56 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF022DZS/@@download/ENCFF022DZS.bed.gz
+ENCFF677KGT	ENCSR000AUO	A549	immortalized cell line	adult	male	58 year	H4K20me1-human	https://www.encodeproject.org/files/ENCFF677KGT/@@download/ENCFF677KGT.bed.gz
+ENCFF148POZ	ENCSR000DWD	K562	immortalized cell line	adult	female	53 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF148POZ/@@download/ENCFF148POZ.bed.gz
+ENCFF433OAE	ENCSR000DXY	WI38	immortalized cell line	unknown	female	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF433OAE/@@download/ENCFF433OAE.bed.gz
+ENCFF433AOE	ENCSR000DQF	foreskin fibroblast	primary cell	newborn	male	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF433AOE/@@download/ENCFF433AOE.bed.gz
+ENCFF907HWV	ENCSR000DSF	cardiac mesoderm	in vitro differentiated cells	unknown	unknown	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF907HWV/@@download/ENCFF907HWV.bed.gz
+ENCFF749NUK	ENCSR000DQZ	GM12864	immortalized cell line	unknown	male	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF749NUK/@@download/ENCFF749NUK.bed.gz
+ENCFF268EFC	ENCSR000ANZ	myotube	in vitro differentiated cells	adult	male	22 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF268EFC/@@download/ENCFF268EFC.bed.gz
+ENCFF451UZW	ENCSR000FCH	HEK293	immortalized cell line	embryonic	female	unknown	H3K27ac-human	https://www.encodeproject.org/files/ENCFF451UZW/@@download/ENCFF451UZW.bed.gz
+ENCFF852JYN	ENCSR000APQ	fibroblast of dermis	primary cell	unknown	unknown	unknown	H3K4me2-human	https://www.encodeproject.org/files/ENCFF852JYN/@@download/ENCFF852JYN.bed.gz
+ENCFF381GLE	ENCSR000EXI	Panc1	immortalized cell line	unknown	male	56 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF381GLE/@@download/ENCFF381GLE.bed.gz
+ENCFF550IIC	ENCSR000ASI	CD14-positive monocyte	primary cell	unknown	female	unknown	H2AFZ-human	https://www.encodeproject.org/files/ENCFF550IIC/@@download/ENCFF550IIC.bed.gz
+ENCFF112PES	ENCSR000ASN	CD14-positive monocyte	primary cell	unknown	female	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF112PES/@@download/ENCFF112PES.bed.gz
+ENCFF197KIU	ENCSR000DWU	keratinocyte	primary cell	unknown	female	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF197KIU/@@download/ENCFF197KIU.bed.gz
+ENCFF488APE	ENCSR000DSS	H7-hESC	stem cell	unknown	unknown	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF488APE/@@download/ENCFF488APE.bed.gz
+ENCFF975NLT	ENCSR000DSR	H7-hESC	stem cell	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF975NLT/@@download/ENCFF975NLT.bed.gz
+ENCFF058TAP	ENCSR391NPE	22Rv1	immortalized cell line	unknown	male	unknown	H3K27ac-human	https://www.encodeproject.org/files/ENCFF058TAP/@@download/ENCFF058TAP.bed.gz
+ENCFF938HVH	ENCSR000DVO	endothelial cell of umbilical vein	primary cell	newborn	male	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF938HVH/@@download/ENCFF938HVH.bed.gz
+ENCFF968YNG	ENCSR000EXE	NT2/D1	immortalized cell line	unknown	male	22 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF968YNG/@@download/ENCFF968YNG.bed.gz
+ENCFF810VRF	ENCSR000EXV	mononuclear cell	primary cell	unknown	male	unknown	H3K4me1-human	https://www.encodeproject.org/files/ENCFF810VRF/@@download/ENCFF810VRF.bed.gz
+ENCFF383ANE	ENCSR000DQT	GM06990	immortalized cell line	unknown	female	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF383ANE/@@download/ENCFF383ANE.bed.gz
+ENCFF550YZB	ENCSR000DUZ	fibroblast of pulmonary artery	primary cell	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF550YZB/@@download/ENCFF550YZB.bed.gz
+ENCFF305JOT	ENCSR000DVU	Jurkat clone E61	immortalized cell line	child	male	14 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF305JOT/@@download/ENCFF305JOT.bed.gz
+ENCFF022UYA	ENCSR777CQW	22Rv1	immortalized cell line	unknown	male	unknown	H3K27ac-human	https://www.encodeproject.org/files/ENCFF022UYA/@@download/ENCFF022UYA.bed.gz
+ENCFF646LMY	ENCSR184QUS	OCI-LY1	immortalized cell line	adult	male	44 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF646LMY/@@download/ENCFF646LMY.bed.gz
+ENCFF075QJU	ENCSR000DSM	cardiac mesoderm	in vitro differentiated cells	unknown	unknown	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF075QJU/@@download/ENCFF075QJU.bed.gz
+ENCFF607UWR	ENCSR000DTT	epithelial cell of esophagus	primary cell	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF607UWR/@@download/ENCFF607UWR.bed.gz
+ENCFF119AXY	ENCSR000DPX	fibroblast of skin of abdomen	primary cell	adult	male	22 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF119AXY/@@download/ENCFF119AXY.bed.gz
+ENCFF622AJL	ENCSR000DVS	fibroblast of villous mesenchyme	primary cell	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF622AJL/@@download/ENCFF622AJL.bed.gz
+ENCFF385RUL	ENCSR000DSK	cardiac mesoderm	in vitro differentiated cells	unknown	unknown	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF385RUL/@@download/ENCFF385RUL.bed.gz
+ENCFF434CLI	ENCSR000DQM	Caco-2	immortalized cell line	adult	male	72 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF434CLI/@@download/ENCFF434CLI.bed.gz
+ENCFF928TPV	ENCSR000AON	myotube	in vitro differentiated cells	adult	male	22 year	H3K79me2-human	https://www.encodeproject.org/files/ENCFF928TPV/@@download/ENCFF928TPV.bed.gz
+ENCFF467BCP	ENCSR000EYE	U2OS	immortalized cell line	child	female	15 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF467BCP/@@download/ENCFF467BCP.bed.gz
+ENCFF549FQX	ENCSR000DTY	HeLa-S3	immortalized cell line	adult	female	31 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF549FQX/@@download/ENCFF549FQX.bed.gz
+ENCFF590XUH	ENCSR000FCL	GM08714	immortalized cell line	unknown	female	1 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF590XUH/@@download/ENCFF590XUH.bed.gz
+ENCFF301UTR	ENCSR000FCG	HEK293	immortalized cell line	embryonic	female	unknown	H3K4me1-human	https://www.encodeproject.org/files/ENCFF301UTR/@@download/ENCFF301UTR.bed.gz
+ENCFF815WXY	ENCSR000FCS	SK-N-SH	immortalized cell line	child	female	4 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF815WXY/@@download/ENCFF815WXY.bed.gz
+ENCFF631VWP	ENCSR000DWB	K562	immortalized cell line	adult	female	53 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF631VWP/@@download/ENCFF631VWP.bed.gz
+ENCFF314PCW	ENCSR000FCT	SK-N-SH	immortalized cell line	child	female	4 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF314PCW/@@download/ENCFF314PCW.bed.gz
+ENCFF752BON	ENCSR000AUN	A549	immortalized cell line	adult	male	58 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF752BON/@@download/ENCFF752BON.bed.gz
+ENCFF933TFH	ENCSR000FCU	SK-N-SH	immortalized cell line	child	female	4 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF933TFH/@@download/ENCFF933TFH.bed.gz
+ENCFF708PTO	ENCSR000DVF	kidney epithelial cell	primary cell	unknown	unknown	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF708PTO/@@download/ENCFF708PTO.bed.gz
+ENCFF628MEK	ENCSR203KEU	RWPE1	immortalized cell line	child	male	54 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF628MEK/@@download/ENCFF628MEK.bed.gz
+ENCFF515UPU	ENCSR000ASH	A549	immortalized cell line	adult	male	58 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF515UPU/@@download/ENCFF515UPU.bed.gz
+ENCFF053LMS	ENCSR000DQU	GM06990	immortalized cell line	unknown	female	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF053LMS/@@download/ENCFF053LMS.bed.gz
+ENCFF946MXS	ENCSR000ASK	CD14-positive monocyte	primary cell	unknown	female	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF946MXS/@@download/ENCFF946MXS.bed.gz
+ENCFF487IVG	ENCSR000DWZ	fibroblast of lung	primary cell	adult	male	45 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF487IVG/@@download/ENCFF487IVG.bed.gz
+ENCFF046YRR	ENCSR000DTU	HEK293	immortalized cell line	embryonic	female	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF046YRR/@@download/ENCFF046YRR.bed.gz
+ENCFF894XPE	ENCSR000ASV	A549	immortalized cell line	adult	male	58 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF894XPE/@@download/ENCFF894XPE.bed.gz
+ENCFF765NNN	ENCSR000AMT	fibroblast of lung	primary cell	adult, unknown	female, male	45 year, 11 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF765NNN/@@download/ENCFF765NNN.bed.gz
+ENCFF005LQD	ENCSR000ATG	fibroblast of dermis	primary cell	adult, unknown	female, unknown	unknown	H2AFZ-human	https://www.encodeproject.org/files/ENCFF005LQD/@@download/ENCFF005LQD.bed.gz
+ENCFF995SNZ	ENCSR000APN	fibroblast of dermis	primary cell	unknown	unknown	unknown	H3K27ac-human	https://www.encodeproject.org/files/ENCFF995SNZ/@@download/ENCFF995SNZ.bed.gz
+ENCFF967OLB	ENCSR000DSP	cardiac mesoderm	in vitro differentiated cells	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF967OLB/@@download/ENCFF967OLB.bed.gz
+ENCFF985VCY	ENCSR000AQS	osteoblast	primary cell	unknown	unknown	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF985VCY/@@download/ENCFF985VCY.bed.gz
+ENCFF580XGS	ENCSR000AUM	A549	immortalized cell line	adult	male	58 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF580XGS/@@download/ENCFF580XGS.bed.gz
+ENCFF244MRN	ENCSR507UDH	hepatocyte	in vitro differentiated cells	embryonic	female	5 day	H3K27ac-human	https://www.encodeproject.org/files/ENCFF244MRN/@@download/ENCFF244MRN.bed.gz
+ENCFF069OCN	ENCSR700VCN	induced pluripotent stem cell	induced pluripotent stem cell line	adult	male	53 year	H3K9me2-human	https://www.encodeproject.org/files/ENCFF069OCN/@@download/ENCFF069OCN.bed.gz
+ENCFF758DRC	ENCSR162DGX	B cell	primary cell	adult	female	27 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF758DRC/@@download/ENCFF758DRC.bed.gz
+ENCFF258BVG	ENCSR000DQP	B cell	primary cell	adult	female	43 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF258BVG/@@download/ENCFF258BVG.bed.gz
+ENCFF926ZHI	ENCSR180AAB	PC-9	immortalized cell line	unknown	unknown	unknown	H3F3A-human	https://www.encodeproject.org/files/ENCFF926ZHI/@@download/ENCFF926ZHI.bed.gz
+ENCFF213GPU	ENCSR000AOW	GM12878	immortalized cell line	adult	female	unknown	H3K79me2-human	https://www.encodeproject.org/files/ENCFF213GPU/@@download/ENCFF213GPU.bed.gz
+ENCFF228GWY	ENCSR000AKA	GM12878	immortalized cell line	adult	female	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF228GWY/@@download/ENCFF228GWY.bed.gz
+ENCFF882OAX	ENCSR000AOY	myotube	in vitro differentiated cells	adult	male	22 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF882OAX/@@download/ENCFF882OAX.bed.gz
+ENCFF286CTR	ENCSR000ANW	myotube	in vitro differentiated cells	adult	male	22 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF286CTR/@@download/ENCFF286CTR.bed.gz
+ENCFF870GQK	ENCSR000DUA	HeLa-S3	immortalized cell line	adult	female	31 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF870GQK/@@download/ENCFF870GQK.bed.gz
+ENCFF947ABI	ENCSR000EWP	MCF-7	immortalized cell line	adult	female	69 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF947ABI/@@download/ENCFF947ABI.bed.gz
+ENCFF570RHY	ENCSR637RLN	hepatocyte	in vitro differentiated cells	embryonic	female	5 day	H3K27me3-human	https://www.encodeproject.org/files/ENCFF570RHY/@@download/ENCFF570RHY.bed.gz
+ENCFF390JLU	ENCSR978BQI	Karpas-422	immortalized cell line	adult	female	73 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF390JLU/@@download/ENCFF390JLU.bed.gz
+ENCFF230KTQ	ENCSR289TGF	hepatocyte	in vitro differentiated cells	embryonic	female	5 day	H4K20me1-human	https://www.encodeproject.org/files/ENCFF230KTQ/@@download/ENCFF230KTQ.bed.gz
+ENCFF025TCL	ENCSR869HJR	SUDHL6	immortalized cell line	adult	male	43 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF025TCL/@@download/ENCFF025TCL.bed.gz
+ENCFF105SLN	ENCSR463DSJ	DOHH2	immortalized cell line	adult	male	60 year	H3K9me2-human	https://www.encodeproject.org/files/ENCFF105SLN/@@download/ENCFF105SLN.bed.gz
+ENCFF367KIF	ENCSR000AKC	GM12878	immortalized cell line	adult	female	unknown	H3K27ac-human	https://www.encodeproject.org/files/ENCFF367KIF/@@download/ENCFF367KIF.bed.gz
+ENCFF718MIB	ENCSR874HSH	OCI-LY1	immortalized cell line	adult	male	44 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF718MIB/@@download/ENCFF718MIB.bed.gz
+ENCFF882KEB	ENCSR316KHQ	SUDHL6	immortalized cell line	adult	male	43 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF882KEB/@@download/ENCFF882KEB.bed.gz
+ENCFF360FDX	ENCSR423UOT	SK-N-SH	immortalized cell line	child	female	4 year	H3K9me2-human	https://www.encodeproject.org/files/ENCFF360FDX/@@download/ENCFF360FDX.bed.gz
+ENCFF107LMJ	ENCSR105YNJ	gastrocnemius medialis	tissue	adult	male	54 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF107LMJ/@@download/ENCFF107LMJ.bed.gz
+ENCFF938KHV	ENCSR540UZV	smooth muscle cell	in vitro differentiated cells	embryonic	female	5 day	H3K9ac-human	https://www.encodeproject.org/files/ENCFF938KHV/@@download/ENCFF938KHV.bed.gz
+ENCFF108JKZ	ENCSR000AKG	GM12878	immortalized cell line	adult	female	unknown	H3K4me2-human	https://www.encodeproject.org/files/ENCFF108JKZ/@@download/ENCFF108JKZ.bed.gz
+ENCFF594BQZ	ENCSR175OYG	bipolar spindle neuron	in vitro differentiated cells	adult	male	53 year	H3K9me2-human	https://www.encodeproject.org/files/ENCFF594BQZ/@@download/ENCFF594BQZ.bed.gz
+ENCFF603AYP	ENCSR878KIY	Peyer's patch	tissue	adult	female	53 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF603AYP/@@download/ENCFF603AYP.bed.gz
+ENCFF790UBM	ENCSR564IGJ	SK-N-SH	immortalized cell line	child	female	4 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF790UBM/@@download/ENCFF790UBM.bed.gz
+ENCFF903NDX	ENCSR389WWC	OCI-LY7	immortalized cell line	adult	male	48 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF903NDX/@@download/ENCFF903NDX.bed.gz
+ENCFF283YWD	ENCSR689SFJ	body of pancreas	tissue	adult	male	37 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF283YWD/@@download/ENCFF283YWD.bed.gz
+ENCFF311UUU	ENCSR946QFD	PC-3	immortalized cell line	adult	male	62 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF311UUU/@@download/ENCFF311UUU.bed.gz
+ENCFF369MQM	ENCSR948YYZ	gastrocnemius medialis	tissue	adult	male	54 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF369MQM/@@download/ENCFF369MQM.bed.gz
+ENCFF069KAG	ENCSR000AKH	GM12878	immortalized cell line	adult	female	unknown	H3K9ac-human	https://www.encodeproject.org/files/ENCFF069KAG/@@download/ENCFF069KAG.bed.gz
+ENCFF915XUY	ENCSR794ULT	HCT116	immortalized cell line	unknown	male	unknown	H3K4me2-human	https://www.encodeproject.org/files/ENCFF915XUY/@@download/ENCFF915XUY.bed.gz
+ENCFF501MYI	ENCSR373WCB	neutrophil	primary cell	unknown	unknown	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF501MYI/@@download/ENCFF501MYI.bed.gz
+ENCFF890ZWD	ENCSR161HZJ	gastrocnemius medialis	tissue	adult	male	54 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF890ZWD/@@download/ENCFF890ZWD.bed.gz
+ENCFF936DWE	ENCSR000AVJ	B cell	primary cell	adult	female	27 year	H4K20me1-human	https://www.encodeproject.org/files/ENCFF936DWE/@@download/ENCFF936DWE.bed.gz
+ENCFF415TTZ	ENCSR058SHN	Karpas-422	immortalized cell line	adult	female	73 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF415TTZ/@@download/ENCFF415TTZ.bed.gz
+ENCFF601CVT	ENCSR199KHR	OCI-LY7	immortalized cell line	adult	male	48 year	H3K9me2-human	https://www.encodeproject.org/files/ENCFF601CVT/@@download/ENCFF601CVT.bed.gz
+ENCFF905NTT	ENCSR652QNW	cardiac muscle cell	in vitro differentiated cells	fetal	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF905NTT/@@download/ENCFF905NTT.bed.gz
+ENCFF958DTC	ENCSR639NMN	thyroid gland	tissue	adult	male	54 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF958DTC/@@download/ENCFF958DTC.bed.gz
+ENCFF580OUF	ENCSR000DXL	SK-N-MC	immortalized cell line	child	female	14 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF580OUF/@@download/ENCFF580OUF.bed.gz
+ENCFF487XSW	ENCSR225VCV	thyroid gland	tissue	adult	male	37 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF487XSW/@@download/ENCFF487XSW.bed.gz
+ENCFF636VXP	ENCSR344TLI	right lobe of liver	tissue	adult	female	53 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF636VXP/@@download/ENCFF636VXP.bed.gz
+ENCFF259EQT	ENCSR913MGR	PC-9	immortalized cell line	unknown	unknown	unknown	H3K4me1-human	https://www.encodeproject.org/files/ENCFF259EQT/@@download/ENCFF259EQT.bed.gz
+ENCFF549AYZ	ENCSR125IJY	SK-N-SH	immortalized cell line	child	female	4 year	H3F3A-human	https://www.encodeproject.org/files/ENCFF549AYZ/@@download/ENCFF549AYZ.bed.gz
+ENCFF096EZJ	ENCSR679CHH	SK-N-MC	immortalized cell line	child	female	14 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF096EZJ/@@download/ENCFF096EZJ.bed.gz
+ENCFF699KLD	ENCSR684BMS	MM.1S	immortalized cell line	adult	female	42 year	H4K20me1-human	https://www.encodeproject.org/files/ENCFF699KLD/@@download/ENCFF699KLD.bed.gz
+ENCFF569KYP	ENCSR564VIX	DND-41	immortalized cell line	unknown, child	male, unknown	13 year, unknown year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF569KYP/@@download/ENCFF569KYP.bed.gz
+ENCFF052HQG	ENCSR000AUX	B cell	primary cell	adult	female	27 year, 43 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF052HQG/@@download/ENCFF052HQG.bed.gz
+ENCFF706IIQ	ENCSR581PUR	A673	immortalized cell line	unknown	female	15 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF706IIQ/@@download/ENCFF706IIQ.bed.gz
+ENCFF351SWW	ENCSR000ASD	endothelial cell of umbilical vein	primary cell	newborn, unknown	male, unknown	unknown year, 0 year	H3K79me2-human	https://www.encodeproject.org/files/ENCFF351SWW/@@download/ENCFF351SWW.bed.gz
+ENCFF995ILL	ENCSR500ZGF	heart left ventricle	tissue	adult	female	53 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF995ILL/@@download/ENCFF995ILL.bed.gz
+ENCFF634SON	ENCSR963HAR	Karpas-422	immortalized cell line	adult	female	73 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF634SON/@@download/ENCFF634SON.bed.gz
+ENCFF143GDH	ENCSR094VCE	MM.1S	immortalized cell line	adult	female	42 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF143GDH/@@download/ENCFF143GDH.bed.gz
+ENCFF538AHZ	ENCSR094VCE	MM.1S	immortalized cell line	adult	female	42 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF538AHZ/@@download/ENCFF538AHZ.bed.gz
+ENCFF821LWB	ENCSR461LTR	MM.1S	immortalized cell line	adult	female	42 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF821LWB/@@download/ENCFF821LWB.bed.gz
+ENCFF429ROU	ENCSR159CDJ	Karpas-422	immortalized cell line	adult	female	73 year	H4K20me1-human	https://www.encodeproject.org/files/ENCFF429ROU/@@download/ENCFF429ROU.bed.gz
+ENCFF015CLB	ENCSR301AEA	bipolar spindle neuron	in vitro differentiated cells	adult	male	53 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF015CLB/@@download/ENCFF015CLB.bed.gz
+ENCFF072EIZ	ENCSR484MFB	hepatocyte	in vitro differentiated cells	embryonic	female	5 day	H3K9me2-human	https://www.encodeproject.org/files/ENCFF072EIZ/@@download/ENCFF072EIZ.bed.gz
+ENCFF982AUY	ENCSR183CQK	Loucy	immortalized cell line	adult	female	38 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF982AUY/@@download/ENCFF982AUY.bed.gz
+ENCFF123QID	ENCSR881TWJ	PC-3	immortalized cell line	adult	male	62 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF123QID/@@download/ENCFF123QID.bed.gz
+ENCFF600HQS	ENCSR513KNS	PC-9	immortalized cell line	unknown	unknown	unknown	H3K4me2-human	https://www.encodeproject.org/files/ENCFF600HQS/@@download/ENCFF600HQS.bed.gz
+ENCFF568EBI	ENCSR104BSN	radial glial cell	in vitro differentiated cells	embryonic	female	5 day	H3K9me3-human	https://www.encodeproject.org/files/ENCFF568EBI/@@download/ENCFF568EBI.bed.gz
+ENCFF807XGY	ENCSR914AWT	fibroblast of arm	primary cell	adult	male	53 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF807XGY/@@download/ENCFF807XGY.bed.gz
+ENCFF051JNM	ENCSR000AKM	endothelial cell of umbilical vein	primary cell	newborn	unknown	unknown	H3K4me2-human	https://www.encodeproject.org/files/ENCFF051JNM/@@download/ENCFF051JNM.bed.gz
+ENCFF651DIX	ENCSR741STU	DOHH2	immortalized cell line	adult	male	60 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF651DIX/@@download/ENCFF651DIX.bed.gz
+ENCFF986BGX	ENCSR161MXP	HCT116	immortalized cell line	unknown	male	unknown	H3K4me1-human	https://www.encodeproject.org/files/ENCFF986BGX/@@download/ENCFF986BGX.bed.gz
+ENCFF925HDQ	ENCSR870IUC	H9	stem cell	embryonic	female	5 day	H3K36me3-human	https://www.encodeproject.org/files/ENCFF925HDQ/@@download/ENCFF925HDQ.bed.gz
+ENCFF659WTM	ENCSR677XPJ	neural progenitor cell	in vitro differentiated cells	embryonic	female	5 day	H2AFZ-human	https://www.encodeproject.org/files/ENCFF659WTM/@@download/ENCFF659WTM.bed.gz
+ENCFF566SEB	ENCSR059MVB	ACC112	immortalized cell line	adult	male	70 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF566SEB/@@download/ENCFF566SEB.bed.gz
+ENCFF153VOQ	ENCSR000AKD	GM12878	immortalized cell line	adult	female	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF153VOQ/@@download/ENCFF153VOQ.bed.gz
+ENCFF535MQV	ENCSR279HKO	radial glial cell	in vitro differentiated cells	embryonic	female	5 day	H3K4me1-human	https://www.encodeproject.org/files/ENCFF535MQV/@@download/ENCFF535MQV.bed.gz
+ENCFF040YWL	ENCSR559IFS	NCI-H929	immortalized cell line	adult	female	62 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF040YWL/@@download/ENCFF040YWL.bed.gz
+ENCFF827NFH	ENCSR508UPW	esophagus squamous epithelium	tissue	adult	female	53 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF827NFH/@@download/ENCFF827NFH.bed.gz
+ENCFF126HJS	ENCSR000ARB	DND-41	immortalized cell line	child	male	13 year	H3K79me2-human	https://www.encodeproject.org/files/ENCFF126HJS/@@download/ENCFF126HJS.bed.gz
+ENCFF166CUG	ENCSR000ARY	DND-41	immortalized cell line	child	male	13 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF166CUG/@@download/ENCFF166CUG.bed.gz
+ENCFF805DZL	ENCSR000AQZ	DND-41	immortalized cell line	child	male	13 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF805DZL/@@download/ENCFF805DZL.bed.gz
+ENCFF184DUF	ENCSR639RHG	MCF-7	immortalized cell line	adult	female	69 year	H4K20me1-human	https://www.encodeproject.org/files/ENCFF184DUF/@@download/ENCFF184DUF.bed.gz
+ENCFF784QFH	ENCSR752UOD	MCF-7	immortalized cell line	adult	female	69 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF784QFH/@@download/ENCFF784QFH.bed.gz
+ENCFF218PAX	ENCSR657OGA	SK-N-SH	immortalized cell line	child	female	4 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF218PAX/@@download/ENCFF218PAX.bed.gz
+ENCFF337XQQ	ENCSR000AOL	HepG2	immortalized cell line	child	male	15 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF337XQQ/@@download/ENCFF337XQQ.bed.gz
+ENCFF685FGE	ENCSR922CAT	mid-neurogenesis radial glial cells	in vitro differentiated cells	embryonic	female	5 day	H3K4me3-human	https://www.encodeproject.org/files/ENCFF685FGE/@@download/ENCFF685FGE.bed.gz
+ENCFF704PLX	ENCSR859FGW	DOHH2	immortalized cell line	adult	male	60 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF704PLX/@@download/ENCFF704PLX.bed.gz
+ENCFF993FPN	ENCSR197XDQ	MCF-7	immortalized cell line	adult	female	69 year	H3F3A-human	https://www.encodeproject.org/files/ENCFF993FPN/@@download/ENCFF993FPN.bed.gz
+ENCFF036BNP	ENCSR849APH	PC-3	immortalized cell line	adult	male	62 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF036BNP/@@download/ENCFF036BNP.bed.gz
+ENCFF541PPZ	ENCSR301VIW	smooth muscle cell	in vitro differentiated cells	embryonic	female	5 day	H2AFZ-human	https://www.encodeproject.org/files/ENCFF541PPZ/@@download/ENCFF541PPZ.bed.gz
+ENCFF971SSW	ENCSR000ATB	endothelial cell of umbilical vein	primary cell	newborn, unknown	male, unknown	unknown year, 0 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF971SSW/@@download/ENCFF971SSW.bed.gz
+ENCFF765EBO	ENCSR275NCH	PC-3	immortalized cell line	adult	male	62 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF765EBO/@@download/ENCFF765EBO.bed.gz
+ENCFF433ZJT	ENCSR266EYO	thyroid gland	tissue	adult	male	37 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF433ZJT/@@download/ENCFF433ZJT.bed.gz
+ENCFF741EBK	ENCSR747BYL	A673	immortalized cell line	unknown	female	15 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF741EBK/@@download/ENCFF741EBK.bed.gz
+ENCFF656AXR	ENCSR011CSR	NCI-H929	immortalized cell line	adult	female	62 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF656AXR/@@download/ENCFF656AXR.bed.gz
+ENCFF730LUI	ENCSR897FOZ	ACC112	immortalized cell line	adult	male	70 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF730LUI/@@download/ENCFF730LUI.bed.gz
+ENCFF355IZE	ENCSR607ARN	esophagus muscularis mucosa	tissue	adult	female	53 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF355IZE/@@download/ENCFF355IZE.bed.gz
+ENCFF392EDT	ENCSR000AOC	HeLa-S3	immortalized cell line	adult	female	31 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF392EDT/@@download/ENCFF392EDT.bed.gz
+ENCFF509LTF	ENCSR267UCE	Loucy	immortalized cell line	adult	female	38 year	H3F3A-human	https://www.encodeproject.org/files/ENCFF509LTF/@@download/ENCFF509LTF.bed.gz
+ENCFF910DAZ	ENCSR052WRV	DOHH2	immortalized cell line	adult	male	60 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF910DAZ/@@download/ENCFF910DAZ.bed.gz
+ENCFF709MLM	ENCSR052WRV	DOHH2	immortalized cell line	adult	male	60 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF709MLM/@@download/ENCFF709MLM.bed.gz
+ENCFF201ZEX	ENCSR429QYS	Loucy	immortalized cell line	adult	female	38 year	H3K79me2-human	https://www.encodeproject.org/files/ENCFF201ZEX/@@download/ENCFF201ZEX.bed.gz
+ENCFF902IDL	ENCSR000AOE	HeLa-S3	immortalized cell line	adult	female	31 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF902IDL/@@download/ENCFF902IDL.bed.gz
+ENCFF995SFF	ENCSR375IXS	bipolar spindle neuron	in vitro differentiated cells	adult	male	53 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF995SFF/@@download/ENCFF995SFF.bed.gz
+ENCFF425YGL	ENCSR883XRM	hepatocyte	in vitro differentiated cells	embryonic	female	5 day	H2AFZ-human	https://www.encodeproject.org/files/ENCFF425YGL/@@download/ENCFF425YGL.bed.gz
+ENCFF099AIG	ENCSR867TPP	OCI-LY3	immortalized cell line	adult	male	52 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF099AIG/@@download/ENCFF099AIG.bed.gz
+ENCFF211HZG	ENCSR479HKJ	fibroblast of arm	primary cell	adult	male	53 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF211HZG/@@download/ENCFF211HZG.bed.gz
+ENCFF548YZH	ENCSR515PKY	smooth muscle cell	in vitro differentiated cells	embryonic	female	5 day	H3K4me3-human	https://www.encodeproject.org/files/ENCFF548YZH/@@download/ENCFF548YZH.bed.gz
+ENCFF824NJT	ENCSR114GLZ	SUDHL6	immortalized cell line	adult	male	43 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF824NJT/@@download/ENCFF824NJT.bed.gz
+ENCFF259TLB	ENCSR524RIH	neutrophil	primary cell	unknown	unknown	unknown	H3K9me3-human	https://www.encodeproject.org/files/ENCFF259TLB/@@download/ENCFF259TLB.bed.gz
+ENCFF201UKS	ENCSR850ODD	hepatocyte	in vitro differentiated cells	embryonic	female	5 day	H3K9ac-human	https://www.encodeproject.org/files/ENCFF201UKS/@@download/ENCFF201UKS.bed.gz
+ENCFF651URE	ENCSR627TNG	DOHH2	immortalized cell line	adult	male	60 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF651URE/@@download/ENCFF651URE.bed.gz
+ENCFF048PKS	ENCSR657RRI	Loucy	immortalized cell line	adult	female	38 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF048PKS/@@download/ENCFF048PKS.bed.gz
+ENCFF310XFO	ENCSR340WQU	HeLa-S3	immortalized cell line	adult	female	31 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF310XFO/@@download/ENCFF310XFO.bed.gz
+ENCFF886SZT	ENCSR000AMO	HepG2	immortalized cell line	child	male	15 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF886SZT/@@download/ENCFF886SZT.bed.gz
+ENCFF604OVF	ENCSR870IGD	Karpas-422	immortalized cell line	adult	female	73 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF604OVF/@@download/ENCFF604OVF.bed.gz
+ENCFF025VJJ	ENCSR000AKI	GM12878	immortalized cell line	adult	female	unknown	H4K20me1-human	https://www.encodeproject.org/files/ENCFF025VJJ/@@download/ENCFF025VJJ.bed.gz
+ENCFF937WLG	ENCSR474DOV	HCT116	immortalized cell line	unknown	male	unknown	H4K20me1-human	https://www.encodeproject.org/files/ENCFF937WLG/@@download/ENCFF937WLG.bed.gz
+ENCFF053EMF	ENCSR139PIA	neural progenitor cell	in vitro differentiated cells	embryonic	female	5 day	H3K27me3-human	https://www.encodeproject.org/files/ENCFF053EMF/@@download/ENCFF053EMF.bed.gz
+ENCFF767NIK	ENCSR876DCP	body of pancreas	tissue	adult	male	37 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF767NIK/@@download/ENCFF767NIK.bed.gz
+ENCFF349LKU	ENCSR661KMA	HCT116	immortalized cell line	unknown	male	unknown	H3K27ac-human	https://www.encodeproject.org/files/ENCFF349LKU/@@download/ENCFF349LKU.bed.gz
+ENCFF470XWC	ENCSR339FOO	NCI-H929	immortalized cell line	adult	female	62 year	H3K79me2-human	https://www.encodeproject.org/files/ENCFF470XWC/@@download/ENCFF470XWC.bed.gz
+ENCFF549VEQ	ENCSR227XNT	HCT116	immortalized cell line	unknown	male	unknown	H2AFZ-human	https://www.encodeproject.org/files/ENCFF549VEQ/@@download/ENCFF549VEQ.bed.gz
+ENCFF703MCA	ENCSR074TRC	SK-N-SH	immortalized cell line	child	female	4 year	H3K79me2-human	https://www.encodeproject.org/files/ENCFF703MCA/@@download/ENCFF703MCA.bed.gz
+ENCFF100QQI	ENCSR619OQS	KMS-11	immortalized cell line	adult	female	67 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF100QQI/@@download/ENCFF100QQI.bed.gz
+ENCFF837OBR	ENCSR890NXD	neuroepithelial stem cell	in vitro differentiated cells	embryonic	female	5 day	H3K4me1-human	https://www.encodeproject.org/files/ENCFF837OBR/@@download/ENCFF837OBR.bed.gz
+ENCFF304FVZ	ENCSR788EQL	PC-3	immortalized cell line	adult	male	62 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF304FVZ/@@download/ENCFF304FVZ.bed.gz
+ENCFF964VDM	ENCSR943LZX	PC-3	immortalized cell line	adult	male	62 year	H3K9me2-human	https://www.encodeproject.org/files/ENCFF964VDM/@@download/ENCFF964VDM.bed.gz
+ENCFF140RVM	ENCSR978CNH	SK-N-SH	immortalized cell line	child	female	4 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF140RVM/@@download/ENCFF140RVM.bed.gz
+ENCFF029DLN	ENCSR124VOE	neural cell	in vitro differentiated cells	embryonic	male	unknown	H3K27ac-human	https://www.encodeproject.org/files/ENCFF029DLN/@@download/ENCFF029DLN.bed.gz
+ENCFF061ENO	ENCSR691BNO	mid-neurogenesis radial glial cells	in vitro differentiated cells	embryonic	female	5 day	H3K9me3-human	https://www.encodeproject.org/files/ENCFF061ENO/@@download/ENCFF061ENO.bed.gz
+ENCFF255FSI	ENCSR090QTV	smooth muscle cell	in vitro differentiated cells	embryonic	female	5 day	H3K9me3-human	https://www.encodeproject.org/files/ENCFF255FSI/@@download/ENCFF255FSI.bed.gz
+ENCFF349DRG	ENCSR821GUG	bipolar spindle neuron	in vitro differentiated cells	adult	male	53 year	H4K20me1-human	https://www.encodeproject.org/files/ENCFF349DRG/@@download/ENCFF349DRG.bed.gz
+ENCFF453PEP	ENCSR000AKF	GM12878	immortalized cell line	adult	female	unknown	H3K4me1-human	https://www.encodeproject.org/files/ENCFF453PEP/@@download/ENCFF453PEP.bed.gz
+ENCFF245TXP	ENCSR307DQT	SUDHL6	immortalized cell line	adult	male	43 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF245TXP/@@download/ENCFF245TXP.bed.gz
+ENCFF221DPX	ENCSR397TUH	fibroblast of arm	primary cell	adult	male	53 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF221DPX/@@download/ENCFF221DPX.bed.gz
+ENCFF512VHW	ENCSR000AOV	GM12878	immortalized cell line	adult	female	unknown	H2AFZ-human	https://www.encodeproject.org/files/ENCFF512VHW/@@download/ENCFF512VHW.bed.gz
+ENCFF718ILR	ENCSR801IPH	gastrocnemius medialis	tissue	adult	male	37 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF718ILR/@@download/ENCFF718ILR.bed.gz
+ENCFF179UYG	ENCSR290EHP	mid-neurogenesis radial glial cells	in vitro differentiated cells	embryonic	female	5 day	H3K4me1-human	https://www.encodeproject.org/files/ENCFF179UYG/@@download/ENCFF179UYG.bed.gz
+ENCFF097MRS	ENCSR143HBU	SK-N-MC	immortalized cell line	child	female	14 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF097MRS/@@download/ENCFF097MRS.bed.gz
+ENCFF034EAT	ENCSR393SYU	neutrophil	primary cell	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF034EAT/@@download/ENCFF034EAT.bed.gz
+ENCFF712OJP	ENCSR778VGY	ACC112	immortalized cell line	adult	male	70 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF712OJP/@@download/ENCFF712OJP.bed.gz
+ENCFF463LZP	ENCSR279JHU	DOHH2	immortalized cell line	adult	male	60 year	H4K20me1-human	https://www.encodeproject.org/files/ENCFF463LZP/@@download/ENCFF463LZP.bed.gz
+ENCFF295RQW	ENCSR816JBG	neural cell	in vitro differentiated cells	embryonic	male	unknown	H2AFZ-human	https://www.encodeproject.org/files/ENCFF295RQW/@@download/ENCFF295RQW.bed.gz
+ENCFF755EKI	ENCSR441JWF	PC-9	immortalized cell line	unknown	unknown	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF755EKI/@@download/ENCFF755EKI.bed.gz
+ENCFF953FYF	ENCSR186EAD	Loucy	immortalized cell line	adult	female	38 year	H3K9me2-human	https://www.encodeproject.org/files/ENCFF953FYF/@@download/ENCFF953FYF.bed.gz
+ENCFF417WJY	ENCSR645BCH	neural progenitor cell	in vitro differentiated cells	embryonic	female	5 day	H3K4me2-human	https://www.encodeproject.org/files/ENCFF417WJY/@@download/ENCFF417WJY.bed.gz
+ENCFF289NJD	ENCSR864LRY	cardiac muscle cell	in vitro differentiated cells	fetal	unknown	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF289NJD/@@download/ENCFF289NJD.bed.gz
+ENCFF140KYF	ENCSR554RQQ	body of pancreas	tissue	adult	male	54 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF140KYF/@@download/ENCFF140KYF.bed.gz
+ENCFF797XRZ	ENCSR701ZDB	OCI-LY3	immortalized cell line	adult	male	52 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF797XRZ/@@download/ENCFF797XRZ.bed.gz
+ENCFF154XZE	ENCSR165LOF	Loucy	immortalized cell line	adult	female	38 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF154XZE/@@download/ENCFF154XZE.bed.gz
+ENCFF543SLH	ENCSR005SXO	OCI-LY7	immortalized cell line	adult	male	48 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF543SLH/@@download/ENCFF543SLH.bed.gz
+ENCFF302MFG	ENCSR826UTD	PC-3	immortalized cell line	adult	male	62 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF302MFG/@@download/ENCFF302MFG.bed.gz
+ENCFF851DNH	ENCSR258UUX	vagina	tissue	adult	female	53 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF851DNH/@@download/ENCFF851DNH.bed.gz
+ENCFF434DYI	ENCSR057MWG	MCF-7	immortalized cell line	adult	female	69 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF434DYI/@@download/ENCFF434DYI.bed.gz
+ENCFF396SLO	ENCSR623GZY	DOHH2	immortalized cell line	adult	male	60 year	H3K79me2-human	https://www.encodeproject.org/files/ENCFF396SLO/@@download/ENCFF396SLO.bed.gz
+ENCFF393HCO	ENCSR736ALU	gastrocnemius medialis	tissue	adult	female	53 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF393HCO/@@download/ENCFF393HCO.bed.gz
+ENCFF133DLL	ENCSR339ZMJ	PC-3	immortalized cell line	adult	male	62 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF133DLL/@@download/ENCFF133DLL.bed.gz
+ENCFF740XLV	ENCSR581LZU	OCI-LY3	immortalized cell line	adult	male	52 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF740XLV/@@download/ENCFF740XLV.bed.gz
+ENCFF641FNH	ENCSR992YSL	DOHH2	immortalized cell line	adult	male	60 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF641FNH/@@download/ENCFF641FNH.bed.gz
+ENCFF552LNJ	ENCSR361FWQ	MM.1S	immortalized cell line	adult	female	42 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF552LNJ/@@download/ENCFF552LNJ.bed.gz
+ENCFF321ECE	ENCSR361FWQ	MM.1S	immortalized cell line	adult	female	42 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF321ECE/@@download/ENCFF321ECE.bed.gz
+ENCFF317SCS	ENCSR034BEQ	hepatocyte	in vitro differentiated cells	embryonic	female	5 day	H3K36me3-human	https://www.encodeproject.org/files/ENCFF317SCS/@@download/ENCFF317SCS.bed.gz
+ENCFF222RPQ	ENCSR433PUR	radial glial cell	in vitro differentiated cells	embryonic	female	5 day	H3K4me3-human	https://www.encodeproject.org/files/ENCFF222RPQ/@@download/ENCFF222RPQ.bed.gz
+ENCFF445HCF	ENCSR994NPK	cardiac muscle cell	in vitro differentiated cells	fetal	unknown	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF445HCF/@@download/ENCFF445HCF.bed.gz
+ENCFF534SYM	ENCSR531QHM	neural cell	in vitro differentiated cells	embryonic	male	unknown	H3K9ac-human	https://www.encodeproject.org/files/ENCFF534SYM/@@download/ENCFF534SYM.bed.gz
+ENCFF451XSY	ENCSR697RIW	gastrocnemius medialis	tissue	adult	male	54 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF451XSY/@@download/ENCFF451XSY.bed.gz
+ENCFF057UZR	ENCSR983CSB	bipolar spindle neuron	in vitro differentiated cells	adult	male	53 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF057UZR/@@download/ENCFF057UZR.bed.gz
+ENCFF865LYL	ENCSR661MUS	neural progenitor cell	in vitro differentiated cells	embryonic	female	5 day	H3K4me3-human	https://www.encodeproject.org/files/ENCFF865LYL/@@download/ENCFF865LYL.bed.gz
+ENCFF360CQR	ENCSR000APW	HeLa-S3	immortalized cell line	adult	female	31 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF360CQR/@@download/ENCFF360CQR.bed.gz
+ENCFF289XTV	ENCSR015GFK	thoracic aorta	tissue	adult	male	37 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF289XTV/@@download/ENCFF289XTV.bed.gz
+ENCFF327BFN	ENCSR657DYL	induced pluripotent stem cell	induced pluripotent stem cell line	adult	male	53 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF327BFN/@@download/ENCFF327BFN.bed.gz
+ENCFF616YJD	ENCSR236YPE	induced pluripotent stem cell	induced pluripotent stem cell line	adult	male	53 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF616YJD/@@download/ENCFF616YJD.bed.gz
+ENCFF574ONQ	ENCSR573CWZ	neural progenitor cell	in vitro differentiated cells	embryonic	female	5 day	H3K36me3-human	https://www.encodeproject.org/files/ENCFF574ONQ/@@download/ENCFF574ONQ.bed.gz
+ENCFF981HQG	ENCSR247PYK	bipolar spindle neuron	in vitro differentiated cells	adult	male	53 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF981HQG/@@download/ENCFF981HQG.bed.gz
+ENCFF953YEE	ENCSR562JTY	NCI-H929	immortalized cell line	adult	female	62 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF953YEE/@@download/ENCFF953YEE.bed.gz
+ENCFF232EZY	ENCSR000AOI	HeLa-S3	immortalized cell line	adult	female	31 year	H4K20me1-human	https://www.encodeproject.org/files/ENCFF232EZY/@@download/ENCFF232EZY.bed.gz
+ENCFF580MMU	ENCSR179BUC	HCT116	immortalized cell line	unknown	male	unknown	H3K9me3-human	https://www.encodeproject.org/files/ENCFF580MMU/@@download/ENCFF580MMU.bed.gz
+ENCFF029GQD	ENCSR091QXP	HCT116	immortalized cell line	unknown	male	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF029GQD/@@download/ENCFF029GQD.bed.gz
+ENCFF287NJM	ENCSR000NPF	cardiac muscle cell	in vitro differentiated cells	fetal	unknown	unknown	H3K27ac-human	https://www.encodeproject.org/files/ENCFF287NJM/@@download/ENCFF287NJM.bed.gz
+ENCFF047EDM	ENCSR604III	Karpas-422	immortalized cell line	adult	female	73 year	H3K79me2-human	https://www.encodeproject.org/files/ENCFF047EDM/@@download/ENCFF047EDM.bed.gz
+ENCFF024TEH	ENCSR000EWR	MCF-7	immortalized cell line	adult	female	69 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF024TEH/@@download/ENCFF024TEH.bed.gz
+ENCFF711JHP	ENCSR654VRX	neural cell	in vitro differentiated cells	embryonic	male	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF711JHP/@@download/ENCFF711JHP.bed.gz
+ENCFF519DEJ	ENCSR000AUY	B cell	primary cell	adult	female	27 year, 43 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF519DEJ/@@download/ENCFF519DEJ.bed.gz
+ENCFF682JYE	ENCSR975GZA	SK-N-SH	immortalized cell line	child	female	4 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF682JYE/@@download/ENCFF682JYE.bed.gz
+ENCFF439CWL	ENCSR728SZE	H1-hESC	stem cell	embryonic	male	unknown	H4K20me1-human	https://www.encodeproject.org/files/ENCFF439CWL/@@download/ENCFF439CWL.bed.gz
+ENCFF798SDO	ENCSR594AQO	mesenchymal stem cell	in vitro differentiated cells	embryonic	male	unknown	H3K79me1-human	https://www.encodeproject.org/files/ENCFF798SDO/@@download/ENCFF798SDO.bed.gz
+ENCFF093YFN	ENCSR476KTK	H1-hESC	stem cell	embryonic	male	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF093YFN/@@download/ENCFF093YFN.bed.gz
+ENCFF045ELD	ENCSR555LYM	HCT116	immortalized cell line	unknown	male	unknown	H3K9me2-human	https://www.encodeproject.org/files/ENCFF045ELD/@@download/ENCFF045ELD.bed.gz
+ENCFF953ALR	ENCSR591KSN	neural progenitor cell	in vitro differentiated cells	embryonic	female	5 day	H3F3A-human	https://www.encodeproject.org/files/ENCFF953ALR/@@download/ENCFF953ALR.bed.gz
+ENCFF133PSF	ENCSR000AMQ	HepG2	immortalized cell line	child	male	15 year	H4K20me1-human	https://www.encodeproject.org/files/ENCFF133PSF/@@download/ENCFF133PSF.bed.gz
+ENCFF682KVR	ENCSR688ZOS	neuroepithelial stem cell	in vitro differentiated cells	embryonic	female	5 day	H3K36me3-human	https://www.encodeproject.org/files/ENCFF682KVR/@@download/ENCFF682KVR.bed.gz
+ENCFF626AFY	ENCSR714KGG	neural cell	in vitro differentiated cells	embryonic	male	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF626AFY/@@download/ENCFF626AFY.bed.gz
+ENCFF328CAW	ENCSR922OXX	gastrocnemius medialis	tissue	adult	male	37 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF328CAW/@@download/ENCFF328CAW.bed.gz
+ENCFF365NVL	ENCSR406PCK	adrenal gland	tissue	adult	male	54 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF365NVL/@@download/ENCFF365NVL.bed.gz
+ENCFF372KFR	ENCSR678AFU	OCI-LY1	immortalized cell line	adult	male	44 year	H3F3A-human	https://www.encodeproject.org/files/ENCFF372KFR/@@download/ENCFF372KFR.bed.gz
+ENCFF770GLX	ENCSR566GSO	Loucy	immortalized cell line	adult	female	38 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF770GLX/@@download/ENCFF770GLX.bed.gz
+ENCFF002NFJ	ENCSR210ZPC	smooth muscle cell	in vitro differentiated cells	embryonic	female	5 day	H3K27ac-human	https://www.encodeproject.org/files/ENCFF002NFJ/@@download/ENCFF002NFJ.bed.gz
+ENCFF003JXM	ENCSR906YES	thyroid gland	tissue	adult	male	37 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF003JXM/@@download/ENCFF003JXM.bed.gz
+ENCFF085NAA	ENCSR884QDT	Loucy	immortalized cell line	adult	female	38 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF085NAA/@@download/ENCFF085NAA.bed.gz
+ENCFF813YSM	ENCSR555TAX	PC-9	immortalized cell line	unknown	unknown	unknown	H3K9me3-human	https://www.encodeproject.org/files/ENCFF813YSM/@@download/ENCFF813YSM.bed.gz
+ENCFF974UUV	ENCSR562SRW	MM.1S	immortalized cell line	adult	female	42 year	H3F3A-human	https://www.encodeproject.org/files/ENCFF974UUV/@@download/ENCFF974UUV.bed.gz
+ENCFF280WTT	ENCSR472SEY	bipolar spindle neuron	in vitro differentiated cells	adult	male	53 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF280WTT/@@download/ENCFF280WTT.bed.gz
+ENCFF733UYO	ENCSR510NXV	gastroesophageal sphincter	tissue	adult	female	53 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF733UYO/@@download/ENCFF733UYO.bed.gz
+ENCFF632FAM	ENCSR661BMA	SK-N-SH	immortalized cell line	child	female	4 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF632FAM/@@download/ENCFF632FAM.bed.gz
+ENCFF732AVU	ENCSR460SEN	DOHH2	immortalized cell line	adult	male	60 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF732AVU/@@download/ENCFF732AVU.bed.gz
+ENCFF076NBN	ENCSR460SEN	DOHH2	immortalized cell line	adult	male	60 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF076NBN/@@download/ENCFF076NBN.bed.gz
+ENCFF019FUF	ENCSR996GHD	OCI-LY3	immortalized cell line	adult	male	52 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF019FUF/@@download/ENCFF019FUF.bed.gz
+ENCFF324FJO	ENCSR000ARZ	DND-41	immortalized cell line	child	male	13 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF324FJO/@@download/ENCFF324FJO.bed.gz
+ENCFF880VSE	ENCSR760EGQ	body of pancreas	tissue	adult	male	37 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF880VSE/@@download/ENCFF880VSE.bed.gz
+ENCFF711DZK	ENCSR872WVR	gastroesophageal sphincter	tissue	adult	female	53 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF711DZK/@@download/ENCFF711DZK.bed.gz
+ENCFF602YJF	ENCSR972ETR	gastrocnemius medialis	tissue	adult	male	54 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF602YJF/@@download/ENCFF602YJF.bed.gz
+ENCFF026CMN	ENCSR689QUB	hepatocyte	in vitro differentiated cells	embryonic	female	5 day	H3K4me1-human	https://www.encodeproject.org/files/ENCFF026CMN/@@download/ENCFF026CMN.bed.gz
+ENCFF993QQW	ENCSR718BTD	vagina	tissue	adult	female	53 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF993QQW/@@download/ENCFF993QQW.bed.gz
+ENCFF926IMD	ENCSR692HIO	NCI-H929	immortalized cell line	adult	female	62 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF926IMD/@@download/ENCFF926IMD.bed.gz
+ENCFF306KRD	ENCSR111QAW	SK-N-MC	immortalized cell line	child	female	14 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF306KRD/@@download/ENCFF306KRD.bed.gz
+ENCFF541BFB	ENCSR000AOG	HeLa-S3	immortalized cell line	adult	female	31 year	H3K79me2-human	https://www.encodeproject.org/files/ENCFF541BFB/@@download/ENCFF541BFB.bed.gz
+ENCFF489BWP	ENCSR550UQS	induced pluripotent stem cell	induced pluripotent stem cell line	adult	male	53 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF489BWP/@@download/ENCFF489BWP.bed.gz
+ENCFF022RPE	ENCSR538KLU	SUDHL6	immortalized cell line	adult	male	43 year	H4K20me1-human	https://www.encodeproject.org/files/ENCFF022RPE/@@download/ENCFF022RPE.bed.gz
+ENCFF789BVZ	ENCSR306VSH	Karpas-422	immortalized cell line	adult	female	73 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF789BVZ/@@download/ENCFF789BVZ.bed.gz
+ENCFF537IXS	ENCSR988EGR	A673	immortalized cell line	unknown	female	15 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF537IXS/@@download/ENCFF537IXS.bed.gz
+ENCFF629CGN	ENCSR405NQJ	neural cell	in vitro differentiated cells	embryonic	male	unknown	H3K9me3-human	https://www.encodeproject.org/files/ENCFF629CGN/@@download/ENCFF629CGN.bed.gz
+ENCFF506SPC	ENCSR732NFR	neuronal stem cell	in vitro differentiated cells	embryonic	male	unknown	H2AK5ac-human	https://www.encodeproject.org/files/ENCFF506SPC/@@download/ENCFF506SPC.bed.gz
+ENCFF106EAN	ENCSR283STF	IMR-90	primary cell	fetal	female	16 week	H3K14ac-human	https://www.encodeproject.org/files/ENCFF106EAN/@@download/ENCFF106EAN.bed.gz
+ENCFF626WXW	ENCSR790EDQ	OCI-LY1	immortalized cell line	adult	male	44 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF626WXW/@@download/ENCFF626WXW.bed.gz
+ENCFF477XWO	ENCSR276OLB	cardiac muscle cell	in vitro differentiated cells	fetal	unknown	unknown	H3K4me1-human	https://www.encodeproject.org/files/ENCFF477XWO/@@download/ENCFF477XWO.bed.gz
+ENCFF992YLK	ENCSR578QSO	endothelial cell of umbilical vein	primary cell	unknown	male	0 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF992YLK/@@download/ENCFF992YLK.bed.gz
+ENCFF516GWH	ENCSR053PIY	adrenal gland	tissue	adult	male	37 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF516GWH/@@download/ENCFF516GWH.bed.gz
+ENCFF108EBI	ENCSR402SJV	PC-9	immortalized cell line	unknown	unknown	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF108EBI/@@download/ENCFF108EBI.bed.gz
+ENCFF856JVD	ENCSR121INC	SK-N-SH	immortalized cell line	child	female	4 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF856JVD/@@download/ENCFF856JVD.bed.gz
+ENCFF962OGI	ENCSR000AMB	HepG2	immortalized cell line	child	male	15 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF962OGI/@@download/ENCFF962OGI.bed.gz
+ENCFF510LKP	ENCSR000AOH	HeLa-S3	immortalized cell line	adult	female	31 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF510LKP/@@download/ENCFF510LKP.bed.gz
+ENCFF706VAQ	ENCSR857GMX	OCI-LY3	immortalized cell line	adult	male	52 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF706VAQ/@@download/ENCFF706VAQ.bed.gz
+ENCFF214WSR	ENCSR909VUB	thoracic aorta	tissue	adult	male	54 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF214WSR/@@download/ENCFF214WSR.bed.gz
+ENCFF068SXT	ENCSR683ORH	bipolar spindle neuron	in vitro differentiated cells	adult	male	53 year	H3F3A-human	https://www.encodeproject.org/files/ENCFF068SXT/@@download/ENCFF068SXT.bed.gz
+ENCFF802ILK	ENCSR203KCB	thyroid gland	tissue	adult	male	54 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF802ILK/@@download/ENCFF802ILK.bed.gz
+ENCFF957INX	ENCSR758OEC	MM.1S	immortalized cell line	adult	female	42 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF957INX/@@download/ENCFF957INX.bed.gz
+ENCFF389APM	ENCSR758OEC	MM.1S	immortalized cell line	adult	female	42 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF389APM/@@download/ENCFF389APM.bed.gz
+ENCFF511QOB	ENCSR799SLA	B cell	primary cell	adult	female	27 year, 43 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF511QOB/@@download/ENCFF511QOB.bed.gz
+ENCFF327OCM	ENCSR873EIA	neural cell	in vitro differentiated cells	embryonic	male	unknown	H3F3A-human	https://www.encodeproject.org/files/ENCFF327OCM/@@download/ENCFF327OCM.bed.gz
+ENCFF420SSW	ENCSR720ZAX	neural progenitor cell	in vitro differentiated cells	embryonic	female	5 day	H4K20me1-human	https://www.encodeproject.org/files/ENCFF420SSW/@@download/ENCFF420SSW.bed.gz
+ENCFF959EHK	ENCSR695HYL	hepatocyte	in vitro differentiated cells	embryonic	female	5 day	H3K79me2-human	https://www.encodeproject.org/files/ENCFF959EHK/@@download/ENCFF959EHK.bed.gz
+ENCFF826EDS	ENCSR611CRY	fibroblast of arm	primary cell	adult	male	53 year	H3K79me2-human	https://www.encodeproject.org/files/ENCFF826EDS/@@download/ENCFF826EDS.bed.gz
+ENCFF304JWR	ENCSR493FIV	smooth muscle cell	in vitro differentiated cells	embryonic	female	5 day	H3K79me2-human	https://www.encodeproject.org/files/ENCFF304JWR/@@download/ENCFF304JWR.bed.gz
+ENCFF133LOI	ENCSR729ENO	induced pluripotent stem cell	induced pluripotent stem cell line	adult	male	53 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF133LOI/@@download/ENCFF133LOI.bed.gz
+ENCFF179TFZ	ENCSR374RZR	MCF-7	immortalized cell line	adult	female	69 year	H3K9me2-human	https://www.encodeproject.org/files/ENCFF179TFZ/@@download/ENCFF179TFZ.bed.gz
+ENCFF102NFO	ENCSR566DVZ	H9	stem cell	embryonic	female	5 day	H3K27ac-human	https://www.encodeproject.org/files/ENCFF102NFO/@@download/ENCFF102NFO.bed.gz
+ENCFF975DYD	ENCSR905TYC	bipolar spindle neuron	in vitro differentiated cells	adult	male	53 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF975DYD/@@download/ENCFF975DYD.bed.gz
+ENCFF813WTV	ENCSR764KFK	PC-3	immortalized cell line	adult	male	62 year	H4K20me1-human	https://www.encodeproject.org/files/ENCFF813WTV/@@download/ENCFF813WTV.bed.gz
+ENCFF656PHI	ENCSR910XKX	Karpas-422	immortalized cell line	adult	female	73 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF656PHI/@@download/ENCFF656PHI.bed.gz
+ENCFF900KZW	ENCSR562MOC	fibroblast of arm	primary cell	adult	male	53 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF900KZW/@@download/ENCFF900KZW.bed.gz
+ENCFF052VWO	ENCSR441SAT	mesendoderm	in vitro differentiated cells	embryonic	male	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF052VWO/@@download/ENCFF052VWO.bed.gz
+ENCFF612FNE	ENCSR975NOU	thyroid gland	tissue	adult	male	54 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF612FNE/@@download/ENCFF612FNE.bed.gz
+ENCFF272PZA	ENCSR152YYY	PC-9	immortalized cell line	unknown	unknown	unknown	H4K20me1-human	https://www.encodeproject.org/files/ENCFF272PZA/@@download/ENCFF272PZA.bed.gz
+ENCFF106CQQ	ENCSR397HSO	neural cell	in vitro differentiated cells	embryonic	male	unknown	H3K9me2-human	https://www.encodeproject.org/files/ENCFF106CQQ/@@download/ENCFF106CQQ.bed.gz
+ENCFF415HCR	ENCSR698CKZ	MM.1S	immortalized cell line	adult	female	42 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF415HCR/@@download/ENCFF415HCR.bed.gz
+ENCFF473UOL	ENCSR416CYZ	thoracic aorta	tissue	adult	male	54 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF473UOL/@@download/ENCFF473UOL.bed.gz
+ENCFF843HOM	ENCSR967HXD	H9	stem cell	embryonic	female	5 day	H3K4me1-human	https://www.encodeproject.org/files/ENCFF843HOM/@@download/ENCFF843HOM.bed.gz
+ENCFF899DKP	ENCSR484PTR	bipolar spindle neuron	in vitro differentiated cells	adult	male	53 year	H3K79me2-human	https://www.encodeproject.org/files/ENCFF899DKP/@@download/ENCFF899DKP.bed.gz
+ENCFF740GYY	ENCSR872PRJ	MM.1S	immortalized cell line	adult	female	42 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF740GYY/@@download/ENCFF740GYY.bed.gz
+ENCFF098LYR	ENCSR999WHE	MCF-7	immortalized cell line	adult	female	69 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF098LYR/@@download/ENCFF098LYR.bed.gz
+ENCFF799VTC	ENCSR587FCM	SUDHL6	immortalized cell line	adult	male	43 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF799VTC/@@download/ENCFF799VTC.bed.gz
+ENCFF677NKI	ENCSR269ULZ	cardiac muscle cell	in vitro differentiated cells	fetal	unknown	unknown	H3K9me3-human	https://www.encodeproject.org/files/ENCFF677NKI/@@download/ENCFF677NKI.bed.gz
+ENCFF190ZXX	ENCSR056UBA	MCF-7	immortalized cell line	adult	female	69 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF190ZXX/@@download/ENCFF190ZXX.bed.gz
+ENCFF836FEK	ENCSR821IAK	bipolar spindle neuron	in vitro differentiated cells	adult	male	53 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF836FEK/@@download/ENCFF836FEK.bed.gz
+ENCFF470FSZ	ENCSR000AQN	HeLa-S3	immortalized cell line	adult	female	31 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF470FSZ/@@download/ENCFF470FSZ.bed.gz
+ENCFF484BIL	ENCSR317NQG	Karpas-422	immortalized cell line	adult	female	73 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF484BIL/@@download/ENCFF484BIL.bed.gz
+ENCFF775EFB	ENCSR267YXV	neutrophil	primary cell	unknown	unknown	unknown	H3K27ac-human	https://www.encodeproject.org/files/ENCFF775EFB/@@download/ENCFF775EFB.bed.gz
+ENCFF917DQH	ENCSR945KBK	PC-9	immortalized cell line	unknown	unknown	unknown	H3K9ac-human	https://www.encodeproject.org/files/ENCFF917DQH/@@download/ENCFF917DQH.bed.gz
+ENCFF163LYZ	ENCSR287VPM	SK-N-MC	immortalized cell line	child	female	14 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF163LYZ/@@download/ENCFF163LYZ.bed.gz
+ENCFF276VWQ	ENCSR007YOT	fibroblast of arm	primary cell	adult	male	53 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF276VWQ/@@download/ENCFF276VWQ.bed.gz
+ENCFF179HRE	ENCSR957CQH	OCI-LY3	immortalized cell line	adult	male	52 year	H3K79me2-human	https://www.encodeproject.org/files/ENCFF179HRE/@@download/ENCFF179HRE.bed.gz
+ENCFF459PFF	ENCSR447ZGY	OCI-LY7	immortalized cell line	adult	male	48 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF459PFF/@@download/ENCFF459PFF.bed.gz
+ENCFF742HIQ	ENCSR521IZK	A673	immortalized cell line	unknown	female	15 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF742HIQ/@@download/ENCFF742HIQ.bed.gz
+ENCFF927IEG	ENCSR475NLR	ACC112	immortalized cell line	adult	male	70 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF927IEG/@@download/ENCFF927IEG.bed.gz
+ENCFF261XLO	ENCSR519WQH	gastrocnemius medialis	tissue	adult	male	37 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF261XLO/@@download/ENCFF261XLO.bed.gz
+ENCFF151IYT	ENCSR328AVV	fibroblast of arm	primary cell	adult	male	53 year	H3K9me2-human	https://www.encodeproject.org/files/ENCFF151IYT/@@download/ENCFF151IYT.bed.gz
+ENCFF659VMT	ENCSR343ZOV	coronary artery	tissue	adult	female	53 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF659VMT/@@download/ENCFF659VMT.bed.gz
+ENCFF054TZE	ENCSR747ZDF	OCI-LY7	immortalized cell line	adult	male	48 year	H4K20me1-human	https://www.encodeproject.org/files/ENCFF054TZE/@@download/ENCFF054TZE.bed.gz
+ENCFF813BXP	ENCSR000AQW	DND-41	immortalized cell line	child	male	13 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF813BXP/@@download/ENCFF813BXP.bed.gz
+ENCFF806LPY	ENCSR906NGD	fibroblast of arm	primary cell	adult	male	53 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF806LPY/@@download/ENCFF806LPY.bed.gz
+ENCFF584NYC	ENCSR996FWI	iPS-20b	induced pluripotent stem cell line	unknown	male	unknown	H3K4me1-human	https://www.encodeproject.org/files/ENCFF584NYC/@@download/ENCFF584NYC.bed.gz
+ENCFF691TUV	ENCSR105NMJ	neural progenitor cell	in vitro differentiated cells	embryonic	female	5 day	H3K9ac-human	https://www.encodeproject.org/files/ENCFF691TUV/@@download/ENCFF691TUV.bed.gz
+ENCFF283ZXY	ENCSR543IKB	Loucy	immortalized cell line	adult	female	38 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF283ZXY/@@download/ENCFF283ZXY.bed.gz
+ENCFF329ARL	ENCSR783AXV	smooth muscle cell	in vitro differentiated cells	embryonic	female	5 day	H3K4me2-human	https://www.encodeproject.org/files/ENCFF329ARL/@@download/ENCFF329ARL.bed.gz
+ENCFF571FZW	ENCSR424XBP	B cell	primary cell	adult	female	27 year, 43 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF571FZW/@@download/ENCFF571FZW.bed.gz
+ENCFF532AGT	ENCSR000APV	HepG2	immortalized cell line	child	male	15 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF532AGT/@@download/ENCFF532AGT.bed.gz
+ENCFF043IDE	ENCSR000AKK	endothelial cell of umbilical vein	primary cell	newborn	unknown	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF043IDE/@@download/ENCFF043IDE.bed.gz
+ENCFF433KCX	ENCSR826VJY	neutrophil	primary cell	unknown	unknown	unknown	H3K4me1-human	https://www.encodeproject.org/files/ENCFF433KCX/@@download/ENCFF433KCX.bed.gz
+ENCFF369QNB	ENCSR416AUW	breast epithelium	tissue	adult	female	53 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF369QNB/@@download/ENCFF369QNB.bed.gz
+ENCFF373PCP	ENCSR900HAP	Loucy	immortalized cell line	adult	female	38 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF373PCP/@@download/ENCFF373PCP.bed.gz
+ENCFF700AHK	ENCSR076JBA	OCI-LY1	immortalized cell line	adult	male	44 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF700AHK/@@download/ENCFF700AHK.bed.gz
+ENCFF807OBU	ENCSR791INM	SK-N-SH	immortalized cell line	child	female	4 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF807OBU/@@download/ENCFF807OBU.bed.gz
+ENCFF924UXN	ENCSR036KFJ	Loucy	immortalized cell line	adult	female	38 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF924UXN/@@download/ENCFF924UXN.bed.gz
+ENCFF367RHB	ENCSR748LUA	thyroid gland	tissue	adult	male	37 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF367RHB/@@download/ENCFF367RHB.bed.gz
+ENCFF464CMD	ENCSR130IMV	smooth muscle cell	in vitro differentiated cells	embryonic	female	5 day	H3K4me1-human	https://www.encodeproject.org/files/ENCFF464CMD/@@download/ENCFF464CMD.bed.gz
+ENCFF948MSU	ENCSR206STN	gastrocnemius medialis	tissue	adult	male	37 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF948MSU/@@download/ENCFF948MSU.bed.gz
+ENCFF272UZC	ENCSR866KFY	fibroblast of arm	primary cell	adult	male	53 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF272UZC/@@download/ENCFF272UZC.bed.gz
+ENCFF580XTE	ENCSR386RIJ	induced pluripotent stem cell	induced pluripotent stem cell line	adult	male	53 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF580XTE/@@download/ENCFF580XTE.bed.gz
+ENCFF823OKF	ENCSR651JDA	smooth muscle cell	in vitro differentiated cells	embryonic	female	5 day	H3K36me3-human	https://www.encodeproject.org/files/ENCFF823OKF/@@download/ENCFF823OKF.bed.gz
+ENCFF947OPX	ENCSR857XRG	adrenal gland	tissue	adult	male	54 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF947OPX/@@download/ENCFF947OPX.bed.gz
+ENCFF690APK	ENCSR760ZVL	Loucy	immortalized cell line	adult	female	38 year	H4K20me1-human	https://www.encodeproject.org/files/ENCFF690APK/@@download/ENCFF690APK.bed.gz
+ENCFF738BVY	ENCSR829UDX	radial glial cell	in vitro differentiated cells	embryonic	female	5 day	H3K27ac-human	https://www.encodeproject.org/files/ENCFF738BVY/@@download/ENCFF738BVY.bed.gz
+ENCFF864SBW	ENCSR313NJN	induced pluripotent stem cell	induced pluripotent stem cell line	adult	male	53 year	H3F3A-human	https://www.encodeproject.org/files/ENCFF864SBW/@@download/ENCFF864SBW.bed.gz
+ENCFF053HOS	ENCSR536SZD	NCI-H929	immortalized cell line	adult	female	62 year	H3F3A-human	https://www.encodeproject.org/files/ENCFF053HOS/@@download/ENCFF053HOS.bed.gz
+ENCFF512TQI	ENCSR000APB	HeLa-S3	immortalized cell line	adult	female	31 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF512TQI/@@download/ENCFF512TQI.bed.gz
+ENCFF756DXF	ENCSR784AQY	DOHH2	immortalized cell line	adult	male	60 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF756DXF/@@download/ENCFF756DXF.bed.gz
+ENCFF480XQG	ENCSR900AQX	fibroblast of arm	primary cell	adult	male	53 year	H4K20me1-human	https://www.encodeproject.org/files/ENCFF480XQG/@@download/ENCFF480XQG.bed.gz
+ENCFF292JKC	ENCSR520BIM	body of pancreas	tissue	adult	male	37 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF292JKC/@@download/ENCFF292JKC.bed.gz
+ENCFF544MSP	ENCSR804MDH	SUDHL6	immortalized cell line	adult	male	43 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF544MSP/@@download/ENCFF544MSP.bed.gz
+ENCFF758JOO	ENCSR716ZJH	H9	stem cell	embryonic	female	5 day	H3K4me3-human	https://www.encodeproject.org/files/ENCFF758JOO/@@download/ENCFF758JOO.bed.gz
+ENCFF292MNK	ENCSR837SUQ	Loucy	immortalized cell line	adult	female	38 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF292MNK/@@download/ENCFF292MNK.bed.gz
+ENCFF371MFX	ENCSR660IQS	Karpas-422	immortalized cell line	adult	female	73 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF371MFX/@@download/ENCFF371MFX.bed.gz
+ENCFF215PHD	ENCSR327OGS	NCI-H929	immortalized cell line	adult	female	62 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF215PHD/@@download/ENCFF215PHD.bed.gz
+ENCFF647ELQ	ENCSR771QCM	SUDHL6	immortalized cell line	adult	male	43 year	H3F3A-human	https://www.encodeproject.org/files/ENCFF647ELQ/@@download/ENCFF647ELQ.bed.gz
+ENCFF851MNL	ENCSR518LDN	neural progenitor cell	in vitro differentiated cells	embryonic	female	5 day	H3K79me2-human	https://www.encodeproject.org/files/ENCFF851MNL/@@download/ENCFF851MNL.bed.gz
+ENCFF358CJW	ENCSR000AMD	HepG2	immortalized cell line	child	male	15 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF358CJW/@@download/ENCFF358CJW.bed.gz
+ENCFF718CGL	ENCSR391WDE	neuronal stem cell	in vitro differentiated cells	embryonic	male	unknown	H3K9me3-human	https://www.encodeproject.org/files/ENCFF718CGL/@@download/ENCFF718CGL.bed.gz
+ENCFF061XTF	ENCSR000ASC	endothelial cell of umbilical vein	primary cell	newborn, unknown	male, unknown	unknown year, 0 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF061XTF/@@download/ENCFF061XTF.bed.gz
+ENCFF790PFA	ENCSR806XIU	KMS-11	immortalized cell line	adult	female	67 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF790PFA/@@download/ENCFF790PFA.bed.gz
+ENCFF223VGQ	ENCSR835YBD	KMS-11	immortalized cell line	adult	female	67 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF223VGQ/@@download/ENCFF223VGQ.bed.gz
+ENCFF103XKE	ENCSR976JHS	KMS-11	immortalized cell line	adult	female	67 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF103XKE/@@download/ENCFF103XKE.bed.gz
+ENCFF685BGH	ENCSR499RMZ	KMS-11	immortalized cell line	adult	female	67 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF685BGH/@@download/ENCFF685BGH.bed.gz
+ENCFF138ZAO	ENCSR847UJW	KMS-11	immortalized cell line	adult	female	67 year	H3K79me2-human	https://www.encodeproject.org/files/ENCFF138ZAO/@@download/ENCFF138ZAO.bed.gz
+ENCFF407DWP	ENCSR449AXO	neural progenitor cell	in vitro differentiated cells	embryonic	female	5 day	H3K27ac-human	https://www.encodeproject.org/files/ENCFF407DWP/@@download/ENCFF407DWP.bed.gz
+ENCFF712ATO	ENCSR000AQO	HeLa-S3	immortalized cell line	adult	female	31 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF712ATO/@@download/ENCFF712ATO.bed.gz
+ENCFF898BGN	ENCSR878HPJ	SK-N-SH	immortalized cell line	child	female	4 year	H4K20me1-human	https://www.encodeproject.org/files/ENCFF898BGN/@@download/ENCFF898BGN.bed.gz
+ENCFF959CUU	ENCSR000ARC	DND-41	immortalized cell line	child	male	13 year	H4K20me1-human	https://www.encodeproject.org/files/ENCFF959CUU/@@download/ENCFF959CUU.bed.gz
+ENCFF319YFS	ENCSR331RGM	OCI-LY7	immortalized cell line	adult	male	48 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF319YFS/@@download/ENCFF319YFS.bed.gz
+ENCFF080LBO	ENCSR566UMF	PC-3	immortalized cell line	adult	male	62 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF080LBO/@@download/ENCFF080LBO.bed.gz
+ENCFF129OMN	ENCSR638FRE	OCI-LY3	immortalized cell line	adult	male	52 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF129OMN/@@download/ENCFF129OMN.bed.gz
+ENCFF675YIB	ENCSR474VGQ	KMS-11	immortalized cell line	adult	female	67 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF675YIB/@@download/ENCFF675YIB.bed.gz
+ENCFF699MLO	ENCSR955IXZ	KMS-11	immortalized cell line	adult	female	67 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF699MLO/@@download/ENCFF699MLO.bed.gz
+ENCFF733ERZ	ENCSR726LZG	PC-9	immortalized cell line	unknown	unknown	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF733ERZ/@@download/ENCFF733ERZ.bed.gz
+ENCFF785OQJ	ENCSR350RYG	DOHH2	immortalized cell line	adult	male	60 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF785OQJ/@@download/ENCFF785OQJ.bed.gz
+ENCFF390NQS	ENCSR350RYG	DOHH2	immortalized cell line	adult	male	60 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF390NQS/@@download/ENCFF390NQS.bed.gz
+ENCFF895YSF	ENCSR754VAJ	H9	stem cell	embryonic	female	5 day	H3K27me3-human	https://www.encodeproject.org/files/ENCFF895YSF/@@download/ENCFF895YSF.bed.gz
+ENCFF205NZQ	ENCSR827NKO	body of pancreas	tissue	adult	male	37 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF205NZQ/@@download/ENCFF205NZQ.bed.gz
+ENCFF884NQS	ENCSR000EWQ	MCF-7	immortalized cell line	adult	female	69 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF884NQS/@@download/ENCFF884NQS.bed.gz
+ENCFF604ZEP	ENCSR092TTO	mid-neurogenesis radial glial cells	in vitro differentiated cells	embryonic	female	5 day	H3K27ac-human	https://www.encodeproject.org/files/ENCFF604ZEP/@@download/ENCFF604ZEP.bed.gz
+ENCFF588SEL	ENCSR018LUP	SUDHL6	immortalized cell line	adult	male	43 year	H3K9me2-human	https://www.encodeproject.org/files/ENCFF588SEL/@@download/ENCFF588SEL.bed.gz
+ENCFF754PUG	ENCSR842NGQ	neuroepithelial stem cell	in vitro differentiated cells	embryonic	female	5 day	H3K27ac-human	https://www.encodeproject.org/files/ENCFF754PUG/@@download/ENCFF754PUG.bed.gz
+ENCFF985YQH	ENCSR177QFY	adrenal gland	tissue	adult	male	54 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF985YQH/@@download/ENCFF985YQH.bed.gz
+ENCFF888SIA	ENCSR491WAP	PC-9	immortalized cell line	unknown	unknown	unknown	H2AFZ-human	https://www.encodeproject.org/files/ENCFF888SIA/@@download/ENCFF888SIA.bed.gz
+ENCFF447MUW	ENCSR521GRK	PC-9	immortalized cell line	unknown	unknown	unknown	H3K9me2-human	https://www.encodeproject.org/files/ENCFF447MUW/@@download/ENCFF447MUW.bed.gz
+ENCFF724DGK	ENCSR113LFZ	mid-neurogenesis radial glial cells	in vitro differentiated cells	embryonic	female	5 day	H3K27me3-human	https://www.encodeproject.org/files/ENCFF724DGK/@@download/ENCFF724DGK.bed.gz
+ENCFF136JCP	ENCSR758GMX	hepatocyte	in vitro differentiated cells	embryonic	female	5 day	H3K9me3-human	https://www.encodeproject.org/files/ENCFF136JCP/@@download/ENCFF136JCP.bed.gz
+ENCFF957RDK	ENCSR879WTY	KOPT-K1	immortalized cell line	unknown	unknown	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF957RDK/@@download/ENCFF957RDK.bed.gz
+ENCFF158KSY	ENCSR672HBY	smooth muscle cell	in vitro differentiated cells	embryonic	female	5 day	H3F3A-human	https://www.encodeproject.org/files/ENCFF158KSY/@@download/ENCFF158KSY.bed.gz
+ENCFF497UAF	ENCSR608VNA	neural cell	in vitro differentiated cells	embryonic	male	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF497UAF/@@download/ENCFF497UAF.bed.gz
+ENCFF815IYP	ENCSR189XIE	smooth muscle cell	in vitro differentiated cells	embryonic	female	5 day	H4K20me1-human	https://www.encodeproject.org/files/ENCFF815IYP/@@download/ENCFF815IYP.bed.gz
+ENCFF633VGW	ENCSR143RMH	smooth muscle cell	in vitro differentiated cells	embryonic	female	5 day	H3K27me3-human	https://www.encodeproject.org/files/ENCFF633VGW/@@download/ENCFF633VGW.bed.gz
+ENCFF724JXS	ENCSR093SHE	HCT116	immortalized cell line	unknown	male	unknown	H3K9ac-human	https://www.encodeproject.org/files/ENCFF724JXS/@@download/ENCFF724JXS.bed.gz
+ENCFF120SGY	ENCSR597BWL	thyroid gland	tissue	adult	male	37 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF120SGY/@@download/ENCFF120SGY.bed.gz
+ENCFF592GIE	ENCSR220XCD	hepatocyte	in vitro differentiated cells	embryonic	female	5 day	H3K4me2-human	https://www.encodeproject.org/files/ENCFF592GIE/@@download/ENCFF592GIE.bed.gz
+ENCFF806CLV	ENCSR399VPY	MM.1S	immortalized cell line	adult	female	42 year	H3K9me2-human	https://www.encodeproject.org/files/ENCFF806CLV/@@download/ENCFF806CLV.bed.gz
+ENCFF557RWU	ENCSR438PYA	KOPT-K1	immortalized cell line	unknown	unknown	unknown	H3K9me3-human	https://www.encodeproject.org/files/ENCFF557RWU/@@download/ENCFF557RWU.bed.gz
+ENCFF979ACW	ENCSR714TJD	A673	immortalized cell line	unknown	female	15 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF979ACW/@@download/ENCFF979ACW.bed.gz
+ENCFF164KKC	ENCSR120LGC	MM.1S	immortalized cell line	adult	female	42 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF164KKC/@@download/ENCFF164KKC.bed.gz
+ENCFF185WOB	ENCSR575RRX	HepG2	immortalized cell line	child	male	15 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF185WOB/@@download/ENCFF185WOB.bed.gz
+ENCFF841QIW	ENCSR380KNE	gastrocnemius medialis	tissue	adult	male	37 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF841QIW/@@download/ENCFF841QIW.bed.gz
+ENCFF973DRL	ENCSR000AQX	DND-41	immortalized cell line	child	male	13 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF973DRL/@@download/ENCFF973DRL.bed.gz
+ENCFF007LXT	ENCSR000ASX	DND-41	immortalized cell line	child	male	13 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF007LXT/@@download/ENCFF007LXT.bed.gz
+ENCFF066ZAG	ENCSR366QMB	SK-N-SH	immortalized cell line	child	female	4 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF066ZAG/@@download/ENCFF066ZAG.bed.gz
+ENCFF125XCN	ENCSR516KSY	H9	stem cell	embryonic	female	5 day	H3K9me3-human	https://www.encodeproject.org/files/ENCFF125XCN/@@download/ENCFF125XCN.bed.gz
+ENCFF377MON	ENCSR086YIH	MM.1S	immortalized cell line	adult	female	42 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF377MON/@@download/ENCFF377MON.bed.gz
+ENCFF683ZGI	ENCSR152QRE	SK-N-MC	immortalized cell line	child	female	14 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF683ZGI/@@download/ENCFF683ZGI.bed.gz
+ENCFF982ILN	ENCSR243AIS	OCI-LY7	immortalized cell line	adult	male	48 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF982ILN/@@download/ENCFF982ILN.bed.gz
+ENCFF902YJU	ENCSR442ZOI	hepatocyte	in vitro differentiated cells	embryonic	female	5 day	H3K4me3-human	https://www.encodeproject.org/files/ENCFF902YJU/@@download/ENCFF902YJU.bed.gz
+ENCFF625APE	ENCSR985MIB	MCF-7	immortalized cell line	adult	female	69 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF625APE/@@download/ENCFF625APE.bed.gz
+ENCFF668IPJ	ENCSR274OIJ	neural progenitor cell	in vitro differentiated cells	embryonic	female	5 day	H3K4me1-human	https://www.encodeproject.org/files/ENCFF668IPJ/@@download/ENCFF668IPJ.bed.gz
+ENCFF679UGD	ENCSR875KOJ	MCF-7	immortalized cell line	adult	female	69 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF679UGD/@@download/ENCFF679UGD.bed.gz
+ENCFF960HNH	ENCSR058FCG	neutrophil	primary cell	unknown	unknown	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF960HNH/@@download/ENCFF960HNH.bed.gz
+ENCFF182DFR	ENCSR473TDG	Karpas-422	immortalized cell line	adult	female	73 year	H3K9me2-human	https://www.encodeproject.org/files/ENCFF182DFR/@@download/ENCFF182DFR.bed.gz
+ENCFF267IXZ	ENCSR849YFO	bipolar spindle neuron	in vitro differentiated cells	adult	male	53 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF267IXZ/@@download/ENCFF267IXZ.bed.gz
+ENCFF202EZL	ENCSR301HRV	H1-hESC	stem cell	embryonic	male	unknown	H3K79me2-human	https://www.encodeproject.org/files/ENCFF202EZL/@@download/ENCFF202EZL.bed.gz
+ENCFF405XOM	ENCSR499WAQ	iPS-20b	induced pluripotent stem cell line	unknown	male	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF405XOM/@@download/ENCFF405XOM.bed.gz
+ENCFF862LUQ	ENCSR000AOF	HeLa-S3	immortalized cell line	adult	female	31 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF862LUQ/@@download/ENCFF862LUQ.bed.gz
+ENCFF658GSF	ENCSR740FYN	induced pluripotent stem cell	induced pluripotent stem cell line	adult	male	53 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF658GSF/@@download/ENCFF658GSF.bed.gz
+ENCFF366DWC	ENCSR511OIE	SUDHL6	immortalized cell line	adult	male	43 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF366DWC/@@download/ENCFF366DWC.bed.gz
+ENCFF140SFK	ENCSR761DLU	MCF-7	immortalized cell line	adult	female	69 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF140SFK/@@download/ENCFF140SFK.bed.gz
+ENCFF773ZOX	ENCSR000ARA	DND-41	immortalized cell line	child	male	13 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF773ZOX/@@download/ENCFF773ZOX.bed.gz
+ENCFF504RYJ	ENCSR548PZS	OCI-LY3	immortalized cell line	adult	male	52 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF504RYJ/@@download/ENCFF504RYJ.bed.gz
+ENCFF088UXI	ENCSR960ZMM	OCI-LY1	immortalized cell line	adult	male	44 year	H4K20me1-human	https://www.encodeproject.org/files/ENCFF088UXI/@@download/ENCFF088UXI.bed.gz
+ENCFF490ICV	ENCSR835MMN	SK-N-MC	immortalized cell line	child	female	14 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF490ICV/@@download/ENCFF490ICV.bed.gz
+ENCFF547MXG	ENCSR850QKN	OCI-LY7	immortalized cell line	adult	male	48 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF547MXG/@@download/ENCFF547MXG.bed.gz
+ENCFF243CQX	ENCSR629TDG	OCI-LY3	immortalized cell line	adult	male	52 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF243CQX/@@download/ENCFF243CQX.bed.gz
+ENCFF347MVY	ENCSR939RLS	thoracic aorta	tissue	adult	male	37 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF347MVY/@@download/ENCFF347MVY.bed.gz
+ENCFF667HJO	ENCSR377QMP	fibroblast of arm	primary cell	adult	male	53 year	H3F3A-human	https://www.encodeproject.org/files/ENCFF667HJO/@@download/ENCFF667HJO.bed.gz
+ENCFF188SZS	ENCSR057BWO	GM12878	immortalized cell line	adult	female	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF188SZS/@@download/ENCFF188SZS.bed.gz
+ENCFF475YWE	ENCSR981UJA	right lobe of liver	tissue	adult	female	53 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF475YWE/@@download/ENCFF475YWE.bed.gz
+ENCFF771WYR	ENCSR213TIR	trophoblast cell	in vitro differentiated cells	embryonic	male	unknown	H2BK5ac-human	https://www.encodeproject.org/files/ENCFF771WYR/@@download/ENCFF771WYR.bed.gz
+ENCFF104XAL	ENCSR575ZNE	mesendoderm	in vitro differentiated cells	embryonic	male	unknown	H3K79me2-human	https://www.encodeproject.org/files/ENCFF104XAL/@@download/ENCFF104XAL.bed.gz
+ENCFF032VVV	ENCSR790QWJ	KMS-11	immortalized cell line	adult	female	67 year	H4K20me1-human	https://www.encodeproject.org/files/ENCFF032VVV/@@download/ENCFF032VVV.bed.gz
+ENCFF412UYQ	ENCSR958ZMM	neural cell	in vitro differentiated cells	embryonic	male	unknown	H4K20me1-human	https://www.encodeproject.org/files/ENCFF412UYQ/@@download/ENCFF412UYQ.bed.gz
+ENCFF870YTV	ENCSR082NQB	NCI-H929	immortalized cell line	adult	female	62 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF870YTV/@@download/ENCFF870YTV.bed.gz
+ENCFF719LDJ	ENCSR256KTR	neural progenitor cell	in vitro differentiated cells	embryonic	female	5 day	H3K9me3-human	https://www.encodeproject.org/files/ENCFF719LDJ/@@download/ENCFF719LDJ.bed.gz
+ENCFF964GEQ	ENCSR404LJZ	MM.1S	immortalized cell line	adult	female	42 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF964GEQ/@@download/ENCFF964GEQ.bed.gz
+ENCFF739KJL	ENCSR000AMC	HepG2	immortalized cell line	child	male	15 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF739KJL/@@download/ENCFF739KJL.bed.gz
+ENCFF896OTN	ENCSR705SZP	PC-9	immortalized cell line	unknown	unknown	unknown	H3K79me2-human	https://www.encodeproject.org/files/ENCFF896OTN/@@download/ENCFF896OTN.bed.gz
+ENCFF696LOT	ENCSR000AUP	B cell	primary cell	adult	female	27 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF696LOT/@@download/ENCFF696LOT.bed.gz
+ENCFF094MJC	ENCSR290YLQ	B cell	primary cell	adult	female	27 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF094MJC/@@download/ENCFF094MJC.bed.gz
+ENCFF117YEJ	ENCSR779KYW	OCI-LY3	immortalized cell line	adult	male	52 year	H4K20me1-human	https://www.encodeproject.org/files/ENCFF117YEJ/@@download/ENCFF117YEJ.bed.gz
+ENCFF723KXX	ENCSR494LJG	SUDHL6	immortalized cell line	adult	male	43 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF723KXX/@@download/ENCFF723KXX.bed.gz
+ENCFF904JVT	ENCSR221CWL	induced pluripotent stem cell	induced pluripotent stem cell line	adult	male	53 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF904JVT/@@download/ENCFF904JVT.bed.gz
+ENCFF428KUR	ENCSR294WUR	H9	stem cell	embryonic	female	5 day	H3K18ac-human	https://www.encodeproject.org/files/ENCFF428KUR/@@download/ENCFF428KUR.bed.gz
+ENCFF018XIB	ENCSR499CAZ	trophoblast cell	in vitro differentiated cells	embryonic	male	unknown	H3K14ac-human	https://www.encodeproject.org/files/ENCFF018XIB/@@download/ENCFF018XIB.bed.gz
+ENCFF014ZNA	ENCSR047TJL	H9	stem cell	embryonic	female	5 day	H3K56ac-human	https://www.encodeproject.org/files/ENCFF014ZNA/@@download/ENCFF014ZNA.bed.gz
+ENCFF051RNB	ENCSR824UNY	mesenchymal stem cell	in vitro differentiated cells	embryonic	male	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF051RNB/@@download/ENCFF051RNB.bed.gz
+ENCFF890CXZ	ENCSR523JCB	body of pancreas	tissue	adult	male	54 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF890CXZ/@@download/ENCFF890CXZ.bed.gz
+ENCFF888VKI	ENCSR136NUH	radial glial cell	in vitro differentiated cells	embryonic	female	5 day	H3K36me3-human	https://www.encodeproject.org/files/ENCFF888VKI/@@download/ENCFF888VKI.bed.gz
+ENCFF910NTF	ENCSR960JPH	trophoblast cell	in vitro differentiated cells	embryonic	male	unknown	H4K12ac-human	https://www.encodeproject.org/files/ENCFF910NTF/@@download/ENCFF910NTF.bed.gz
+ENCFF964FVB	ENCSR858BOF	H1-hESC	stem cell	embryonic	male	unknown	H4K91ac-human	https://www.encodeproject.org/files/ENCFF964FVB/@@download/ENCFF964FVB.bed.gz
+ENCFF754SMN	ENCSR182XTG	neuronal stem cell	in vitro differentiated cells	embryonic	male	unknown	H3K18ac-human	https://www.encodeproject.org/files/ENCFF754SMN/@@download/ENCFF754SMN.bed.gz
+ENCFF119UNZ	ENCSR123DHT	H1-hESC	stem cell	embryonic	male	unknown	H3K9me3-human	https://www.encodeproject.org/files/ENCFF119UNZ/@@download/ENCFF119UNZ.bed.gz
+ENCFF045VWG	ENCSR900DFO	KMS-11	immortalized cell line	adult	female	67 year	H3K9me2-human	https://www.encodeproject.org/files/ENCFF045VWG/@@download/ENCFF045VWG.bed.gz
+ENCFF806ZXA	ENCSR604JFH	OCI-LY3	immortalized cell line	adult	male	52 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF806ZXA/@@download/ENCFF806ZXA.bed.gz
+ENCFF998LFJ	ENCSR930HLX	thoracic aorta	tissue	adult	male	54 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF998LFJ/@@download/ENCFF998LFJ.bed.gz
+ENCFF426NKM	ENCSR966HBM	DOHH2	immortalized cell line	adult	male	60 year	H3F3A-human	https://www.encodeproject.org/files/ENCFF426NKM/@@download/ENCFF426NKM.bed.gz
+ENCFF497CNS	ENCSR000AMP	HepG2	immortalized cell line	child	male	15 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF497CNS/@@download/ENCFF497CNS.bed.gz
+ENCFF177HEI	ENCSR045HLL	neural cell	in vitro differentiated cells	embryonic	male	unknown	H3K4me2-human	https://www.encodeproject.org/files/ENCFF177HEI/@@download/ENCFF177HEI.bed.gz
+ENCFF922YSW	ENCSR988DFT	thoracic aorta	tissue	adult	male	54 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF922YSW/@@download/ENCFF922YSW.bed.gz
+ENCFF023MGT	ENCSR333OPW	HCT116	immortalized cell line	unknown	male	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF023MGT/@@download/ENCFF023MGT.bed.gz
+ENCFF714INW	ENCSR000AQY	DND-41	immortalized cell line	child	male	13 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF714INW/@@download/ENCFF714INW.bed.gz
+ENCFF845ASZ	ENCSR000AQV	DND-41	immortalized cell line	child	male	13 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF845ASZ/@@download/ENCFF845ASZ.bed.gz
+ENCFF986GPP	ENCSR249YGG	induced pluripotent stem cell	induced pluripotent stem cell line	adult	male	53 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF986GPP/@@download/ENCFF986GPP.bed.gz
+ENCFF394AIG	ENCSR293NAJ	induced pluripotent stem cell	induced pluripotent stem cell line	adult	male	53 year	H4K20me1-human	https://www.encodeproject.org/files/ENCFF394AIG/@@download/ENCFF394AIG.bed.gz
+ENCFF917LDY	ENCSR197QXT	PC-3	immortalized cell line	adult	male	62 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF917LDY/@@download/ENCFF917LDY.bed.gz
+ENCFF717TED	ENCSR769FOC	PC-9	immortalized cell line	unknown	unknown	unknown	H3K27ac-human	https://www.encodeproject.org/files/ENCFF717TED/@@download/ENCFF717TED.bed.gz
+ENCFF887YAV	ENCSR719FEJ	KOPT-K1	immortalized cell line	unknown	unknown	unknown	H3K27ac-human	https://www.encodeproject.org/files/ENCFF887YAV/@@download/ENCFF887YAV.bed.gz
+ENCFF583NFB	ENCSR493NBY	MCF-7	immortalized cell line	adult	female	69 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF583NFB/@@download/ENCFF583NFB.bed.gz
+ENCFF985YWP	ENCSR867UKC	Karpas-422	immortalized cell line	adult	female	73 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF985YWP/@@download/ENCFF985YWP.bed.gz
+ENCFF687IIW	ENCSR154HDX	induced pluripotent stem cell	induced pluripotent stem cell line	adult	male	53 year	H3K79me2-human	https://www.encodeproject.org/files/ENCFF687IIW/@@download/ENCFF687IIW.bed.gz
+ENCFF774KKF	ENCSR523ENE	IMR-90	primary cell	fetal	female	16 week	H2BK12ac-human	https://www.encodeproject.org/files/ENCFF774KKF/@@download/ENCFF774KKF.bed.gz
+ENCFF778IJT	ENCSR248KRU	IMR-90	primary cell	fetal	female	16 week	H2BK5ac-human	https://www.encodeproject.org/files/ENCFF778IJT/@@download/ENCFF778IJT.bed.gz
+ENCFF459UTL	ENCSR473PNT	mesendoderm	in vitro differentiated cells	embryonic	male	unknown	H3K27ac-human	https://www.encodeproject.org/files/ENCFF459UTL/@@download/ENCFF459UTL.bed.gz
+ENCFF628KOM	ENCSR462XRE	H1-hESC	stem cell	embryonic	male	unknown	H2BK20ac-human	https://www.encodeproject.org/files/ENCFF628KOM/@@download/ENCFF628KOM.bed.gz
+ENCFF760EFQ	ENCSR891KGZ	H1-hESC	stem cell	embryonic	male	unknown	H4K8ac-human	https://www.encodeproject.org/files/ENCFF760EFQ/@@download/ENCFF760EFQ.bed.gz
+ENCFF824QTN	ENCSR065HOR	mesenchymal stem cell	in vitro differentiated cells	embryonic	male	unknown	H3K4me1-human	https://www.encodeproject.org/files/ENCFF824QTN/@@download/ENCFF824QTN.bed.gz
+ENCFF946FXB	ENCSR262NQD	HUES48	stem cell	fetal	female	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF946FXB/@@download/ENCFF946FXB.bed.gz
+ENCFF218SRX	ENCSR811NNT	neuronal stem cell	in vitro differentiated cells	embryonic	male	unknown	H2BK120ac-human	https://www.encodeproject.org/files/ENCFF218SRX/@@download/ENCFF218SRX.bed.gz
+ENCFF077JLA	ENCSR486PWP	trophoblast cell	in vitro differentiated cells	embryonic	male	unknown	H3K79me2-human	https://www.encodeproject.org/files/ENCFF077JLA/@@download/ENCFF077JLA.bed.gz
+ENCFF123YZZ	ENCSR276HBK	H9	stem cell	embryonic	female	5 day	H3K4me1-human	https://www.encodeproject.org/files/ENCFF123YZZ/@@download/ENCFF123YZZ.bed.gz
+ENCFF320AZI	ENCSR672XZZ	IMR-90	primary cell	fetal	female	16 week	H3K4me2-human	https://www.encodeproject.org/files/ENCFF320AZI/@@download/ENCFF320AZI.bed.gz
+ENCFF594HWM	ENCSR166KLM	iPS-20b	induced pluripotent stem cell line	unknown	male	unknown	H3K9ac-human	https://www.encodeproject.org/files/ENCFF594HWM/@@download/ENCFF594HWM.bed.gz
+ENCFF456NIF	ENCSR814XPE	H1-hESC	stem cell	embryonic	male	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF456NIF/@@download/ENCFF456NIF.bed.gz
+ENCFF759ILD	ENCSR832JVP	mesenchymal stem cell	in vitro differentiated cells	embryonic	male	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF759ILD/@@download/ENCFF759ILD.bed.gz
+ENCFF823NUO	ENCSR039ZLS	IMR-90	primary cell	fetal	female	16 week	H3K4ac-human	https://www.encodeproject.org/files/ENCFF823NUO/@@download/ENCFF823NUO.bed.gz
+ENCFF540BRW	ENCSR809CVZ	mesenchymal stem cell	in vitro differentiated cells	embryonic	male	unknown	H2BK5ac-human	https://www.encodeproject.org/files/ENCFF540BRW/@@download/ENCFF540BRW.bed.gz
+ENCFF885KMI	ENCSR410GUN	HUES6	stem cell	embryonic	female	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF885KMI/@@download/ENCFF885KMI.bed.gz
+ENCFF791ENG	ENCSR237OBF	HUES6	stem cell	embryonic	female	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF791ENG/@@download/ENCFF791ENG.bed.gz
+ENCFF561IYW	ENCSR908FQA	induced pluripotent stem cell	induced pluripotent stem cell line	adult	male	53 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF561IYW/@@download/ENCFF561IYW.bed.gz
+ENCFF353MWR	ENCSR000ATD	HepG2	immortalized cell line	child	male	15 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF353MWR/@@download/ENCFF353MWR.bed.gz
+ENCFF892LMZ	ENCSR521AIV	KMS-11	immortalized cell line	adult	female	67 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF892LMZ/@@download/ENCFF892LMZ.bed.gz
+ENCFF405TBW	ENCSR214WRA	iPS-20b	induced pluripotent stem cell line	unknown	male	unknown	H3K9me3-human	https://www.encodeproject.org/files/ENCFF405TBW/@@download/ENCFF405TBW.bed.gz
+ENCFF655BVR	ENCSR470PLJ	HUES64	stem cell	embryonic	male	unknown	H3K9ac-human	https://www.encodeproject.org/files/ENCFF655BVR/@@download/ENCFF655BVR.bed.gz
+ENCFF840OQH	ENCSR357HAN	mesendoderm	in vitro differentiated cells	embryonic	male	unknown	H3K79me1-human	https://www.encodeproject.org/files/ENCFF840OQH/@@download/ENCFF840OQH.bed.gz
+ENCFF068IZP	ENCSR161NON	H1-hESC	stem cell	embryonic	male	unknown	H2BK5ac-human	https://www.encodeproject.org/files/ENCFF068IZP/@@download/ENCFF068IZP.bed.gz
+ENCFF200BRY	ENCSR845WAQ	HUES64	stem cell	embryonic	male	unknown	H3K4me1-human	https://www.encodeproject.org/files/ENCFF200BRY/@@download/ENCFF200BRY.bed.gz
+ENCFF397EFT	ENCSR038PFD	H1-hESC	stem cell	embryonic	male	unknown	H3K18ac-human	https://www.encodeproject.org/files/ENCFF397EFT/@@download/ENCFF397EFT.bed.gz
+ENCFF267HLH	ENCSR741FIA	H9	stem cell	embryonic	female	5 day	H2BK5ac-human	https://www.encodeproject.org/files/ENCFF267HLH/@@download/ENCFF267HLH.bed.gz
+ENCFF630RBZ	ENCSR919DBC	HUES6	stem cell	embryonic	female	unknown	H3K4me1-human	https://www.encodeproject.org/files/ENCFF630RBZ/@@download/ENCFF630RBZ.bed.gz
+ENCFF530UOO	ENCSR153SGD	HUES48	stem cell	fetal	female	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF530UOO/@@download/ENCFF530UOO.bed.gz
+ENCFF562CAI	ENCSR440BZV	H9	stem cell	embryonic	female	5 day	H3K14ac-human	https://www.encodeproject.org/files/ENCFF562CAI/@@download/ENCFF562CAI.bed.gz
+ENCFF710IOM	ENCSR038MKB	IMR-90	primary cell	fetal	female	16 week	H2AK9ac-human	https://www.encodeproject.org/files/ENCFF710IOM/@@download/ENCFF710IOM.bed.gz
+ENCFF558IKG	ENCSR631RJR	H1-hESC	stem cell	embryonic	male	unknown	H3K4me1-human	https://www.encodeproject.org/files/ENCFF558IKG/@@download/ENCFF558IKG.bed.gz
+ENCFF054TNF	ENCSR753RYH	mesenchymal stem cell	in vitro differentiated cells	embryonic	male	unknown	H2AK5ac-human	https://www.encodeproject.org/files/ENCFF054TNF/@@download/ENCFF054TNF.bed.gz
+ENCFF757LWY	ENCSR916MHZ	iPS DF 6.9	induced pluripotent stem cell line	newborn	male	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF757LWY/@@download/ENCFF757LWY.bed.gz
+ENCFF812AAR	ENCSR361LIU	neuronal stem cell	in vitro differentiated cells	embryonic	male	unknown	H3K23ac-human	https://www.encodeproject.org/files/ENCFF812AAR/@@download/ENCFF812AAR.bed.gz
+ENCFF498HQV	ENCSR066VKQ	IMR-90	primary cell	fetal	female	16 week	H3K56ac-human	https://www.encodeproject.org/files/ENCFF498HQV/@@download/ENCFF498HQV.bed.gz
+ENCFF713LXV	ENCSR888MKB	trophoblast cell	in vitro differentiated cells	embryonic	male	unknown	H4K8ac-human	https://www.encodeproject.org/files/ENCFF713LXV/@@download/ENCFF713LXV.bed.gz
+ENCFF515LCR	ENCSR862SCU	HUES6	stem cell	embryonic	female	unknown	H3K9me3-human	https://www.encodeproject.org/files/ENCFF515LCR/@@download/ENCFF515LCR.bed.gz
+ENCFF022VRW	ENCSR746CUY	mesenchymal stem cell	in vitro differentiated cells	embryonic	male	unknown	H3K9me3-human	https://www.encodeproject.org/files/ENCFF022VRW/@@download/ENCFF022VRW.bed.gz
+ENCFF897KEO	ENCSR307OAJ	iPS DF 19.11	induced pluripotent stem cell line	newborn	male	unknown	H3K4me1-human	https://www.encodeproject.org/files/ENCFF897KEO/@@download/ENCFF897KEO.bed.gz
+ENCFF166DRH	ENCSR324UNL	H9	stem cell	embryonic	female	5 day	H3K36me3-human	https://www.encodeproject.org/files/ENCFF166DRH/@@download/ENCFF166DRH.bed.gz
+ENCFF270VJY	ENCSR804SRO	IMR-90	primary cell	fetal	female	16 week	H4K20me1-human	https://www.encodeproject.org/files/ENCFF270VJY/@@download/ENCFF270VJY.bed.gz
+ENCFF993ETS	ENCSR554TZE	H9	stem cell	embryonic	female	5 day	H4K5ac-human	https://www.encodeproject.org/files/ENCFF993ETS/@@download/ENCFF993ETS.bed.gz
+ENCFF044KMT	ENCSR694LBI	neuronal stem cell	in vitro differentiated cells	embryonic	male	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF044KMT/@@download/ENCFF044KMT.bed.gz
+ENCFF371GMJ	ENCSR000APE	K562	immortalized cell line	adult	female	53 year	H3K9me3-human	https://www.encodeproject.org/files/ENCFF371GMJ/@@download/ENCFF371GMJ.bed.gz
+ENCFF118PIE	ENCSR000AKT	K562	immortalized cell line	adult	female	53 year	H3K4me2-human	https://www.encodeproject.org/files/ENCFF118PIE/@@download/ENCFF118PIE.bed.gz
+ENCFF053DAC	ENCSR000AKR	K562	immortalized cell line	adult	female	53 year	H3K36me3-human	https://www.encodeproject.org/files/ENCFF053DAC/@@download/ENCFF053DAC.bed.gz
+ENCFF259AMV	ENCSR173ZMH	iPS DF 6.9	induced pluripotent stem cell line	newborn	male	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF259AMV/@@download/ENCFF259AMV.bed.gz
+ENCFF771IYF	ENCSR144RXL	mesendoderm	in vitro differentiated cells	embryonic	male	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF771IYF/@@download/ENCFF771IYF.bed.gz
+ENCFF712HCL	ENCSR327JOJ	mesendoderm	in vitro differentiated cells	embryonic	male	unknown	H2BK5ac-human	https://www.encodeproject.org/files/ENCFF712HCL/@@download/ENCFF712HCL.bed.gz
+ENCFF713AXG	ENCSR044WCY	trophoblast cell	in vitro differentiated cells	embryonic	male	unknown	H3K9me3-human	https://www.encodeproject.org/files/ENCFF713AXG/@@download/ENCFF713AXG.bed.gz
+ENCFF339DPN	ENCSR815DXY	trophoblast cell	in vitro differentiated cells	embryonic	male	unknown	H3K9ac-human	https://www.encodeproject.org/files/ENCFF339DPN/@@download/ENCFF339DPN.bed.gz
+ENCFF286TNR	ENCSR352UID	iPS-20b	induced pluripotent stem cell line	unknown	male	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF286TNR/@@download/ENCFF286TNR.bed.gz
+ENCFF126ANB	ENCSR316MNI	HUES64	stem cell	embryonic	male	unknown	H3K9me3-human	https://www.encodeproject.org/files/ENCFF126ANB/@@download/ENCFF126ANB.bed.gz
+ENCFF599VIR	ENCSR446ZCY	HUES64-derived CD184+	in vitro differentiated cells	embryonic	male	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF599VIR/@@download/ENCFF599VIR.bed.gz
+ENCFF225OJZ	ENCSR476FBL	neuronal stem cell	in vitro differentiated cells	embryonic	male	unknown	H3K4ac-human	https://www.encodeproject.org/files/ENCFF225OJZ/@@download/ENCFF225OJZ.bed.gz
+ENCFF361FSJ	ENCSR280IFJ	H9	stem cell	embryonic	female	5 day	H3K79me1-human	https://www.encodeproject.org/files/ENCFF361FSJ/@@download/ENCFF361FSJ.bed.gz
+ENCFF441MSJ	ENCSR322MEI	H1-hESC	stem cell	embryonic	male	unknown	H3K4me2-human	https://www.encodeproject.org/files/ENCFF441MSJ/@@download/ENCFF441MSJ.bed.gz
+ENCFF763XMA	ENCSR210RXE	IMR-90	primary cell	fetal	female	16 week	H2BK120ac-human	https://www.encodeproject.org/files/ENCFF763XMA/@@download/ENCFF763XMA.bed.gz
+ENCFF649KWH	ENCSR230WNU	H9	stem cell	embryonic	female	5 day	H3K4ac-human	https://www.encodeproject.org/files/ENCFF649KWH/@@download/ENCFF649KWH.bed.gz
+ENCFF504BOD	ENCSR692CTK	neuronal stem cell	in vitro differentiated cells	embryonic	male	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF504BOD/@@download/ENCFF504BOD.bed.gz
+ENCFF134GKG	ENCSR038OIN	trophoblast cell	in vitro differentiated cells	embryonic	male	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF134GKG/@@download/ENCFF134GKG.bed.gz
+ENCFF446HIG	ENCSR823BHO	HUES64-derived CD184+	in vitro differentiated cells	embryonic	male	unknown	H3K9me3-human	https://www.encodeproject.org/files/ENCFF446HIG/@@download/ENCFF446HIG.bed.gz
+ENCFF554MMR	ENCSR972SMV	H9	stem cell	embryonic	female	5 day	H3K9me3-human	https://www.encodeproject.org/files/ENCFF554MMR/@@download/ENCFF554MMR.bed.gz
+ENCFF403HEC	ENCSR335ELI	HUES48	stem cell	fetal	female	unknown	H3K9ac-human	https://www.encodeproject.org/files/ENCFF403HEC/@@download/ENCFF403HEC.bed.gz
+ENCFF485ZIC	ENCSR043VGU	H9	stem cell	embryonic	female	5 day	H3K4me3-human	https://www.encodeproject.org/files/ENCFF485ZIC/@@download/ENCFF485ZIC.bed.gz
+ENCFF812ESB	ENCSR681AIW	iPS DF 6.9	induced pluripotent stem cell line	newborn	male	unknown	H3K9me3-human	https://www.encodeproject.org/files/ENCFF812ESB/@@download/ENCFF812ESB.bed.gz
+ENCFF026BWF	ENCSR598UDU	mesendoderm	in vitro differentiated cells	embryonic	male	unknown	H2AK5ac-human	https://www.encodeproject.org/files/ENCFF026BWF/@@download/ENCFF026BWF.bed.gz
+ENCFF854CVS	ENCSR427RFW	trophoblast cell	in vitro differentiated cells	embryonic	male	unknown	H2AK5ac-human	https://www.encodeproject.org/files/ENCFF854CVS/@@download/ENCFF854CVS.bed.gz
+ENCFF262HSB	ENCSR565XTT	mesendoderm	in vitro differentiated cells	embryonic	male	unknown	H3K18ac-human	https://www.encodeproject.org/files/ENCFF262HSB/@@download/ENCFF262HSB.bed.gz
+ENCFF096ZZK	ENCSR188GJE	H9	stem cell	embryonic	female	5 day	H3K79me2-human	https://www.encodeproject.org/files/ENCFF096ZZK/@@download/ENCFF096ZZK.bed.gz
+ENCFF390EFC	ENCSR730POX	H9	stem cell	embryonic	female	5 day	H3K4me2-human	https://www.encodeproject.org/files/ENCFF390EFC/@@download/ENCFF390EFC.bed.gz
+ENCFF306MNO	ENCSR000AKV	K562	immortalized cell line	adult	female	53 year	H3K9ac-human	https://www.encodeproject.org/files/ENCFF306MNO/@@download/ENCFF306MNO.bed.gz
+ENCFF041EXV	ENCSR426UWA	HUES64	stem cell	embryonic	male	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF041EXV/@@download/ENCFF041EXV.bed.gz
+ENCFF987CBQ	ENCSR326NQF	H1-hESC	stem cell	embryonic	male	unknown	H3K23me2-human	https://www.encodeproject.org/files/ENCFF987CBQ/@@download/ENCFF987CBQ.bed.gz
+ENCFF873FBM	ENCSR786GJM	mesenchymal stem cell	in vitro differentiated cells	embryonic	male	unknown	H3K4me2-human	https://www.encodeproject.org/files/ENCFF873FBM/@@download/ENCFF873FBM.bed.gz
+ENCFF385GUX	ENCSR879TAS	H9	stem cell	embryonic	female	5 day	H3K9ac-human	https://www.encodeproject.org/files/ENCFF385GUX/@@download/ENCFF385GUX.bed.gz
+ENCFF317DBF	ENCSR942NME	IMR-90	primary cell	fetal	female	16 week	H3K23ac-human	https://www.encodeproject.org/files/ENCFF317DBF/@@download/ENCFF317DBF.bed.gz
+ENCFF084QDP	ENCSR216OGD	H1-hESC	stem cell	embryonic	male	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF084QDP/@@download/ENCFF084QDP.bed.gz
+ENCFF206SQG	ENCSR704BRU	iPS DF 19.11	induced pluripotent stem cell line	newborn	male	unknown	H3K9me3-human	https://www.encodeproject.org/files/ENCFF206SQG/@@download/ENCFF206SQG.bed.gz
+ENCFF140FVM	ENCSR263ELQ	iPS DF 6.9	induced pluripotent stem cell line	newborn	male	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF140FVM/@@download/ENCFF140FVM.bed.gz
+ENCFF332EPM	ENCSR386WCR	H9	stem cell	embryonic	female	5 day	H4K91ac-human	https://www.encodeproject.org/files/ENCFF332EPM/@@download/ENCFF332EPM.bed.gz
+ENCFF997ZDN	ENCSR739BZR	H1-hESC	stem cell	embryonic	male	unknown	H2BK15ac-human	https://www.encodeproject.org/files/ENCFF997ZDN/@@download/ENCFF997ZDN.bed.gz
+ENCFF365PZS	ENCSR857LLS	iPS DF 6.9	induced pluripotent stem cell line	newborn	male	unknown	H3K4me1-human	https://www.encodeproject.org/files/ENCFF365PZS/@@download/ENCFF365PZS.bed.gz
+ENCFF618YXI	ENCSR282SNG	H9	stem cell	embryonic	female	5 day	H3K23ac-human	https://www.encodeproject.org/files/ENCFF618YXI/@@download/ENCFF618YXI.bed.gz
+ENCFF694ENI	ENCSR271TFS	H1-hESC	stem cell	embryonic	male	unknown	H3K4me1-human	https://www.encodeproject.org/files/ENCFF694ENI/@@download/ENCFF694ENI.bed.gz
+ENCFF351CAW	ENCSR738BJJ	H9	stem cell	embryonic	female	5 day	H2BK12ac-human	https://www.encodeproject.org/files/ENCFF351CAW/@@download/ENCFF351CAW.bed.gz
+ENCFF921IKK	ENCSR000APC	K562	immortalized cell line	adult	female	53 year	H2AFZ-human	https://www.encodeproject.org/files/ENCFF921IKK/@@download/ENCFF921IKK.bed.gz
+ENCFF609VEG	ENCSR894OYM	HUES64	stem cell	embryonic	male	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF609VEG/@@download/ENCFF609VEG.bed.gz
+ENCFF851FNE	ENCSR815LBP	H1-hESC	stem cell	embryonic	male	unknown	H3K23ac-human	https://www.encodeproject.org/files/ENCFF851FNE/@@download/ENCFF851FNE.bed.gz
+ENCFF749RHX	ENCSR505OPZ	iPS DF 19.11	induced pluripotent stem cell line	newborn	male	unknown	H3K27ac-human	https://www.encodeproject.org/files/ENCFF749RHX/@@download/ENCFF749RHX.bed.gz
+ENCFF949ADL	ENCSR100PNV	iPS DF 19.11	induced pluripotent stem cell line	newborn	male	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF949ADL/@@download/ENCFF949ADL.bed.gz
+ENCFF038DDS	ENCSR000AKP	K562	immortalized cell line	adult	female	53 year	H3K27ac-human	https://www.encodeproject.org/files/ENCFF038DDS/@@download/ENCFF038DDS.bed.gz
+ENCFF315NAV	ENCSR364BKW	H1-hESC	stem cell	embryonic	male	unknown	H2BK12ac-human	https://www.encodeproject.org/files/ENCFF315NAV/@@download/ENCFF315NAV.bed.gz
+ENCFF146DDP	ENCSR176ABZ	HUES6	stem cell	embryonic	female	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF146DDP/@@download/ENCFF146DDP.bed.gz
+ENCFF909PMV	ENCSR000AKU	K562	immortalized cell line	adult	female	53 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF909PMV/@@download/ENCFF909PMV.bed.gz
+ENCFF160CEI	ENCSR703KXH	H1-hESC	stem cell	embryonic	male	unknown	H2AK5ac-human	https://www.encodeproject.org/files/ENCFF160CEI/@@download/ENCFF160CEI.bed.gz
+ENCFF164WEP	ENCSR164RFI	IMR-90	primary cell	fetal	female	16 week	H4K91ac-human	https://www.encodeproject.org/files/ENCFF164WEP/@@download/ENCFF164WEP.bed.gz
+ENCFF999NTP	ENCSR256ESY	neuronal stem cell	in vitro differentiated cells	embryonic	male	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF999NTP/@@download/ENCFF999NTP.bed.gz
+ENCFF393FNY	ENCSR367JIO	H9	stem cell	embryonic	female	5 day	H4K8ac-human	https://www.encodeproject.org/files/ENCFF393FNY/@@download/ENCFF393FNY.bed.gz
+ENCFF833WFV	ENCSR960CWQ	trophoblast cell	in vitro differentiated cells	embryonic	male	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF833WFV/@@download/ENCFF833WFV.bed.gz
+ENCFF519CNY	ENCSR888WZL	iPS DF 19.11	induced pluripotent stem cell line	newborn	male	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF519CNY/@@download/ENCFF519CNY.bed.gz
+ENCFF808BIC	ENCSR848DUN	H1-hESC	stem cell	embryonic	male	unknown	H2BK120ac-human	https://www.encodeproject.org/files/ENCFF808BIC/@@download/ENCFF808BIC.bed.gz
+ENCFF268FCW	ENCSR013KEC	mesenchymal stem cell	in vitro differentiated cells	embryonic	male	unknown	H3K27ac-human	https://www.encodeproject.org/files/ENCFF268FCW/@@download/ENCFF268FCW.bed.gz
+ENCFF835UOA	ENCSR876RGF	H9	stem cell	embryonic	female	5 day	H3K27ac-human	https://www.encodeproject.org/files/ENCFF835UOA/@@download/ENCFF835UOA.bed.gz
+ENCFF711LQB	ENCSR130EML	H1-hESC	stem cell	embryonic	male	unknown	H3K4ac-human	https://www.encodeproject.org/files/ENCFF711LQB/@@download/ENCFF711LQB.bed.gz
+ENCFF554NKA	ENCSR560OUF	HUES48	stem cell	fetal	female	unknown	H3K9me3-human	https://www.encodeproject.org/files/ENCFF554NKA/@@download/ENCFF554NKA.bed.gz
+ENCFF049HUP	ENCSR000AKQ	K562	immortalized cell line	adult	female	53 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF049HUP/@@download/ENCFF049HUP.bed.gz
+ENCFF011GWS	ENCSR501JET	mesenchymal stem cell	in vitro differentiated cells	embryonic	male	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF011GWS/@@download/ENCFF011GWS.bed.gz
+ENCFF682VNJ	ENCSR664KWY	mesendoderm	in vitro differentiated cells	embryonic	male	unknown	H3K4me1-human	https://www.encodeproject.org/files/ENCFF682VNJ/@@download/ENCFF682VNJ.bed.gz
+ENCFF277AOQ	ENCSR443YAS	H1-hESC	stem cell	embryonic	male	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF277AOQ/@@download/ENCFF277AOQ.bed.gz
+ENCFF264SLU	ENCSR734NCK	H9	stem cell	embryonic	female	5 day	H2BK15ac-human	https://www.encodeproject.org/files/ENCFF264SLU/@@download/ENCFF264SLU.bed.gz
+ENCFF916DCD	ENCSR126BGU	mesendoderm	in vitro differentiated cells	embryonic	male	unknown	H3K4me2-human	https://www.encodeproject.org/files/ENCFF916DCD/@@download/ENCFF916DCD.bed.gz
+ENCFF565IYC	ENCSR124DYB	IMR-90	primary cell	fetal	female	16 week	H2AFZ-human	https://www.encodeproject.org/files/ENCFF565IYC/@@download/ENCFF565IYC.bed.gz
+ENCFF306POF	ENCSR839PUY	mesendoderm	in vitro differentiated cells	embryonic	male	unknown	H3K9ac-human	https://www.encodeproject.org/files/ENCFF306POF/@@download/ENCFF306POF.bed.gz
+ENCFF906ILB	ENCSR775GZI	HUES48	stem cell	fetal	female	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF906ILB/@@download/ENCFF906ILB.bed.gz
+ENCFF059KOC	ENCSR425PQI	trophoblast cell	in vitro differentiated cells	embryonic	male	unknown	H3K27ac-human	https://www.encodeproject.org/files/ENCFF059KOC/@@download/ENCFF059KOC.bed.gz
+ENCFF401HOA	ENCSR989RAL	iPS-20b	induced pluripotent stem cell line	unknown	male	unknown	H3K4me3-human	https://www.encodeproject.org/files/ENCFF401HOA/@@download/ENCFF401HOA.bed.gz
+ENCFF921VYH	ENCSR713QLX	IMR-90	primary cell	fetal	female	16 week	H3K79me2-human	https://www.encodeproject.org/files/ENCFF921VYH/@@download/ENCFF921VYH.bed.gz
+ENCFF175RLC	ENCSR695DDA	HUES64-derived CD184+	in vitro differentiated cells	embryonic	male	unknown	H3K9ac-human	https://www.encodeproject.org/files/ENCFF175RLC/@@download/ENCFF175RLC.bed.gz
+ENCFF159VKJ	ENCSR000EWC	K562	immortalized cell line	adult	female	53 year	H3K4me1-human	https://www.encodeproject.org/files/ENCFF159VKJ/@@download/ENCFF159VKJ.bed.gz
+ENCFF319AFB	ENCSR297AUZ	mesendoderm	in vitro differentiated cells	embryonic	male	unknown	H2BK15ac-human	https://www.encodeproject.org/files/ENCFF319AFB/@@download/ENCFF319AFB.bed.gz
+ENCFF038DXL	ENCSR123JZO	neuronal stem cell	in vitro differentiated cells	embryonic	male	unknown	H2BK15ac-human	https://www.encodeproject.org/files/ENCFF038DXL/@@download/ENCFF038DXL.bed.gz
+ENCFF435HDB	ENCSR200ETW	HUES64-derived CD184+	in vitro differentiated cells	embryonic	male	unknown	H3K27ac-human	https://www.encodeproject.org/files/ENCFF435HDB/@@download/ENCFF435HDB.bed.gz
+ENCFF053HKF	ENCSR768FWX	H1-hESC	stem cell	embryonic	male	unknown	H3K56ac-human	https://www.encodeproject.org/files/ENCFF053HKF/@@download/ENCFF053HKF.bed.gz
+ENCFF212PQN	ENCSR000APD	K562	immortalized cell line	adult	female	53 year	H3K79me2-human	https://www.encodeproject.org/files/ENCFF212PQN/@@download/ENCFF212PQN.bed.gz
+ENCFF961SPZ	ENCSR000EWA	K562	immortalized cell line	adult	female	53 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF961SPZ/@@download/ENCFF961SPZ.bed.gz
+ENCFF043NHW	ENCSR037RJI	HUES64-derived CD184+	in vitro differentiated cells	embryonic	male	unknown	H3K4me1-human	https://www.encodeproject.org/files/ENCFF043NHW/@@download/ENCFF043NHW.bed.gz
+ENCFF073RWV	ENCSR634IIF	trophoblast cell	in vitro differentiated cells	embryonic	male	unknown	H2BK12ac-human	https://www.encodeproject.org/files/ENCFF073RWV/@@download/ENCFF073RWV.bed.gz
+ENCFF988SUI	ENCSR485OSV	trophoblast cell	in vitro differentiated cells	embryonic	male	unknown	H2AFZ-human	https://www.encodeproject.org/files/ENCFF988SUI/@@download/ENCFF988SUI.bed.gz
+ENCFF090XFB	ENCSR634MAK	HUES64	stem cell	embryonic	male	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF090XFB/@@download/ENCFF090XFB.bed.gz
+ENCFF031FSF	ENCSR000EWB	K562	immortalized cell line	adult	female	53 year	H3K27me3-human	https://www.encodeproject.org/files/ENCFF031FSF/@@download/ENCFF031FSF.bed.gz
+ENCFF758JGG	ENCSR580LZO	IMR-90	primary cell	fetal	female	16 week	H3K9me1-human	https://www.encodeproject.org/files/ENCFF758JGG/@@download/ENCFF758JGG.bed.gz
+ENCFF901CSA	ENCSR273IYV	HUES64-derived CD184+	in vitro differentiated cells	embryonic	male	unknown	H3K27me3-human	https://www.encodeproject.org/files/ENCFF901CSA/@@download/ENCFF901CSA.bed.gz
+ENCFF656QDB	ENCSR063WYJ	H9	stem cell	embryonic	female	5 day	H3K23me2-human	https://www.encodeproject.org/files/ENCFF656QDB/@@download/ENCFF656QDB.bed.gz
+ENCFF589PLG	ENCSR081JRM	trophoblast cell	in vitro differentiated cells	embryonic	male	unknown	H3K18ac-human	https://www.encodeproject.org/files/ENCFF589PLG/@@download/ENCFF589PLG.bed.gz
+ENCFF237OAY	ENCSR675FLJ	H1-hESC	stem cell	embryonic	male	unknown	H4K5ac-human	https://www.encodeproject.org/files/ENCFF237OAY/@@download/ENCFF237OAY.bed.gz
+ENCFF223EHT	ENCSR424ZJH	IMR-90	primary cell	fetal	female	16 week	H2AK5ac-human	https://www.encodeproject.org/files/ENCFF223EHT/@@download/ENCFF223EHT.bed.gz
+ENCFF360STR	ENCSR592JNN	trophoblast cell	in vitro differentiated cells	embryonic	male	unknown	H3K23ac-human	https://www.encodeproject.org/files/ENCFF360STR/@@download/ENCFF360STR.bed.gz
+ENCFF007TWN	ENCSR333LVY	H9	stem cell	embryonic	female	5 day	H2AK5ac-human	https://www.encodeproject.org/files/ENCFF007TWN/@@download/ENCFF007TWN.bed.gz
+ENCFF360OJI	ENCSR067BNI	iPS DF 19.11	induced pluripotent stem cell line	newborn	male	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF360OJI/@@download/ENCFF360OJI.bed.gz
+ENCFF018CAH	ENCSR087PFU	IMR-90	primary cell	fetal	female	16 week	H3K4me3-human	https://www.encodeproject.org/files/ENCFF018CAH/@@download/ENCFF018CAH.bed.gz
+ENCFF754EMX	ENCSR792GCH	H9	stem cell	embryonic	female	5 day	H3K27me3-human	https://www.encodeproject.org/files/ENCFF754EMX/@@download/ENCFF754EMX.bed.gz
+ENCFF087LEM	ENCSR355ZYK	trophoblast cell	in vitro differentiated cells	embryonic	male	unknown	H2BK120ac-human	https://www.encodeproject.org/files/ENCFF087LEM/@@download/ENCFF087LEM.bed.gz
+ENCFF736WAN	ENCSR925LJZ	H1-hESC	stem cell	embryonic	male	unknown	H3K36me3-human	https://www.encodeproject.org/files/ENCFF736WAN/@@download/ENCFF736WAN.bed.gz
+ENCFF616DLO	ENCSR668LDD	K562	immortalized cell line	adult	female	53 year	H3K4me3-human	https://www.encodeproject.org/files/ENCFF616DLO/@@download/ENCFF616DLO.bed.gz
+ENCFF806NNI	ENCSR441UHO	H1-hESC	stem cell	embryonic	male	unknown	H3K9ac-human	https://www.encodeproject.org/files/ENCFF806NNI/@@download/ENCFF806NNI.bed.gz
+ENCFF536JPR	ENCSR888OSH	HUES48	stem cell	fetal	female	unknown	H3K4me1-human	https://www.encodeproject.org/files/ENCFF536JPR/@@download/ENCFF536JPR.bed.gz
+ENCFF343GTP	ENCSR952GVX	H1-hESC	stem cell	embryonic	male	unknown	H3K9ac-human	https://www.encodeproject.org/files/ENCFF343GTP/@@download/ENCFF343GTP.bed.gz

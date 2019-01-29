@@ -1,0 +1,145 @@
+ENCFF973JIT	ENCSR000EQW	CH12.LX	immortalized cell line	unknown	female	unknown	ZKSCAN1-mouse	https://www.encodeproject.org/files/ENCFF973JIT/@@download/ENCFF973JIT.bed.gz
+ENCFF230ZKX	ENCSR000ESE	MEL cell line	immortalized cell line	unknown	unknown	unknown week	ZMIZ1-mouse	https://www.encodeproject.org/files/ENCFF230ZKX/@@download/ENCFF230ZKX.bed.gz
+ENCFF524HSW	ENCSR000CFJ	bone marrow macrophage	primary cell	adult	male	8 week	CTCF-mouse	https://www.encodeproject.org/files/ENCFF524HSW/@@download/ENCFF524HSW.bed.gz
+ENCFF843CQM	ENCSR002ZAG	intestine	tissue	postnatal	unknown	0 day	CTCF-mouse	https://www.encodeproject.org/files/ENCFF843CQM/@@download/ENCFF843CQM.bed.gz
+ENCFF758SNP	ENCSR000CFK	bone marrow macrophage	primary cell	adult	male	8 week	POLR2A-mouse	https://www.encodeproject.org/files/ENCFF758SNP/@@download/ENCFF758SNP.bed.gz
+ENCFF659OSP	ENCSR000CBX	embryonic fibroblast	primary cell	embryonic	male	13.5 week	POLR2A-mouse	https://www.encodeproject.org/files/ENCFF659OSP/@@download/ENCFF659OSP.bed.gz
+ENCFF677GTK	ENCSR000ERE	CH12.LX	immortalized cell line	unknown	female	unknown	MXI1-mouse	https://www.encodeproject.org/files/ENCFF677GTK/@@download/ENCFF677GTK.bed.gz
+ENCFF524ZYV	ENCSR135SWH	MEL cell line	immortalized cell line	unknown	unknown	unknown week	NRF1-mouse	https://www.encodeproject.org/files/ENCFF524ZYV/@@download/ENCFF524ZYV.bed.gz
+ENCFF499ROE	ENCSR392DGA	E14TG2a.4	stem cell	embryonic	male	3.5 day	POU5F1-mouse	https://www.encodeproject.org/files/ENCFF499ROE/@@download/ENCFF499ROE.bed.gz
+ENCFF205YLK	ENCSR000CBI	heart	tissue	adult	male	8 week	CTCF-mouse	https://www.encodeproject.org/files/ENCFF205YLK/@@download/ENCFF205YLK.bed.gz
+ENCFF448FEQ	ENCSR000EQT	CH12.LX	immortalized cell line	unknown	female	unknown	MAZ-mouse	https://www.encodeproject.org/files/ENCFF448FEQ/@@download/ENCFF448FEQ.bed.gz
+ENCFF294QET	ENCSR000ETO	MEL cell line	immortalized cell line	unknown	unknown	unknown week	CHD2-mouse	https://www.encodeproject.org/files/ENCFF294QET/@@download/ENCFF294QET.bed.gz
+ENCFF772EUC	ENCSR705HGT	MEL cell line	immortalized cell line	unknown	unknown	unknown week	USF1-mouse	https://www.encodeproject.org/files/ENCFF772EUC/@@download/ENCFF772EUC.bed.gz
+ENCFF955PBH	ENCSR000ETQ	MEL cell line	immortalized cell line	unknown	unknown	unknown week	CTCF-mouse	https://www.encodeproject.org/files/ENCFF955PBH/@@download/ENCFF955PBH.bed.gz
+ENCFF517BYF	ENCSR000ETW	MEL cell line	immortalized cell line	unknown	unknown	unknown week	USF2-mouse	https://www.encodeproject.org/files/ENCFF517BYF/@@download/ENCFF517BYF.bed.gz
+ENCFF904QRA	ENCSR000ETA	MEL cell line	immortalized cell line	unknown	unknown	unknown week	GATA1-mouse	https://www.encodeproject.org/files/ENCFF904QRA/@@download/ENCFF904QRA.bed.gz
+ENCFF021JFS	ENCSR000DIL	erythroblast	primary cell	embryonic	mixed	14.5 day	GATA1-mouse	https://www.encodeproject.org/files/ENCFF021JFS/@@download/ENCFF021JFS.bed.gz
+ENCFF965XFW	ENCSR000ETE	MEL cell line	immortalized cell line	unknown	unknown	unknown week	CTCF-mouse	https://www.encodeproject.org/files/ENCFF965XFW/@@download/ENCFF965XFW.bed.gz
+ENCFF020AAC	ENCSR000ERG	CH12.LX	immortalized cell line	unknown	female	unknown	SMC3-mouse	https://www.encodeproject.org/files/ENCFF020AAC/@@download/ENCFF020AAC.bed.gz
+ENCFF940SWY	ENCSR000CBW	embryonic fibroblast	primary cell	embryonic	male	13.5 week	CTCF-mouse	https://www.encodeproject.org/files/ENCFF940SWY/@@download/ENCFF940SWY.bed.gz
+ENCFF146QJC	ENCSR000DIG	G1E	immortalized cell line	postnatal	male	0 day	POLR2AphosphoS5-mouse	https://www.encodeproject.org/files/ENCFF146QJC/@@download/ENCFF146QJC.bed.gz
+ENCFF714UOQ	ENCSR000CBR	liver	tissue	adult	male	8 week	POLR2A-mouse	https://www.encodeproject.org/files/ENCFF714UOQ/@@download/ENCFF714UOQ.bed.gz
+ENCFF965HUB	ENCSR000ERH	CH12.LX	immortalized cell line	unknown	female	unknown	POLR2AphosphoS2-mouse	https://www.encodeproject.org/files/ENCFF965HUB/@@download/ENCFF965HUB.bed.gz
+ENCFF691PMV	ENCSR000ESL	MEL cell line	immortalized cell line	unknown	unknown	unknown week	MAZ-mouse	https://www.encodeproject.org/files/ENCFF691PMV/@@download/ENCFF691PMV.bed.gz
+ENCFF639TIV	ENCSR000EQY	CH12.LX	immortalized cell line	unknown	female	unknown	SIN3A-mouse	https://www.encodeproject.org/files/ENCFF639TIV/@@download/ENCFF639TIV.bed.gz
+ENCFF216GFV	ENCSR000ETS	MEL cell line	immortalized cell line	unknown	unknown	unknown week	RAD21-mouse	https://www.encodeproject.org/files/ENCFF216GFV/@@download/ENCFF216GFV.bed.gz
+ENCFF227IUE	ENCSR000ETY	MEL cell line	immortalized cell line	unknown	unknown	unknown week	E2F4-mouse	https://www.encodeproject.org/files/ENCFF227IUE/@@download/ENCFF227IUE.bed.gz
+ENCFF608CCM	ENCSR000AIB	myocyte	in vitro differentiated cells	unknown	unknown	unknown	CEBPB-mouse	https://www.encodeproject.org/files/ENCFF608CCM/@@download/ENCFF608CCM.bed.gz
+ENCFF220DKK	ENCSR000ERR	CH12.LX	immortalized cell line	unknown	female	unknown	JUND-mouse	https://www.encodeproject.org/files/ENCFF220DKK/@@download/ENCFF220DKK.bed.gz
+ENCFF350GCX	ENCSR000CCD	ES-Bruce4	stem cell	embryonic	male	unknown	EP300-mouse	https://www.encodeproject.org/files/ENCFF350GCX/@@download/ENCFF350GCX.bed.gz
+ENCFF083AYA	ENCSR000ESH	MEL cell line	immortalized cell line	unknown	unknown	unknown week	BHLHE40-mouse	https://www.encodeproject.org/files/ENCFF083AYA/@@download/ENCFF083AYA.bed.gz
+ENCFF699TBC	ENCSR000ESN	MEL cell line	immortalized cell line	unknown	unknown	unknown week	CHD1-mouse	https://www.encodeproject.org/files/ENCFF699TBC/@@download/ENCFF699TBC.bed.gz
+ENCFF316XIC	ENCSR000ETR	MEL cell line	immortalized cell line	unknown	unknown	unknown week	MYB-mouse	https://www.encodeproject.org/files/ENCFF316XIC/@@download/ENCFF316XIC.bed.gz
+ENCFF023REQ	ENCSR000DIM	G1E-ER4	immortalized cell line	postnatal	male	0 day	TAL1-mouse	https://www.encodeproject.org/files/ENCFF023REQ/@@download/ENCFF023REQ.bed.gz
+ENCFF981BEO	ENCSR000ERB	CH12.LX	immortalized cell line	unknown	female	unknown	MAFK-mouse	https://www.encodeproject.org/files/ENCFF981BEO/@@download/ENCFF981BEO.bed.gz
+ENCFF647QKO	ENCSR806JZK	CH12.LX	immortalized cell line	unknown	female	unknown	MEF2A-mouse	https://www.encodeproject.org/files/ENCFF647QKO/@@download/ENCFF647QKO.bed.gz
+ENCFF726JZY	ENCSR000DIF	G1E-ER4	immortalized cell line	postnatal	male	0 day	POLR2AphosphoS5-mouse	https://www.encodeproject.org/files/ENCFF726JZY/@@download/ENCFF726JZY.bed.gz
+ENCFF177HVQ	ENCSR000CDY	olfactory bulb	tissue	adult	male	8 week	POLR2A-mouse	https://www.encodeproject.org/files/ENCFF177HVQ/@@download/ENCFF177HVQ.bed.gz
+ENCFF756IPH	ENCSR743ZJL	CH12.LX	immortalized cell line	unknown	female	unknown	IRF4-mouse	https://www.encodeproject.org/files/ENCFF756IPH/@@download/ENCFF756IPH.bed.gz
+ENCFF444MFD	ENCSR349JDH	MEL cell line	immortalized cell line	unknown	unknown	unknown week	TCF12-mouse	https://www.encodeproject.org/files/ENCFF444MFD/@@download/ENCFF444MFD.bed.gz
+ENCFF680AFA	ENCSR000ERO	CH12.LX	immortalized cell line	unknown	female	unknown	JUN-mouse	https://www.encodeproject.org/files/ENCFF680AFA/@@download/ENCFF680AFA.bed.gz
+ENCFF612IQZ	ENCSR000ERM	CH12.LX	immortalized cell line	unknown	female	unknown	CTCF-mouse	https://www.encodeproject.org/files/ENCFF612IQZ/@@download/ENCFF612IQZ.bed.gz
+ENCFF252WGE	ENCSR000ESI	MEL cell line	immortalized cell line	unknown	unknown	unknown week	RCOR1-mouse	https://www.encodeproject.org/files/ENCFF252WGE/@@download/ENCFF252WGE.bed.gz
+ENCFF969YUQ	ENCSR362VNF	E14TG2a.4	stem cell	embryonic	male	3.5 day	CTCF-mouse	https://www.encodeproject.org/files/ENCFF969YUQ/@@download/ENCFF969YUQ.bed.gz
+ENCFF535CTU	ENCSR604XDL	ES-E14	stem cell	embryonic	male	unknown	MAFK-mouse	https://www.encodeproject.org/files/ENCFF535CTU/@@download/ENCFF535CTU.bed.gz
+ENCFF114ZUG	ENCSR000ERF	CH12.LX	immortalized cell line	unknown	female	unknown	CHD2-mouse	https://www.encodeproject.org/files/ENCFF114ZUG/@@download/ENCFF114ZUG.bed.gz
+ENCFF192DJO	ENCSR000DHZ	MEL cell line	immortalized cell line	unknown	unknown	unknown week	POLR2AphosphoS5-mouse	https://www.encodeproject.org/files/ENCFF192DJO/@@download/ENCFF192DJO.bed.gz
+ENCFF323BOO	ENCSR000DIC	G1E	immortalized cell line	postnatal	male	0 day	GATA1-mouse	https://www.encodeproject.org/files/ENCFF323BOO/@@download/ENCFF323BOO.bed.gz
+ENCFF092ZHD	ENCSR000ETU	MEL cell line	immortalized cell line	unknown	unknown	unknown week	NELFE-mouse	https://www.encodeproject.org/files/ENCFF092ZHD/@@download/ENCFF092ZHD.bed.gz
+ENCFF353FXM	ENCSR000DIH	CH12.LX	immortalized cell line	unknown	female	unknown	PAX5-mouse	https://www.encodeproject.org/files/ENCFF353FXM/@@download/ENCFF353FXM.bed.gz
+ENCFF318IYB	ENCSR000CCA	heart	tissue	adult	male	8 week	EP300-mouse	https://www.encodeproject.org/files/ENCFF318IYB/@@download/ENCFF318IYB.bed.gz
+ENCFF918VSQ	ENCSR000CEE	small intestine	tissue	adult	male	8 week	POLR2A-mouse	https://www.encodeproject.org/files/ENCFF918VSQ/@@download/ENCFF918VSQ.bed.gz
+ENCFF258PQA	ENCSR000DIA	MEL cell line	immortalized cell line	unknown	unknown	unknown week	TAL1-mouse	https://www.encodeproject.org/files/ENCFF258PQA/@@download/ENCFF258PQA.bed.gz
+ENCFF883MPI	ENCSR000ETC	MEL cell line	immortalized cell line	unknown	unknown	unknown week	SIN3A-mouse	https://www.encodeproject.org/files/ENCFF883MPI/@@download/ENCFF883MPI.bed.gz
+ENCFF622TGK	ENCSR000EQQ	CH12.LX	immortalized cell line	unknown	female	unknown	ZC3H11A-mouse	https://www.encodeproject.org/files/ENCFF622TGK/@@download/ENCFF622TGK.bed.gz
+ENCFF909JGW	ENCSR000CFI	MEL cell line	immortalized cell line	unknown	unknown	unknown week	POLR2A-mouse	https://www.encodeproject.org/files/ENCFF909JGW/@@download/ENCFF909JGW.bed.gz
+ENCFF811JIG	ENCSR000EQV	CH12.LX	immortalized cell line	unknown	female	unknown	CHD1-mouse	https://www.encodeproject.org/files/ENCFF811JIG/@@download/ENCFF811JIG.bed.gz
+ENCFF232GTB	ENCSR000CBN	cerebellum	tissue	adult	male	8 week	CTCF-mouse	https://www.encodeproject.org/files/ENCFF232GTB/@@download/ENCFF232GTB.bed.gz
+ENCFF802GKY	ENCSR000ETZ	MEL cell line	immortalized cell line	unknown	unknown	unknown week	JUND-mouse	https://www.encodeproject.org/files/ENCFF802GKY/@@download/ENCFF802GKY.bed.gz
+ENCFF908HHC	ENCSR000ERQ	CH12.LX	immortalized cell line	unknown	female	unknown	POLR2A-mouse	https://www.encodeproject.org/files/ENCFF908HHC/@@download/ENCFF908HHC.bed.gz
+ENCFF321SFZ	ENCSR000EQO	CH12.LX	immortalized cell line	unknown	female	unknown	ZNF384-mouse	https://www.encodeproject.org/files/ENCFF321SFZ/@@download/ENCFF321SFZ.bed.gz
+ENCFF625YHS	ENCSR777VNA	heart	tissue	postnatal	unknown	0 day	EP300-mouse	https://www.encodeproject.org/files/ENCFF625YHS/@@download/ENCFF625YHS.bed.gz
+ENCFF325FTB	ENCSR000ESD	MEL cell line	immortalized cell line	unknown	unknown	unknown week	ZNF384-mouse	https://www.encodeproject.org/files/ENCFF325FTB/@@download/ENCFF325FTB.bed.gz
+ENCFF016CZR	ENCSR000ESK	MEL cell line	immortalized cell line	unknown	unknown	unknown week	GABPA-mouse	https://www.encodeproject.org/files/ENCFF016CZR/@@download/ENCFF016CZR.bed.gz
+ENCFF220OYK	ENCSR000ESJ	MEL cell line	immortalized cell line	unknown	unknown	unknown week	UBTF-mouse	https://www.encodeproject.org/files/ENCFF220OYK/@@download/ENCFF220OYK.bed.gz
+ENCFF999KRJ	ENCSR765RPR	liver	tissue	postnatal	unknown	0 day	EP300-mouse	https://www.encodeproject.org/files/ENCFF999KRJ/@@download/ENCFF999KRJ.bed.gz
+ENCFF771TYD	ENCSR000CBM	bone marrow	tissue	adult	male	8 week	POLR2A-mouse	https://www.encodeproject.org/files/ENCFF771TYD/@@download/ENCFF771TYD.bed.gz
+ENCFF922API	ENCSR000CDX	olfactory bulb	tissue	adult	male	8 week	CTCF-mouse	https://www.encodeproject.org/files/ENCFF922API/@@download/ENCFF922API.bed.gz
+ENCFF187IWI	ENCSR418SBY	lung	tissue	postnatal	unknown	0 day	CTCF-mouse	https://www.encodeproject.org/files/ENCFF187IWI/@@download/ENCFF187IWI.bed.gz
+ENCFF746XBQ	ENCSR867SDZ	MEL cell line	immortalized cell line	unknown	unknown	unknown week	MEF2A-mouse	https://www.encodeproject.org/files/ENCFF746XBQ/@@download/ENCFF746XBQ.bed.gz
+ENCFF004VTE	ENCSR000DIQ	G1E-ER4	immortalized cell line	postnatal	male	0 day	GATA1-mouse	https://www.encodeproject.org/files/ENCFF004VTE/@@download/ENCFF004VTE.bed.gz
+ENCFF917TNQ	ENCSR677SIH	lung	tissue	embryonic	mixed	14.5 day	CTCF-mouse	https://www.encodeproject.org/files/ENCFF917TNQ/@@download/ENCFF917TNQ.bed.gz
+ENCFF557KRT	ENCSR779CZG	E14TG2a.4	stem cell	embryonic	male	3.5 day	NANOG-mouse	https://www.encodeproject.org/files/ENCFF557KRT/@@download/ENCFF557KRT.bed.gz
+ENCFF649PBQ	ENCSR527DME	lung	tissue	postnatal	unknown	0 day	EP300-mouse	https://www.encodeproject.org/files/ENCFF649PBQ/@@download/ENCFF649PBQ.bed.gz
+ENCFF348YFB	ENCSR033OWC	MEL cell line	immortalized cell line	unknown	unknown	unknown week	ELF1-mouse	https://www.encodeproject.org/files/ENCFF348YFB/@@download/ENCFF348YFB.bed.gz
+ENCFF152KNZ	ENCSR194GNY	liver	tissue	adult	unknown	unknown	GATA4-mouse	https://www.encodeproject.org/files/ENCFF152KNZ/@@download/ENCFF152KNZ.bed.gz
+ENCFF466DTV	ENCSR531HWD	ES-E14	stem cell	embryonic	male	unknown	CHD2-mouse	https://www.encodeproject.org/files/ENCFF466DTV/@@download/ENCFF466DTV.bed.gz
+ENCFF635DJY	ENCSR000CBP	cortical plate	tissue	adult	male	8 week	POLR2A-mouse	https://www.encodeproject.org/files/ENCFF635DJY/@@download/ENCFF635DJY.bed.gz
+ENCFF433ZAW	ENCSR985ZTV	midbrain	tissue	postnatal	unknown	0 day	CTCF-mouse	https://www.encodeproject.org/files/ENCFF433ZAW/@@download/ENCFF433ZAW.bed.gz
+ENCFF684GLM	ENCSR000ERL	CH12.LX	immortalized cell line	unknown	female	unknown	MAX-mouse	https://www.encodeproject.org/files/ENCFF684GLM/@@download/ENCFF684GLM.bed.gz
+ENCFF768LHT	ENCSR000ERU	CH12.LX	immortalized cell line	unknown	female	unknown	E2F4-mouse	https://www.encodeproject.org/files/ENCFF768LHT/@@download/ENCFF768LHT.bed.gz
+ENCFF758VCU	ENCSR973SOG	CH12.LX	immortalized cell line	unknown	female	unknown	USF1-mouse	https://www.encodeproject.org/files/ENCFF758VCU/@@download/ENCFF758VCU.bed.gz
+ENCFF050TEJ	ENCSR000EUB	MEL cell line	immortalized cell line	unknown	unknown	unknown week	TBP-mouse	https://www.encodeproject.org/files/ENCFF050TEJ/@@download/ENCFF050TEJ.bed.gz
+ENCFF860QLN	ENCSR000ETF	MEL cell line	immortalized cell line	unknown	unknown	unknown week	USF2-mouse	https://www.encodeproject.org/files/ENCFF860QLN/@@download/ENCFF860QLN.bed.gz
+ENCFF632FCA	ENCSR397RHW	liver	tissue	embryonic	mixed	14.5 day	CTCF-mouse	https://www.encodeproject.org/files/ENCFF632FCA/@@download/ENCFF632FCA.bed.gz
+ENCFF758JAU	ENCSR000ETX	MEL cell line	immortalized cell line	unknown	unknown	unknown week	MAX-mouse	https://www.encodeproject.org/files/ENCFF758JAU/@@download/ENCFF758JAU.bed.gz
+ENCFF012YET	ENCSR000CED	small intestine	tissue	adult	male	8 week	CTCF-mouse	https://www.encodeproject.org/files/ENCFF012YET/@@download/ENCFF012YET.bed.gz
+ENCFF235SIA	ENCSR000CBT	lung	tissue	adult	male	8 week	POLR2A-mouse	https://www.encodeproject.org/files/ENCFF235SIA/@@download/ENCFF235SIA.bed.gz
+ENCFF890NMH	ENCSR000DHD	megakaryocyte	primary cell	embryonic	mixed	14.5 day	FLI1-mouse	https://www.encodeproject.org/files/ENCFF890NMH/@@download/ENCFF890NMH.bed.gz
+ENCFF439CKG	ENCSR000CBU	liver	tissue	adult	male	8 week	CTCF-mouse	https://www.encodeproject.org/files/ENCFF439CKG/@@download/ENCFF439CKG.bed.gz
+ENCFF268HZV	ENCSR150RGT	hindbrain	tissue	postnatal	unknown	0 day	CTCF-mouse	https://www.encodeproject.org/files/ENCFF268HZV/@@download/ENCFF268HZV.bed.gz
+ENCFF701HMK	ENCSR000ETL	MEL cell line	immortalized cell line	unknown	unknown	unknown week	SMC3-mouse	https://www.encodeproject.org/files/ENCFF701HMK/@@download/ENCFF701HMK.bed.gz
+ENCFF354TDS	ENCSR677HXC	forebrain	tissue	postnatal	unknown	0 day	CTCF-mouse	https://www.encodeproject.org/files/ENCFF354TDS/@@download/ENCFF354TDS.bed.gz
+ENCFF249SSR	ENCSR000EQX	CH12.LX	immortalized cell line	unknown	female	unknown	UBTF-mouse	https://www.encodeproject.org/files/ENCFF249SSR/@@download/ENCFF249SSR.bed.gz
+ENCFF994LFX	ENCSR000ERN	CH12.LX	immortalized cell line	unknown	female	unknown	MYC-mouse	https://www.encodeproject.org/files/ENCFF994LFX/@@download/ENCFF994LFX.bed.gz
+ENCFF461SMQ	ENCSR000EUC	MEL cell line	immortalized cell line	unknown	unknown	unknown week	POLR2A-mouse	https://www.encodeproject.org/files/ENCFF461SMQ/@@download/ENCFF461SMQ.bed.gz
+ENCFF439DUG	ENCSR000DIN	G1E	immortalized cell line	postnatal	male	0 day	TAL1-mouse	https://www.encodeproject.org/files/ENCFF439DUG/@@download/ENCFF439DUG.bed.gz
+ENCFF437CLA	ENCSR000DIS	G1E	immortalized cell line	postnatal	male	0 day	CTCF-mouse	https://www.encodeproject.org/files/ENCFF437CLA/@@download/ENCFF437CLA.bed.gz
+ENCFF972QLS	ENCSR000CEF	testis	tissue	adult	male	8 week	CTCF-mouse	https://www.encodeproject.org/files/ENCFF972QLS/@@download/ENCFF972QLS.bed.gz
+ENCFF938YDD	ENCSR000CBL	bone marrow	tissue	adult	male	8 week	CTCF-mouse	https://www.encodeproject.org/files/ENCFF938YDD/@@download/ENCFF938YDD.bed.gz
+ENCFF981FOC	ENCSR000ESF	MEL cell line	immortalized cell line	unknown	unknown	unknown week	ZC3H11A-mouse	https://www.encodeproject.org/files/ENCFF981FOC/@@download/ENCFF981FOC.bed.gz
+ENCFF893ZYP	ENCSR293WTN	CH12.LX	immortalized cell line	unknown	female	unknown	ELF1-mouse	https://www.encodeproject.org/files/ENCFF893ZYP/@@download/ENCFF893ZYP.bed.gz
+ENCFF205GXD	ENCSR000DIE	G1E	immortalized cell line	postnatal	male	0 day	GATA2-mouse	https://www.encodeproject.org/files/ENCFF205GXD/@@download/ENCFF205GXD.bed.gz
+ENCFF601YVA	ENCSR000EQS	CH12.LX	immortalized cell line	unknown	female	unknown	GABPA-mouse	https://www.encodeproject.org/files/ENCFF601YVA/@@download/ENCFF601YVA.bed.gz
+ENCFF260DWI	ENCSR041SMK	liver	tissue	postnatal	unknown	0 day	CTCF-mouse	https://www.encodeproject.org/files/ENCFF260DWI/@@download/ENCFF260DWI.bed.gz
+ENCFF024QSW	ENCSR000ERW	ES-E14	stem cell	embryonic	male	unknown	ZC3H11A-mouse	https://www.encodeproject.org/files/ENCFF024QSW/@@download/ENCFF024QSW.bed.gz
+ENCFF811RHL	ENCSR000ERC	CH12.LX	immortalized cell line	unknown	female	unknown	BHLHE40-mouse	https://www.encodeproject.org/files/ENCFF811RHL/@@download/ENCFF811RHL.bed.gz
+ENCFF167JOI	ENCSR000ETV	MEL cell line	immortalized cell line	unknown	unknown	unknown week	EP300-mouse	https://www.encodeproject.org/files/ENCFF167JOI/@@download/ENCFF167JOI.bed.gz
+ENCFF323UTM	ENCSR980YXJ	CH12.LX	immortalized cell line	unknown	female	unknown	NRF1-mouse	https://www.encodeproject.org/files/ENCFF323UTM/@@download/ENCFF323UTM.bed.gz
+ENCFF746AKH	ENCSR000CBZ	spleen	tissue	adult	male	8 week	POLR2A-mouse	https://www.encodeproject.org/files/ENCFF746AKH/@@download/ENCFF746AKH.bed.gz
+ENCFF899ZWB	ENCSR000CBS	heart	tissue	adult	male	8 week	POLR2A-mouse	https://www.encodeproject.org/files/ENCFF899ZWB/@@download/ENCFF899ZWB.bed.gz
+ENCFF578TRR	ENCSR000EQU	CH12.LX	immortalized cell line	unknown	female	unknown	KAT2A-mouse	https://www.encodeproject.org/files/ENCFF578TRR/@@download/ENCFF578TRR.bed.gz
+ENCFF695XKZ	ENCSR000CBV	lung	tissue	adult	male	8 week	CTCF-mouse	https://www.encodeproject.org/files/ENCFF695XKZ/@@download/ENCFF695XKZ.bed.gz
+ENCFF310XZO	ENCSR000CBQ	cerebellum	tissue	adult	male	8 week	POLR2A-mouse	https://www.encodeproject.org/files/ENCFF310XZO/@@download/ENCFF310XZO.bed.gz
+ENCFF500BVN	ENCSR000ETN	MEL cell line	immortalized cell line	unknown	unknown	unknown week	MXI1-mouse	https://www.encodeproject.org/files/ENCFF500BVN/@@download/ENCFF500BVN.bed.gz
+ENCFF359VYL	ENCSR000ETP	MEL cell line	immortalized cell line	unknown	unknown	unknown week	EP300-mouse	https://www.encodeproject.org/files/ENCFF359VYL/@@download/ENCFF359VYL.bed.gz
+ENCFF289AOM	ENCSR000ETK	MEL cell line	immortalized cell line	unknown	unknown	unknown week	MAFK-mouse	https://www.encodeproject.org/files/ENCFF289AOM/@@download/ENCFF289AOM.bed.gz
+ENCFF390HUU	ENCSR000CEG	testis	tissue	adult	male	8 week	POLR2A-mouse	https://www.encodeproject.org/files/ENCFF390HUU/@@download/ENCFF390HUU.bed.gz
+ENCFF127IMK	ENCSR000ETG	MEL cell line	immortalized cell line	unknown	unknown	unknown week	POLR2A-mouse	https://www.encodeproject.org/files/ENCFF127IMK/@@download/ENCFF127IMK.bed.gz
+ENCFF030DBG	ENCSR000ERX	ES-E14	stem cell	embryonic	male	unknown	HCFC1-mouse	https://www.encodeproject.org/files/ENCFF030DBG/@@download/ENCFF030DBG.bed.gz
+ENCFF364YJV	ENCSR000CDZ	thymus	tissue	adult	male	8 week	CTCF-mouse	https://www.encodeproject.org/files/ENCFF364YJV/@@download/ENCFF364YJV.bed.gz
+ENCFF257AVB	ENCSR000ERP	CH12.LX	immortalized cell line	unknown	female	unknown	TBP-mouse	https://www.encodeproject.org/files/ENCFF257AVB/@@download/ENCFF257AVB.bed.gz
+ENCFF514QFN	ENCSR000ERI	CH12.LX	immortalized cell line	unknown	female	unknown	EP300-mouse	https://www.encodeproject.org/files/ENCFF514QFN/@@download/ENCFF514QFN.bed.gz
+ENCFF735JUB	ENCSR000EQP	CH12.LX	immortalized cell line	unknown	female	unknown	ZMIZ1-mouse	https://www.encodeproject.org/files/ENCFF735JUB/@@download/ENCFF735JUB.bed.gz
+ENCFF581ZRT	ENCSR000CEA	thymus	tissue	adult	male	8 week	POLR2A-mouse	https://www.encodeproject.org/files/ENCFF581ZRT/@@download/ENCFF581ZRT.bed.gz
+ENCFF544EQO	ENCSR982LJQ	liver	tissue	embryonic	mixed	14.5 day	EP300-mouse	https://www.encodeproject.org/files/ENCFF544EQO/@@download/ENCFF544EQO.bed.gz
+ENCFF009PHO	ENCSR000CBO	cortical plate	tissue	adult	male	8 week	CTCF-mouse	https://www.encodeproject.org/files/ENCFF009PHO/@@download/ENCFF009PHO.bed.gz
+ENCFF015EOB	ENCSR000ETM	MEL cell line	immortalized cell line	unknown	unknown	unknown week	POLR2AphosphoS2-mouse	https://www.encodeproject.org/files/ENCFF015EOB/@@download/ENCFF015EOB.bed.gz
+ENCFF743VIT	ENCSR000DIU	CH12.LX	immortalized cell line	unknown	female	unknown	CTCF-mouse	https://www.encodeproject.org/files/ENCFF743VIT/@@download/ENCFF743VIT.bed.gz
+ENCFF187ZKI	ENCSR143WOK	kidney	tissue	postnatal	unknown	0 day	CTCF-mouse	https://www.encodeproject.org/files/ENCFF187ZKI/@@download/ENCFF187ZKI.bed.gz
+ENCFF926DQD	ENCSR000CCB	ES-Bruce4	stem cell	embryonic	male	unknown	CTCF-mouse	https://www.encodeproject.org/files/ENCFF926DQD/@@download/ENCFF926DQD.bed.gz
+ENCFF546TPQ	ENCSR000EUG	MEL cell line	immortalized cell line	unknown	unknown	unknown week	GATA1-mouse	https://www.encodeproject.org/files/ENCFF546TPQ/@@download/ENCFF546TPQ.bed.gz
+ENCFF440YEH	ENCSR000ETT	MEL cell line	immortalized cell line	unknown	unknown	unknown week	RAD21-mouse	https://www.encodeproject.org/files/ENCFF440YEH/@@download/ENCFF440YEH.bed.gz
+ENCFF860MNF	ENCSR000CCC	ES-Bruce4	stem cell	embryonic	male	unknown	POLR2A-mouse	https://www.encodeproject.org/files/ENCFF860MNF/@@download/ENCFF860MNF.bed.gz
+ENCFF646SRQ	ENCSR000ESY	MEL cell line	immortalized cell line	unknown	unknown	unknown week	MAFK-mouse	https://www.encodeproject.org/files/ENCFF646SRQ/@@download/ENCFF646SRQ.bed.gz
+ENCFF269ZXS	ENCSR000DID	G1E-ER4	immortalized cell line	postnatal	male	0 day	GATA2-mouse	https://www.encodeproject.org/files/ENCFF269ZXS/@@download/ENCFF269ZXS.bed.gz
+ENCFF100ZBW	ENCSR000CFH	MEL cell line	immortalized cell line	unknown	unknown	unknown week	CTCF-mouse	https://www.encodeproject.org/files/ENCFF100ZBW/@@download/ENCFF100ZBW.bed.gz
+ENCFF059YTK	ENCSR906QEK	CH12.LX	immortalized cell line	unknown	female	unknown	TCF12-mouse	https://www.encodeproject.org/files/ENCFF059YTK/@@download/ENCFF059YTK.bed.gz
+ENCFF242KCM	ENCSR000ESX	MEL cell line	immortalized cell line	unknown	unknown	unknown week	ZKSCAN1-mouse	https://www.encodeproject.org/files/ENCFF242KCM/@@download/ENCFF242KCM.bed.gz
+ENCFF831IWD	ENCSR450KVW	stomach	tissue	postnatal	unknown	0 day	EP300-mouse	https://www.encodeproject.org/files/ENCFF831IWD/@@download/ENCFF831IWD.bed.gz
+ENCFF960DFA	ENCSR000ERV	ES-E14	stem cell	embryonic	male	unknown	ZNF384-mouse	https://www.encodeproject.org/files/ENCFF960DFA/@@download/ENCFF960DFA.bed.gz
+ENCFF800FPD	ENCSR491NUM	heart	tissue	postnatal	unknown	0 day	CTCF-mouse	https://www.encodeproject.org/files/ENCFF800FPD/@@download/ENCFF800FPD.bed.gz
+ENCFF756ROG	ENCSR104QEN	stomach	tissue	postnatal	unknown	0 day	CTCF-mouse	https://www.encodeproject.org/files/ENCFF756ROG/@@download/ENCFF756ROG.bed.gz
+ENCFF947DWW	ENCSR000ETB	MEL cell line	immortalized cell line	unknown	unknown	unknown week	ETS1-mouse	https://www.encodeproject.org/files/ENCFF947DWW/@@download/ENCFF947DWW.bed.gz
+ENCFF591LSO	ENCSR000EUA	MEL cell line	immortalized cell line	unknown	unknown	unknown week	MYC-mouse	https://www.encodeproject.org/files/ENCFF591LSO/@@download/ENCFF591LSO.bed.gz

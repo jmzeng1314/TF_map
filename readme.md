@@ -39,6 +39,8 @@ Now, you just need to use the tfmapperdb and tfmapperuser.
 
 ### step2:upload data in to your database
 
+##### gene tables
+
 Firstly, we should download the information about genes in human and mouse from [GENCODE](https://www.gencodegenes.org/)
 
 ```shell
@@ -80,6 +82,8 @@ dbGetQuery(con, sql)
 
 By this way, we should `upload all the information` for our web-tool into mysql.
 
+##### cistrome_metadata
+
 Upload the txt files (I download those files from `cistrome`) in to `cistrome_metadata`:
 
 ```
@@ -93,21 +97,36 @@ other_human_data_information.txt
 other_mouse_data_information.txt
 ```
 
+##### cistrome_GSM_metadata
+
 Pay attention that the `columns` for this table: 
 
 ```
 sampleID       GSM    bs1                 bs2      bs3       IP species    type
 ```
 
-gather all the GSM IDs and search the details by using `GEOmetadb` then upload them into `cistrome_GSM_metadata` 
-
-Pay attention that the columns for this table: 
+gather all the GSM IDs and search the details by using `GEOmetadb` then upload them into `cistrome_GSM_metadata`  Pay attention that the columns for this table: 
 
 ```
 [1] "ID"                     "title"                  "gsm"                   
 [4] "series_id"              "gpl"                    "status"           
 ············
 ```
+
+##### encode_metadata
+
+Upload the txt files (I download those files from `ENCODE`) in to `encode_metadata`:
+
+```
+human_TF_GRCh38.conservative.bed.list.txt
+human_histone_GRCh38.replicated.peaks.bed.list.txt
+mouse_TF_mm10.conservative.peaks.bed.list.txt
+mouse_histone_mm10.replicated.peaks.bed.list.txt
+```
+
+
+
+##### peaks tables (2X2X2X(23+21))
 
 Lastly, upload all the `peaks annotation files`  to mysql ( extremely time consuming and really big size ), about `200` tables. (by chromosome, database,type,species)
 

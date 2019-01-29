@@ -1,0 +1,955 @@
+ENCFF912CZG	ENCSR757IIU	K562	immortalized cell line	adult	female	53 year	HMBOX1-human	https://www.encodeproject.org/files/ENCFF912CZG/@@download/ENCFF912CZG.bed.gz
+ENCFF304TYI	ENCSR283MWQ	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF133-human	https://www.encodeproject.org/files/ENCFF304TYI/@@download/ENCFF304TYI.bed.gz
+ENCFF594RPH	ENCSR267DFA	HepG2	immortalized cell line	child	male	15 year	FOXA1-human	https://www.encodeproject.org/files/ENCFF594RPH/@@download/ENCFF594RPH.bed.gz
+ENCFF738GMP	ENCSR178QVJ	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF274-human	https://www.encodeproject.org/files/ENCFF738GMP/@@download/ENCFF738GMP.bed.gz
+ENCFF381CDR	ENCSR604CNJ	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF416-human	https://www.encodeproject.org/files/ENCFF381CDR/@@download/ENCFF381CDR.bed.gz
+ENCFF074QAR	ENCSR897RVP	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF514-human	https://www.encodeproject.org/files/ENCFF074QAR/@@download/ENCFF074QAR.bed.gz
+ENCFF428GRM	ENCSR776LDJ	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF645-human	https://www.encodeproject.org/files/ENCFF428GRM/@@download/ENCFF428GRM.bed.gz
+ENCFF526SDZ	ENCSR892ZTO	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF548-human	https://www.encodeproject.org/files/ENCFF526SDZ/@@download/ENCFF526SDZ.bed.gz
+ENCFF035UBW	ENCSR076EZB	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-KLF9-human	https://www.encodeproject.org/files/ENCFF035UBW/@@download/ENCFF035UBW.bed.gz
+ENCFF997IFW	ENCSR038GMB	liver	tissue	adult	male	32 year	GABPA-human	https://www.encodeproject.org/files/ENCFF997IFW/@@download/ENCFF997IFW.bed.gz
+ENCFF453CIO	ENCSR331HPA	GM12878	immortalized cell line	adult	female	unknown	GABPA-human	https://www.encodeproject.org/files/ENCFF453CIO/@@download/ENCFF453CIO.bed.gz
+ENCFF003INQ	ENCSR000BGR	GM12878	immortalized cell line	adult	female	unknown	PBX3-human	https://www.encodeproject.org/files/ENCFF003INQ/@@download/ENCFF003INQ.bed.gz
+ENCFF983ZND	ENCSR785YRL	neutrophil	primary cell	unknown	unknown	unknown	CTCF-human	https://www.encodeproject.org/files/ENCFF983ZND/@@download/ENCFF983ZND.bed.gz
+ENCFF433KGK	ENCSR382PVA	HepG2	immortalized cell line	child	male	15 year	GTF2F1-human	https://www.encodeproject.org/files/ENCFF433KGK/@@download/ENCFF433KGK.bed.gz
+ENCFF887EVV	ENCSR016UEH	GM12878	immortalized cell line	adult	female	unknown	TARDBP-human	https://www.encodeproject.org/files/ENCFF887EVV/@@download/ENCFF887EVV.bed.gz
+ENCFF238MIV	ENCSR000EDS	HepG2	immortalized cell line	child	male	15 year	MAX-human	https://www.encodeproject.org/files/ENCFF238MIV/@@download/ENCFF238MIV.bed.gz
+ENCFF814WQX	ENCSR000BIV	H1-hESC	stem cell	embryonic	male	unknown	SRF-human	https://www.encodeproject.org/files/ENCFF814WQX/@@download/ENCFF814WQX.bed.gz
+ENCFF446WOD	ENCSR000EBZ	H1-hESC	stem cell	embryonic	male	unknown	JUND-human	https://www.encodeproject.org/files/ENCFF446WOD/@@download/ENCFF446WOD.bed.gz
+ENCFF362VQO	ENCSR000BHC	GM12878	immortalized cell line	adult	female	unknown	ZBTB33-human	https://www.encodeproject.org/files/ENCFF362VQO/@@download/ENCFF362VQO.bed.gz
+ENCFF210IRE	ENCSR000BGU	GM12878	immortalized cell line	adult	female	unknown	EBF1-human	https://www.encodeproject.org/files/ENCFF210IRE/@@download/ENCFF210IRE.bed.gz
+ENCFF034KAQ	ENCSR000BPA	SK-N-SH	immortalized cell line	child	female	4 year	POLR2AphosphoS5-human	https://www.encodeproject.org/files/ENCFF034KAQ/@@download/ENCFF034KAQ.bed.gz
+ENCFF273CDX	ENCSR473SUA	A549	immortalized cell line	adult	male	58 year	ESRRA-human	https://www.encodeproject.org/files/ENCFF273CDX/@@download/ENCFF273CDX.bed.gz
+ENCFF498QCT	ENCSR000DWQ	foreskin fibroblast	primary cell	postnatal	male	unknown	CTCF-human	https://www.encodeproject.org/files/ENCFF498QCT/@@download/ENCFF498QCT.bed.gz
+ENCFF907JTW	ENCSR705ASR	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZSCAN23-human	https://www.encodeproject.org/files/ENCFF907JTW/@@download/ENCFF907JTW.bed.gz
+ENCFF089ECI	ENCSR550ZZK	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF493-human	https://www.encodeproject.org/files/ENCFF089ECI/@@download/ENCFF089ECI.bed.gz
+ENCFF155IHW	ENCSR417VWF	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZEB2-human	https://www.encodeproject.org/files/ENCFF155IHW/@@download/ENCFF155IHW.bed.gz
+ENCFF347RZW	ENCSR497IAS	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF747-human	https://www.encodeproject.org/files/ENCFF347RZW/@@download/ENCFF347RZW.bed.gz
+ENCFF032XIG	ENCSR966PJJ	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-WT1-human	https://www.encodeproject.org/files/ENCFF032XIG/@@download/ENCFF032XIG.bed.gz
+ENCFF699DHT	ENCSR363XBR	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF488-human	https://www.encodeproject.org/files/ENCFF699DHT/@@download/ENCFF699DHT.bed.gz
+ENCFF684RTT	ENCSR481FEC	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZBTB8A-human	https://www.encodeproject.org/files/ENCFF684RTT/@@download/ENCFF684RTT.bed.gz
+ENCFF407HRS	ENCSR664OKA	IMR-90	primary cell	fetal	female	16 week	ELK1-human	https://www.encodeproject.org/files/ENCFF407HRS/@@download/ENCFF407HRS.bed.gz
+ENCFF806CWX	ENCSR197WGI	IMR-90	primary cell	fetal	female	16 week	NFE2L2-human	https://www.encodeproject.org/files/ENCFF806CWX/@@download/ENCFF806CWX.bed.gz
+ENCFF217VKS	ENCSR011CKE	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF2-human	https://www.encodeproject.org/files/ENCFF217VKS/@@download/ENCFF217VKS.bed.gz
+ENCFF336GTB	ENCSR889GGV	bipolar spindle neuron	in vitro differentiated cells	adult	male	53 year	POLR2AphosphoS5-human	https://www.encodeproject.org/files/ENCFF336GTB/@@download/ENCFF336GTB.bed.gz
+ENCFF099SQG	ENCSR029IBC	HepG2	immortalized cell line	child	male	15 year	ARNT-human	https://www.encodeproject.org/files/ENCFF099SQG/@@download/ENCFF099SQG.bed.gz
+ENCFF648YCS	ENCSR220YXI	K562	immortalized cell line	adult	female	53 year	PRPF4-human	https://www.encodeproject.org/files/ENCFF648YCS/@@download/ENCFF648YCS.bed.gz
+ENCFF904KHM	ENCSR479QAJ	K562	immortalized cell line	adult	female	53 year	U2AF2-human	https://www.encodeproject.org/files/ENCFF904KHM/@@download/ENCFF904KHM.bed.gz
+ENCFF768YPD	ENCSR221GAN	K562	immortalized cell line	adult	female	53 year	MBD2-human	https://www.encodeproject.org/files/ENCFF768YPD/@@download/ENCFF768YPD.bed.gz
+ENCFF823LVL	ENCSR324RCI	liver	tissue	child	female	4 year	FOXA1-human	https://www.encodeproject.org/files/ENCFF823LVL/@@download/ENCFF823LVL.bed.gz
+ENCFF631RMQ	ENCSR000DJZ	K562	immortalized cell line	adult	female	53 year	eGFP-HDAC8-human	https://www.encodeproject.org/files/ENCFF631RMQ/@@download/ENCFF631RMQ.bed.gz
+ENCFF131JIX	ENCSR000BKB	GM12878	immortalized cell line	adult	female	unknown	MEF2A-human	https://www.encodeproject.org/files/ENCFF131JIX/@@download/ENCFF131JIX.bed.gz
+ENCFF660KIF	ENCSR000DYE	A549	immortalized cell line	adult	male	58 year	RAD21-human	https://www.encodeproject.org/files/ENCFF660KIF/@@download/ENCFF660KIF.bed.gz
+ENCFF633NFW	ENCSR000BJP	PFSK-1	immortalized cell line	unknown	male	22 month	REST-human	https://www.encodeproject.org/files/ENCFF633NFW/@@download/ENCFF633NFW.bed.gz
+ENCFF743LHV	ENCSR000BIW	H1-hESC	stem cell	embryonic	male	unknown	GABPA-human	https://www.encodeproject.org/files/ENCFF743LHV/@@download/ENCFF743LHV.bed.gz
+ENCFF690IGM	ENCSR000BHM	H1-hESC	stem cell	embryonic	male	unknown	REST-human	https://www.encodeproject.org/files/ENCFF690IGM/@@download/ENCFF690IGM.bed.gz
+ENCFF557UKG	ENCSR000BHT	HeLa-S3	immortalized cell line	adult	female	31 year	TAF1-human	https://www.encodeproject.org/files/ENCFF557UKG/@@download/ENCFF557UKG.bed.gz
+ENCFF825LUV	ENCSR000APM	fibroblast of dermis	primary cell	unknown	unknown	unknown	CTCF-human	https://www.encodeproject.org/files/ENCFF825LUV/@@download/ENCFF825LUV.bed.gz
+ENCFF130MLE	ENCSR000DMQ	MCF-7	immortalized cell line	adult	female	69 year	MYC-human	https://www.encodeproject.org/files/ENCFF130MLE/@@download/ENCFF130MLE.bed.gz
+ENCFF024FLW	ENCSR504VDV	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF654-human	https://www.encodeproject.org/files/ENCFF024FLW/@@download/ENCFF024FLW.bed.gz
+ENCFF794VNW	ENCSR513MGG	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF302-human	https://www.encodeproject.org/files/ENCFF794VNW/@@download/ENCFF794VNW.bed.gz
+ENCFF856LBK	ENCSR701AQS	MCF-7	immortalized cell line	adult	female	69 year	ZNF592-human	https://www.encodeproject.org/files/ENCFF856LBK/@@download/ENCFF856LBK.bed.gz
+ENCFF305PVK	ENCSR210MET	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF391-human	https://www.encodeproject.org/files/ENCFF305PVK/@@download/ENCFF305PVK.bed.gz
+ENCFF563UJS	ENCSR159GFL	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF518A-human	https://www.encodeproject.org/files/ENCFF563UJS/@@download/ENCFF563UJS.bed.gz
+ENCFF012QKZ	ENCSR896UBV	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-REST-human	https://www.encodeproject.org/files/ENCFF012QKZ/@@download/ENCFF012QKZ.bed.gz
+ENCFF654AER	ENCSR004PLU	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZBTB10-human	https://www.encodeproject.org/files/ENCFF654AER/@@download/ENCFF654AER.bed.gz
+ENCFF058ADL	ENCSR018MQH	MCF-7	immortalized cell line	adult	female	69 year	ZNF579-human	https://www.encodeproject.org/files/ENCFF058ADL/@@download/ENCFF058ADL.bed.gz
+ENCFF143KGD	ENCSR145XQO	GM12878	immortalized cell line	adult	female	unknown	HDGF-human	https://www.encodeproject.org/files/ENCFF143KGD/@@download/ENCFF143KGD.bed.gz
+ENCFF802SQS	ENCSR683CSF	HepG2	immortalized cell line	child	male	15 year	ZNF207-human	https://www.encodeproject.org/files/ENCFF802SQS/@@download/ENCFF802SQS.bed.gz
+ENCFF261YCK	ENCSR017GBO	K562	immortalized cell line	adult	female	53 year	eGFP-TFDP1-human	https://www.encodeproject.org/files/ENCFF261YCK/@@download/ENCFF261YCK.bed.gz
+ENCFF446BHY	ENCSR469WII	GM12878	immortalized cell line	adult	female	unknown	BMI1-human	https://www.encodeproject.org/files/ENCFF446BHY/@@download/ENCFF446BHY.bed.gz
+ENCFF554KNF	ENCSR233MWH	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF670-human	https://www.encodeproject.org/files/ENCFF554KNF/@@download/ENCFF554KNF.bed.gz
+ENCFF863PQR	ENCSR801BWR	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF155-human	https://www.encodeproject.org/files/ENCFF863PQR/@@download/ENCFF863PQR.bed.gz
+ENCFF854FKK	ENCSR000DOZ	MCF 10A	immortalized cell line	unknown	female	unknown	STAT3-human	https://www.encodeproject.org/files/ENCFF854FKK/@@download/ENCFF854FKK.bed.gz
+ENCFF654TPM	ENCSR000EBS	H1-hESC	stem cell	embryonic	male	unknown	MAFK-human	https://www.encodeproject.org/files/ENCFF654TPM/@@download/ENCFF654TPM.bed.gz
+ENCFF393NBO	ENCSR000BMI	GM12878	immortalized cell line	adult	female	unknown	SRF-human	https://www.encodeproject.org/files/ENCFF393NBO/@@download/ENCFF393NBO.bed.gz
+ENCFF457PHY	ENCSR521IID	liver	tissue	adult	male	32 year	MAX-human	https://www.encodeproject.org/files/ENCFF457PHY/@@download/ENCFF457PHY.bed.gz
+ENCFF172IAS	ENCSR837GTK	liver	tissue	adult	male	32 year	JUND-human	https://www.encodeproject.org/files/ENCFF172IAS/@@download/ENCFF172IAS.bed.gz
+ENCFF835YGE	ENCSR482TWQ	GM12878	immortalized cell line	adult	female	unknown	RAD51-human	https://www.encodeproject.org/files/ENCFF835YGE/@@download/ENCFF835YGE.bed.gz
+ENCFF533MFQ	ENCSR372GIN	GM12878	immortalized cell line	adult	female	unknown	CBX5-human	https://www.encodeproject.org/files/ENCFF533MFQ/@@download/ENCFF533MFQ.bed.gz
+ENCFF916WZZ	ENCSR903ELW	HepG2	immortalized cell line	child	male	15 year	CREM-human	https://www.encodeproject.org/files/ENCFF916WZZ/@@download/ENCFF916WZZ.bed.gz
+ENCFF202THU	ENCSR669GUM	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF404-human	https://www.encodeproject.org/files/ENCFF202THU/@@download/ENCFF202THU.bed.gz
+ENCFF073LLB	ENCSR714LZQ	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF664-human	https://www.encodeproject.org/files/ENCFF073LLB/@@download/ENCFF073LLB.bed.gz
+ENCFF828FPY	ENCSR000BIO	A549	immortalized cell line	adult	male	58 year	NR3C1-human	https://www.encodeproject.org/files/ENCFF828FPY/@@download/ENCFF828FPY.bed.gz
+ENCFF108SNI	ENCSR000EXL	Panc1	immortalized cell line	unknown	male	56 year	TCF7L2-human	https://www.encodeproject.org/files/ENCFF108SNI/@@download/ENCFF108SNI.bed.gz
+ENCFF671FGG	ENCSR000BLS	HepG2	immortalized cell line	child	male	15 year	RAD21-human	https://www.encodeproject.org/files/ENCFF671FGG/@@download/ENCFF671FGG.bed.gz
+ENCFF817CLT	ENCSR864KNH	MCF-7	immortalized cell line	adult	female	69 year	YBX1-human	https://www.encodeproject.org/files/ENCFF817CLT/@@download/ENCFF817CLT.bed.gz
+ENCFF838GFD	ENCSR727PIC	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF34-human	https://www.encodeproject.org/files/ENCFF838GFD/@@download/ENCFF838GFD.bed.gz
+ENCFF129QWO	ENCSR780BBJ	K562	immortalized cell line	adult	female	53 year	ZZZ3-human	https://www.encodeproject.org/files/ENCFF129QWO/@@download/ENCFF129QWO.bed.gz
+ENCFF077WVW	ENCSR065XVO	K562	immortalized cell line	adult	female	53 year	CHAMP1-human	https://www.encodeproject.org/files/ENCFF077WVW/@@download/ENCFF077WVW.bed.gz
+ENCFF667ANE	ENCSR968GIB	K562	immortalized cell line	adult	female	53 year	RFX1-human	https://www.encodeproject.org/files/ENCFF667ANE/@@download/ENCFF667ANE.bed.gz
+ENCFF642VPT	ENCSR000BJT	A549	immortalized cell line	adult	male	58 year	NR3C1-human	https://www.encodeproject.org/files/ENCFF642VPT/@@download/ENCFF642VPT.bed.gz
+ENCFF402JJL	ENCSR781EQJ	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZBTB48-human	https://www.encodeproject.org/files/ENCFF402JJL/@@download/ENCFF402JJL.bed.gz
+ENCFF118NSY	ENCSR324LTM	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-OSR2-human	https://www.encodeproject.org/files/ENCFF118NSY/@@download/ENCFF118NSY.bed.gz
+ENCFF963UJV	ENCSR441UBA	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-RBAK-human	https://www.encodeproject.org/files/ENCFF963UJV/@@download/ENCFF963UJV.bed.gz
+ENCFF726DPQ	ENCSR617IFZ	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-CTCF-human	https://www.encodeproject.org/files/ENCFF726DPQ/@@download/ENCFF726DPQ.bed.gz
+ENCFF098AMT	ENCSR211PZO	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-GLI4-human	https://www.encodeproject.org/files/ENCFF098AMT/@@download/ENCFF098AMT.bed.gz
+ENCFF126CIA	ENCSR076KZW	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF280C-human	https://www.encodeproject.org/files/ENCFF126CIA/@@download/ENCFF126CIA.bed.gz
+ENCFF608WJK	ENCSR418NZA	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF524-human	https://www.encodeproject.org/files/ENCFF608WJK/@@download/ENCFF608WJK.bed.gz
+ENCFF782DOI	ENCSR274LVQ	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF776-human	https://www.encodeproject.org/files/ENCFF782DOI/@@download/ENCFF782DOI.bed.gz
+ENCFF244SJK	ENCSR839SFJ	bipolar spindle neuron	in vitro differentiated cells	adult	male	53 year	SMARCA4-human	https://www.encodeproject.org/files/ENCFF244SJK/@@download/ENCFF244SJK.bed.gz
+ENCFF081YPW	ENCSR000BVO	T47D	immortalized cell line	adult	female	54 year	JUND-human	https://www.encodeproject.org/files/ENCFF081YPW/@@download/ENCFF081YPW.bed.gz
+ENCFF041ODC	ENCSR000EGM	K562	immortalized cell line	adult	female	53 year	CTCF-human	https://www.encodeproject.org/files/ENCFF041ODC/@@download/ENCFF041ODC.bed.gz
+ENCFF854AIH	ENCSR000BQS	GM12878	immortalized cell line	adult	female	unknown	REST-human	https://www.encodeproject.org/files/ENCFF854AIH/@@download/ENCFF854AIH.bed.gz
+ENCFF390BXU	ENCSR000EVX	K562	immortalized cell line	adult	female	53 year	ZNF274-human	https://www.encodeproject.org/files/ENCFF390BXU/@@download/ENCFF390BXU.bed.gz
+ENCFF937JNR	ENCSR000BKS	K562	immortalized cell line	adult	female	53 year	TAF1-human	https://www.encodeproject.org/files/ENCFF937JNR/@@download/ENCFF937JNR.bed.gz
+ENCFF766MOS	ENCSR000EDN	HepG2	immortalized cell line	child	male	15 year	MAZ-human	https://www.encodeproject.org/files/ENCFF766MOS/@@download/ENCFF766MOS.bed.gz
+ENCFF695XRW	ENCSR000BIR	H1-hESC	stem cell	embryonic	male	unknown	SP1-human	https://www.encodeproject.org/files/ENCFF695XRW/@@download/ENCFF695XRW.bed.gz
+ENCFF275XNU	ENCSR000BRT	K562	immortalized cell line	adult	female	53 year	CBX3-human	https://www.encodeproject.org/files/ENCFF275XNU/@@download/ENCFF275XNU.bed.gz
+ENCFF408WSW	ENCSR000EFU	K562	immortalized cell line	adult	female	53 year	ELK1-human	https://www.encodeproject.org/files/ENCFF408WSW/@@download/ENCFF408WSW.bed.gz
+ENCFF833PVL	ENCSR000BIJ	GM12891	immortalized cell line	unknown	male	unknown	SPI1-human	https://www.encodeproject.org/files/ENCFF833PVL/@@download/ENCFF833PVL.bed.gz
+ENCFF429LKK	ENCSR000EBQ	H1-hESC	stem cell	embryonic	male	unknown	BACH1-human	https://www.encodeproject.org/files/ENCFF429LKK/@@download/ENCFF429LKK.bed.gz
+ENCFF010NID	ENCSR000BNI	HepG2	immortalized cell line	child	male	15 year	FOXA2-human	https://www.encodeproject.org/files/ENCFF010NID/@@download/ENCFF010NID.bed.gz
+ENCFF015OEW	ENCSR000BQP	A549	immortalized cell line	adult	male	58 year	REST-human	https://www.encodeproject.org/files/ENCFF015OEW/@@download/ENCFF015OEW.bed.gz
+ENCFF914QSN	ENCSR000EWH	K562	immortalized cell line	adult	female	53 year	NR2C2-human	https://www.encodeproject.org/files/ENCFF914QSN/@@download/ENCFF914QSN.bed.gz
+ENCFF176LMS	ENCSR000EXR	erythroblast	primary cell	fetal	unknown	16-19 week	GATA1-human	https://www.encodeproject.org/files/ENCFF176LMS/@@download/ENCFF176LMS.bed.gz
+ENCFF300PAY	ENCSR000BQF	SK-N-SH	immortalized cell line	child	female	4 year	TAF1-human	https://www.encodeproject.org/files/ENCFF300PAY/@@download/ENCFF300PAY.bed.gz
+ENCFF998MYK	ENCSR000ECE	H1-hESC	stem cell	embryonic	male	unknown	RAD21-human	https://www.encodeproject.org/files/ENCFF998MYK/@@download/ENCFF998MYK.bed.gz
+ENCFF948WVM	ENCSR000BHG	A549	immortalized cell line	adult	male	58 year	NR3C1-human	https://www.encodeproject.org/files/ENCFF948WVM/@@download/ENCFF948WVM.bed.gz
+ENCFF757KNN	ENCSR000BJL	HepG2	immortalized cell line	child	male	15 year	REST-human	https://www.encodeproject.org/files/ENCFF757KNN/@@download/ENCFF757KNN.bed.gz
+ENCFF645LGE	ENCSR000BJS	T47D	immortalized cell line	adult	female	54 year	ESR1-human	https://www.encodeproject.org/files/ENCFF645LGE/@@download/ENCFF645LGE.bed.gz
+ENCFF953ZSO	ENCSR907JPB	K562	immortalized cell line	adult	female	53 year	ZMIZ1-human	https://www.encodeproject.org/files/ENCFF953ZSO/@@download/ENCFF953ZSO.bed.gz
+ENCFF689GPW	ENCSR886KKK	bipolar spindle neuron	in vitro differentiated cells	adult	male	53 year	EZH2phosphoT487-human	https://www.encodeproject.org/files/ENCFF689GPW/@@download/ENCFF689GPW.bed.gz
+ENCFF457LFN	ENCSR000BGC	GM12878	immortalized cell line	adult	female	unknown	GABPA-human	https://www.encodeproject.org/files/ENCFF457LFN/@@download/ENCFF457LFN.bed.gz
+ENCFF012LEV	ENCSR000BGE	GM12878	immortalized cell line	adult	female	unknown	SRF-human	https://www.encodeproject.org/files/ENCFF012LEV/@@download/ENCFF012LEV.bed.gz
+ENCFF947GWG	ENCSR000EGU	K562	immortalized cell line	adult	female	53 year	IRF1-human	https://www.encodeproject.org/files/ENCFF947GWG/@@download/ENCFF947GWG.bed.gz
+ENCFF409MXQ	ENCSR000AHD	MCF-7	immortalized cell line	adult	female	69 year	CTCF-human	https://www.encodeproject.org/files/ENCFF409MXQ/@@download/ENCFF409MXQ.bed.gz
+ENCFF419OQC	ENCSR000DPP	fibroblast of pedal digit skin	primary cell	adult	female	21 year	CTCF-human	https://www.encodeproject.org/files/ENCFF419OQC/@@download/ENCFF419OQC.bed.gz
+ENCFF009APP	ENCSR000BHF	A549	immortalized cell line	adult	male	58 year	NR3C1-human	https://www.encodeproject.org/files/ENCFF009APP/@@download/ENCFF009APP.bed.gz
+ENCFF457COE	ENCSR000EGZ	K562	immortalized cell line	adult	female	53 year	MXI1-human	https://www.encodeproject.org/files/ENCFF457COE/@@download/ENCFF457COE.bed.gz
+ENCFF928YOZ	ENCSR000BJD	GM12878	immortalized cell line	adult	female	unknown	RXRA-human	https://www.encodeproject.org/files/ENCFF928YOZ/@@download/ENCFF928YOZ.bed.gz
+ENCFF013XMV	ENCSR000DOS	MCF 10A	immortalized cell line	unknown	female	unknown	MYC-human	https://www.encodeproject.org/files/ENCFF013XMV/@@download/ENCFF013XMV.bed.gz
+ENCFF913REJ	ENCSR000DUB	HeLa-S3	immortalized cell line	adult	female	31 year	CTCF-human	https://www.encodeproject.org/files/ENCFF913REJ/@@download/ENCFF913REJ.bed.gz
+ENCFF216COR	ENCSR000EGX	K562	immortalized cell line	adult	female	53 year	MAFK-human	https://www.encodeproject.org/files/ENCFF216COR/@@download/ENCFF216COR.bed.gz
+ENCFF962IZR	ENCSR000DMO	MCF-7	immortalized cell line	adult	female	69 year	CTCF-human	https://www.encodeproject.org/files/ENCFF962IZR/@@download/ENCFF962IZR.bed.gz
+ENCFF868ZRM	ENCSR000BHS	HeLa-S3	immortalized cell line	adult	female	31 year	GABPA-human	https://www.encodeproject.org/files/ENCFF868ZRM/@@download/ENCFF868ZRM.bed.gz
+ENCFF910AUJ	ENCSR000EWI	K562	immortalized cell line	adult	female	53 year	SETDB1-human	https://www.encodeproject.org/files/ENCFF910AUJ/@@download/ENCFF910AUJ.bed.gz
+ENCFF399PNA	ENCSR000DTA	brain microvascular endothelial cell	primary cell	unknown	unknown	unknown	CTCF-human	https://www.encodeproject.org/files/ENCFF399PNA/@@download/ENCFF399PNA.bed.gz
+ENCFF973QOP	ENCSR000EDT	HepG2	immortalized cell line	child	male	15 year	BHLHE40-human	https://www.encodeproject.org/files/ENCFF973QOP/@@download/ENCFF973QOP.bed.gz
+ENCFF440KMN	ENCSR000EWG	K562	immortalized cell line	adult	female	53 year	GATA2-human	https://www.encodeproject.org/files/ENCFF440KMN/@@download/ENCFF440KMN.bed.gz
+ENCFF761ITN	ENCSR690GUG	K562	immortalized cell line	adult	female	53 year	U2AF1-human	https://www.encodeproject.org/files/ENCFF761ITN/@@download/ENCFF761ITN.bed.gz
+ENCFF032ACV	ENCSR196HGZ	liver	tissue	child	female	4 year	JUND-human	https://www.encodeproject.org/files/ENCFF032ACV/@@download/ENCFF032ACV.bed.gz
+ENCFF894VNK	ENCSR028EGI	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF26-human	https://www.encodeproject.org/files/ENCFF894VNK/@@download/ENCFF894VNK.bed.gz
+ENCFF809CZV	ENCSR000BMW	K562	immortalized cell line	adult	female	53 year	REST-human	https://www.encodeproject.org/files/ENCFF809CZV/@@download/ENCFF809CZV.bed.gz
+ENCFF694NSV	ENCSR000BIK	GM12891	immortalized cell line	unknown	male	unknown	POLR2A-human	https://www.encodeproject.org/files/ENCFF694NSV/@@download/ENCFF694NSV.bed.gz
+ENCFF273IOC	ENCSR000EEC	HepG2	immortalized cell line	child	male	15 year	MAFF-human	https://www.encodeproject.org/files/ENCFF273IOC/@@download/ENCFF273IOC.bed.gz
+ENCFF327NWI	ENCSR721QZV	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZSCAN18-human	https://www.encodeproject.org/files/ENCFF327NWI/@@download/ENCFF327NWI.bed.gz
+ENCFF150MRK	ENCSR862PNL	HEK293T	immortalized cell line	embryonic	female	unknown	L3MBTL2-human	https://www.encodeproject.org/files/ENCFF150MRK/@@download/ENCFF150MRK.bed.gz
+ENCFF909LIE	ENCSR423RTK	MCF-7	immortalized cell line	adult	female	69 year	GATA3-human	https://www.encodeproject.org/files/ENCFF909LIE/@@download/ENCFF909LIE.bed.gz
+ENCFF779ZST	ENCSR000BRK	K562	immortalized cell line	adult	female	53 year	TEAD4-human	https://www.encodeproject.org/files/ENCFF779ZST/@@download/ENCFF779ZST.bed.gz
+ENCFF938BND	ENCSR000BMH	K562	immortalized cell line	adult	female	53 year	YY1-human	https://www.encodeproject.org/files/ENCFF938BND/@@download/ENCFF938BND.bed.gz
+ENCFF176ILA	ENCSR000BGZ	GM12878	immortalized cell line	adult	female	unknown	TCF12-human	https://www.encodeproject.org/files/ENCFF176ILA/@@download/ENCFF176ILA.bed.gz
+ENCFF198ZBT	ENCSR000EYC	U2OS	immortalized cell line	child	female	15 year	TRIM28-human	https://www.encodeproject.org/files/ENCFF198ZBT/@@download/ENCFF198ZBT.bed.gz
+ENCFF757ZGV	ENCSR000BMR	K562	immortalized cell line	adult	female	53 year	POLR2A-human	https://www.encodeproject.org/files/ENCFF757ZGV/@@download/ENCFF757ZGV.bed.gz
+ENCFF414OZX	ENCSR000EWY	NT2/D1	immortalized cell line	unknown	male	22 year	ZNF274-human	https://www.encodeproject.org/files/ENCFF414OZX/@@download/ENCFF414OZX.bed.gz
+ENCFF653WEF	ENCSR000BNK	K562	immortalized cell line	adult	female	53 year	CTCFL-human	https://www.encodeproject.org/files/ENCFF653WEF/@@download/ENCFF653WEF.bed.gz
+ENCFF666HKG	ENCSR000BJG	HepG2	immortalized cell line	child	male	15 year	TCF12-human	https://www.encodeproject.org/files/ENCFF666HKG/@@download/ENCFF666HKG.bed.gz
+ENCFF229UOO	ENCSR094WHO	HEK293T	immortalized cell line	embryonic	female	unknown	FOXA1-human	https://www.encodeproject.org/files/ENCFF229UOO/@@download/ENCFF229UOO.bed.gz
+ENCFF861MFY	ENCSR482BBZ	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-GLIS1-human	https://www.encodeproject.org/files/ENCFF861MFY/@@download/ENCFF861MFY.bed.gz
+ENCFF270VUX	ENCSR633EIC	K562	immortalized cell line	adult	female	53 year	FLAG-PBX2-human	https://www.encodeproject.org/files/ENCFF270VUX/@@download/ENCFF270VUX.bed.gz
+ENCFF627GPM	ENCSR330EXS	GM12878	immortalized cell line	adult	female	unknown	RBBP5-human	https://www.encodeproject.org/files/ENCFF627GPM/@@download/ENCFF627GPM.bed.gz
+ENCFF721SZO	ENCSR331ORD	HepG2	immortalized cell line	child	male	15 year	FLAG-CREB1-human	https://www.encodeproject.org/files/ENCFF721SZO/@@download/ENCFF721SZO.bed.gz
+ENCFF520IRJ	ENCSR751CJG	GM12878	immortalized cell line	adult	female	unknown	CHD4-human	https://www.encodeproject.org/files/ENCFF520IRJ/@@download/ENCFF520IRJ.bed.gz
+ENCFF901LLL	ENCSR321BJQ	A549	immortalized cell line	adult	male	58 year	EHMT2-human	https://www.encodeproject.org/files/ENCFF901LLL/@@download/ENCFF901LLL.bed.gz
+ENCFF369MVH	ENCSR547TGL	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF701-human	https://www.encodeproject.org/files/ENCFF369MVH/@@download/ENCFF369MVH.bed.gz
+ENCFF156BBF	ENCSR080CST	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF639-human	https://www.encodeproject.org/files/ENCFF156BBF/@@download/ENCFF156BBF.bed.gz
+ENCFF300QIO	ENCSR000BJI	GM12892	immortalized cell line	unknown	female	unknown	PAX5-human	https://www.encodeproject.org/files/ENCFF300QIO/@@download/ENCFF300QIO.bed.gz
+ENCFF879MMQ	ENCSR000EBW	H1-hESC	stem cell	embryonic	male	unknown	ZNF143-human	https://www.encodeproject.org/files/ENCFF879MMQ/@@download/ENCFF879MMQ.bed.gz
+ENCFF433PKW	ENCSR000EGE	K562	immortalized cell line	adult	female	53 year	EP300-human	https://www.encodeproject.org/files/ENCFF433PKW/@@download/ENCFF433PKW.bed.gz
+ENCFF271PYC	ENCSR000BOT	HepG2	immortalized cell line	child	male	15 year	REST-human	https://www.encodeproject.org/files/ENCFF271PYC/@@download/ENCFF271PYC.bed.gz
+ENCFF689QHF	ENCSR000BHI	A549	immortalized cell line	adult	male	58 year	POLR2A-human	https://www.encodeproject.org/files/ENCFF689QHF/@@download/ENCFF689QHF.bed.gz
+ENCFF271FAK	ENCSR000BNP	GM12878	immortalized cell line	adult	female	unknown	YY1-human	https://www.encodeproject.org/files/ENCFF271FAK/@@download/ENCFF271FAK.bed.gz
+ENCFF579NXQ	ENCSR000BQK	GM12878	immortalized cell line	adult	female	unknown	ATF2-human	https://www.encodeproject.org/files/ENCFF579NXQ/@@download/ENCFF579NXQ.bed.gz
+ENCFF372AVL	ENCSR000BNQ	GM12878	immortalized cell line	adult	female	unknown	BCL3-human	https://www.encodeproject.org/files/ENCFF372AVL/@@download/ENCFF372AVL.bed.gz
+ENCFF857WHF	ENCSR000FAW	K562	immortalized cell line	adult	female	53 year	POLR2A-human	https://www.encodeproject.org/files/ENCFF857WHF/@@download/ENCFF857WHF.bed.gz
+ENCFF718EJX	ENCSR000DPB	MCF 10A	immortalized cell line	unknown	female	unknown	STAT3-human	https://www.encodeproject.org/files/ENCFF718EJX/@@download/ENCFF718EJX.bed.gz
+ENCFF293PVG	ENCSR000EXG	NT2/D1	immortalized cell line	unknown	male	22 year	YY1-human	https://www.encodeproject.org/files/ENCFF293PVG/@@download/ENCFF293PVG.bed.gz
+ENCFF851IPG	ENCSR054FKH	HepG2	immortalized cell line	child	male	15 year	FLAG-RAD21-human	https://www.encodeproject.org/files/ENCFF851IPG/@@download/ENCFF851IPG.bed.gz
+ENCFF069SDW	ENCSR649WUM	GM12878	immortalized cell line	adult	female	unknown	CHD7-human	https://www.encodeproject.org/files/ENCFF069SDW/@@download/ENCFF069SDW.bed.gz
+ENCFF810XKE	ENCSR789GVU	HEK293T	immortalized cell line	embryonic	female	unknown	BHLHE40-human	https://www.encodeproject.org/files/ENCFF810XKE/@@download/ENCFF810XKE.bed.gz
+ENCFF946XDG	ENCSR669LCD	HepG2	immortalized cell line	child	male	15 year	FLAG-ATF4-human	https://www.encodeproject.org/files/ENCFF946XDG/@@download/ENCFF946XDG.bed.gz
+ENCFF699GCM	ENCSR205SKQ	GM12878	immortalized cell line	adult	female	unknown	YBX1-human	https://www.encodeproject.org/files/ENCFF699GCM/@@download/ENCFF699GCM.bed.gz
+ENCFF275JQE	ENCSR773REP	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZBTB7A-human	https://www.encodeproject.org/files/ENCFF275JQE/@@download/ENCFF275JQE.bed.gz
+ENCFF442JHW	ENCSR194KWL	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF704-human	https://www.encodeproject.org/files/ENCFF442JHW/@@download/ENCFF442JHW.bed.gz
+ENCFF788VTS	ENCSR711XNY	GM12878	immortalized cell line	adult	female	unknown	PKNOX1-human	https://www.encodeproject.org/files/ENCFF788VTS/@@download/ENCFF788VTS.bed.gz
+ENCFF032HQY	ENCSR689YFA	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF146-human	https://www.encodeproject.org/files/ENCFF032HQY/@@download/ENCFF032HQY.bed.gz
+ENCFF127KFE	ENCSR348ONY	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZFP41-human	https://www.encodeproject.org/files/ENCFF127KFE/@@download/ENCFF127KFE.bed.gz
+ENCFF087CCO	ENCSR141PZA	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-SP3-human	https://www.encodeproject.org/files/ENCFF087CCO/@@download/ENCFF087CCO.bed.gz
+ENCFF877ZEB	ENCSR996FYT	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF202-human	https://www.encodeproject.org/files/ENCFF877ZEB/@@download/ENCFF877ZEB.bed.gz
+ENCFF314BZO	ENCSR691TXI	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF610-human	https://www.encodeproject.org/files/ENCFF314BZO/@@download/ENCFF314BZO.bed.gz
+ENCFF615OFW	ENCSR134QIE	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZFP3-human	https://www.encodeproject.org/files/ENCFF615OFW/@@download/ENCFF615OFW.bed.gz
+ENCFF008LSM	ENCSR000DTW	HEK293	immortalized cell line	embryonic	female	unknown	CTCF-human	https://www.encodeproject.org/files/ENCFF008LSM/@@download/ENCFF008LSM.bed.gz
+ENCFF619KDE	ENCSR000BMN	HeLa-S3	immortalized cell line	adult	female	31 year	REST-human	https://www.encodeproject.org/files/ENCFF619KDE/@@download/ENCFF619KDE.bed.gz
+ENCFF555ECR	ENCSR501DKS	GM12878	immortalized cell line	adult	female	unknown	TCF7-human	https://www.encodeproject.org/files/ENCFF555ECR/@@download/ENCFF555ECR.bed.gz
+ENCFF155CWQ	ENCSR996DUT	A549	immortalized cell line	adult	male	58 year	JUN-human	https://www.encodeproject.org/files/ENCFF155CWQ/@@download/ENCFF155CWQ.bed.gz
+ENCFF602YIK	ENCSR000EHG	K562	immortalized cell line	adult	female	53 year	USF2-human	https://www.encodeproject.org/files/ENCFF602YIK/@@download/ENCFF602YIK.bed.gz
+ENCFF906GEW	ENCSR000DRZ	GM12878	immortalized cell line	adult	female	unknown	CTCF-human	https://www.encodeproject.org/files/ENCFF906GEW/@@download/ENCFF906GEW.bed.gz
+ENCFF593FWV	ENCSR000BNW	K562	immortalized cell line	adult	female	53 year	SIX5-human	https://www.encodeproject.org/files/ENCFF593FWV/@@download/ENCFF593FWV.bed.gz
+ENCFF646WOC	ENCSR000EDX	HepG2	immortalized cell line	child	male	15 year	POLR2AphosphoS2-human	https://www.encodeproject.org/files/ENCFF646WOC/@@download/ENCFF646WOC.bed.gz
+ENCFF826HDC	ENCSR000EGN	K562	immortalized cell line	adult	female	53 year	JUND-human	https://www.encodeproject.org/files/ENCFF826HDC/@@download/ENCFF826HDC.bed.gz
+ENCFF795JAX	ENCSR000BIZ	Ishikawa	immortalized cell line	adult	female	39 year	ESR1-human	https://www.encodeproject.org/files/ENCFF795JAX/@@download/ENCFF795JAX.bed.gz
+ENCFF551FXB	ENCSR000DMJ	MCF-7	immortalized cell line	adult	female	69 year	MYC-human	https://www.encodeproject.org/files/ENCFF551FXB/@@download/ENCFF551FXB.bed.gz
+ENCFF469LVB	ENCSR000EFM	IMR-90	primary cell	fetal	female	16 week	CEBPB-human	https://www.encodeproject.org/files/ENCFF469LVB/@@download/ENCFF469LVB.bed.gz
+ENCFF190IHG	ENCSR000BNV	K562	immortalized cell line	adult	female	53 year	MEF2A-human	https://www.encodeproject.org/files/ENCFF190IHG/@@download/ENCFF190IHG.bed.gz
+ENCFF585ZFE	ENCSR000DPC	MCF 10A	immortalized cell line	unknown	female	unknown	POLR2A-human	https://www.encodeproject.org/files/ENCFF585ZFE/@@download/ENCFF585ZFE.bed.gz
+ENCFF204LJN	ENCSR619QFT	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF300-human	https://www.encodeproject.org/files/ENCFF204LJN/@@download/ENCFF204LJN.bed.gz
+ENCFF764DOP	ENCSR991ADX	HepG2	immortalized cell line	child	male	15 year	U2AF2-human	https://www.encodeproject.org/files/ENCFF764DOP/@@download/ENCFF764DOP.bed.gz
+ENCFF245FMD	ENCSR636MKU	GM12878	immortalized cell line	adult	female	unknown	BACH1-human	https://www.encodeproject.org/files/ENCFF245FMD/@@download/ENCFF245FMD.bed.gz
+ENCFF531XEK	ENCSR468IJT	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-SP7-human	https://www.encodeproject.org/files/ENCFF531XEK/@@download/ENCFF531XEK.bed.gz
+ENCFF778ZQK	ENCSR679KXF	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF23-human	https://www.encodeproject.org/files/ENCFF778ZQK/@@download/ENCFF778ZQK.bed.gz
+ENCFF420KJB	ENCSR551ZDZ	MCF-7	immortalized cell line	adult	female	69 year	MTA2-human	https://www.encodeproject.org/files/ENCFF420KJB/@@download/ENCFF420KJB.bed.gz
+ENCFF644ASO	ENCSR338DGO	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-SCRT2-human	https://www.encodeproject.org/files/ENCFF644ASO/@@download/ENCFF644ASO.bed.gz
+ENCFF512UAX	ENCSR598TIR	K562	immortalized cell line	adult	female	53 year	eGFP-ZNF507-human	https://www.encodeproject.org/files/ENCFF512UAX/@@download/ENCFF512UAX.bed.gz
+ENCFF145WWK	ENCSR238QRG	HepG2	immortalized cell line	child	male	15 year	TBX3-human	https://www.encodeproject.org/files/ENCFF145WWK/@@download/ENCFF145WWK.bed.gz
+ENCFF485YDQ	ENCSR605YWG	HepG2	immortalized cell line	child	male	15 year	TBX3-human	https://www.encodeproject.org/files/ENCFF485YDQ/@@download/ENCFF485YDQ.bed.gz
+ENCFF719FJX	ENCSR729LGA	MCF-7	immortalized cell line	adult	female	69 year	SP1-human	https://www.encodeproject.org/files/ENCFF719FJX/@@download/ENCFF719FJX.bed.gz
+ENCFF176NJZ	ENCSR000BMC	HepG2	immortalized cell line	child	male	15 year	HDAC2-human	https://www.encodeproject.org/files/ENCFF176NJZ/@@download/ENCFF176NJZ.bed.gz
+ENCFF910CRE	ENCSR000BRF	A549	immortalized cell line	adult	male	58 year	JUND-human	https://www.encodeproject.org/files/ENCFF910CRE/@@download/ENCFF910CRE.bed.gz
+ENCFF745PYF	ENCSR562NOP	DOHH2	immortalized cell line	adult	male	60 year	EZH2phosphoT487-human	https://www.encodeproject.org/files/ENCFF745PYF/@@download/ENCFF745PYF.bed.gz
+ENCFF871STF	ENCSR000BJN	HepG2	immortalized cell line	child	male	15 year	TAF1-human	https://www.encodeproject.org/files/ENCFF871STF/@@download/ENCFF871STF.bed.gz
+ENCFF794VYB	ENCSR000BGD	GM12878	immortalized cell line	adult	female	unknown	POLR2A-human	https://www.encodeproject.org/files/ENCFF794VYB/@@download/ENCFF794VYB.bed.gz
+ENCFF389ELU	ENCSR000DWE	K562	immortalized cell line	adult	female	53 year	CTCF-human	https://www.encodeproject.org/files/ENCFF389ELU/@@download/ENCFF389ELU.bed.gz
+ENCFF233IWJ	ENCSR000BJE	GM12878	immortalized cell line	adult	female	unknown	SIX5-human	https://www.encodeproject.org/files/ENCFF233IWJ/@@download/ENCFF233IWJ.bed.gz
+ENCFF270QLC	ENCSR000BNM	K562	immortalized cell line	adult	female	53 year	TAF7-human	https://www.encodeproject.org/files/ENCFF270QLC/@@download/ENCFF270QLC.bed.gz
+ENCFF090VAI	ENCSR000EZT	K562	immortalized cell line	adult	female	53 year	JUN-human	https://www.encodeproject.org/files/ENCFF090VAI/@@download/ENCFF090VAI.bed.gz
+ENCFF286EMA	ENCSR000AMA	HepG2	immortalized cell line	child	male	15 year	CTCF-human	https://www.encodeproject.org/files/ENCFF286EMA/@@download/ENCFF286EMA.bed.gz
+ENCFF688XON	ENCSR000EGK	K562	immortalized cell line	adult	female	53 year	IRF1-human	https://www.encodeproject.org/files/ENCFF688XON/@@download/ENCFF688XON.bed.gz
+ENCFF680HDE	ENCSR000BII	GM12891	immortalized cell line	unknown	male	unknown	POU2F2-human	https://www.encodeproject.org/files/ENCFF680HDE/@@download/ENCFF680HDE.bed.gz
+ENCFF109HIE	ENCSR000EIB	SK-N-SH	immortalized cell line	child	female	4 year	JUND-human	https://www.encodeproject.org/files/ENCFF109HIE/@@download/ENCFF109HIE.bed.gz
+ENCFF443IZC	ENCSR000FBC	K562	immortalized cell line	adult	female	53 year	STAT2-human	https://www.encodeproject.org/files/ENCFF443IZC/@@download/ENCFF443IZC.bed.gz
+ENCFF396EWL	ENCSR000EEI	HepG2	immortalized cell line	child	male	15 year	JUND-human	https://www.encodeproject.org/files/ENCFF396EWL/@@download/ENCFF396EWL.bed.gz
+ENCFF834SEA	ENCSR103GAK	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF175-human	https://www.encodeproject.org/files/ENCFF834SEA/@@download/ENCFF834SEA.bed.gz
+ENCFF532AWE	ENCSR200CUA	MCF-7	immortalized cell line	adult	female	69 year	HDGF-human	https://www.encodeproject.org/files/ENCFF532AWE/@@download/ENCFF532AWE.bed.gz
+ENCFF085CNS	ENCSR000BGB	SK-N-MC	immortalized cell line	child	female	14 year	FOXP2-human	https://www.encodeproject.org/files/ENCFF085CNS/@@download/ENCFF085CNS.bed.gz
+ENCFF385TGU	ENCSR000EZX	K562	immortalized cell line	adult	female	53 year	JUN-human	https://www.encodeproject.org/files/ENCFF385TGU/@@download/ENCFF385TGU.bed.gz
+ENCFF431EFX	ENCSR801SWX	MCF-7	immortalized cell line	adult	female	69 year	TARDBP-human	https://www.encodeproject.org/files/ENCFF431EFX/@@download/ENCFF431EFX.bed.gz
+ENCFF381QID	ENCSR461ZJT	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF501-human	https://www.encodeproject.org/files/ENCFF381QID/@@download/ENCFF381QID.bed.gz
+ENCFF491VHJ	ENCSR605MGM	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-SCRT1-human	https://www.encodeproject.org/files/ENCFF491VHJ/@@download/ENCFF491VHJ.bed.gz
+ENCFF434NOC	ENCSR000BGF	GM12878	immortalized cell line	adult	female	unknown	REST-human	https://www.encodeproject.org/files/ENCFF434NOC/@@download/ENCFF434NOC.bed.gz
+ENCFF004MNA	ENCSR000BJA	H1-hESC	stem cell	embryonic	male	unknown	EGR1-human	https://www.encodeproject.org/files/ENCFF004MNA/@@download/ENCFF004MNA.bed.gz
+ENCFF310XNW	ENCSR000BGI	GM12878	immortalized cell line	adult	female	unknown	USF1-human	https://www.encodeproject.org/files/ENCFF310XNW/@@download/ENCFF310XNW.bed.gz
+ENCFF418TUX	ENCSR584GHV	A549	immortalized cell line	adult	male	58 year	NFE2L2-human	https://www.encodeproject.org/files/ENCFF418TUX/@@download/ENCFF418TUX.bed.gz
+ENCFF455DUW	ENCSR957KYB	IMR-90	primary cell	fetal	female	16 week	BHLHE40-human	https://www.encodeproject.org/files/ENCFF455DUW/@@download/ENCFF455DUW.bed.gz
+ENCFF819MHF	ENCSR000EGV	K562	immortalized cell line	adult	female	53 year	BHLHE40-human	https://www.encodeproject.org/files/ENCFF819MHF/@@download/ENCFF819MHF.bed.gz
+ENCFF617WYS	ENCSR000BMD	K562	immortalized cell line	adult	female	53 year	ELF1-human	https://www.encodeproject.org/files/ENCFF617WYS/@@download/ENCFF617WYS.bed.gz
+ENCFF964VIQ	ENCSR000DTR	epithelial cell of esophagus	primary cell	unknown	unknown	unknown	CTCF-human	https://www.encodeproject.org/files/ENCFF964VIQ/@@download/ENCFF964VIQ.bed.gz
+ENCFF712GEQ	ENCSR000BRQ	K562	immortalized cell line	adult	female	53 year	CEBPB-human	https://www.encodeproject.org/files/ENCFF712GEQ/@@download/ENCFF712GEQ.bed.gz
+ENCFF767SOM	ENCSR000ARO	fibroblast of lung	primary cell	adult, unknown	male, female	45 year, 11 year	EZH2-human	https://www.encodeproject.org/files/ENCFF767SOM/@@download/ENCFF767SOM.bed.gz
+ENCFF085GFF	ENCSR000AOO	astrocyte	primary cell	unknown	unknown	unknown	CTCF-human	https://www.encodeproject.org/files/ENCFF085GFF/@@download/ENCFF085GFF.bed.gz
+ENCFF019YHK	ENCSR854IPI	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF707-human	https://www.encodeproject.org/files/ENCFF019YHK/@@download/ENCFF019YHK.bed.gz
+ENCFF192MYZ	ENCSR387QUV	GM12878	immortalized cell line	adult	female	unknown	RELB-human	https://www.encodeproject.org/files/ENCFF192MYZ/@@download/ENCFF192MYZ.bed.gz
+ENCFF400GKD	ENCSR278SQL	GM12878	immortalized cell line	adult	female	unknown	NBN-human	https://www.encodeproject.org/files/ENCFF400GKD/@@download/ENCFF400GKD.bed.gz
+ENCFF106YYN	ENCSR799GOY	HepG2	immortalized cell line	child	male	15 year	YBX1-human	https://www.encodeproject.org/files/ENCFF106YYN/@@download/ENCFF106YYN.bed.gz
+ENCFF507WQJ	ENCSR549NPZ	GM12878	immortalized cell line	adult	female	unknown	CBX3-human	https://www.encodeproject.org/files/ENCFF507WQJ/@@download/ENCFF507WQJ.bed.gz
+ENCFF764DSU	ENCSR680UQE	GM12878	immortalized cell line	adult	female	unknown	IKZF2-human	https://www.encodeproject.org/files/ENCFF764DSU/@@download/ENCFF764DSU.bed.gz
+ENCFF834PRZ	ENCSR822LBD	K562	immortalized cell line	adult	female	53 year	RBFOX2-human	https://www.encodeproject.org/files/ENCFF834PRZ/@@download/ENCFF834PRZ.bed.gz
+ENCFF282WIP	ENCSR429XTR	K562	immortalized cell line	adult	female	53 year	TARDBP-human	https://www.encodeproject.org/files/ENCFF282WIP/@@download/ENCFF282WIP.bed.gz
+ENCFF578XIP	ENCSR861JUQ	GM12878	immortalized cell line	adult	female	unknown	FOXK2-human	https://www.encodeproject.org/files/ENCFF578XIP/@@download/ENCFF578XIP.bed.gz
+ENCFF927SOS	ENCSR641BSL	K562	immortalized cell line	adult	female	53 year	AGO1-human	https://www.encodeproject.org/files/ENCFF927SOS/@@download/ENCFF927SOS.bed.gz
+ENCFF339LOH	ENCSR000EDV	HepG2	immortalized cell line	child	male	15 year	EP300-human	https://www.encodeproject.org/files/ENCFF339LOH/@@download/ENCFF339LOH.bed.gz
+ENCFF138OAF	ENCSR847DIT	liver	tissue	child	female	4 year	MAX-human	https://www.encodeproject.org/files/ENCFF138OAF/@@download/ENCFF138OAF.bed.gz
+ENCFF736MBF	ENCSR000EGL	K562	immortalized cell line	adult	female	53 year	IRF1-human	https://www.encodeproject.org/files/ENCFF736MBF/@@download/ENCFF736MBF.bed.gz
+ENCFF056DZM	ENCSR000BRS	K562	immortalized cell line	adult	female	53 year	NR2F2-human	https://www.encodeproject.org/files/ENCFF056DZM/@@download/ENCFF056DZM.bed.gz
+ENCFF774IIX	ENCSR000DQI	foreskin fibroblast	primary cell	newborn	male	unknown	CTCF-human	https://www.encodeproject.org/files/ENCFF774IIX/@@download/ENCFF774IIX.bed.gz
+ENCFF252FHU	ENCSR000DKN	H54	immortalized cell line	adult	female	36 year	CTCF-human	https://www.encodeproject.org/files/ENCFF252FHU/@@download/ENCFF252FHU.bed.gz
+ENCFF722JFZ	ENCSR000BMT	H1-hESC	stem cell	embryonic	male	unknown	NANOG-human	https://www.encodeproject.org/files/ENCFF722JFZ/@@download/ENCFF722JFZ.bed.gz
+ENCFF086USH	ENCSR000EGP	K562	immortalized cell line	adult	female	53 year	ZNF143-human	https://www.encodeproject.org/files/ENCFF086USH/@@download/ENCFF086USH.bed.gz
+ENCFF259FAH	ENCSR000BOX	PFSK-1	immortalized cell line	unknown	male	22 month	REST-human	https://www.encodeproject.org/files/ENCFF259FAH/@@download/ENCFF259FAH.bed.gz
+ENCFF352SHQ	ENCSR000EXX	Raji	immortalized cell line	child	male	11 year	POLR2A-human	https://www.encodeproject.org/files/ENCFF352SHQ/@@download/ENCFF352SHQ.bed.gz
+ENCFF166IHW	ENCSR000EEH	HepG2	immortalized cell line	child	male	15 year	NRF1-human	https://www.encodeproject.org/files/ENCFF166IHW/@@download/ENCFF166IHW.bed.gz
+ENCFF203ZIS	ENCSR066BZZ	bipolar spindle neuron	in vitro differentiated cells	adult	male	53 year	CTCF-human	https://www.encodeproject.org/files/ENCFF203ZIS/@@download/ENCFF203ZIS.bed.gz
+ENCFF280JJA	ENCSR297MUV	SK-N-SH	immortalized cell line	child	female	4 year	EZH2phosphoT487-human	https://www.encodeproject.org/files/ENCFF280JJA/@@download/ENCFF280JJA.bed.gz
+ENCFF508ANP	ENCSR265MJJ	GM12878	immortalized cell line	adult	female	unknown	CBX8-human	https://www.encodeproject.org/files/ENCFF508ANP/@@download/ENCFF508ANP.bed.gz
+ENCFF969IRU	ENCSR466VYP	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF266-human	https://www.encodeproject.org/files/ENCFF969IRU/@@download/ENCFF969IRU.bed.gz
+ENCFF886AIM	ENCSR868JLS	HepG2	immortalized cell line	child	male	15 year	U2AF1-human	https://www.encodeproject.org/files/ENCFF886AIM/@@download/ENCFF886AIM.bed.gz
+ENCFF811PBG	ENCSR586BRJ	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF433-human	https://www.encodeproject.org/files/ENCFF811PBG/@@download/ENCFF811PBG.bed.gz
+ENCFF876EPR	ENCSR041ZIQ	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-SALL1-human	https://www.encodeproject.org/files/ENCFF876EPR/@@download/ENCFF876EPR.bed.gz
+ENCFF380IQS	ENCSR714YZG	HepG2	immortalized cell line	child	male	15 year	ETV4-human	https://www.encodeproject.org/files/ENCFF380IQS/@@download/ENCFF380IQS.bed.gz
+ENCFF089CHZ	ENCSR022IZK	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF623-human	https://www.encodeproject.org/files/ENCFF089CHZ/@@download/ENCFF089CHZ.bed.gz
+ENCFF481IOH	ENCSR307CKC	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF680-human	https://www.encodeproject.org/files/ENCFF481IOH/@@download/ENCFF481IOH.bed.gz
+ENCFF981ZOK	ENCSR000DOT	MCF 10A	immortalized cell line	unknown	female	unknown	FOS-human	https://www.encodeproject.org/files/ENCFF981ZOK/@@download/ENCFF981ZOK.bed.gz
+ENCFF373FUS	ENCSR000BID	HepG2	immortalized cell line	child	male	15 year	BHLHE40-human	https://www.encodeproject.org/files/ENCFF373FUS/@@download/ENCFF373FUS.bed.gz
+ENCFF287RCH	ENCSR000DPS	fibroblast of gingiva	primary cell	adult	female	24 year	CTCF-human	https://www.encodeproject.org/files/ENCFF287RCH/@@download/ENCFF287RCH.bed.gz
+ENCFF838NIW	ENCSR000EGS	K562	immortalized cell line	adult	female	53 year	MYC-human	https://www.encodeproject.org/files/ENCFF838NIW/@@download/ENCFF838NIW.bed.gz
+ENCFF144DMD	ENCSR000BNN	K562	immortalized cell line	adult	female	53 year	THAP1-human	https://www.encodeproject.org/files/ENCFF144DMD/@@download/ENCFF144DMD.bed.gz
+ENCFF936EFC	ENCSR000BQQ	A549	immortalized cell line	adult	male	58 year	TCF12-human	https://www.encodeproject.org/files/ENCFF936EFC/@@download/ENCFF936EFC.bed.gz
+ENCFF627FTK	ENCSR000BSK	SK-N-SH	immortalized cell line	child	female	4 year	JUND-human	https://www.encodeproject.org/files/ENCFF627FTK/@@download/ENCFF627FTK.bed.gz
+ENCFF452INW	ENCSR000FCE	K562	immortalized cell line	adult	female	53 year	ETV6-human	https://www.encodeproject.org/files/ENCFF452INW/@@download/ENCFF452INW.bed.gz
+ENCFF439OCI	ENCSR000DVQ	fibroblast of villous mesenchyme	primary cell	unknown	unknown	unknown	CTCF-human	https://www.encodeproject.org/files/ENCFF439OCI/@@download/ENCFF439OCI.bed.gz
+ENCFF567LEJ	ENCSR000BJR	A549	immortalized cell line	adult	male	58 year	NR3C1-human	https://www.encodeproject.org/files/ENCFF567LEJ/@@download/ENCFF567LEJ.bed.gz
+ENCFF600VDZ	ENCSR000BPB	SK-N-SH	immortalized cell line	child	female	4 year	SIN3A-human	https://www.encodeproject.org/files/ENCFF600VDZ/@@download/ENCFF600VDZ.bed.gz
+ENCFF115DVM	ENCSR000EHC	K562	immortalized cell line	adult	female	53 year	GTF2F1-human	https://www.encodeproject.org/files/ENCFF115DVM/@@download/ENCFF115DVM.bed.gz
+ENCFF618UTS	ENCSR000BMY	GM12878	immortalized cell line	adult	female	unknown	RAD21-human	https://www.encodeproject.org/files/ENCFF618UTS/@@download/ENCFF618UTS.bed.gz
+ENCFF935PCI	ENCSR000BIY	Ishikawa	immortalized cell line	adult	female	39 year	ESR1-human	https://www.encodeproject.org/files/ENCFF935PCI/@@download/ENCFF935PCI.bed.gz
+ENCFF522MKO	ENCSR000DRR	GM12874	immortalized cell line	unknown	male	unknown	CTCF-human	https://www.encodeproject.org/files/ENCFF522MKO/@@download/ENCFF522MKO.bed.gz
+ENCFF151MEY	ENCSR228DTL	GM12878	immortalized cell line	adult	female	unknown	CHD1-human	https://www.encodeproject.org/files/ENCFF151MEY/@@download/ENCFF151MEY.bed.gz
+ENCFF337RFK	ENCSR872BOU	HEK293T	immortalized cell line	embryonic	female	unknown	FOXK2-human	https://www.encodeproject.org/files/ENCFF337RFK/@@download/ENCFF337RFK.bed.gz
+ENCFF565SBG	ENCSR000EEL	HepG2	immortalized cell line	child	male	15 year	TBP-human	https://www.encodeproject.org/files/ENCFF565SBG/@@download/ENCFF565SBG.bed.gz
+ENCFF823ISD	ENCSR189YYK	GM12878	immortalized cell line	adult	female	unknown	ZBTB40-human	https://www.encodeproject.org/files/ENCFF823ISD/@@download/ENCFF823ISD.bed.gz
+ENCFF845WOM	ENCSR011XCI	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF585B-human	https://www.encodeproject.org/files/ENCFF845WOM/@@download/ENCFF845WOM.bed.gz
+ENCFF499RWL	ENCSR337NWW	HepG2	immortalized cell line	child	male	15 year	HDAC2-human	https://www.encodeproject.org/files/ENCFF499RWL/@@download/ENCFF499RWL.bed.gz
+ENCFF714DUV	ENCSR541AOQ	A549	immortalized cell line	adult	male	58 year	PHF8-human	https://www.encodeproject.org/files/ENCFF714DUV/@@download/ENCFF714DUV.bed.gz
+ENCFF716KZE	ENCSR997GPO	HEK293T	immortalized cell line	embryonic	female	unknown	NFRKB-human	https://www.encodeproject.org/files/ENCFF716KZE/@@download/ENCFF716KZE.bed.gz
+ENCFF277ZAR	ENCSR000DYD	A549	immortalized cell line	adult	male	58 year	CTCF-human	https://www.encodeproject.org/files/ENCFF277ZAR/@@download/ENCFF277ZAR.bed.gz
+ENCFF734CJH	ENCSR000EFN	K562	immortalized cell line	adult	female	53 year	HCFC1-human	https://www.encodeproject.org/files/ENCFF734CJH/@@download/ENCFF734CJH.bed.gz
+ENCFF883YBP	ENCSR000EVD	HEK293	immortalized cell line	embryonic	female	unknown	ZNF263-human	https://www.encodeproject.org/files/ENCFF883YBP/@@download/ENCFF883YBP.bed.gz
+ENCFF799ASV	ENCSR000BNS	H1-hESC	stem cell	embryonic	male	unknown	FOSL1-human	https://www.encodeproject.org/files/ENCFF799ASV/@@download/ENCFF799ASV.bed.gz
+ENCFF975LFF	ENCSR000BQR	Ishikawa	immortalized cell line	adult	female	39 year	ESR1-human	https://www.encodeproject.org/files/ENCFF975LFF/@@download/ENCFF975LFF.bed.gz
+ENCFF130WFH	ENCSR253OON	HepG2	immortalized cell line	child	male	15 year	FLAG-ATF1-human	https://www.encodeproject.org/files/ENCFF130WFH/@@download/ENCFF130WFH.bed.gz
+ENCFF874AEL	ENCSR827NWO	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-FEZF1-human	https://www.encodeproject.org/files/ENCFF874AEL/@@download/ENCFF874AEL.bed.gz
+ENCFF159GGO	ENCSR389BLX	MCF-7	immortalized cell line	adult	female	69 year	GATAD2B-human	https://www.encodeproject.org/files/ENCFF159GGO/@@download/ENCFF159GGO.bed.gz
+ENCFF443TUR	ENCSR819LHG	K562	immortalized cell line	adult	female	53 year	FOXA1-human	https://www.encodeproject.org/files/ENCFF443TUR/@@download/ENCFF443TUR.bed.gz
+ENCFF207EGF	ENCSR976TBC	GM12878	immortalized cell line	adult	female	unknown	IRF5-human	https://www.encodeproject.org/files/ENCFF207EGF/@@download/ENCFF207EGF.bed.gz
+ENCFF137NDG	ENCSR000EDP	HepG2	immortalized cell line	child	male	15 year	ARID3A-human	https://www.encodeproject.org/files/ENCFF137NDG/@@download/ENCFF137NDG.bed.gz
+ENCFF196VRG	ENCSR000EGJ	K562	immortalized cell line	adult	female	53 year	MYC-human	https://www.encodeproject.org/files/ENCFF196VRG/@@download/ENCFF196VRG.bed.gz
+ENCFF899FIQ	ENCSR000BQE	Ishikawa	immortalized cell line	adult	female	39 year	CTCF-human	https://www.encodeproject.org/files/ENCFF899FIQ/@@download/ENCFF899FIQ.bed.gz
+ENCFF181PHR	ENCSR000FAV	K562	immortalized cell line	adult	female	53 year	STAT1-human	https://www.encodeproject.org/files/ENCFF181PHR/@@download/ENCFF181PHR.bed.gz
+ENCFF183YLB	ENCSR000DSU	astrocyte of the spinal cord	primary cell	unknown	unknown	unknown	CTCF-human	https://www.encodeproject.org/files/ENCFF183YLB/@@download/ENCFF183YLB.bed.gz
+ENCFF011OYO	ENCSR000DYB	WI38	immortalized cell line	unknown	female	unknown	CTCF-human	https://www.encodeproject.org/files/ENCFF011OYO/@@download/ENCFF011OYO.bed.gz
+ENCFF222NHS	ENCSR000BGL	HepG2	immortalized cell line	child	male	15 year	SIN3A-human	https://www.encodeproject.org/files/ENCFF222NHS/@@download/ENCFF222NHS.bed.gz
+ENCFF607PKH	ENCSR000EWN	K562	immortalized cell line	adult	female	53 year	ZNF263-human	https://www.encodeproject.org/files/ENCFF607PKH/@@download/ENCFF607PKH.bed.gz
+ENCFF553BNV	ENCSR000EYB	SH-SY5Y	immortalized cell line	child	female	4 year	GATA2-human	https://www.encodeproject.org/files/ENCFF553BNV/@@download/ENCFF553BNV.bed.gz
+ENCFF871DHQ	ENCSR714LYA	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-PRDM2-human	https://www.encodeproject.org/files/ENCFF871DHQ/@@download/ENCFF871DHQ.bed.gz
+ENCFF644HVY	ENCSR977HTH	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF18-human	https://www.encodeproject.org/files/ENCFF644HVY/@@download/ENCFF644HVY.bed.gz
+ENCFF863GMR	ENCSR231YFE	MCF-7	immortalized cell line	adult	female	69 year	ZBTB33-human	https://www.encodeproject.org/files/ENCFF863GMR/@@download/ENCFF863GMR.bed.gz
+ENCFF690NDS	ENCSR098YLE	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-PRDM1-human	https://www.encodeproject.org/files/ENCFF690NDS/@@download/ENCFF690NDS.bed.gz
+ENCFF356XXS	ENCSR465VLK	MCF-7	immortalized cell line	adult	female	69 year	FOXK2-human	https://www.encodeproject.org/files/ENCFF356XXS/@@download/ENCFF356XXS.bed.gz
+ENCFF861HYH	ENCSR451CYX	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF280D-human	https://www.encodeproject.org/files/ENCFF861HYH/@@download/ENCFF861HYH.bed.gz
+ENCFF035AMN	ENCSR564YYW	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF157-human	https://www.encodeproject.org/files/ENCFF035AMN/@@download/ENCFF035AMN.bed.gz
+ENCFF523SBI	ENCSR882ICT	HEK293T	immortalized cell line	embryonic	female	unknown	ZNF384-human	https://www.encodeproject.org/files/ENCFF523SBI/@@download/ENCFF523SBI.bed.gz
+ENCFF999IUR	ENCSR859BMR	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-KLF1-human	https://www.encodeproject.org/files/ENCFF999IUR/@@download/ENCFF999IUR.bed.gz
+ENCFF632RQY	ENCSR278JQG	HepG2	immortalized cell line	child	male	15 year	IKZF1-human	https://www.encodeproject.org/files/ENCFF632RQY/@@download/ENCFF632RQY.bed.gz
+ENCFF991GTC	ENCSR000BNH	H1-hESC	stem cell	embryonic	male	unknown	CTCF-human	https://www.encodeproject.org/files/ENCFF991GTC/@@download/ENCFF991GTC.bed.gz
+ENCFF714LGO	ENCSR000EBU	H1-hESC	stem cell	embryonic	male	unknown	CHD1-human	https://www.encodeproject.org/files/ENCFF714LGO/@@download/ENCFF714LGO.bed.gz
+ENCFF484BSF	ENCSR000EWM	K562	immortalized cell line	adult	female	53 year	GATA1-human	https://www.encodeproject.org/files/ENCFF484BSF/@@download/ENCFF484BSF.bed.gz
+ENCFF042DUJ	ENCSR000BNT	HepG2	immortalized cell line	child	male	15 year	YY1-human	https://www.encodeproject.org/files/ENCFF042DUJ/@@download/ENCFF042DUJ.bed.gz
+ENCFF364WAT	ENCSR000BNU	K562	immortalized cell line	adult	female	53 year	ATF3-human	https://www.encodeproject.org/files/ENCFF364WAT/@@download/ENCFF364WAT.bed.gz
+ENCFF010WHH	ENCSR000DVH	kidney epithelial cell	primary cell	unknown	unknown	unknown	CTCF-human	https://www.encodeproject.org/files/ENCFF010WHH/@@download/ENCFF010WHH.bed.gz
+ENCFF120IMP	ENCSR000EZV	K562	immortalized cell line	adult	female	53 year	MYC-human	https://www.encodeproject.org/files/ENCFF120IMP/@@download/ENCFF120IMP.bed.gz
+ENCFF636ARM	ENCSR000BJX	HepG2	immortalized cell line	child	male	15 year	SP1-human	https://www.encodeproject.org/files/ENCFF636ARM/@@download/ENCFF636ARM.bed.gz
+ENCFF821JKR	ENCSR000EVY	K562	immortalized cell line	adult	female	53 year	TRIM28-human	https://www.encodeproject.org/files/ENCFF821JKR/@@download/ENCFF821JKR.bed.gz
+ENCFF117UOA	ENCSR000EGA	K562	immortalized cell line	adult	female	53 year	TBL1XR1-human	https://www.encodeproject.org/files/ENCFF117UOA/@@download/ENCFF117UOA.bed.gz
+ENCFF678SSA	ENCSR000ECA	H1-hESC	stem cell	embryonic	male	unknown	JUN-human	https://www.encodeproject.org/files/ENCFF678SSA/@@download/ENCFF678SSA.bed.gz
+ENCFF416UYQ	ENCSR000EGD	K562	immortalized cell line	adult	female	53 year	BACH1-human	https://www.encodeproject.org/files/ENCFF416UYQ/@@download/ENCFF416UYQ.bed.gz
+ENCFF347GPU	ENCSR592KSP	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZFP64-human	https://www.encodeproject.org/files/ENCFF347GPU/@@download/ENCFF347GPU.bed.gz
+ENCFF769VDQ	ENCSR552YGL	K562	immortalized cell line	adult	female	53 year	eGFP-NFE2-human	https://www.encodeproject.org/files/ENCFF769VDQ/@@download/ENCFF769VDQ.bed.gz
+ENCFF267WQW	ENCSR321MSF	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZBTB21-human	https://www.encodeproject.org/files/ENCFF267WQW/@@download/ENCFF267WQW.bed.gz
+ENCFF059THO	ENCSR130HEG	K562	immortalized cell line	adult	female	53 year	COPS2-human	https://www.encodeproject.org/files/ENCFF059THO/@@download/ENCFF059THO.bed.gz
+ENCFF156EDQ	ENCSR447ZTA	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF558-human	https://www.encodeproject.org/files/ENCFF156EDQ/@@download/ENCFF156EDQ.bed.gz
+ENCFF825LBQ	ENCSR350XWY	K562	immortalized cell line	adult	female	53 year	C11orf30-human	https://www.encodeproject.org/files/ENCFF825LBQ/@@download/ENCFF825LBQ.bed.gz
+ENCFF723ESM	ENCSR000BLL	T47D	immortalized cell line	adult	female	54 year	ESR1-human	https://www.encodeproject.org/files/ENCFF723ESM/@@download/ENCFF723ESM.bed.gz
+ENCFF643PFS	ENCSR000BLR	K562	immortalized cell line	adult	female	53 year	SIN3A-human	https://www.encodeproject.org/files/ENCFF643PFS/@@download/ENCFF643PFS.bed.gz
+ENCFF483RLR	ENCSR000BGK	HepG2	immortalized cell line	child	male	15 year	JUND-human	https://www.encodeproject.org/files/ENCFF483RLR/@@download/ENCFF483RLR.bed.gz
+ENCFF101MTI	ENCSR000BPJ	K562	immortalized cell line	adult	female	53 year	CTCF-human	https://www.encodeproject.org/files/ENCFF101MTI/@@download/ENCFF101MTI.bed.gz
+ENCFF812UIZ	ENCSR000BQJ	HepG2	immortalized cell line	child	male	15 year	CEBPD-human	https://www.encodeproject.org/files/ENCFF812UIZ/@@download/ENCFF812UIZ.bed.gz
+ENCFF353WKC	ENCSR000BPF	A549	immortalized cell line	adult	male	58 year	TAF1-human	https://www.encodeproject.org/files/ENCFF353WKC/@@download/ENCFF353WKC.bed.gz
+ENCFF632ZHY	ENCSR000EWF	K562	immortalized cell line	adult	female	53 year	YY1-human	https://www.encodeproject.org/files/ENCFF632ZHY/@@download/ENCFF632ZHY.bed.gz
+ENCFF097XOQ	ENCSR000BLB	Ishikawa	immortalized cell line	adult	female	39 year	NR3C1-human	https://www.encodeproject.org/files/ENCFF097XOQ/@@download/ENCFF097XOQ.bed.gz
+ENCFF409EYL	ENCSR000BKT	K562	immortalized cell line	adult	female	53 year	USF1-human	https://www.encodeproject.org/files/ENCFF409EYL/@@download/ENCFF409EYL.bed.gz
+ENCFF500GAV	ENCSR000EDO	HepG2	immortalized cell line	child	male	15 year	CEBPZ-human	https://www.encodeproject.org/files/ENCFF500GAV/@@download/ENCFF500GAV.bed.gz
+ENCFF318SAW	ENCSR000EGH	K562	immortalized cell line	adult	female	53 year	JUN-human	https://www.encodeproject.org/files/ENCFF318SAW/@@download/ENCFF318SAW.bed.gz
+ENCFF088PUQ	ENCSR000BLU	H1-hESC	stem cell	embryonic	male	unknown	TAF7-human	https://www.encodeproject.org/files/ENCFF088PUQ/@@download/ENCFF088PUQ.bed.gz
+ENCFF333VCK	ENCSR000BSA	HCT116	immortalized cell line	unknown	male	unknown	JUND-human	https://www.encodeproject.org/files/ENCFF333VCK/@@download/ENCFF333VCK.bed.gz
+ENCFF335NCG	ENCSR000DYV	GM12878	immortalized cell line	adult	female	unknown	MAFK-human	https://www.encodeproject.org/files/ENCFF335NCG/@@download/ENCFF335NCG.bed.gz
+ENCFF179QAX	ENCSR000DQN	Caco-2	immortalized cell line	adult	male	72 year	CTCF-human	https://www.encodeproject.org/files/ENCFF179QAX/@@download/ENCFF179QAX.bed.gz
+ENCFF992BIU	ENCSR000EGB	K562	immortalized cell line	adult	female	53 year	TBL1XR1-human	https://www.encodeproject.org/files/ENCFF992BIU/@@download/ENCFF992BIU.bed.gz
+ENCFF684AZX	ENCSR000EDY	HepG2	immortalized cell line	child	male	15 year	BRCA1-human	https://www.encodeproject.org/files/ENCFF684AZX/@@download/ENCFF684AZX.bed.gz
+ENCFF543ITW	ENCSR000BIA	GM12892	immortalized cell line	unknown	female	unknown	POLR2AphosphoS5-human	https://www.encodeproject.org/files/ENCFF543ITW/@@download/ENCFF543ITW.bed.gz
+ENCFF058LTT	ENCSR000EZW	K562	immortalized cell line	adult	female	53 year	JUN-human	https://www.encodeproject.org/files/ENCFF058LTT/@@download/ENCFF058LTT.bed.gz
+ENCFF847XXR	ENCSR124AIG	IMR-90	primary cell	fetal	female	16 week	FOS-human	https://www.encodeproject.org/files/ENCFF847XXR/@@download/ENCFF847XXR.bed.gz
+ENCFF264OCQ	ENCSR000BIT	H1-hESC	stem cell	embryonic	male	unknown	TCF12-human	https://www.encodeproject.org/files/ENCFF264OCQ/@@download/ENCFF264OCQ.bed.gz
+ENCFF698NYD	ENCSR000BMF	SK-N-SH	immortalized cell line	child	female	4 year	USF1-human	https://www.encodeproject.org/files/ENCFF698NYD/@@download/ENCFF698NYD.bed.gz
+ENCFF417QTQ	ENCSR000BIC	H1-hESC	stem cell	embryonic	male	unknown	POLR2AphosphoS5-human	https://www.encodeproject.org/files/ENCFF417QTQ/@@download/ENCFF417QTQ.bed.gz
+ENCFF789EME	ENCSR000DMM	MCF-7	immortalized cell line	adult	female	69 year	MYC-human	https://www.encodeproject.org/files/ENCFF789EME/@@download/ENCFF789EME.bed.gz
+ENCFF613DVF	ENCSR000BKC	H1-hESC	stem cell	embryonic	male	unknown	ATF3-human	https://www.encodeproject.org/files/ENCFF613DVF/@@download/ENCFF613DVF.bed.gz
+ENCFF154NAC	ENCSR000BPE	A549	immortalized cell line	adult	male	58 year	SP1-human	https://www.encodeproject.org/files/ENCFF154NAC/@@download/ENCFF154NAC.bed.gz
+ENCFF787LPL	ENCSR000EEG	HepG2	immortalized cell line	child	male	15 year	RAD21-human	https://www.encodeproject.org/files/ENCFF787LPL/@@download/ENCFF787LPL.bed.gz
+ENCFF379OVN	ENCSR000DOO	MCF 10A	immortalized cell line	unknown	female	unknown	FOS-human	https://www.encodeproject.org/files/ENCFF379OVN/@@download/ENCFF379OVN.bed.gz
+ENCFF503LMD	ENCSR000BMV	K562	immortalized cell line	adult	female	53 year	FOSL1-human	https://www.encodeproject.org/files/ENCFF503LMD/@@download/ENCFF503LMD.bed.gz
+ENCFF510ZPK	ENCSR000BIQ	H1-hESC	stem cell	embryonic	male	unknown	SIX5-human	https://www.encodeproject.org/files/ENCFF510ZPK/@@download/ENCFF510ZPK.bed.gz
+ENCFF571RHI	ENCSR000BLT	GM12892	immortalized cell line	unknown	female	unknown	YY1-human	https://www.encodeproject.org/files/ENCFF571RHI/@@download/ENCFF571RHI.bed.gz
+ENCFF324FFQ	ENCSR000HPG	IMR-90	primary cell	fetal	female	16 week	SMC3-human	https://www.encodeproject.org/files/ENCFF324FFQ/@@download/ENCFF324FFQ.bed.gz
+ENCFF926GAC	ENCSR000BGA	PFSK-1	immortalized cell line	unknown	male	22 month	FOXP2-human	https://www.encodeproject.org/files/ENCFF926GAC/@@download/ENCFF926GAC.bed.gz
+ENCFF035AJG	ENCSR839XZU	GM12878	immortalized cell line	adult	female	unknown	CREM-human	https://www.encodeproject.org/files/ENCFF035AJG/@@download/ENCFF035AJG.bed.gz
+ENCFF536UXA	ENCSR081WLS	HepG2	immortalized cell line	child	male	15 year	RAD51-human	https://www.encodeproject.org/files/ENCFF536UXA/@@download/ENCFF536UXA.bed.gz
+ENCFF477IDC	ENCSR742IDN	K562	immortalized cell line	adult	female	53 year	NR2C1-human	https://www.encodeproject.org/files/ENCFF477IDC/@@download/ENCFF477IDC.bed.gz
+ENCFF374UIH	ENCSR000BHN	H1-hESC	stem cell	embryonic	male	unknown	POLR2A-human	https://www.encodeproject.org/files/ENCFF374UIH/@@download/ENCFF374UIH.bed.gz
+ENCFF115XBG	ENCSR000EXP	erythroblast	primary cell	unknown	male	unknown	GATA1-human	https://www.encodeproject.org/files/ENCFF115XBG/@@download/ENCFF115XBG.bed.gz
+ENCFF432VIV	ENCSR000FAY	K562	immortalized cell line	adult	female	53 year	POLR2A-human	https://www.encodeproject.org/files/ENCFF432VIV/@@download/ENCFF432VIV.bed.gz
+ENCFF756UDU	ENCSR000EVW	endothelial cell of umbilical vein	primary cell	newborn	unknown	unknown	GATA2-human	https://www.encodeproject.org/files/ENCFF756UDU/@@download/ENCFF756UDU.bed.gz
+ENCFF026ZRB	ENCSR000BHO	H1-hESC	stem cell	embryonic	male	unknown	TAF1-human	https://www.encodeproject.org/files/ENCFF026ZRB/@@download/ENCFF026ZRB.bed.gz
+ENCFF216EYM	ENCSR000BPS	A549	immortalized cell line	adult	male	58 year	ATF3-human	https://www.encodeproject.org/files/ENCFF216EYM/@@download/ENCFF216EYM.bed.gz
+ENCFF315MWD	ENCSR000BJH	GM12891	immortalized cell line	unknown	male	unknown	PAX5-human	https://www.encodeproject.org/files/ENCFF315MWD/@@download/ENCFF315MWD.bed.gz
+ENCFF314ZCZ	ENCSR000ECK	HeLa-S3	immortalized cell line	adult	female	31 year	MAFK-human	https://www.encodeproject.org/files/ENCFF314ZCZ/@@download/ENCFF314ZCZ.bed.gz
+ENCFF809ZRK	ENCSR000EBT	H1-hESC	stem cell	embryonic	male	unknown	CHD2-human	https://www.encodeproject.org/files/ENCFF809ZRK/@@download/ENCFF809ZRK.bed.gz
+ENCFF213VYK	ENCSR000BIF	GM12878	immortalized cell line	adult	female	unknown	POLR2AphosphoS5-human	https://www.encodeproject.org/files/ENCFF213VYK/@@download/ENCFF213VYK.bed.gz
+ENCFF674RQX	ENCSR000DYC	A549	immortalized cell line	adult	male	58 year	MYC-human	https://www.encodeproject.org/files/ENCFF674RQX/@@download/ENCFF674RQX.bed.gz
+ENCFF131CHB	ENCSR000ECF	H1-hESC	stem cell	embryonic	male	unknown	RFX5-human	https://www.encodeproject.org/files/ENCFF131CHB/@@download/ENCFF131CHB.bed.gz
+ENCFF200CCE	ENCSR000ECC	H1-hESC	stem cell	embryonic	male	unknown	NRF1-human	https://www.encodeproject.org/files/ENCFF200CCE/@@download/ENCFF200CCE.bed.gz
+ENCFF695KNI	ENCSR000FAZ	K562	immortalized cell line	adult	female	53 year	MYC-human	https://www.encodeproject.org/files/ENCFF695KNI/@@download/ENCFF695KNI.bed.gz
+ENCFF259SNF	ENCSR000BHJ	GM12878	immortalized cell line	adult	female	unknown	PAX5-human	https://www.encodeproject.org/files/ENCFF259SNF/@@download/ENCFF259SNF.bed.gz
+ENCFF372RQZ	ENCSR000EBY	H1-hESC	stem cell	embryonic	male	unknown	MYC-human	https://www.encodeproject.org/files/ENCFF372RQZ/@@download/ENCFF372RQZ.bed.gz
+ENCFF054DHS	ENCSR000ARI	HepG2	immortalized cell line	child	male	15 year	EZH2-human	https://www.encodeproject.org/files/ENCFF054DHS/@@download/ENCFF054DHS.bed.gz
+ENCFF371NVU	ENCSR000BKU	K562	immortalized cell line	adult	female	53 year	YY1-human	https://www.encodeproject.org/files/ENCFF371NVU/@@download/ENCFF371NVU.bed.gz
+ENCFF294RHB	ENCSR000EUZ	HEK293	immortalized cell line	embryonic	female	unknown	TRIM28-human	https://www.encodeproject.org/files/ENCFF294RHB/@@download/ENCFF294RHB.bed.gz
+ENCFF322AYC	ENCSR000BJW	H1-hESC	stem cell	embryonic	male	unknown	RXRA-human	https://www.encodeproject.org/files/ENCFF322AYC/@@download/ENCFF322AYC.bed.gz
+ENCFF500LMX	ENCSR000BPU	A549	immortalized cell line	adult	male	58 year	ETS1-human	https://www.encodeproject.org/files/ENCFF500LMX/@@download/ENCFF500LMX.bed.gz
+ENCFF222TUO	ENCSR000BKI	Ishikawa	immortalized cell line	adult	female	39 year	POLR2A-human	https://www.encodeproject.org/files/ENCFF222TUO/@@download/ENCFF222TUO.bed.gz
+ENCFF883FSC	ENCSR000EWE	K562	immortalized cell line	adult	female	53 year	ZNF274-human	https://www.encodeproject.org/files/ENCFF883FSC/@@download/ENCFF883FSC.bed.gz
+ENCFF857EDP	ENCSR798EGJ	A549	immortalized cell line	adult	male	58 year	RNF2-human	https://www.encodeproject.org/files/ENCFF857EDP/@@download/ENCFF857EDP.bed.gz
+ENCFF355CKA	ENCSR391IWM	GM12878	immortalized cell line	adult	female	unknown	KDM1A-human	https://www.encodeproject.org/files/ENCFF355CKA/@@download/ENCFF355CKA.bed.gz
+ENCFF892JRL	ENCSR657JLK	K562	immortalized cell line	adult	female	53 year	SIN3B-human	https://www.encodeproject.org/files/ENCFF892JRL/@@download/ENCFF892JRL.bed.gz
+ENCFF442SGT	ENCSR000BJM	HepG2	immortalized cell line	child	male	15 year	POLR2A-human	https://www.encodeproject.org/files/ENCFF442SGT/@@download/ENCFF442SGT.bed.gz
+ENCFF723QGS	ENCSR000EZU	K562	immortalized cell line	adult	female	53 year	MYC-human	https://www.encodeproject.org/files/ENCFF723QGS/@@download/ENCFF723QGS.bed.gz
+ENCFF918BVV	ENCSR000BSU	MCF-7	immortalized cell line	adult	female	69 year	JUND-human	https://www.encodeproject.org/files/ENCFF918BVV/@@download/ENCFF918BVV.bed.gz
+ENCFF071JZI	ENCSR000DWH	MCF-7	immortalized cell line	adult	female	69 year	CTCF-human	https://www.encodeproject.org/files/ENCFF071JZI/@@download/ENCFF071JZI.bed.gz
+ENCFF160TXQ	ENCSR000BLI	K562	immortalized cell line	adult	female	53 year	E2F6-human	https://www.encodeproject.org/files/ENCFF160TXQ/@@download/ENCFF160TXQ.bed.gz
+ENCFF505BGP	ENCSR000DXW	WERI-Rb-1	immortalized cell line	child	female	1 year	CTCF-human	https://www.encodeproject.org/files/ENCFF505BGP/@@download/ENCFF505BGP.bed.gz
+ENCFF279EVE	ENCSR000BNX	HCT116	immortalized cell line	unknown	male	unknown	YY1-human	https://www.encodeproject.org/files/ENCFF279EVE/@@download/ENCFF279EVE.bed.gz
+ENCFF809XRT	ENCSR000BHE	A549	immortalized cell line	adult	male	58 year	NR3C1-human	https://www.encodeproject.org/files/ENCFF809XRT/@@download/ENCFF809XRT.bed.gz
+ENCFF388BTU	ENCSR000BJO	Panc1	immortalized cell line	unknown	male	56 year	REST-human	https://www.encodeproject.org/files/ENCFF388BTU/@@download/ENCFF388BTU.bed.gz
+ENCFF159OAX	ENCSR077DKV	K562	immortalized cell line	adult	female	53 year	CREM-human	https://www.encodeproject.org/files/ENCFF159OAX/@@download/ENCFF159OAX.bed.gz
+ENCFF653OAN	ENCSR924GRG	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZBTB49-human	https://www.encodeproject.org/files/ENCFF653OAN/@@download/ENCFF653OAN.bed.gz
+ENCFF662GRH	ENCSR368ZHR	A549	immortalized cell line	adult	male	58 year	CHD1-human	https://www.encodeproject.org/files/ENCFF662GRH/@@download/ENCFF662GRH.bed.gz
+ENCFF402JCS	ENCSR659LJJ	A549	immortalized cell line	adult	male	58 year	HDAC2-human	https://www.encodeproject.org/files/ENCFF402JCS/@@download/ENCFF402JCS.bed.gz
+ENCFF346NMC	ENCSR047LSJ	K562	immortalized cell line	adult	female	53 year	TAF15-human	https://www.encodeproject.org/files/ENCFF346NMC/@@download/ENCFF346NMC.bed.gz
+ENCFF667CNQ	ENCSR000BIM	GM12891	immortalized cell line	unknown	male	unknown	TAF1-human	https://www.encodeproject.org/files/ENCFF667CNQ/@@download/ENCFF667CNQ.bed.gz
+ENCFF933XNU	ENCSR000EDW	HepG2	immortalized cell line	child	male	15 year	SMC3-human	https://www.encodeproject.org/files/ENCFF933XNU/@@download/ENCFF933XNU.bed.gz
+ENCFF376CLS	ENCSR000EXH	NT2/D1	immortalized cell line	unknown	male	22 year	SUZ12-human	https://www.encodeproject.org/files/ENCFF376CLS/@@download/ENCFF376CLS.bed.gz
+ENCFF276FAU	ENCSR000BLZ	SK-N-SH	immortalized cell line	child	female	4 year	YY1-human	https://www.encodeproject.org/files/ENCFF276FAU/@@download/ENCFF276FAU.bed.gz
+ENCFF496MCE	ENCSR183AXJ	HepG2	immortalized cell line	child	male	15 year	HNRNPUL1-human	https://www.encodeproject.org/files/ENCFF496MCE/@@download/ENCFF496MCE.bed.gz
+ENCFF600EIK	ENCSR736ZKL	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF148-human	https://www.encodeproject.org/files/ENCFF600EIK/@@download/ENCFF600EIK.bed.gz
+ENCFF333IVK	ENCSR000DKA	K562	immortalized cell line	adult	female	53 year	eGFP-GATA2-human	https://www.encodeproject.org/files/ENCFF333IVK/@@download/ENCFF333IVK.bed.gz
+ENCFF457YJH	ENCSR000BPT	A549	immortalized cell line	adult	male	58 year	ELF1-human	https://www.encodeproject.org/files/ENCFF457YJH/@@download/ENCFF457YJH.bed.gz
+ENCFF363SYB	ENCSR000BKA	GM12878	immortalized cell line	adult	female	unknown	ETS1-human	https://www.encodeproject.org/files/ENCFF363SYB/@@download/ENCFF363SYB.bed.gz
+ENCFF304OMG	ENCSR000FAU	K562	immortalized cell line	adult	female	53 year	STAT1-human	https://www.encodeproject.org/files/ENCFF304OMG/@@download/ENCFF304OMG.bed.gz
+ENCFF715GFM	ENCSR000DPY	fibroblast of the aortic adventitia	primary cell	unknown	female	unknown	CTCF-human	https://www.encodeproject.org/files/ENCFF715GFM/@@download/ENCFF715GFM.bed.gz
+ENCFF596TWD	ENCSR979QYJ	K562	immortalized cell line	adult	female	53 year	MNT-human	https://www.encodeproject.org/files/ENCFF596TWD/@@download/ENCFF596TWD.bed.gz
+ENCFF577EBU	ENCSR910JAI	K562	immortalized cell line	adult	female	53 year	NCOR1-human	https://www.encodeproject.org/files/ENCFF577EBU/@@download/ENCFF577EBU.bed.gz
+ENCFF491HEV	ENCSR817JZD	A549	immortalized cell line	adult	male	58 year	CHD7-human	https://www.encodeproject.org/files/ENCFF491HEV/@@download/ENCFF491HEV.bed.gz
+ENCFF081TVG	ENCSR703TNG	MCF-7	immortalized cell line	adult	female	53 year	FLAG-RAD21-human	https://www.encodeproject.org/files/ENCFF081TVG/@@download/ENCFF081TVG.bed.gz
+ENCFF129MGH	ENCSR551KAP	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF138-human	https://www.encodeproject.org/files/ENCFF129MGH/@@download/ENCFF129MGH.bed.gz
+ENCFF215DYV	ENCSR120IIK	GM12878	immortalized cell line	adult	female	unknown	CTBP1-human	https://www.encodeproject.org/files/ENCFF215DYV/@@download/ENCFF215DYV.bed.gz
+ENCFF211IIT	ENCSR365DQH	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF211-human	https://www.encodeproject.org/files/ENCFF211IIT/@@download/ENCFF211IIT.bed.gz
+ENCFF099LCC	ENCSR460MBI	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZBTB20-human	https://www.encodeproject.org/files/ENCFF099LCC/@@download/ENCFF099LCC.bed.gz
+ENCFF887HRY	ENCSR632SIM	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZFHX2-human	https://www.encodeproject.org/files/ENCFF887HRY/@@download/ENCFF887HRY.bed.gz
+ENCFF070CAI	ENCSR410HFN	GM12878	immortalized cell line	adult	female	unknown	WHSC1-human	https://www.encodeproject.org/files/ENCFF070CAI/@@download/ENCFF070CAI.bed.gz
+ENCFF401MQL	ENCSR000DUM	HFF-Myc	primary cell	postnatal	male	unknown	CTCF-human	https://www.encodeproject.org/files/ENCFF401MQL/@@download/ENCFF401MQL.bed.gz
+ENCFF008RRH	ENCSR906IQU	MCF-7	immortalized cell line	adult	female	69 year	EZH2-human	https://www.encodeproject.org/files/ENCFF008RRH/@@download/ENCFF008RRH.bed.gz
+ENCFF920GRL	ENCSR017QBI	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF600-human	https://www.encodeproject.org/files/ENCFF920GRL/@@download/ENCFF920GRL.bed.gz
+ENCFF136DLW	ENCSR728MWW	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZIC2-human	https://www.encodeproject.org/files/ENCFF136DLW/@@download/ENCFF136DLW.bed.gz
+ENCFF237YVA	ENCSR464KFG	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF140-human	https://www.encodeproject.org/files/ENCFF237YVA/@@download/ENCFF237YVA.bed.gz
+ENCFF905NMP	ENCSR000EFS	K562	immortalized cell line	adult	female	53 year	JUN-human	https://www.encodeproject.org/files/ENCFF905NMP/@@download/ENCFF905NMP.bed.gz
+ENCFF365NCW	ENCSR000EHP	K562	immortalized cell line	adult	female	53 year	POLR2A-human	https://www.encodeproject.org/files/ENCFF365NCW/@@download/ENCFF365NCW.bed.gz
+ENCFF489RYB	ENCSR000DPA	MCF 10A	immortalized cell line	unknown	female	unknown	POLR2A-human	https://www.encodeproject.org/files/ENCFF489RYB/@@download/ENCFF489RYB.bed.gz
+ENCFF850PKJ	ENCSR000DTO	HCT116	immortalized cell line	unknown	male	unknown	CTCF-human	https://www.encodeproject.org/files/ENCFF850PKJ/@@download/ENCFF850PKJ.bed.gz
+ENCFF593ZQY	ENCSR000BKY	T47D	immortalized cell line	adult	female	54 year	FOXA1-human	https://www.encodeproject.org/files/ENCFF593ZQY/@@download/ENCFF593ZQY.bed.gz
+ENCFF520MMO	ENCSR000BJJ	SK-N-SH	immortalized cell line	child	female	4 year	REST-human	https://www.encodeproject.org/files/ENCFF520MMO/@@download/ENCFF520MMO.bed.gz
+ENCFF180SGO	ENCSR000BJZ	GM12878	immortalized cell line	adult	female	unknown	BCLAF1-human	https://www.encodeproject.org/files/ENCFF180SGO/@@download/ENCFF180SGO.bed.gz
+ENCFF770FCH	ENCSR987MTA	GM12878	immortalized cell line	adult	female	unknown	BHLHE40-human	https://www.encodeproject.org/files/ENCFF770FCH/@@download/ENCFF770FCH.bed.gz
+ENCFF888TCK	ENCSR948KMB	K562	immortalized cell line	adult	female	53 year	PTBP1-human	https://www.encodeproject.org/files/ENCFF888TCK/@@download/ENCFF888TCK.bed.gz
+ENCFF500ARI	ENCSR051DXE	K562	immortalized cell line	adult	female	53 year	FUS-human	https://www.encodeproject.org/files/ENCFF500ARI/@@download/ENCFF500ARI.bed.gz
+ENCFF723ODO	ENCSR000AHF	MCF-7	immortalized cell line	adult	female	69 year	TAF1-human	https://www.encodeproject.org/files/ENCFF723ODO/@@download/ENCFF723ODO.bed.gz
+ENCFF680USG	ENCSR000EWJ	K562	immortalized cell line	adult	female	53 year	E2F6-human	https://www.encodeproject.org/files/ENCFF680USG/@@download/ENCFF680USG.bed.gz
+ENCFF856RYW	ENCSR000EFG	IMR-90	primary cell	fetal	female	16 week	RCOR1-human	https://www.encodeproject.org/files/ENCFF856RYW/@@download/ENCFF856RYW.bed.gz
+ENCFF003UXM	ENCSR000EGI	K562	immortalized cell line	adult	female	53 year	MAFF-human	https://www.encodeproject.org/files/ENCFF003UXM/@@download/ENCFF003UXM.bed.gz
+ENCFF535XNA	ENCSR784FYS	HepG2	immortalized cell line	child	male	15 year	RBFOX2-human	https://www.encodeproject.org/files/ENCFF535XNA/@@download/ENCFF535XNA.bed.gz
+ENCFF515OHN	ENCSR909HMT	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZEB1-human	https://www.encodeproject.org/files/ENCFF515OHN/@@download/ENCFF515OHN.bed.gz
+ENCFF605TNJ	ENCSR632DCH	K562	immortalized cell line	adult	female	53 year	eGFP-ATF3-human	https://www.encodeproject.org/files/ENCFF605TNJ/@@download/ENCFF605TNJ.bed.gz
+ENCFF829IJE	ENCSR950ACO	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF785-human	https://www.encodeproject.org/files/ENCFF829IJE/@@download/ENCFF829IJE.bed.gz
+ENCFF819WBT	ENCSR775HFF	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF791-human	https://www.encodeproject.org/files/ENCFF819WBT/@@download/ENCFF819WBT.bed.gz
+ENCFF059AZP	ENCSR331GDC	K562	immortalized cell line	adult	female	53 year	ZBTB11-human	https://www.encodeproject.org/files/ENCFF059AZP/@@download/ENCFF059AZP.bed.gz
+ENCFF700UZN	ENCSR000DTI	cardiac muscle cell	primary cell	unknown	unknown	unknown	CTCF-human	https://www.encodeproject.org/files/ENCFF700UZN/@@download/ENCFF700UZN.bed.gz
+ENCFF416CBR	ENCSR000BKE	HepG2	immortalized cell line	child	male	15 year	ATF3-human	https://www.encodeproject.org/files/ENCFF416CBR/@@download/ENCFF416CBR.bed.gz
+ENCFF133MYR	ENCSR811JJM	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF19-human	https://www.encodeproject.org/files/ENCFF133MYR/@@download/ENCFF133MYR.bed.gz
+ENCFF759SNQ	ENCSR604VWJ	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-KLF7-human	https://www.encodeproject.org/files/ENCFF759SNQ/@@download/ENCFF759SNQ.bed.gz
+ENCFF087JFS	ENCSR777YSB	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF781-human	https://www.encodeproject.org/files/ENCFF087JFS/@@download/ENCFF087JFS.bed.gz
+ENCFF471EGU	ENCSR778QLY	HEK293T	immortalized cell line	embryonic	female	unknown	ELF4-human	https://www.encodeproject.org/files/ENCFF471EGU/@@download/ENCFF471EGU.bed.gz
+ENCFF252QZC	ENCSR000DQD	BE2C	immortalized cell line	child	male	2 year	CTCF-human	https://www.encodeproject.org/files/ENCFF252QZC/@@download/ENCFF252QZC.bed.gz
+ENCFF103IPZ	ENCSR000DOQ	MCF 10A	immortalized cell line	unknown	female	unknown	STAT3-human	https://www.encodeproject.org/files/ENCFF103IPZ/@@download/ENCFF103IPZ.bed.gz
+ENCFF393ZEE	ENCSR000BGY	GM12878	immortalized cell line	adult	female	unknown	IRF4-human	https://www.encodeproject.org/files/ENCFF393ZEE/@@download/ENCFF393ZEE.bed.gz
+ENCFF770USX	ENCSR000BIU	H1-hESC	stem cell	embryonic	male	unknown	USF1-human	https://www.encodeproject.org/files/ENCFF770USX/@@download/ENCFF770USX.bed.gz
+ENCFF952CNN	ENCSR000BHD	GM12878	immortalized cell line	adult	female	unknown	PAX5-human	https://www.encodeproject.org/files/ENCFF952CNN/@@download/ENCFF952CNN.bed.gz
+ENCFF993AAD	ENCSR000BPM	A549	immortalized cell line	adult	male	58 year	YY1-human	https://www.encodeproject.org/files/ENCFF993AAD/@@download/ENCFF993AAD.bed.gz
+ENCFF141JYN	ENCSR000BHU	HepG2	immortalized cell line	child	male	15 year	RXRA-human	https://www.encodeproject.org/files/ENCFF141JYN/@@download/ENCFF141JYN.bed.gz
+ENCFF281NFW	ENCSR000EWL	K562	immortalized cell line	adult	female	53 year	E2F4-human	https://www.encodeproject.org/files/ENCFF281NFW/@@download/ENCFF281NFW.bed.gz
+ENCFF616KNI	ENCSR243INX	PC-9	immortalized cell line	unknown	unknown	unknown	CTCF-human	https://www.encodeproject.org/files/ENCFF616KNI/@@download/ENCFF616KNI.bed.gz
+ENCFF342CWI	ENCSR803GYT	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-HIC1-human	https://www.encodeproject.org/files/ENCFF342CWI/@@download/ENCFF342CWI.bed.gz
+ENCFF685AMZ	ENCSR019KPC	HepG2	immortalized cell line	child	male	15 year	PLRG1-human	https://www.encodeproject.org/files/ENCFF685AMZ/@@download/ENCFF685AMZ.bed.gz
+ENCFF497YYA	ENCSR289NSN	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF354C-human	https://www.encodeproject.org/files/ENCFF497YYA/@@download/ENCFF497YYA.bed.gz
+ENCFF982IIX	ENCSR591EBL	MCF-7	immortalized cell line	adult	female	69 year	NBN-human	https://www.encodeproject.org/files/ENCFF982IIX/@@download/ENCFF982IIX.bed.gz
+ENCFF553RWU	ENCSR224QDY	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF121-human	https://www.encodeproject.org/files/ENCFF553RWU/@@download/ENCFF553RWU.bed.gz
+ENCFF783GDC	ENCSR130PDE	K562	immortalized cell line	adult	female	53 year	eGFP-NR4A1-human	https://www.encodeproject.org/files/ENCFF783GDC/@@download/ENCFF783GDC.bed.gz
+ENCFF413XGH	ENCSR315JJE	HepG2	immortalized cell line	child	male	15 year	HNRNPL-human	https://www.encodeproject.org/files/ENCFF413XGH/@@download/ENCFF413XGH.bed.gz
+ENCFF328XWJ	ENCSR476BQA	HepG2	immortalized cell line	child	male	15 year	NONO-human	https://www.encodeproject.org/files/ENCFF328XWJ/@@download/ENCFF328XWJ.bed.gz
+ENCFF635YAT	ENCSR384LYW	hepatocyte	in vitro differentiated cells	embryonic	female	5 day	EZH2-human	https://www.encodeproject.org/files/ENCFF635YAT/@@download/ENCFF635YAT.bed.gz
+ENCFF788AFZ	ENCSR692HSE	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-YY2-human	https://www.encodeproject.org/files/ENCFF788AFZ/@@download/ENCFF788AFZ.bed.gz
+ENCFF662LUJ	ENCSR223TAV	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-PRDM10-human	https://www.encodeproject.org/files/ENCFF662LUJ/@@download/ENCFF662LUJ.bed.gz
+ENCFF984RVM	ENCSR769JRS	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-AEBP2-human	https://www.encodeproject.org/files/ENCFF984RVM/@@download/ENCFF984RVM.bed.gz
+ENCFF741PQE	ENCSR735KEY	liver	tissue	adult	male	32 year	FOXA1-human	https://www.encodeproject.org/files/ENCFF741PQE/@@download/ENCFF741PQE.bed.gz
+ENCFF288DNT	ENCSR616MOB	A549	immortalized cell line	adult	male	58 year	CBX8-human	https://www.encodeproject.org/files/ENCFF288DNT/@@download/ENCFF288DNT.bed.gz
+ENCFF623TXS	ENCSR550SCU	A549	immortalized cell line	adult	male	58 year	CHD4-human	https://www.encodeproject.org/files/ENCFF623TXS/@@download/ENCFF623TXS.bed.gz
+ENCFF795JGA	ENCSR986XYK	MCF-7	immortalized cell line	adult	female	69 year	PKNOX1-human	https://www.encodeproject.org/files/ENCFF795JGA/@@download/ENCFF795JGA.bed.gz
+ENCFF900OBI	ENCSR021DJC	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-BCL11A-human	https://www.encodeproject.org/files/ENCFF900OBI/@@download/ENCFF900OBI.bed.gz
+ENCFF276NIW	ENCSR418MKG	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF692-human	https://www.encodeproject.org/files/ENCFF276NIW/@@download/ENCFF276NIW.bed.gz
+ENCFF027TJN	ENCSR000EGF	K562	immortalized cell line	adult	female	53 year	POLR2AphosphoS2-human	https://www.encodeproject.org/files/ENCFF027TJN/@@download/ENCFF027TJN.bed.gz
+ENCFF272CWK	ENCSR000EFY	K562	immortalized cell line	adult	female	53 year	ARID3A-human	https://www.encodeproject.org/files/ENCFF272CWK/@@download/ENCFF272CWK.bed.gz
+ENCFF192LJQ	ENCSR000BPZ	A549	immortalized cell line	adult	male	58 year	ZBTB33-human	https://www.encodeproject.org/files/ENCFF192LJQ/@@download/ENCFF192LJQ.bed.gz
+ENCFF722HUF	ENCSR000EVU	endothelial cell of umbilical vein	primary cell	newborn	unknown	unknown	FOS-human	https://www.encodeproject.org/files/ENCFF722HUF/@@download/ENCFF722HUF.bed.gz
+ENCFF138KWB	ENCSR000BQD	T47D	immortalized cell line	adult	female	54 year	ESR1-human	https://www.encodeproject.org/files/ENCFF138KWB/@@download/ENCFF138KWB.bed.gz
+ENCFF615CVL	ENCSR000BPY	A549	immortalized cell line	adult	male	58 year	GABPA-human	https://www.encodeproject.org/files/ENCFF615CVL/@@download/ENCFF615CVL.bed.gz
+ENCFF662LUH	ENCSR000EGW	K562	immortalized cell line	adult	female	53 year	SMC3-human	https://www.encodeproject.org/files/ENCFF662LUH/@@download/ENCFF662LUH.bed.gz
+ENCFF554HGM	ENCSR000BHZ	GM12892	immortalized cell line	unknown	female	unknown	POLR2A-human	https://www.encodeproject.org/files/ENCFF554HGM/@@download/ENCFF554HGM.bed.gz
+ENCFF632THJ	ENCSR000EEB	HepG2	immortalized cell line	child	male	15 year	MAFK-human	https://www.encodeproject.org/files/ENCFF632THJ/@@download/ENCFF632THJ.bed.gz
+ENCFF330LVI	ENCSR000DYS	GM12878	immortalized cell line	adult	female	unknown	JUND-human	https://www.encodeproject.org/files/ENCFF330LVI/@@download/ENCFF330LVI.bed.gz
+ENCFF327FRU	ENCSR899BKM	MCF-7	immortalized cell line	adult	female	69 year	ZNF687-human	https://www.encodeproject.org/files/ENCFF327FRU/@@download/ENCFF327FRU.bed.gz
+ENCFF809EGU	ENCSR679STZ	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF792-human	https://www.encodeproject.org/files/ENCFF809EGU/@@download/ENCFF809EGU.bed.gz
+ENCFF245KFB	ENCSR707BNG	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-MYNN-human	https://www.encodeproject.org/files/ENCFF245KFB/@@download/ENCFF245KFB.bed.gz
+ENCFF277SUI	ENCSR146NLL	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-REPIN1-human	https://www.encodeproject.org/files/ENCFF277SUI/@@download/ENCFF277SUI.bed.gz
+ENCFF608GNP	ENCSR263DFP	K562	immortalized cell line	adult	female	53 year	eGFP-PBX2-human	https://www.encodeproject.org/files/ENCFF608GNP/@@download/ENCFF608GNP.bed.gz
+ENCFF910ZEV	ENCSR768HOH	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF324-human	https://www.encodeproject.org/files/ENCFF910ZEV/@@download/ENCFF910ZEV.bed.gz
+ENCFF386PEX	ENCSR674SCQ	K562	immortalized cell line	adult	female	53 year	eGFP-ZNF354B-human	https://www.encodeproject.org/files/ENCFF386PEX/@@download/ENCFF386PEX.bed.gz
+ENCFF429TTF	ENCSR102KIN	K562	immortalized cell line	adult	female	53 year	ZMYM3-human	https://www.encodeproject.org/files/ENCFF429TTF/@@download/ENCFF429TTF.bed.gz
+ENCFF482RHW	ENCSR993LMB	HepG2	immortalized cell line	child	male	15 year	FLAG-TGIF2-human	https://www.encodeproject.org/files/ENCFF482RHW/@@download/ENCFF482RHW.bed.gz
+ENCFF830UEH	ENCSR000FCB	K562	immortalized cell line	adult	female	53 year	MITF-human	https://www.encodeproject.org/files/ENCFF830UEH/@@download/ENCFF830UEH.bed.gz
+ENCFF120LIC	ENCSR117CHD	HepG2	immortalized cell line	child	male	15 year	FLAG-HOMEZ-human	https://www.encodeproject.org/files/ENCFF120LIC/@@download/ENCFF120LIC.bed.gz
+ENCFF261LSG	ENCSR531VIJ	HepG2	immortalized cell line	child	male	15 year	FLAG-MIER3-human	https://www.encodeproject.org/files/ENCFF261LSG/@@download/ENCFF261LSG.bed.gz
+ENCFF857AXB	ENCSR957LDM	K562	immortalized cell line	adult	female	53 year	TRIM24-human	https://www.encodeproject.org/files/ENCFF857AXB/@@download/ENCFF857AXB.bed.gz
+ENCFF805RSY	ENCSR201NQZ	K562	immortalized cell line	adult	female	53 year	CTBP1-human	https://www.encodeproject.org/files/ENCFF805RSY/@@download/ENCFF805RSY.bed.gz
+ENCFF531LRF	ENCSR231ENE	MCF-7	immortalized cell line	adult	female	69 year	ARID3A-human	https://www.encodeproject.org/files/ENCFF531LRF/@@download/ENCFF531LRF.bed.gz
+ENCFF127MVR	ENCSR711UOA	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF837-human	https://www.encodeproject.org/files/ENCFF127MVR/@@download/ENCFF127MVR.bed.gz
+ENCFF016SNP	ENCSR381VYR	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZFP69B-human	https://www.encodeproject.org/files/ENCFF016SNP/@@download/ENCFF016SNP.bed.gz
+ENCFF270PLW	ENCSR886RYH	K562	immortalized cell line	adult	female	53 year	NONO-human	https://www.encodeproject.org/files/ENCFF270PLW/@@download/ENCFF270PLW.bed.gz
+ENCFF188DPS	ENCSR656MXA	neural progenitor cell	in vitro differentiated cells	embryonic	female	5 day	EZH2phosphoT487-human	https://www.encodeproject.org/files/ENCFF188DPS/@@download/ENCFF188DPS.bed.gz
+ENCFF033BDD	ENCSR966ULI	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-PATZ1-human	https://www.encodeproject.org/files/ENCFF033BDD/@@download/ENCFF033BDD.bed.gz
+ENCFF860SGT	ENCSR800QIT	HepG2	immortalized cell line	child	male	15 year	HNF1A-human	https://www.encodeproject.org/files/ENCFF860SGT/@@download/ENCFF860SGT.bed.gz
+ENCFF481AOS	ENCSR000EFV	K562	immortalized cell line	adult	female	53 year	MAX-human	https://www.encodeproject.org/files/ENCFF481AOS/@@download/ENCFF481AOS.bed.gz
+ENCFF803HGS	ENCSR000BHB	GM12878	immortalized cell line	adult	female	unknown	EP300-human	https://www.encodeproject.org/files/ENCFF803HGS/@@download/ENCFF803HGS.bed.gz
+ENCFF214TVS	ENCSR000BPI	HepG2	immortalized cell line	child	male	15 year	POLR2AphosphoS5-human	https://www.encodeproject.org/files/ENCFF214TVS/@@download/ENCFF214TVS.bed.gz
+ENCFF883BHO	ENCSR000BJK	HepG2	immortalized cell line	child	male	15 year	GABPA-human	https://www.encodeproject.org/files/ENCFF883BHO/@@download/ENCFF883BHO.bed.gz
+ENCFF394FTH	ENCSR552XSN	GM12878	immortalized cell line	adult	female	unknown	MLLT1-human	https://www.encodeproject.org/files/ENCFF394FTH/@@download/ENCFF394FTH.bed.gz
+ENCFF111NVY	ENCSR106EBH	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF366-human	https://www.encodeproject.org/files/ENCFF111NVY/@@download/ENCFF111NVY.bed.gz
+ENCFF926MTA	ENCSR269TNX	HepG2	immortalized cell line	child	male	15 year	FLAG-GABP-human	https://www.encodeproject.org/files/ENCFF926MTA/@@download/ENCFF926MTA.bed.gz
+ENCFF006OFJ	ENCSR293QAR	GM12878	immortalized cell line	adult	female	unknown	MTA2-human	https://www.encodeproject.org/files/ENCFF006OFJ/@@download/ENCFF006OFJ.bed.gz
+ENCFF209OKY	ENCSR296MXW	K562	immortalized cell line	adult	female	53 year	HNRNPUL1-human	https://www.encodeproject.org/files/ENCFF209OKY/@@download/ENCFF209OKY.bed.gz
+ENCFF183DMM	ENCSR872EVQ	HepG2	immortalized cell line	child	male	15 year	PCBP1-human	https://www.encodeproject.org/files/ENCFF183DMM/@@download/ENCFF183DMM.bed.gz
+ENCFF840OHH	ENCSR506HXN	HepG2	immortalized cell line	child	male	15 year	TRIM22-human	https://www.encodeproject.org/files/ENCFF840OHH/@@download/ENCFF840OHH.bed.gz
+ENCFF310IQK	ENCSR252QYR	hepatocyte	in vitro differentiated cells	embryonic	female	5 day	CTCF-human	https://www.encodeproject.org/files/ENCFF310IQK/@@download/ENCFF310IQK.bed.gz
+ENCFF813QKQ	ENCSR768LIO	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-OVOL3-human	https://www.encodeproject.org/files/ENCFF813QKQ/@@download/ENCFF813QKQ.bed.gz
+ENCFF704SUZ	ENCSR365GRX	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZFP37-human	https://www.encodeproject.org/files/ENCFF704SUZ/@@download/ENCFF704SUZ.bed.gz
+ENCFF201JCN	ENCSR874AFU	GM12878	immortalized cell line	adult	female	unknown	IKZF1-human	https://www.encodeproject.org/files/ENCFF201JCN/@@download/ENCFF201JCN.bed.gz
+ENCFF438FCN	ENCSR334HSW	K562	immortalized cell line	adult	female	53 year	ZNF318-human	https://www.encodeproject.org/files/ENCFF438FCN/@@download/ENCFF438FCN.bed.gz
+ENCFF409WNF	ENCSR961PPA	GM12878	immortalized cell line	adult	female	unknown	ATF2-human	https://www.encodeproject.org/files/ENCFF409WNF/@@download/ENCFF409WNF.bed.gz
+ENCFF619AEN	ENCSR744WOO	K562	immortalized cell line	adult	female	53 year	TCF12-human	https://www.encodeproject.org/files/ENCFF619AEN/@@download/ENCFF619AEN.bed.gz
+ENCFF250NHM	ENCSR542WJU	K562	immortalized cell line	adult	female	53 year	MCM7-human	https://www.encodeproject.org/files/ENCFF250NHM/@@download/ENCFF250NHM.bed.gz
+ENCFF830BRF	ENCSR230PTV	K562	immortalized cell line	adult	female	53 year	ZBTB2-human	https://www.encodeproject.org/files/ENCFF830BRF/@@download/ENCFF830BRF.bed.gz
+ENCFF032MJB	ENCSR798ILC	K562	immortalized cell line	adult	female	53 year	NCOR1-human	https://www.encodeproject.org/files/ENCFF032MJB/@@download/ENCFF032MJB.bed.gz
+ENCFF503PQW	ENCSR770AOR	HepG2	immortalized cell line	child	male	15 year	FLAG-ELF3-human	https://www.encodeproject.org/files/ENCFF503PQW/@@download/ENCFF503PQW.bed.gz
+ENCFF249MMP	ENCSR670YPQ	HepG2	immortalized cell line	child	male	15 year	FLAG-DMAP1-human	https://www.encodeproject.org/files/ENCFF249MMP/@@download/ENCFF249MMP.bed.gz
+ENCFF163ZBA	ENCSR441KFW	HepG2	immortalized cell line	child	male	15 year	FLAG-MXD4-human	https://www.encodeproject.org/files/ENCFF163ZBA/@@download/ENCFF163ZBA.bed.gz
+ENCFF772WLM	ENCSR352BJL	K562	immortalized cell line	adult	female	53 year	ZNF318-human	https://www.encodeproject.org/files/ENCFF772WLM/@@download/ENCFF772WLM.bed.gz
+ENCFF331QXX	ENCSR128IYN	HepG2	immortalized cell line	child	male	15 year	SNRNP70-human	https://www.encodeproject.org/files/ENCFF331QXX/@@download/ENCFF331QXX.bed.gz
+ENCFF706NPK	ENCSR090ZDO	HEK293T	immortalized cell line	embryonic	female	unknown	SUZ12-human	https://www.encodeproject.org/files/ENCFF706NPK/@@download/ENCFF706NPK.bed.gz
+ENCFF369VYR	ENCSR535DIA	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-GLIS2-human	https://www.encodeproject.org/files/ENCFF369VYR/@@download/ENCFF369VYR.bed.gz
+ENCFF558SDJ	ENCSR591CCL	K562	immortalized cell line	adult	female	53 year	eGFP-ZNF512-human	https://www.encodeproject.org/files/ENCFF558SDJ/@@download/ENCFF558SDJ.bed.gz
+ENCFF557SFL	ENCSR710WLO	K562	immortalized cell line	adult	female	53 year	MGA-human	https://www.encodeproject.org/files/ENCFF557SFL/@@download/ENCFF557SFL.bed.gz
+ENCFF256ECY	ENCSR000BOZ	SK-N-SH	immortalized cell line	child	female	4 year	REST-human	https://www.encodeproject.org/files/ENCFF256ECY/@@download/ENCFF256ECY.bed.gz
+ENCFF639EJK	ENCSR445QRF	liver	tissue	child	female	4 year	HNF4A-human	https://www.encodeproject.org/files/ENCFF639EJK/@@download/ENCFF639EJK.bed.gz
+ENCFF137HKJ	ENCSR096KWU	MCF-7	immortalized cell line	adult	female	69 year	ZNF207-human	https://www.encodeproject.org/files/ENCFF137HKJ/@@download/ENCFF137HKJ.bed.gz
+ENCFF588MFA	ENCSR462FWS	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF101-human	https://www.encodeproject.org/files/ENCFF588MFA/@@download/ENCFF588MFA.bed.gz
+ENCFF269DNZ	ENCSR334KIQ	HepG2	immortalized cell line	child	male	15 year	SP1-human	https://www.encodeproject.org/files/ENCFF269DNZ/@@download/ENCFF269DNZ.bed.gz
+ENCFF012DPW	ENCSR754ZHU	K562	immortalized cell line	adult	female	53 year	SNRNP70-human	https://www.encodeproject.org/files/ENCFF012DPW/@@download/ENCFF012DPW.bed.gz
+ENCFF829MGY	ENCSR778UBR	GM12878	immortalized cell line	adult	female	unknown	ARID3A-human	https://www.encodeproject.org/files/ENCFF829MGY/@@download/ENCFF829MGY.bed.gz
+ENCFF229LRU	ENCSR228PGT	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF292-human	https://www.encodeproject.org/files/ENCFF229LRU/@@download/ENCFF229LRU.bed.gz
+ENCFF735JKV	ENCSR753GIA	HEK293T	immortalized cell line	embryonic	female	unknown	TARDBP-human	https://www.encodeproject.org/files/ENCFF735JKV/@@download/ENCFF735JKV.bed.gz
+ENCFF605VXL	ENCSR908CMW	K562	immortalized cell line	adult	female	53 year	KDM1A-human	https://www.encodeproject.org/files/ENCFF605VXL/@@download/ENCFF605VXL.bed.gz
+ENCFF014VRD	ENCSR647ZXA	K562	immortalized cell line	adult	female	53 year	eGFP-MEF2D-human	https://www.encodeproject.org/files/ENCFF014VRD/@@download/ENCFF014VRD.bed.gz
+ENCFF873NGI	ENCSR000ATN	CD14-positive monocyte	primary cell	unknown	female	unknown	CTCF-human	https://www.encodeproject.org/files/ENCFF873NGI/@@download/ENCFF873NGI.bed.gz
+ENCFF092GMD	ENCSR849WCQ	GM12878	immortalized cell line	adult	female	unknown	ASH2L-human	https://www.encodeproject.org/files/ENCFF092GMD/@@download/ENCFF092GMD.bed.gz
+ENCFF804KSB	ENCSR277DMR	K562	immortalized cell line	adult	female	53 year	eGFP-ETV1-human	https://www.encodeproject.org/files/ENCFF804KSB/@@download/ENCFF804KSB.bed.gz
+ENCFF556AEV	ENCSR230ZWH	liver	tissue	child	female	4 year	RAD21-human	https://www.encodeproject.org/files/ENCFF556AEV/@@download/ENCFF556AEV.bed.gz
+ENCFF937LGS	ENCSR033VAZ	K562	immortalized cell line	adult	female	53 year	TARDBP-human	https://www.encodeproject.org/files/ENCFF937LGS/@@download/ENCFF937LGS.bed.gz
+ENCFF191MYC	ENCSR948QLZ	K562	immortalized cell line	adult	female	53 year	CBX1-human	https://www.encodeproject.org/files/ENCFF191MYC/@@download/ENCFF191MYC.bed.gz
+ENCFF914VTC	ENCSR087NSR	HepG2	immortalized cell line	child	male	15 year	FLAG-KDM1A-human	https://www.encodeproject.org/files/ENCFF914VTC/@@download/ENCFF914VTC.bed.gz
+ENCFF497ZJO	ENCSR156CWW	HepG2	immortalized cell line	child	male	15 year	FLAG-DNMT3B-human	https://www.encodeproject.org/files/ENCFF497ZJO/@@download/ENCFF497ZJO.bed.gz
+ENCFF516QUC	ENCSR369NGL	induced pluripotent stem cell	induced pluripotent stem cell line	adult	male	53 year	POLR2AphosphoS5-human	https://www.encodeproject.org/files/ENCFF516QUC/@@download/ENCFF516QUC.bed.gz
+ENCFF142JBX	ENCSR091GVJ	K562	immortalized cell line	adult	female	53 year	eGFP-ATF1-human	https://www.encodeproject.org/files/ENCFF142JBX/@@download/ENCFF142JBX.bed.gz
+ENCFF158NBU	ENCSR407BEZ	HepG2	immortalized cell line	child	male	15 year	ZHX2-human	https://www.encodeproject.org/files/ENCFF158NBU/@@download/ENCFF158NBU.bed.gz
+ENCFF070WGY	ENCSR101FJT	HepG2	immortalized cell line	child	male	15 year	ZNF143-human	https://www.encodeproject.org/files/ENCFF070WGY/@@download/ENCFF070WGY.bed.gz
+ENCFF551PUN	ENCSR668HOP	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF580-human	https://www.encodeproject.org/files/ENCFF551PUN/@@download/ENCFF551PUN.bed.gz
+ENCFF920LAF	ENCSR661AXW	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF169-human	https://www.encodeproject.org/files/ENCFF920LAF/@@download/ENCFF920LAF.bed.gz
+ENCFF128CQA	ENCSR233FAG	HEK293T	immortalized cell line	embryonic	female	unknown	PKNOX1-human	https://www.encodeproject.org/files/ENCFF128CQA/@@download/ENCFF128CQA.bed.gz
+ENCFF970WRP	ENCSR532EMP	K562	immortalized cell line	adult	female	53 year	eGFP-ZNF740-human	https://www.encodeproject.org/files/ENCFF970WRP/@@download/ENCFF970WRP.bed.gz
+ENCFF278QIG	ENCSR663WAR	H1-hESC	stem cell	embryonic	male	unknown	REST-human	https://www.encodeproject.org/files/ENCFF278QIG/@@download/ENCFF278QIG.bed.gz
+ENCFF458FNC	ENCSR892DRK	A549	immortalized cell line	adult	male	58 year	REST-human	https://www.encodeproject.org/files/ENCFF458FNC/@@download/ENCFF458FNC.bed.gz
+ENCFF825GFC	ENCSR933MHJ	A549	immortalized cell line	adult	male	58 year	KDM5A-human	https://www.encodeproject.org/files/ENCFF825GFC/@@download/ENCFF825GFC.bed.gz
+ENCFF572YBZ	ENCSR982FSK	GM12878	immortalized cell line	adult	female	unknown	KDM5A-human	https://www.encodeproject.org/files/ENCFF572YBZ/@@download/ENCFF572YBZ.bed.gz
+ENCFF492VKT	ENCSR290MUH	K562	immortalized cell line	adult	female	53 year	eGFP-GABPA-human	https://www.encodeproject.org/files/ENCFF492VKT/@@download/ENCFF492VKT.bed.gz
+ENCFF732DCA	ENCSR469WAO	A549	immortalized cell line	adult	male	58 year	CBX2-human	https://www.encodeproject.org/files/ENCFF732DCA/@@download/ENCFF732DCA.bed.gz
+ENCFF921NKG	ENCSR443MVV	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-PRDM4-human	https://www.encodeproject.org/files/ENCFF921NKG/@@download/ENCFF921NKG.bed.gz
+ENCFF682VTY	ENCSR909TSW	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF547-human	https://www.encodeproject.org/files/ENCFF682VTY/@@download/ENCFF682VTY.bed.gz
+ENCFF026FEJ	ENCSR400FSM	K562	immortalized cell line	adult	female	53 year	eGFP-POLR2H-human	https://www.encodeproject.org/files/ENCFF026FEJ/@@download/ENCFF026FEJ.bed.gz
+ENCFF074NQW	ENCSR440COG	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF239-human	https://www.encodeproject.org/files/ENCFF074NQW/@@download/ENCFF074NQW.bed.gz
+ENCFF115PUW	ENCSR502KPJ	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF843-human	https://www.encodeproject.org/files/ENCFF115PUW/@@download/ENCFF115PUW.bed.gz
+ENCFF758QMX	ENCSR357QJR	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZSCAN5A-human	https://www.encodeproject.org/files/ENCFF758QMX/@@download/ENCFF758QMX.bed.gz
+ENCFF099UVV	ENCSR760AAY	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-PRDM12-human	https://www.encodeproject.org/files/ENCFF099UVV/@@download/ENCFF099UVV.bed.gz
+ENCFF438DWU	ENCSR895HSJ	K562	immortalized cell line	adult	female	53 year	SMARCA5-human	https://www.encodeproject.org/files/ENCFF438DWU/@@download/ENCFF438DWU.bed.gz
+ENCFF757UDB	ENCSR298JCG	K562	immortalized cell line	adult	female	53 year	NCOR1-human	https://www.encodeproject.org/files/ENCFF757UDB/@@download/ENCFF757UDB.bed.gz
+ENCFF195JOB	ENCSR167KBO	K562	immortalized cell line	adult	female	53 year	ZNF316-human	https://www.encodeproject.org/files/ENCFF195JOB/@@download/ENCFF195JOB.bed.gz
+ENCFF467REJ	ENCSR011NOZ	K562	immortalized cell line	adult	female	53 year	ZNF407-human	https://www.encodeproject.org/files/ENCFF467REJ/@@download/ENCFF467REJ.bed.gz
+ENCFF538UZE	ENCSR808AKZ	K562	immortalized cell line	adult	female	53 year	BCOR-human	https://www.encodeproject.org/files/ENCFF538UZE/@@download/ENCFF538UZE.bed.gz
+ENCFF451KJL	ENCSR065WUF	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-KLF17-human	https://www.encodeproject.org/files/ENCFF451KJL/@@download/ENCFF451KJL.bed.gz
+ENCFF375FSG	ENCSR635NOQ	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-KLF8-human	https://www.encodeproject.org/files/ENCFF375FSG/@@download/ENCFF375FSG.bed.gz
+ENCFF950VDB	ENCSR801RPW	K562	immortalized cell line	adult	female	53 year	eGFP-GTF2A2-human	https://www.encodeproject.org/files/ENCFF950VDB/@@download/ENCFF950VDB.bed.gz
+ENCFF939CTJ	ENCSR445PDR	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-GFI1B-human	https://www.encodeproject.org/files/ENCFF939CTJ/@@download/ENCFF939CTJ.bed.gz
+ENCFF424CIJ	ENCSR919CZU	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-EGR2-human	https://www.encodeproject.org/files/ENCFF424CIJ/@@download/ENCFF424CIJ.bed.gz
+ENCFF564LOI	ENCSR762DQP	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF658-human	https://www.encodeproject.org/files/ENCFF564LOI/@@download/ENCFF564LOI.bed.gz
+ENCFF073LLC	ENCSR477OJI	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF423-human	https://www.encodeproject.org/files/ENCFF073LLC/@@download/ENCFF073LLC.bed.gz
+ENCFF766HDH	ENCSR864VJE	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZSCAN16-human	https://www.encodeproject.org/files/ENCFF766HDH/@@download/ENCFF766HDH.bed.gz
+ENCFF322EMJ	ENCSR217QCK	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF697-human	https://www.encodeproject.org/files/ENCFF322EMJ/@@download/ENCFF322EMJ.bed.gz
+ENCFF682AFZ	ENCSR559IOZ	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZXDB-human	https://www.encodeproject.org/files/ENCFF682AFZ/@@download/ENCFF682AFZ.bed.gz
+ENCFF295AZL	ENCSR101FJU	HepG2	immortalized cell line	child	male	15 year	ZNF384-human	https://www.encodeproject.org/files/ENCFF295AZL/@@download/ENCFF295AZL.bed.gz
+ENCFF213EHL	ENCSR353HEP	K562	immortalized cell line	adult	female	53 year	TARDBP-human	https://www.encodeproject.org/files/ENCFF213EHL/@@download/ENCFF213EHL.bed.gz
+ENCFF027GDP	ENCSR093FKD	K562	immortalized cell line	adult	female	53 year	eGFP-CREB3-human	https://www.encodeproject.org/files/ENCFF027GDP/@@download/ENCFF027GDP.bed.gz
+ENCFF412EVD	ENCSR106FRG	K562	immortalized cell line	adult	female	53 year	TAL1-human	https://www.encodeproject.org/files/ENCFF412EVD/@@download/ENCFF412EVD.bed.gz
+ENCFF581CQM	ENCSR455DOO	HepG2	immortalized cell line	child	male	15 year	FLAG-RCOR2-human	https://www.encodeproject.org/files/ENCFF581CQM/@@download/ENCFF581CQM.bed.gz
+ENCFF615GQC	ENCSR396SOH	HepG2	immortalized cell line	child	male	15 year	FLAG-ZNF792-human	https://www.encodeproject.org/files/ENCFF615GQC/@@download/ENCFF615GQC.bed.gz
+ENCFF577PUV	ENCSR115PIK	HepG2	immortalized cell line	child	male	15 year	FLAG-MIER2-human	https://www.encodeproject.org/files/ENCFF577PUV/@@download/ENCFF577PUV.bed.gz
+ENCFF302XKF	ENCSR871TKJ	K562	immortalized cell line	adult	female	53 year	THRAP3-human	https://www.encodeproject.org/files/ENCFF302XKF/@@download/ENCFF302XKF.bed.gz
+ENCFF793YUM	ENCSR988ZSI	HepG2	immortalized cell line	child	male	15 year	FLAG-RERE-human	https://www.encodeproject.org/files/ENCFF793YUM/@@download/ENCFF793YUM.bed.gz
+ENCFF528EDV	ENCSR000BRW	K562	immortalized cell line	adult	female	53 year	TRIM28-human	https://www.encodeproject.org/files/ENCFF528EDV/@@download/ENCFF528EDV.bed.gz
+ENCFF505HOV	ENCSR987PBI	K562	immortalized cell line	adult	female	53 year	DNMT1-human	https://www.encodeproject.org/files/ENCFF505HOV/@@download/ENCFF505HOV.bed.gz
+ENCFF771TNK	ENCSR822CCM	K562	immortalized cell line	adult	female	53 year	ARID1B-human	https://www.encodeproject.org/files/ENCFF771TNK/@@download/ENCFF771TNK.bed.gz
+ENCFF964DVU	ENCSR567JEU	K562	immortalized cell line	adult	female	53 year	YBX3-human	https://www.encodeproject.org/files/ENCFF964DVU/@@download/ENCFF964DVU.bed.gz
+ENCFF883AYB	ENCSR189TRZ	K562	immortalized cell line	adult	female	53 year	TCF12-human	https://www.encodeproject.org/files/ENCFF883AYB/@@download/ENCFF883AYB.bed.gz
+ENCFF148GRM	ENCSR175SZH	K562	immortalized cell line	adult	female	53 year	ZSCAN29-human	https://www.encodeproject.org/files/ENCFF148GRM/@@download/ENCFF148GRM.bed.gz
+ENCFF777MDP	ENCSR038RGL	K562	immortalized cell line	adult	female	53 year	MCM7-human	https://www.encodeproject.org/files/ENCFF777MDP/@@download/ENCFF777MDP.bed.gz
+ENCFF418KCB	ENCSR009KLQ	HepG2	immortalized cell line	child	male	15 year	FLAG-KLF16-human	https://www.encodeproject.org/files/ENCFF418KCB/@@download/ENCFF418KCB.bed.gz
+ENCFF502WSB	ENCSR382GSF	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-INSM2-human	https://www.encodeproject.org/files/ENCFF502WSB/@@download/ENCFF502WSB.bed.gz
+ENCFF110XUA	ENCSR770PQN	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-BCL11B-human	https://www.encodeproject.org/files/ENCFF110XUA/@@download/ENCFF110XUA.bed.gz
+ENCFF532WPD	ENCSR217WRC	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-TSHZ1-human	https://www.encodeproject.org/files/ENCFF532WPD/@@download/ENCFF532WPD.bed.gz
+ENCFF746GFU	ENCSR217HTK	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ATF2-human	https://www.encodeproject.org/files/ENCFF746GFU/@@download/ENCFF746GFU.bed.gz
+ENCFF539RBU	ENCSR159OCC	K562	immortalized cell line	adult	female	53 year	FLAG-ATF1-human	https://www.encodeproject.org/files/ENCFF539RBU/@@download/ENCFF539RBU.bed.gz
+ENCFF550LEW	ENCSR211GNP	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZSCAN4-human	https://www.encodeproject.org/files/ENCFF550LEW/@@download/ENCFF550LEW.bed.gz
+ENCFF579HZW	ENCSR029LBT	HepG2	immortalized cell line	child	male	15 year	FOXP1-human	https://www.encodeproject.org/files/ENCFF579HZW/@@download/ENCFF579HZW.bed.gz
+ENCFF857GBU	ENCSR701RXW	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF530-human	https://www.encodeproject.org/files/ENCFF857GBU/@@download/ENCFF857GBU.bed.gz
+ENCFF721DPQ	ENCSR894CGX	K562	immortalized cell line	adult	female	53 year	SUPT5H-human	https://www.encodeproject.org/files/ENCFF721DPQ/@@download/ENCFF721DPQ.bed.gz
+ENCFF647FMI	ENCSR200JYP	K562	immortalized cell line	adult	female	53 year	ZNF316-human	https://www.encodeproject.org/files/ENCFF647FMI/@@download/ENCFF647FMI.bed.gz
+ENCFF263AUE	ENCSR654ORQ	HepG2	immortalized cell line	child	male	15 year	FLAG-SLC30A9-human	https://www.encodeproject.org/files/ENCFF263AUE/@@download/ENCFF263AUE.bed.gz
+ENCFF413WVP	ENCSR938ETG	HepG2	immortalized cell line	child	male	15 year	FLAG-KLF9-human	https://www.encodeproject.org/files/ENCFF413WVP/@@download/ENCFF413WVP.bed.gz
+ENCFF132YJB	ENCSR487CPI	HepG2	immortalized cell line	child	male	15 year	FLAG-ZFP64-human	https://www.encodeproject.org/files/ENCFF132YJB/@@download/ENCFF132YJB.bed.gz
+ENCFF260DMD	ENCSR502GAX	HepG2	immortalized cell line	child	male	15 year	FLAG-ZNF652-human	https://www.encodeproject.org/files/ENCFF260DMD/@@download/ENCFF260DMD.bed.gz
+ENCFF695HIB	ENCSR226QQM	HepG2	immortalized cell line	child	male	15 year	FLAG-NFIA_isoform1-human	https://www.encodeproject.org/files/ENCFF695HIB/@@download/ENCFF695HIB.bed.gz
+ENCFF627NBS	ENCSR237TFX	HEK293T	immortalized cell line	embryonic	female	unknown	CTBP1-human	https://www.encodeproject.org/files/ENCFF627NBS/@@download/ENCFF627NBS.bed.gz
+ENCFF451KPE	ENCSR093HXE	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF16-human	https://www.encodeproject.org/files/ENCFF451KPE/@@download/ENCFF451KPE.bed.gz
+ENCFF212GOZ	ENCSR984MDV	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF24-human	https://www.encodeproject.org/files/ENCFF212GOZ/@@download/ENCFF212GOZ.bed.gz
+ENCFF553NBH	ENCSR279IEM	MCF-7	immortalized cell line	adult	female	69 year	SIX4-human	https://www.encodeproject.org/files/ENCFF553NBH/@@download/ENCFF553NBH.bed.gz
+ENCFF878CYO	ENCSR427BBI	MCF-7	immortalized cell line	adult	female	69 year	MLLT1-human	https://www.encodeproject.org/files/ENCFF878CYO/@@download/ENCFF878CYO.bed.gz
+ENCFF639SOF	ENCSR185FOY	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF341-human	https://www.encodeproject.org/files/ENCFF639SOF/@@download/ENCFF639SOF.bed.gz
+ENCFF655FUP	ENCSR826YMT	HepG2	immortalized cell line	child	male	15 year	FLAG-SMAD4_isoform1-human	https://www.encodeproject.org/files/ENCFF655FUP/@@download/ENCFF655FUP.bed.gz
+ENCFF536CTX	ENCSR853ADA	HepG2	immortalized cell line	child	male	15 year	NRF1-human	https://www.encodeproject.org/files/ENCFF536CTX/@@download/ENCFF536CTX.bed.gz
+ENCFF338JPJ	ENCSR966PJY	HepG2	immortalized cell line	child	male	15 year	FLAG-MIXL1-human	https://www.encodeproject.org/files/ENCFF338JPJ/@@download/ENCFF338JPJ.bed.gz
+ENCFF441LKT	ENCSR518WPL	HepG2	immortalized cell line	child	male	15 year	NR2F6-human	https://www.encodeproject.org/files/ENCFF441LKT/@@download/ENCFF441LKT.bed.gz
+ENCFF425KXW	ENCSR264RJX	induced pluripotent stem cell	induced pluripotent stem cell line	adult	male	53 year	POU5F1-human	https://www.encodeproject.org/files/ENCFF425KXW/@@download/ENCFF425KXW.bed.gz
+ENCFF303TLQ	ENCSR372JXR	HepG2	immortalized cell line	child	male	15 year	FLAG-ZNF511-human	https://www.encodeproject.org/files/ENCFF303TLQ/@@download/ENCFF303TLQ.bed.gz
+ENCFF407YHS	ENCSR757EKM	HepG2	immortalized cell line	child	male	15 year	FLAG-KLF6_isoform2-human	https://www.encodeproject.org/files/ENCFF407YHS/@@download/ENCFF407YHS.bed.gz
+ENCFF907JXH	ENCSR207PFI	GM12878	immortalized cell line	adult	female	unknown	ZBED1-human	https://www.encodeproject.org/files/ENCFF907JXH/@@download/ENCFF907JXH.bed.gz
+ENCFF728TJB	ENCSR126YEB	MCF-7	immortalized cell line	adult	female	69 year	FOXA1-human	https://www.encodeproject.org/files/ENCFF728TJB/@@download/ENCFF728TJB.bed.gz
+ENCFF580TAE	ENCSR117KWH	GM12878	immortalized cell line	adult	female	unknown	ZNF207-human	https://www.encodeproject.org/files/ENCFF580TAE/@@download/ENCFF580TAE.bed.gz
+ENCFF894AWT	ENCSR616WEG	HepG2	immortalized cell line	child	male	15 year	FLAG-HBP1-human	https://www.encodeproject.org/files/ENCFF894AWT/@@download/ENCFF894AWT.bed.gz
+ENCFF848JMT	ENCSR704IGU	HepG2	immortalized cell line	child	male	15 year	FLAG-ZGPAT-human	https://www.encodeproject.org/files/ENCFF848JMT/@@download/ENCFF848JMT.bed.gz
+ENCFF690TBO	ENCSR988LZG	HepG2	immortalized cell line	child	male	15 year	FLAG-ARID4B-human	https://www.encodeproject.org/files/ENCFF690TBO/@@download/ENCFF690TBO.bed.gz
+ENCFF444KHX	ENCSR925BFV	HepG2	immortalized cell line	child	male	15 year	FLAG-GATAD2A-human	https://www.encodeproject.org/files/ENCFF444KHX/@@download/ENCFF444KHX.bed.gz
+ENCFF554QVX	ENCSR662EOU	HepG2	immortalized cell line	child	male	15 year	FLAG-NR2F1-human	https://www.encodeproject.org/files/ENCFF554QVX/@@download/ENCFF554QVX.bed.gz
+ENCFF299JTM	ENCSR961WLZ	HepG2	immortalized cell line	child	male	15 year	FLAG-SOX5-human	https://www.encodeproject.org/files/ENCFF299JTM/@@download/ENCFF299JTM.bed.gz
+ENCFF024NIL	ENCSR560SEP	HepG2	immortalized cell line	child	male	15 year	FLAG-RXRB-human	https://www.encodeproject.org/files/ENCFF024NIL/@@download/ENCFF024NIL.bed.gz
+ENCFF608OHW	ENCSR092OVN	HepG2	immortalized cell line	child	male	15 year	FLAG-FOXA3-human	https://www.encodeproject.org/files/ENCFF608OHW/@@download/ENCFF608OHW.bed.gz
+ENCFF487OYJ	ENCSR062HDL	MCF-7	immortalized cell line	adult	female	69 year	HSF1-human	https://www.encodeproject.org/files/ENCFF487OYJ/@@download/ENCFF487OYJ.bed.gz
+ENCFF619KWZ	ENCSR286PCG	K562	immortalized cell line	adult	female	53 year	ZBED1-human	https://www.encodeproject.org/files/ENCFF619KWZ/@@download/ENCFF619KWZ.bed.gz
+ENCFF356LKG	ENCSR897JAS	MCF-7	immortalized cell line	adult	female	69 year	CREB1-human	https://www.encodeproject.org/files/ENCFF356LKG/@@download/ENCFF356LKG.bed.gz
+ENCFF405THA	ENCSR712FAM	HepG2	immortalized cell line	child	male	15 year	FLAG-ZSCAN9-human	https://www.encodeproject.org/files/ENCFF405THA/@@download/ENCFF405THA.bed.gz
+ENCFF189NTN	ENCSR959OMS	HepG2	immortalized cell line	child	male	15 year	FLAG-SAP130-human	https://www.encodeproject.org/files/ENCFF189NTN/@@download/ENCFF189NTN.bed.gz
+ENCFF945DTV	ENCSR589SNT	HepG2	immortalized cell line	child	male	15 year	FLAG-TFE3-human	https://www.encodeproject.org/files/ENCFF945DTV/@@download/ENCFF945DTV.bed.gz
+ENCFF765IVS	ENCSR000BNJ	HepG2	immortalized cell line	child	male	15 year	HNF4G-human	https://www.encodeproject.org/files/ENCFF765IVS/@@download/ENCFF765IVS.bed.gz
+ENCFF751UFO	ENCSR765MKZ	HepG2	immortalized cell line	child	male	15 year	FLAG-DRAP1-human	https://www.encodeproject.org/files/ENCFF751UFO/@@download/ENCFF751UFO.bed.gz
+ENCFF948VRJ	ENCSR553QMC	HepG2	immortalized cell line	child	male	15 year	FLAG-ZNF7_isoform2-human	https://www.encodeproject.org/files/ENCFF948VRJ/@@download/ENCFF948VRJ.bed.gz
+ENCFF909KNE	ENCSR031TFS	K562	immortalized cell line	adult	female	53 year	POLR2A-human	https://www.encodeproject.org/files/ENCFF909KNE/@@download/ENCFF909KNE.bed.gz
+ENCFF285MBX	ENCSR388QZF	K562	immortalized cell line	adult	female	53 year	POLR2A-human	https://www.encodeproject.org/files/ENCFF285MBX/@@download/ENCFF285MBX.bed.gz
+ENCFF408CMK	ENCSR085DDI	K562	immortalized cell line	adult	female	53 year	NFXL1-human	https://www.encodeproject.org/files/ENCFF408CMK/@@download/ENCFF408CMK.bed.gz
+ENCFF386ZWB	ENCSR079WHK	K562	immortalized cell line	adult	female	53 year	MCM5-human	https://www.encodeproject.org/files/ENCFF386ZWB/@@download/ENCFF386ZWB.bed.gz
+ENCFF149PSG	ENCSR596IKD	K562	immortalized cell line	adult	female	53 year	eGFP-ETS2-human	https://www.encodeproject.org/files/ENCFF149PSG/@@download/ENCFF149PSG.bed.gz
+ENCFF493NZN	ENCSR360HRA	K562	immortalized cell line	adult	female	53 year	KDM1A-human	https://www.encodeproject.org/files/ENCFF493NZN/@@download/ENCFF493NZN.bed.gz
+ENCFF849TPX	ENCSR318LVG	MCF-7	immortalized cell line	adult	female	69 year	ZBTB40-human	https://www.encodeproject.org/files/ENCFF849TPX/@@download/ENCFF849TPX.bed.gz
+ENCFF141XEH	ENCSR178DEG	K562	immortalized cell line	adult	female	53 year	eGFP-NR2C1-human	https://www.encodeproject.org/files/ENCFF141XEH/@@download/ENCFF141XEH.bed.gz
+ENCFF157QSU	ENCSR906PCS	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZNF223-human	https://www.encodeproject.org/files/ENCFF157QSU/@@download/ENCFF157QSU.bed.gz
+ENCFF196DXT	ENCSR927UJQ	HEK293	immortalized cell line	embryonic	female	unknown	eGFP-ZBTB1-human	https://www.encodeproject.org/files/ENCFF196DXT/@@download/ENCFF196DXT.bed.gz
+ENCFF959LXT	ENCSR639GWS	A549	immortalized cell line	adult	male	58 year	KDM1A-human	https://www.encodeproject.org/files/ENCFF959LXT/@@download/ENCFF959LXT.bed.gz
+ENCFF400JHH	ENCSR117WTM	K562	immortalized cell line	adult	female	53 year	eGFP-ZNF24-human	https://www.encodeproject.org/files/ENCFF400JHH/@@download/ENCFF400JHH.bed.gz
+ENCFF804ARW	ENCSR115SMW	K562	immortalized cell line	adult	female	53 year	PKNOX1-human	https://www.encodeproject.org/files/ENCFF804ARW/@@download/ENCFF804ARW.bed.gz
+ENCFF182QJW	ENCSR135ANT	MCF-7	immortalized cell line	adult	female	69 year	NRF1-human	https://www.encodeproject.org/files/ENCFF182QJW/@@download/ENCFF182QJW.bed.gz
+ENCFF269LTR	ENCSR626VUC	GM12878	immortalized cell line	adult	female	unknown	ETV6-human	https://www.encodeproject.org/files/ENCFF269LTR/@@download/ENCFF269LTR.bed.gz
+ENCFF293PUF	ENCSR449UFF	MCF-7	immortalized cell line	adult	female	69 year	ZKSCAN1-human	https://www.encodeproject.org/files/ENCFF293PUF/@@download/ENCFF293PUF.bed.gz
+ENCFF279LNY	ENCSR392EAA	HeLa-S3	immortalized cell line	adult	female	31 year	CHD1-human	https://www.encodeproject.org/files/ENCFF279LNY/@@download/ENCFF279LNY.bed.gz
+ENCFF333IXA	ENCSR587OQL	K562	immortalized cell line	adult	female	53 year	SMARCA4-human	https://www.encodeproject.org/files/ENCFF333IXA/@@download/ENCFF333IXA.bed.gz
+ENCFF979BQI	ENCSR597VGC	GM12878	immortalized cell line	adult	female	unknown	ETV6-human	https://www.encodeproject.org/files/ENCFF979BQI/@@download/ENCFF979BQI.bed.gz
+ENCFF890YVJ	ENCSR569XNP	MCF-7	immortalized cell line	adult	female	69 year	FOS-human	https://www.encodeproject.org/files/ENCFF890YVJ/@@download/ENCFF890YVJ.bed.gz
+ENCFF016NUM	ENCSR633OVO	HepG2	immortalized cell line	child	male	15 year	FLAG-RFX3_isoform1-human	https://www.encodeproject.org/files/ENCFF016NUM/@@download/ENCFF016NUM.bed.gz
+ENCFF935AGY	ENCSR071YVR	HepG2	immortalized cell line	child	male	15 year	FLAG-KMT2B-human	https://www.encodeproject.org/files/ENCFF935AGY/@@download/ENCFF935AGY.bed.gz
+ENCFF235PWV	ENCSR715UCI	HepG2	immortalized cell line	child	male	15 year	FLAG-SOX13_isoform1-human	https://www.encodeproject.org/files/ENCFF235PWV/@@download/ENCFF235PWV.bed.gz
+ENCFF842LKY	ENCSR173CTF	HepG2	immortalized cell line	child	male	15 year	FLAG-ZNF580-human	https://www.encodeproject.org/files/ENCFF842LKY/@@download/ENCFF842LKY.bed.gz
+ENCFF291BVN	ENCSR823ADL	HepG2	immortalized cell line	child	male	15 year	FLAG-RFXANK-human	https://www.encodeproject.org/files/ENCFF291BVN/@@download/ENCFF291BVN.bed.gz
+ENCFF253LJN	ENCSR759BDG	HepG2	immortalized cell line	child	male	15 year	FLAG-BCL6_isoform1-human	https://www.encodeproject.org/files/ENCFF253LJN/@@download/ENCFF253LJN.bed.gz
+ENCFF622EUH	ENCSR415AEB	HepG2	immortalized cell line	child	male	15 year	FLAG-ZNF48-human	https://www.encodeproject.org/files/ENCFF622EUH/@@download/ENCFF622EUH.bed.gz
+ENCFF951EDR	ENCSR041AXL	K562	immortalized cell line	adult	female	53 year	RFX1-human	https://www.encodeproject.org/files/ENCFF951EDR/@@download/ENCFF951EDR.bed.gz
+ENCFF977MOV	ENCSR016BMM	liver	tissue	child	female	4 year	TAF1-human	https://www.encodeproject.org/files/ENCFF977MOV/@@download/ENCFF977MOV.bed.gz
+ENCFF897HDW	ENCSR000EUI	GM08714	immortalized cell line	unknown	female	1 year	ZNF274-human	https://www.encodeproject.org/files/ENCFF897HDW/@@download/ENCFF897HDW.bed.gz
+ENCFF196UZE	ENCSR000EHE	K562	immortalized cell line	adult	female	53 year	CEBPB-human	https://www.encodeproject.org/files/ENCFF196UZE/@@download/ENCFF196UZE.bed.gz
+ENCFF846OVB	ENCSR562POI	HepG2	immortalized cell line	child	male	15 year	FLAG-THAP11-human	https://www.encodeproject.org/files/ENCFF846OVB/@@download/ENCFF846OVB.bed.gz
+ENCFF863TTH	ENCSR798IJO	HepG2	immortalized cell line	child	male	15 year	FLAG-NR2F6-human	https://www.encodeproject.org/files/ENCFF863TTH/@@download/ENCFF863TTH.bed.gz
+ENCFF928SXE	ENCSR201GGK	HepG2	immortalized cell line	child	male	15 year	FLAG-NFIL3-human	https://www.encodeproject.org/files/ENCFF928SXE/@@download/ENCFF928SXE.bed.gz
+ENCFF300FSQ	ENCSR586DEH	HepG2	immortalized cell line	child	male	15 year	FLAG-ZFP1_isoform1-human	https://www.encodeproject.org/files/ENCFF300FSQ/@@download/ENCFF300FSQ.bed.gz
+ENCFF631ZVW	ENCSR382MOM	liver	tissue	adult	male	32 year	YY1-human	https://www.encodeproject.org/files/ENCFF631ZVW/@@download/ENCFF631ZVW.bed.gz
+ENCFF740JCX	ENCSR107RHZ	K562	immortalized cell line	adult	female	53 year	YBX1-human	https://www.encodeproject.org/files/ENCFF740JCX/@@download/ENCFF740JCX.bed.gz
+ENCFF561ZCZ	ENCSR642VZY	K562	immortalized cell line	adult	female	53 year	KDM4B-human	https://www.encodeproject.org/files/ENCFF561ZCZ/@@download/ENCFF561ZCZ.bed.gz
+ENCFF655AOY	ENCSR205FOW	liver	tissue	child	female	4 year	ATF3-human	https://www.encodeproject.org/files/ENCFF655AOY/@@download/ENCFF655AOY.bed.gz
+ENCFF163JYV	ENCSR347NOB	GM12878	immortalized cell line	adult	female	unknown	CEBPZ-human	https://www.encodeproject.org/files/ENCFF163JYV/@@download/ENCFF163JYV.bed.gz
+ENCFF460GYT	ENCSR494TDU	K562	immortalized cell line	adult	female	53 year	NRF1-human	https://www.encodeproject.org/files/ENCFF460GYT/@@download/ENCFF460GYT.bed.gz
+ENCFF575VHZ	ENCSR121PFY	K562	immortalized cell line	adult	female	53 year	CDC5L-human	https://www.encodeproject.org/files/ENCFF575VHZ/@@download/ENCFF575VHZ.bed.gz
+ENCFF549HMO	ENCSR086FZL	K562	immortalized cell line	adult	female	53 year	KAT8-human	https://www.encodeproject.org/files/ENCFF549HMO/@@download/ENCFF549HMO.bed.gz
+ENCFF389LKZ	ENCSR608XTF	K562	immortalized cell line	adult	female	53 year	RNF2-human	https://www.encodeproject.org/files/ENCFF389LKZ/@@download/ENCFF389LKZ.bed.gz
+ENCFF531CTU	ENCSR360JOC	MCF-7	immortalized cell line	adult	female	69 year	CHD1-human	https://www.encodeproject.org/files/ENCFF531CTU/@@download/ENCFF531CTU.bed.gz
+ENCFF403GZC	ENCSR376WCJ	K562	immortalized cell line	adult	female	53 year	IRF2-human	https://www.encodeproject.org/files/ENCFF403GZC/@@download/ENCFF403GZC.bed.gz
+ENCFF299RMS	ENCSR343ELW	K562	immortalized cell line	adult	female	53 year	LEF1-human	https://www.encodeproject.org/files/ENCFF299RMS/@@download/ENCFF299RMS.bed.gz
+ENCFF239NEA	ENCSR663ZZZ	MCF-7	immortalized cell line	adult	female	69 year	MNT-human	https://www.encodeproject.org/files/ENCFF239NEA/@@download/ENCFF239NEA.bed.gz
+ENCFF561CJL	ENCSR707IUN	HeLa-S3	immortalized cell line	adult	female	31 year	NFE2L2-human	https://www.encodeproject.org/files/ENCFF561CJL/@@download/ENCFF561CJL.bed.gz
+ENCFF284LYU	ENCSR750LYM	K562	immortalized cell line	adult	female	53 year	eGFP-NR2C2-human	https://www.encodeproject.org/files/ENCFF284LYU/@@download/ENCFF284LYU.bed.gz
+ENCFF346SWX	ENCSR000ATW	K562	immortalized cell line	adult	female	53 year	CBX8-human	https://www.encodeproject.org/files/ENCFF346SWX/@@download/ENCFF346SWX.bed.gz
+ENCFF394AJV	ENCSR099NCH	K562	immortalized cell line	adult	female	53 year	ZNF24-human	https://www.encodeproject.org/files/ENCFF394AJV/@@download/ENCFF394AJV.bed.gz
+ENCFF347MTY	ENCSR452YHM	HepG2	immortalized cell line	child	male	15 year	SIN3B-human	https://www.encodeproject.org/files/ENCFF347MTY/@@download/ENCFF347MTY.bed.gz
+ENCFF049YPY	ENCSR588AKU	K562	immortalized cell line	adult	female	53 year	RUNX1-human	https://www.encodeproject.org/files/ENCFF049YPY/@@download/ENCFF049YPY.bed.gz
+ENCFF529CTW	ENCSR795IYP	K562	immortalized cell line	adult	female	53 year	JUNB-human	https://www.encodeproject.org/files/ENCFF529CTW/@@download/ENCFF529CTW.bed.gz
+ENCFF512PBA	ENCSR760UVO	K562	immortalized cell line	adult	female	53 year	KLF16-human	https://www.encodeproject.org/files/ENCFF512PBA/@@download/ENCFF512PBA.bed.gz
+ENCFF423GUZ	ENCSR737LTZ	K562	immortalized cell line	adult	female	53 year	MYNN-human	https://www.encodeproject.org/files/ENCFF423GUZ/@@download/ENCFF423GUZ.bed.gz
+ENCFF618FOL	ENCSR066TET	MCF-7	immortalized cell line	adult	female	69 year	RFX1-human	https://www.encodeproject.org/files/ENCFF618FOL/@@download/ENCFF618FOL.bed.gz
+ENCFF309XXF	ENCSR514VAY	GM12878	immortalized cell line	adult	female	unknown	HCFC1-human	https://www.encodeproject.org/files/ENCFF309XXF/@@download/ENCFF309XXF.bed.gz
+ENCFF426IHW	ENCSR415TXN	K562	immortalized cell line	adult	female	53 year	NONO-human	https://www.encodeproject.org/files/ENCFF426IHW/@@download/ENCFF426IHW.bed.gz
+ENCFF577XYS	ENCSR876UYH	MCF-7	immortalized cell line	adult	female	69 year	ZHX2-human	https://www.encodeproject.org/files/ENCFF577XYS/@@download/ENCFF577XYS.bed.gz
+ENCFF569AQR	ENCSR124BJR	K562	immortalized cell line	adult	female	53 year	ETV6-human	https://www.encodeproject.org/files/ENCFF569AQR/@@download/ENCFF569AQR.bed.gz
+ENCFF046FNS	ENCSR000EFH	IMR-90	primary cell	fetal	female	16 week	MAFK-human	https://www.encodeproject.org/files/ENCFF046FNS/@@download/ENCFF046FNS.bed.gz
+ENCFF548PPV	ENCSR000EGT	K562	immortalized cell line	adult	female	53 year	IRF1-human	https://www.encodeproject.org/files/ENCFF548PPV/@@download/ENCFF548PPV.bed.gz
+ENCFF567XKS	ENCSR000EFP	K562	immortalized cell line	adult	female	53 year	ZNF384-human	https://www.encodeproject.org/files/ENCFF567XKS/@@download/ENCFF567XKS.bed.gz
+ENCFF648ULE	ENCSR000BJC	Ishikawa	immortalized cell line	adult	female	39 year	NR3C1-human	https://www.encodeproject.org/files/ENCFF648ULE/@@download/ENCFF648ULE.bed.gz
+ENCFF241JCK	ENCSR288IJC	MCF-7	immortalized cell line	adult	female	69 year	MAZ-human	https://www.encodeproject.org/files/ENCFF241JCK/@@download/ENCFF241JCK.bed.gz
+ENCFF154SRU	ENCSR302AWT	K562	immortalized cell line	adult	female	53 year	FOXK2-human	https://www.encodeproject.org/files/ENCFF154SRU/@@download/ENCFF154SRU.bed.gz
+ENCFF641LIZ	ENCSR140DSL	HeLa-S3	immortalized cell line	adult	female	31 year	MAFF-human	https://www.encodeproject.org/files/ENCFF641LIZ/@@download/ENCFF641LIZ.bed.gz
+ENCFF967SJM	ENCSR000AQC	H1-hESC	stem cell	embryonic	male	unknown	RBBP5-human	https://www.encodeproject.org/files/ENCFF967SJM/@@download/ENCFF967SJM.bed.gz
+ENCFF696VDG	ENCSR103SZL	HepG2	immortalized cell line	child	male	15 year	TFAP4-human	https://www.encodeproject.org/files/ENCFF696VDG/@@download/ENCFF696VDG.bed.gz
+ENCFF389KBV	ENCSR387SYS	K562	immortalized cell line	adult	female	53 year	DEAF1-human	https://www.encodeproject.org/files/ENCFF389KBV/@@download/ENCFF389KBV.bed.gz
+ENCFF709YWO	ENCSR849DFF	HepG2	immortalized cell line	child	male	15 year	FLAG-PBX2-human	https://www.encodeproject.org/files/ENCFF709YWO/@@download/ENCFF709YWO.bed.gz
+ENCFF704DME	ENCSR066EBK	HepG2	immortalized cell line	child	male	15 year	FOXA2-human	https://www.encodeproject.org/files/ENCFF704DME/@@download/ENCFF704DME.bed.gz
+ENCFF562ERQ	ENCSR109YGM	K562	immortalized cell line	adult	female	53 year	CREB3L1-human	https://www.encodeproject.org/files/ENCFF562ERQ/@@download/ENCFF562ERQ.bed.gz
+ENCFF271QKH	ENCSR219MKK	HeLa-S3	immortalized cell line	adult	female	31 year	DEK-human	https://www.encodeproject.org/files/ENCFF271QKH/@@download/ENCFF271QKH.bed.gz
+ENCFF236SLK	ENCSR616OSG	HepG2	immortalized cell line	child	male	15 year	FLAG-KLF11-human	https://www.encodeproject.org/files/ENCFF236SLK/@@download/ENCFF236SLK.bed.gz
+ENCFF300RMI	ENCSR643VTW	K562	immortalized cell line	adult	female	53 year	SMARCA4-human	https://www.encodeproject.org/files/ENCFF300RMI/@@download/ENCFF300RMI.bed.gz
+ENCFF122GOC	ENCSR990AZC	K562	immortalized cell line	adult	female	53 year	MCM3-human	https://www.encodeproject.org/files/ENCFF122GOC/@@download/ENCFF122GOC.bed.gz
+ENCFF672AGD	ENCSR075HTM	K562	immortalized cell line	adult	female	53 year	HDAC2-human	https://www.encodeproject.org/files/ENCFF672AGD/@@download/ENCFF672AGD.bed.gz
+ENCFF872LJE	ENCSR569ARC	HepG2	immortalized cell line	child	male	15 year	FLAG-NFYC-human	https://www.encodeproject.org/files/ENCFF872LJE/@@download/ENCFF872LJE.bed.gz
+ENCFF132QXR	ENCSR019NPF	HepG2	immortalized cell line	child	male	15 year	FLAG-SP5-human	https://www.encodeproject.org/files/ENCFF132QXR/@@download/ENCFF132QXR.bed.gz
+ENCFF429HYI	ENCSR327RFM	HepG2	immortalized cell line	child	male	15 year	FLAG-PAF1_isoform1-human	https://www.encodeproject.org/files/ENCFF429HYI/@@download/ENCFF429HYI.bed.gz
+ENCFF284NPD	ENCSR125DAD	HepG2	immortalized cell line	child	male	15 year	FLAG-MLX-human	https://www.encodeproject.org/files/ENCFF284NPD/@@download/ENCFF284NPD.bed.gz
+ENCFF492YUE	ENCSR745VSQ	HepG2	immortalized cell line	child	male	15 year	FLAG-GMEB2-human	https://www.encodeproject.org/files/ENCFF492YUE/@@download/ENCFF492YUE.bed.gz
+ENCFF446YER	ENCSR613NUC	K562	immortalized cell line	adult	female	53 year	ARNT-human	https://www.encodeproject.org/files/ENCFF446YER/@@download/ENCFF446YER.bed.gz
+ENCFF211CXT	ENCSR038RXU	MCF-7	immortalized cell line	adult	female	69 year	eGFP-GABPA-human	https://www.encodeproject.org/files/ENCFF211CXT/@@download/ENCFF211CXT.bed.gz
+ENCFF161HQY	ENCSR448UKK	K562	immortalized cell line	adult	female	53 year	eGFP-ZKSCAN8-human	https://www.encodeproject.org/files/ENCFF161HQY/@@download/ENCFF161HQY.bed.gz
+ENCFF840ZAM	ENCSR772EEN	K562	immortalized cell line	adult	female	53 year	eGFP-RELA-human	https://www.encodeproject.org/files/ENCFF840ZAM/@@download/ENCFF840ZAM.bed.gz
+ENCFF765WAE	ENCSR636YLV	A549	immortalized cell line	adult	male	58 year	MAZ-human	https://www.encodeproject.org/files/ENCFF765WAE/@@download/ENCFF765WAE.bed.gz
+ENCFF966CGZ	ENCSR820GND	K562	immortalized cell line	adult	female	53 year	RNF2-human	https://www.encodeproject.org/files/ENCFF966CGZ/@@download/ENCFF966CGZ.bed.gz
+ENCFF921MFR	ENCSR936XTK	GM12878	immortalized cell line	adult	female	unknown	ZNF143-human	https://www.encodeproject.org/files/ENCFF921MFR/@@download/ENCFF921MFR.bed.gz
+ENCFF136UPB	ENCSR638QHV	K562	immortalized cell line	adult	female	53 year	ELF4-human	https://www.encodeproject.org/files/ENCFF136UPB/@@download/ENCFF136UPB.bed.gz
+ENCFF606VIF	ENCSR887MXT	HeLa-S3	immortalized cell line	adult	female	31 year	ZHX1-human	https://www.encodeproject.org/files/ENCFF606VIF/@@download/ENCFF606VIF.bed.gz
+ENCFF669QKC	ENCSR000ATJ	K562	immortalized cell line	adult	female	53 year	HDAC6-human	https://www.encodeproject.org/files/ENCFF669QKC/@@download/ENCFF669QKC.bed.gz
+ENCFF805MUO	ENCSR994YLZ	liver	tissue	child	female	4 year	YY1-human	https://www.encodeproject.org/files/ENCFF805MUO/@@download/ENCFF805MUO.bed.gz
+ENCFF552LKV	ENCSR410DWC	K562	immortalized cell line	adult	female	53 year	eGFP-PYGO2-human	https://www.encodeproject.org/files/ENCFF552LKV/@@download/ENCFF552LKV.bed.gz
+ENCFF876CPX	ENCSR138FUZ	K562	immortalized cell line	adult	female	53 year	RNF2-human	https://www.encodeproject.org/files/ENCFF876CPX/@@download/ENCFF876CPX.bed.gz
+ENCFF384YHL	ENCSR391KQC	MCF-7	immortalized cell line	adult	female	69 year	MTA3-human	https://www.encodeproject.org/files/ENCFF384YHL/@@download/ENCFF384YHL.bed.gz
+ENCFF286JTK	ENCSR608HVP	K562	immortalized cell line	adult	female	53 year	eGFP-KLF13-human	https://www.encodeproject.org/files/ENCFF286JTK/@@download/ENCFF286JTK.bed.gz
+ENCFF319FBU	ENCSR445ACU	HepG2	immortalized cell line	child	male	15 year	SOX13-human	https://www.encodeproject.org/files/ENCFF319FBU/@@download/ENCFF319FBU.bed.gz
+ENCFF736AVY	ENCSR126FZN	K562	immortalized cell line	adult	female	53 year	eGFP-PTRF-human	https://www.encodeproject.org/files/ENCFF736AVY/@@download/ENCFF736AVY.bed.gz
+ENCFF511AZU	ENCSR534VHI	induced pluripotent stem cell	induced pluripotent stem cell line	adult	male	53 year	ETS1-human	https://www.encodeproject.org/files/ENCFF511AZU/@@download/ENCFF511AZU.bed.gz
+ENCFF616IRT	ENCSR197DJH	MCF-7	immortalized cell line	adult	female	69 year	SREBF1-human	https://www.encodeproject.org/files/ENCFF616IRT/@@download/ENCFF616IRT.bed.gz
+ENCFF997KQI	ENCSR171FUX	HepG2	immortalized cell line	child	male	15 year	FOXK2-human	https://www.encodeproject.org/files/ENCFF997KQI/@@download/ENCFF997KQI.bed.gz
+ENCFF207MUN	ENCSR000EEE	HepG2	immortalized cell line	child	male	15 year	CEBPB-human	https://www.encodeproject.org/files/ENCFF207MUN/@@download/ENCFF207MUN.bed.gz
+ENCFF482PBU	ENCSR000BME	K562	immortalized cell line	adult	female	53 year	ZBTB7A-human	https://www.encodeproject.org/files/ENCFF482PBU/@@download/ENCFF482PBU.bed.gz
+ENCFF209ZSP	ENCSR000BHH	A549	immortalized cell line	adult	male	58 year	POLR2A-human	https://www.encodeproject.org/files/ENCFF209ZSP/@@download/ENCFF209ZSP.bed.gz
+ENCFF194RQM	ENCSR267YDT	H1-hESC	stem cell	embryonic	male	unknown	CBX3-human	https://www.encodeproject.org/files/ENCFF194RQM/@@download/ENCFF194RQM.bed.gz
+ENCFF189LCD	ENCSR234VCE	MCF-7	immortalized cell line	adult	female	69 year	DPF2-human	https://www.encodeproject.org/files/ENCFF189LCD/@@download/ENCFF189LCD.bed.gz
+ENCFF465BGX	ENCSR671GFC	K562	immortalized cell line	adult	female	53 year	eGFP-TAF7-human	https://www.encodeproject.org/files/ENCFF465BGX/@@download/ENCFF465BGX.bed.gz
+ENCFF736WUM	ENCSR681NOM	GM12878	immortalized cell line	adult	female	unknown	CEBPB-human	https://www.encodeproject.org/files/ENCFF736WUM/@@download/ENCFF736WUM.bed.gz
+ENCFF329HLY	ENCSR882ERE	K562	immortalized cell line	adult	female	53 year	ZKSCAN1-human	https://www.encodeproject.org/files/ENCFF329HLY/@@download/ENCFF329HLY.bed.gz
+ENCFF371FZO	ENCSR931HNY	K562	immortalized cell line	adult	female	53 year	NCOA1-human	https://www.encodeproject.org/files/ENCFF371FZO/@@download/ENCFF371FZO.bed.gz
+ENCFF007LBS	ENCSR382AIB	K562	immortalized cell line	adult	female	53 year	eGFP-DDX20-human	https://www.encodeproject.org/files/ENCFF007LBS/@@download/ENCFF007LBS.bed.gz
+ENCFF489SVC	ENCSR819WZE	HepG2	immortalized cell line	child	male	15 year	CBX1-human	https://www.encodeproject.org/files/ENCFF489SVC/@@download/ENCFF489SVC.bed.gz
+ENCFF450DFK	ENCSR416QLJ	K562	immortalized cell line	adult	female	53 year	eGFP-CEBPB-human	https://www.encodeproject.org/files/ENCFF450DFK/@@download/ENCFF450DFK.bed.gz
+ENCFF691HAG	ENCSR524BUE	K562	immortalized cell line	adult	female	53 year	RAD51-human	https://www.encodeproject.org/files/ENCFF691HAG/@@download/ENCFF691HAG.bed.gz
+ENCFF410AIK	ENCSR387UWP	K562	immortalized cell line	adult	female	53 year	HDAC1-human	https://www.encodeproject.org/files/ENCFF410AIK/@@download/ENCFF410AIK.bed.gz
+ENCFF957NPF	ENCSR639IIZ	HepG2	immortalized cell line	child	male	15 year	FLAG-CEBPG-human	https://www.encodeproject.org/files/ENCFF957NPF/@@download/ENCFF957NPF.bed.gz
+ENCFF470INJ	ENCSR072GJV	HepG2	immortalized cell line	child	male	15 year	FLAG-HMG20A-human	https://www.encodeproject.org/files/ENCFF470INJ/@@download/ENCFF470INJ.bed.gz
+ENCFF906KLB	ENCSR184SVO	HepG2	immortalized cell line	child	male	15 year	FLAG-ZBTB26-human	https://www.encodeproject.org/files/ENCFF906KLB/@@download/ENCFF906KLB.bed.gz
+ENCFF790ENL	ENCSR497JLX	HepG2	immortalized cell line	child	male	15 year	FLAG-TEAD1-human	https://www.encodeproject.org/files/ENCFF790ENL/@@download/ENCFF790ENL.bed.gz
+ENCFF135EPJ	ENCSR571PDN	HepG2	immortalized cell line	child	male	15 year	FLAG-SSRP1-human	https://www.encodeproject.org/files/ENCFF135EPJ/@@download/ENCFF135EPJ.bed.gz
+ENCFF377FEJ	ENCSR219NRT	HepG2	immortalized cell line	child	male	15 year	GTF2F1-human	https://www.encodeproject.org/files/ENCFF377FEJ/@@download/ENCFF377FEJ.bed.gz
+ENCFF805MAQ	ENCSR155KHM	K562	immortalized cell line	adult	female	53 year	ARNT-human	https://www.encodeproject.org/files/ENCFF805MAQ/@@download/ENCFF805MAQ.bed.gz
+ENCFF907IUT	ENCSR176EXN	MCF-7	immortalized cell line	adult	female	69 year	JUN-human	https://www.encodeproject.org/files/ENCFF907IUT/@@download/ENCFF907IUT.bed.gz
+ENCFF496COS	ENCSR638QYO	A549	immortalized cell line	adult	male	58 year	SREBF2-human	https://www.encodeproject.org/files/ENCFF496COS/@@download/ENCFF496COS.bed.gz
+ENCFF984LWO	ENCSR818DQV	K562	immortalized cell line	adult	female	53 year	eGFP-MAFG-human	https://www.encodeproject.org/files/ENCFF984LWO/@@download/ENCFF984LWO.bed.gz
+ENCFF287QDZ	ENCSR265WJC	MCF-7	immortalized cell line	adult	female	69 year	eGFP-KLF4-human	https://www.encodeproject.org/files/ENCFF287QDZ/@@download/ENCFF287QDZ.bed.gz
+ENCFF066UQP	ENCSR975SSR	K562	immortalized cell line	adult	female	53 year	eGFP-ELF1-human	https://www.encodeproject.org/files/ENCFF066UQP/@@download/ENCFF066UQP.bed.gz
+ENCFF709IUJ	ENCSR920ASP	K562	immortalized cell line	adult	female	53 year	eGFP-ZFX-human	https://www.encodeproject.org/files/ENCFF709IUJ/@@download/ENCFF709IUJ.bed.gz
+ENCFF013PBU	ENCSR860UHK	GM12878	immortalized cell line	adult	female	unknown	CBFB-human	https://www.encodeproject.org/files/ENCFF013PBU/@@download/ENCFF013PBU.bed.gz
+ENCFF357AHH	ENCSR863KUB	K562	immortalized cell line	adult	female	53 year	TCF7-human	https://www.encodeproject.org/files/ENCFF357AHH/@@download/ENCFF357AHH.bed.gz
+ENCFF571NDF	ENCSR237VLT	K562	immortalized cell line	adult	female	53 year	ZBTB40-human	https://www.encodeproject.org/files/ENCFF571NDF/@@download/ENCFF571NDF.bed.gz
+ENCFF445RNG	ENCSR530XQI	K562	immortalized cell line	adult	female	53 year	L3MBTL2-human	https://www.encodeproject.org/files/ENCFF445RNG/@@download/ENCFF445RNG.bed.gz
+ENCFF660FBQ	ENCSR000AQG	K562	immortalized cell line	adult	female	53 year	HDAC2-human	https://www.encodeproject.org/files/ENCFF660FBQ/@@download/ENCFF660FBQ.bed.gz
+ENCFF176ESH	ENCSR332EYT	GM12878	immortalized cell line	adult	female	unknown	STAT1-human	https://www.encodeproject.org/files/ENCFF176ESH/@@download/ENCFF176ESH.bed.gz
+ENCFF076UHS	ENCSR513XQX	A549	immortalized cell line	adult	male	58 year	SIN3A-human	https://www.encodeproject.org/files/ENCFF076UHS/@@download/ENCFF076UHS.bed.gz
+ENCFF647TZD	ENCSR912NMR	MCF-7	immortalized cell line	adult	female	69 year	NONO-human	https://www.encodeproject.org/files/ENCFF647TZD/@@download/ENCFF647TZD.bed.gz
+ENCFF237XLE	ENCSR954WVZ	MCF-7	immortalized cell line	adult	female	69 year	ESRRA-human	https://www.encodeproject.org/files/ENCFF237XLE/@@download/ENCFF237XLE.bed.gz
+ENCFF205LME	ENCSR492LTS	K562	immortalized cell line	adult	female	53 year	BCLAF1-human	https://www.encodeproject.org/files/ENCFF205LME/@@download/ENCFF205LME.bed.gz
+ENCFF111EXG	ENCSR924GXX	K562	immortalized cell line	adult	female	53 year	PHB2-human	https://www.encodeproject.org/files/ENCFF111EXG/@@download/ENCFF111EXG.bed.gz
+ENCFF525FJA	ENCSR272JAT	K562	immortalized cell line	adult	female	53 year	CBX5-human	https://www.encodeproject.org/files/ENCFF525FJA/@@download/ENCFF525FJA.bed.gz
+ENCFF520SXF	ENCSR345YWJ	liver	tissue	child	female	4 year	ZBTB33-human	https://www.encodeproject.org/files/ENCFF520SXF/@@download/ENCFF520SXF.bed.gz
+ENCFF852MHW	ENCSR444LIN	HepG2	immortalized cell line	child	male	15 year	TCF7-human	https://www.encodeproject.org/files/ENCFF852MHW/@@download/ENCFF852MHW.bed.gz
+ENCFF935SBO	ENCSR897MMC	GM12878	immortalized cell line	adult	female	unknown	JUNB-human	https://www.encodeproject.org/files/ENCFF935SBO/@@download/ENCFF935SBO.bed.gz
+ENCFF666MKU	ENCSR076YPO	K562	immortalized cell line	adult	female	53 year	RNF2-human	https://www.encodeproject.org/files/ENCFF666MKU/@@download/ENCFF666MKU.bed.gz
+ENCFF815REG	ENCSR005NMT	K562	immortalized cell line	adult	female	53 year	eGFP-ID3-human	https://www.encodeproject.org/files/ENCFF815REG/@@download/ENCFF815REG.bed.gz
+ENCFF065MLN	ENCSR408JQO	GM12878	immortalized cell line	adult	female	unknown	IRF3-human	https://www.encodeproject.org/files/ENCFF065MLN/@@download/ENCFF065MLN.bed.gz
+ENCFF147EGK	ENCSR412QBS	GM12878	immortalized cell line	adult	female	unknown	TARDBP-human	https://www.encodeproject.org/files/ENCFF147EGK/@@download/ENCFF147EGK.bed.gz
+ENCFF214VWR	ENCSR395HWC	K562	immortalized cell line	adult	female	53 year	IKZF1-human	https://www.encodeproject.org/files/ENCFF214VWR/@@download/ENCFF214VWR.bed.gz
+ENCFF497RWM	ENCSR481YWD	A549	immortalized cell line	adult	male	58 year	SMC3-human	https://www.encodeproject.org/files/ENCFF497RWM/@@download/ENCFF497RWM.bed.gz
+ENCFF606WYG	ENCSR508DQA	K562	immortalized cell line	adult	female	53 year	FOXK2-human	https://www.encodeproject.org/files/ENCFF606WYG/@@download/ENCFF606WYG.bed.gz
+ENCFF101HMW	ENCSR557JTZ	MCF-7	immortalized cell line	adult	female	69 year	GTF2F1-human	https://www.encodeproject.org/files/ENCFF101HMW/@@download/ENCFF101HMW.bed.gz
+ENCFF801IEP	ENCSR611WZO	HeLa-S3	immortalized cell line	adult	female	31 year	SREBF2-human	https://www.encodeproject.org/files/ENCFF801IEP/@@download/ENCFF801IEP.bed.gz
+ENCFF988ZSS	ENCSR157CAU	HepG2	immortalized cell line	child	male	15 year	ZKSCAN1-human	https://www.encodeproject.org/files/ENCFF988ZSS/@@download/ENCFF988ZSS.bed.gz
+ENCFF517PUF	ENCSR516HUP	liver	tissue	adult	male	32 year	ZBTB33-human	https://www.encodeproject.org/files/ENCFF517PUF/@@download/ENCFF517PUF.bed.gz
+ENCFF490ZAJ	ENCSR848YWD	HepG2	immortalized cell line	child	male	15 year	ZMYM3-human	https://www.encodeproject.org/files/ENCFF490ZAJ/@@download/ENCFF490ZAJ.bed.gz
+ENCFF892BNB	ENCSR004GKA	K562	immortalized cell line	adult	female	53 year	ZEB2-human	https://www.encodeproject.org/files/ENCFF892BNB/@@download/ENCFF892BNB.bed.gz
+ENCFF086TFH	ENCSR197ALX	K562	immortalized cell line	adult	female	53 year	HDGF-human	https://www.encodeproject.org/files/ENCFF086TFH/@@download/ENCFF086TFH.bed.gz
+ENCFF558HHY	ENCSR091JXL	K562	immortalized cell line	adult	female	53 year	HES1-human	https://www.encodeproject.org/files/ENCFF558HHY/@@download/ENCFF558HHY.bed.gz
+ENCFF418BWE	ENCSR137ZMQ	K562	immortalized cell line	adult	female	53 year	REST-human	https://www.encodeproject.org/files/ENCFF418BWE/@@download/ENCFF418BWE.bed.gz
+ENCFF317VVJ	ENCSR028NUR	MCF-7	immortalized cell line	adult	female	69 year	ZNF592-human	https://www.encodeproject.org/files/ENCFF317VVJ/@@download/ENCFF317VVJ.bed.gz
+ENCFF299JOC	ENCSR113LAS	K562	immortalized cell line	adult	female	53 year	MTA2-human	https://www.encodeproject.org/files/ENCFF299JOC/@@download/ENCFF299JOC.bed.gz
+ENCFF041QPS	ENCSR199WXF	GM12878	immortalized cell line	adult	female	unknown	EED-human	https://www.encodeproject.org/files/ENCFF041QPS/@@download/ENCFF041QPS.bed.gz
+ENCFF428RTI	ENCSR563YDA	K562	immortalized cell line	adult	female	53 year	HDGF-human	https://www.encodeproject.org/files/ENCFF428RTI/@@download/ENCFF428RTI.bed.gz
+ENCFF745CJF	ENCSR675LRO	K562	immortalized cell line	adult	female	53 year	MLLT1-human	https://www.encodeproject.org/files/ENCFF745CJF/@@download/ENCFF745CJF.bed.gz
+ENCFF003MTQ	ENCSR440VKE	K562	immortalized cell line	adult	female	53 year	eGFP-ADNP-human	https://www.encodeproject.org/files/ENCFF003MTQ/@@download/ENCFF003MTQ.bed.gz
+ENCFF302BKM	ENCSR637QAM	GM12878	immortalized cell line	adult	female	unknown	TRIM22-human	https://www.encodeproject.org/files/ENCFF302BKM/@@download/ENCFF302BKM.bed.gz
+ENCFF185IMR	ENCSR297GII	liver	tissue	child	female	4 year	HNF4G-human	https://www.encodeproject.org/files/ENCFF185IMR/@@download/ENCFF185IMR.bed.gz
+ENCFF307MMO	ENCSR623KNM	A549	immortalized cell line	adult	male	58 year	ELK1-human	https://www.encodeproject.org/files/ENCFF307MMO/@@download/ENCFF307MMO.bed.gz
+ENCFF589RYN	ENCSR948VFL	K562	immortalized cell line	adult	female	53 year	IKZF1-human	https://www.encodeproject.org/files/ENCFF589RYN/@@download/ENCFF589RYN.bed.gz
+ENCFF002VSM	ENCSR000DJW	K562	immortalized cell line	adult	female	53 year	eGFP-NR4A1-human	https://www.encodeproject.org/files/ENCFF002VSM/@@download/ENCFF002VSM.bed.gz
+ENCFF237ZFZ	ENCSR568PGX	K562	immortalized cell line	adult	female	53 year	HDAC1-human	https://www.encodeproject.org/files/ENCFF237ZFZ/@@download/ENCFF237ZFZ.bed.gz
+ENCFF263NDI	ENCSR907MZR	K562	immortalized cell line	adult	female	53 year	TRIM24-human	https://www.encodeproject.org/files/ENCFF263NDI/@@download/ENCFF263NDI.bed.gz
+ENCFF467MXY	ENCSR666QNP	HepG2	immortalized cell line	child	male	15 year	FLAG-TEAD3-human	https://www.encodeproject.org/files/ENCFF467MXY/@@download/ENCFF467MXY.bed.gz
+ENCFF589EKK	ENCSR808FFI	HepG2	immortalized cell line	child	male	15 year	FLAG-ZKSCAN8-human	https://www.encodeproject.org/files/ENCFF589EKK/@@download/ENCFF589EKK.bed.gz
+ENCFF701OWK	ENCSR909GJR	HepG2	immortalized cell line	child	male	15 year	FLAG-MXD3_isoform1-human	https://www.encodeproject.org/files/ENCFF701OWK/@@download/ENCFF701OWK.bed.gz
+ENCFF740UST	ENCSR430JGJ	HepG2	immortalized cell line	child	male	15 year	FLAG-THRB-human	https://www.encodeproject.org/files/ENCFF740UST/@@download/ENCFF740UST.bed.gz
+ENCFF634VUQ	ENCSR563LLO	K562	immortalized cell line	adult	female	53 year	E2F1-human	https://www.encodeproject.org/files/ENCFF634VUQ/@@download/ENCFF634VUQ.bed.gz
+ENCFF235UDJ	ENCSR000AQJ	K562	immortalized cell line	adult	female	53 year	SAP30-human	https://www.encodeproject.org/files/ENCFF235UDJ/@@download/ENCFF235UDJ.bed.gz
+ENCFF895ZGS	ENCSR635GTR	K562	immortalized cell line	adult	female	53 year	eGFP-TEAD2-human	https://www.encodeproject.org/files/ENCFF895ZGS/@@download/ENCFF895ZGS.bed.gz
+ENCFF249ZSW	ENCSR735JCD	K562	immortalized cell line	adult	female	53 year	KMT2B-human	https://www.encodeproject.org/files/ENCFF249ZSW/@@download/ENCFF249ZSW.bed.gz
+ENCFF410PQD	ENCSR787RVK	K562	immortalized cell line	adult	female	53 year	eGFP-TSC22D4-human	https://www.encodeproject.org/files/ENCFF410PQD/@@download/ENCFF410PQD.bed.gz
+ENCFF594KPG	ENCSR657EOF	K562	immortalized cell line	adult	female	53 year	NFRKB-human	https://www.encodeproject.org/files/ENCFF594KPG/@@download/ENCFF594KPG.bed.gz
+ENCFF919URJ	ENCSR480LIS	liver	tissue	adult	male	32 year	ATF3-human	https://www.encodeproject.org/files/ENCFF919URJ/@@download/ENCFF919URJ.bed.gz
+ENCFF753LFL	ENCSR782WRO	K562	immortalized cell line	adult	female	53 year	BMI1-human	https://www.encodeproject.org/files/ENCFF753LFL/@@download/ENCFF753LFL.bed.gz
+ENCFF598QQF	ENCSR468LUO	MCF-7	immortalized cell line	adult	female	69 year	SIN3A-human	https://www.encodeproject.org/files/ENCFF598QQF/@@download/ENCFF598QQF.bed.gz
+ENCFF161EHH	ENCSR446LAV	K562	immortalized cell line	adult	female	53 year	DDX20-human	https://www.encodeproject.org/files/ENCFF161EHH/@@download/ENCFF161EHH.bed.gz
+ENCFF941XDH	ENCSR385AHH	K562	immortalized cell line	adult	female	53 year	ZNF24-human	https://www.encodeproject.org/files/ENCFF941XDH/@@download/ENCFF941XDH.bed.gz
+ENCFF549YFK	ENCSR620YNB	HepG2	immortalized cell line	child	male	15 year	KAT2B-human	https://www.encodeproject.org/files/ENCFF549YFK/@@download/ENCFF549YFK.bed.gz
+ENCFF540DIG	ENCSR530IUH	K562	immortalized cell line	adult	female	53 year	RING1-human	https://www.encodeproject.org/files/ENCFF540DIG/@@download/ENCFF540DIG.bed.gz
+ENCFF558XIL	ENCSR411UYA	K562	immortalized cell line	adult	female	53 year	MTA2-human	https://www.encodeproject.org/files/ENCFF558XIL/@@download/ENCFF558XIL.bed.gz
+ENCFF803HUH	ENCSR314BBS	K562	immortalized cell line	adult	female	53 year	eGFP-PTTG1-human	https://www.encodeproject.org/files/ENCFF803HUH/@@download/ENCFF803HUH.bed.gz
+ENCFF856HYC	ENCSR412CTM	K562	immortalized cell line	adult	female	53 year	SUZ12-human	https://www.encodeproject.org/files/ENCFF856HYC/@@download/ENCFF856HYC.bed.gz
+ENCFF345ALQ	ENCSR636EYA	MCF-7	immortalized cell line	adult	female	69 year	CTBP1-human	https://www.encodeproject.org/files/ENCFF345ALQ/@@download/ENCFF345ALQ.bed.gz
+ENCFF350TYH	ENCSR737UST	K562	immortalized cell line	adult	female	53 year	eGFP-ZNF740-human	https://www.encodeproject.org/files/ENCFF350TYH/@@download/ENCFF350TYH.bed.gz
+ENCFF825ZCR	ENCSR583ACG	K562	immortalized cell line	adult	female	53 year	BRD4-human	https://www.encodeproject.org/files/ENCFF825ZCR/@@download/ENCFF825ZCR.bed.gz
+ENCFF749WKK	ENCSR888XZK	K562	immortalized cell line	adult	female	53 year	TCF7L2-human	https://www.encodeproject.org/files/ENCFF749WKK/@@download/ENCFF749WKK.bed.gz
+ENCFF446MUL	ENCSR920BLG	K562	immortalized cell line	adult	female	53 year	SIN3A-human	https://www.encodeproject.org/files/ENCFF446MUL/@@download/ENCFF446MUL.bed.gz
+ENCFF036PCO	ENCSR648INT	K562	immortalized cell line	adult	female	53 year	eGFP-ILK-human	https://www.encodeproject.org/files/ENCFF036PCO/@@download/ENCFF036PCO.bed.gz
+ENCFF489ZXV	ENCSR835TCD	K562	immortalized cell line	adult	female	53 year	eGFP-HDAC8-human	https://www.encodeproject.org/files/ENCFF489ZXV/@@download/ENCFF489ZXV.bed.gz
+ENCFF500JAL	ENCSR819ATC	GM12878	immortalized cell line	adult	female	unknown	MYB-human	https://www.encodeproject.org/files/ENCFF500JAL/@@download/ENCFF500JAL.bed.gz
+ENCFF469QQF	ENCSR108TYQ	HepG2	immortalized cell line	child	male	15 year	FLAG-GATAD1-human	https://www.encodeproject.org/files/ENCFF469QQF/@@download/ENCFF469QQF.bed.gz
+ENCFF882PRQ	ENCSR462KYU	HepG2	immortalized cell line	child	male	15 year	FLAG-GABPB1_isoform2-human	https://www.encodeproject.org/files/ENCFF882PRQ/@@download/ENCFF882PRQ.bed.gz
+ENCFF867MGI	ENCSR031ING	HepG2	immortalized cell line	child	male	15 year	FLAG-KDM6A-human	https://www.encodeproject.org/files/ENCFF867MGI/@@download/ENCFF867MGI.bed.gz
+ENCFF061FMV	ENCSR142IGM	HepG2	immortalized cell line	child	male	15 year	FLAG-CEBPA-human	https://www.encodeproject.org/files/ENCFF061FMV/@@download/ENCFF061FMV.bed.gz
+ENCFF862MKQ	ENCSR954KIC	HepG2	immortalized cell line	child	male	15 year	FLAG-KAT8-human	https://www.encodeproject.org/files/ENCFF862MKQ/@@download/ENCFF862MKQ.bed.gz
+ENCFF548ITQ	ENCSR000FCD	K562	immortalized cell line	adult	female	53 year	SMAD5-human	https://www.encodeproject.org/files/ENCFF548ITQ/@@download/ENCFF548ITQ.bed.gz
+ENCFF737KKO	ENCSR047BUZ	HepG2	immortalized cell line	child	male	15 year	ATF2-human	https://www.encodeproject.org/files/ENCFF737KKO/@@download/ENCFF737KKO.bed.gz
+ENCFF535ZFM	ENCSR695EQB	K562	immortalized cell line	adult	female	53 year	ZNF24-human	https://www.encodeproject.org/files/ENCFF535ZFM/@@download/ENCFF535ZFM.bed.gz
+ENCFF179GMV	ENCSR618GDK	K562	immortalized cell line	adult	female	53 year	CEBPZ-human	https://www.encodeproject.org/files/ENCFF179GMV/@@download/ENCFF179GMV.bed.gz
+ENCFF393PTD	ENCSR771GTF	HepG2	immortalized cell line	child	male	15 year	SUZ12-human	https://www.encodeproject.org/files/ENCFF393PTD/@@download/ENCFF393PTD.bed.gz
+ENCFF869JTA	ENCSR815ZDS	K562	immortalized cell line	adult	female	53 year	SREBF1-human	https://www.encodeproject.org/files/ENCFF869JTA/@@download/ENCFF869JTA.bed.gz
+ENCFF131VZY	ENCSR532KTI	K562	immortalized cell line	adult	female	53 year	eGFP-GTF2E2-human	https://www.encodeproject.org/files/ENCFF131VZY/@@download/ENCFF131VZY.bed.gz
+ENCFF762NRN	ENCSR998AJK	K562	immortalized cell line	adult	female	53 year	NRF1-human	https://www.encodeproject.org/files/ENCFF762NRN/@@download/ENCFF762NRN.bed.gz
+ENCFF251ZSJ	ENCSR854MCV	K562	immortalized cell line	adult	female	53 year	eGFP-IRF1-human	https://www.encodeproject.org/files/ENCFF251ZSJ/@@download/ENCFF251ZSJ.bed.gz
+ENCFF909FRB	ENCSR876GXA	K562	immortalized cell line	adult	female	53 year	ZBTB33-human	https://www.encodeproject.org/files/ENCFF909FRB/@@download/ENCFF909FRB.bed.gz
+ENCFF667LOH	ENCSR502OEK	K562	immortalized cell line	adult	female	53 year	ELF1-human	https://www.encodeproject.org/files/ENCFF667LOH/@@download/ENCFF667LOH.bed.gz
+ENCFF376CAG	ENCSR557RVF	K562	immortalized cell line	adult	female	53 year	ZHX1-human	https://www.encodeproject.org/files/ENCFF376CAG/@@download/ENCFF376CAG.bed.gz
+ENCFF625FYY	ENCSR550HCT	K562	immortalized cell line	adult	female	53 year	eGFP-KLF1-human	https://www.encodeproject.org/files/ENCFF625FYY/@@download/ENCFF625FYY.bed.gz
+ENCFF710ZFM	ENCSR426MDV	K562	immortalized cell line	adult	female	53 year	MIER1-human	https://www.encodeproject.org/files/ENCFF710ZFM/@@download/ENCFF710ZFM.bed.gz
+ENCFF264QLP	ENCSR414TYY	K562	immortalized cell line	adult	female	53 year	RUNX1-human	https://www.encodeproject.org/files/ENCFF264QLP/@@download/ENCFF264QLP.bed.gz
+ENCFF405XEK	ENCSR459FTB	GM12878	immortalized cell line	adult	female	unknown	UBTF-human	https://www.encodeproject.org/files/ENCFF405XEK/@@download/ENCFF405XEK.bed.gz
+ENCFF207FUE	ENCSR869IUD	K562	immortalized cell line	adult	female	53 year	ATF2-human	https://www.encodeproject.org/files/ENCFF207FUE/@@download/ENCFF207FUE.bed.gz
+ENCFF818TQX	ENCSR546KCN	MCF-7	immortalized cell line	adult	female	69 year	eGFP-FOSL2-human	https://www.encodeproject.org/files/ENCFF818TQX/@@download/ENCFF818TQX.bed.gz
+ENCFF980GMH	ENCSR739IHN	GM12878	immortalized cell line	adult	female	unknown	TBX21-human	https://www.encodeproject.org/files/ENCFF980GMH/@@download/ENCFF980GMH.bed.gz
+ENCFF440HZQ	ENCSR991ELG	K562	immortalized cell line	adult	female	53 year	SP1-human	https://www.encodeproject.org/files/ENCFF440HZQ/@@download/ENCFF440HZQ.bed.gz
+ENCFF326GOB	ENCSR505NMN	MCF-7	immortalized cell line	adult	female	69 year	eGFP-E2F4-human	https://www.encodeproject.org/files/ENCFF326GOB/@@download/ENCFF326GOB.bed.gz
+ENCFF950ISD	ENCSR475SOC	MCF-7	immortalized cell line	adult	female	69 year	eGFP-ELF1-human	https://www.encodeproject.org/files/ENCFF950ISD/@@download/ENCFF950ISD.bed.gz
+ENCFF869EBE	ENCSR017CEO	MCF-7	immortalized cell line	adult	female	69 year	CUX1-human	https://www.encodeproject.org/files/ENCFF869EBE/@@download/ENCFF869EBE.bed.gz
+ENCFF891JAX	ENCSR251OVJ	GM12878	immortalized cell line	adult	female	unknown	SMAD5-human	https://www.encodeproject.org/files/ENCFF891JAX/@@download/ENCFF891JAX.bed.gz
+ENCFF145JGI	ENCSR000FCC	K562	immortalized cell line	adult	female	53 year	NFE2-human	https://www.encodeproject.org/files/ENCFF145JGI/@@download/ENCFF145JGI.bed.gz
+ENCFF023PLP	ENCSR085QEV	K562	immortalized cell line	adult	female	53 year	NBN-human	https://www.encodeproject.org/files/ENCFF023PLP/@@download/ENCFF023PLP.bed.gz
+ENCFF606DWB	ENCSR338MMB	liver	tissue	adult	male	32 year	NR2F2-human	https://www.encodeproject.org/files/ENCFF606DWB/@@download/ENCFF606DWB.bed.gz
+ENCFF659XDV	ENCSR528PSI	HepG2	immortalized cell line	child	male	15 year	FLAG-HLF-human	https://www.encodeproject.org/files/ENCFF659XDV/@@download/ENCFF659XDV.bed.gz
+ENCFF951LYB	ENCSR707QWA	K562	immortalized cell line	adult	female	53 year	NR2F6-human	https://www.encodeproject.org/files/ENCFF951LYB/@@download/ENCFF951LYB.bed.gz
+ENCFF643EJZ	ENCSR168SMX	liver	tissue	child	female	4 year	NR2F2-human	https://www.encodeproject.org/files/ENCFF643EJZ/@@download/ENCFF643EJZ.bed.gz
+ENCFF373WRI	ENCSR155VDK	MCF-7	immortalized cell line	adult	female	69 year	ZBTB11-human	https://www.encodeproject.org/files/ENCFF373WRI/@@download/ENCFF373WRI.bed.gz
+ENCFF208GHS	ENCSR917QNE	liver	tissue	adult	male	32 year	RAD21-human	https://www.encodeproject.org/files/ENCFF208GHS/@@download/ENCFF208GHS.bed.gz
+ENCFF893ZPT	ENCSR338QAC	K562	immortalized cell line	adult	female	53 year	eGFP-ELK1-human	https://www.encodeproject.org/files/ENCFF893ZPT/@@download/ENCFF893ZPT.bed.gz
+ENCFF563MXX	ENCSR706BJO	K562	immortalized cell line	adult	female	53 year	eGFP-ZBTB11-human	https://www.encodeproject.org/files/ENCFF563MXX/@@download/ENCFF563MXX.bed.gz
+ENCFF315QEI	ENCSR715CCR	K562	immortalized cell line	adult	female	53 year	DPF2-human	https://www.encodeproject.org/files/ENCFF315QEI/@@download/ENCFF315QEI.bed.gz
+ENCFF671YEU	ENCSR632SHZ	K562	immortalized cell line	adult	female	53 year	eGFP-NFE2L1-human	https://www.encodeproject.org/files/ENCFF671YEU/@@download/ENCFF671YEU.bed.gz
+ENCFF834DYD	ENCSR178NTX	K562	immortalized cell line	adult	female	53 year	eGFP-CUX1-human	https://www.encodeproject.org/files/ENCFF834DYD/@@download/ENCFF834DYD.bed.gz
+ENCFF599CTG	ENCSR845BCL	K562	immortalized cell line	adult	female	53 year	eGFP-ZNF639-human	https://www.encodeproject.org/files/ENCFF599CTG/@@download/ENCFF599CTG.bed.gz
+ENCFF752RBV	ENCSR740NPG	K562	immortalized cell line	adult	female	53 year	eGFP-BACH1-human	https://www.encodeproject.org/files/ENCFF752RBV/@@download/ENCFF752RBV.bed.gz
+ENCFF207CLF	ENCSR656JZL	HepG2	immortalized cell line	child	male	15 year	FLAG-HHEX-human	https://www.encodeproject.org/files/ENCFF207CLF/@@download/ENCFF207CLF.bed.gz
+ENCFF355IGX	ENCSR157TCS	K562	immortalized cell line	adult	female	53 year	SMARCE1-human	https://www.encodeproject.org/files/ENCFF355IGX/@@download/ENCFF355IGX.bed.gz
+ENCFF724JQX	ENCSR167JBG	K562	immortalized cell line	adult	female	53 year	eGFP-DIDO1-human	https://www.encodeproject.org/files/ENCFF724JQX/@@download/ENCFF724JQX.bed.gz
+ENCFF319TPR	ENCSR322CFO	K562	immortalized cell line	adult	female	53 year	ZEB2-human	https://www.encodeproject.org/files/ENCFF319TPR/@@download/ENCFF319TPR.bed.gz
+ENCFF037UMP	ENCSR107GRP	K562	immortalized cell line	adult	female	53 year	MLLT1-human	https://www.encodeproject.org/files/ENCFF037UMP/@@download/ENCFF037UMP.bed.gz
+ENCFF002VCK	ENCSR940MHE	MCF-7	immortalized cell line	adult	female	69 year	MBD2-human	https://www.encodeproject.org/files/ENCFF002VCK/@@download/ENCFF002VCK.bed.gz
+ENCFF056LZZ	ENCSR189PYJ	K562	immortalized cell line	adult	female	53 year	SMAD2-human	https://www.encodeproject.org/files/ENCFF056LZZ/@@download/ENCFF056LZZ.bed.gz
+ENCFF525YEM	ENCSR488EES	HepG2	immortalized cell line	child	male	15 year	NFE2L2-human	https://www.encodeproject.org/files/ENCFF525YEM/@@download/ENCFF525YEM.bed.gz
+ENCFF810GDI	ENCSR382WLL	MCF-7	immortalized cell line	adult	female	69 year	ELK1-human	https://www.encodeproject.org/files/ENCFF810GDI/@@download/ENCFF810GDI.bed.gz
+ENCFF088ADT	ENCSR348JOJ	MCF-7	immortalized cell line	adult	female	69 year	MTA1-human	https://www.encodeproject.org/files/ENCFF088ADT/@@download/ENCFF088ADT.bed.gz
+ENCFF464IZM	ENCSR590CNM	HepG2	immortalized cell line	child	male	15 year	GATA4-human	https://www.encodeproject.org/files/ENCFF464IZM/@@download/ENCFF464IZM.bed.gz
+ENCFF471NRX	ENCSR697CUP	MCF-7	immortalized cell line	adult	female	69 year	HCFC1-human	https://www.encodeproject.org/files/ENCFF471NRX/@@download/ENCFF471NRX.bed.gz
+ENCFF498PHD	ENCSR261EDU	HepG2	immortalized cell line	child	male	15 year	MNT-human	https://www.encodeproject.org/files/ENCFF498PHD/@@download/ENCFF498PHD.bed.gz
+ENCFF805OCR	ENCSR429QPP	K562	immortalized cell line	adult	female	53 year	FOXM1-human	https://www.encodeproject.org/files/ENCFF805OCR/@@download/ENCFF805OCR.bed.gz
+ENCFF038PPG	ENCSR486IFJ	K562	immortalized cell line	adult	female	53 year	ESRRA-human	https://www.encodeproject.org/files/ENCFF038PPG/@@download/ENCFF038PPG.bed.gz
+ENCFF916LHV	ENCSR525YFS	HepG2	immortalized cell line	child	male	15 year	ZBTB40-human	https://www.encodeproject.org/files/ENCFF916LHV/@@download/ENCFF916LHV.bed.gz
+ENCFF838QKQ	ENCSR529JYA	HepG2	immortalized cell line	child	male	15 year	HCFC1-human	https://www.encodeproject.org/files/ENCFF838QKQ/@@download/ENCFF838QKQ.bed.gz
+ENCFF391WQH	ENCSR391JII	MCF-7	immortalized cell line	adult	female	69 year	RCOR1-human	https://www.encodeproject.org/files/ENCFF391WQH/@@download/ENCFF391WQH.bed.gz
+ENCFF866ZRE	ENCSR523XCR	HepG2	immortalized cell line	child	male	15 year	RNF2-human	https://www.encodeproject.org/files/ENCFF866ZRE/@@download/ENCFF866ZRE.bed.gz
+ENCFF513GIW	ENCSR224IKA	K562	immortalized cell line	adult	female	53 year	TFDP1-human	https://www.encodeproject.org/files/ENCFF513GIW/@@download/ENCFF513GIW.bed.gz
+ENCFF088EKR	ENCSR619GFP	K562	immortalized cell line	adult	female	53 year	eGFP-HINFP-human	https://www.encodeproject.org/files/ENCFF088EKR/@@download/ENCFF088EKR.bed.gz
+ENCFF166MJJ	ENCSR926KTP	K562	immortalized cell line	adult	female	53 year	eGFP-IRF9-human	https://www.encodeproject.org/files/ENCFF166MJJ/@@download/ENCFF166MJJ.bed.gz
+ENCFF678AUZ	ENCSR634ZGP	HeLa-S3	immortalized cell line	adult	female	31 year	UBTF-human	https://www.encodeproject.org/files/ENCFF678AUZ/@@download/ENCFF678AUZ.bed.gz
+ENCFF757ULW	ENCSR149ZBI	K562	immortalized cell line	adult	female	53 year	eGFP-ZNF584-human	https://www.encodeproject.org/files/ENCFF757ULW/@@download/ENCFF757ULW.bed.gz
+ENCFF067JKB	ENCSR970NKQ	K562	immortalized cell line	adult	female	53 year	NR2F1-human	https://www.encodeproject.org/files/ENCFF067JKB/@@download/ENCFF067JKB.bed.gz
+ENCFF548HXK	ENCSR835XKS	GM12878	immortalized cell line	adult	female	unknown	TRIM22-human	https://www.encodeproject.org/files/ENCFF548HXK/@@download/ENCFF548HXK.bed.gz
+ENCFF883YQO	ENCSR897MYK	A549	immortalized cell line	adult	male	58 year	SREBF1-human	https://www.encodeproject.org/files/ENCFF883YQO/@@download/ENCFF883YQO.bed.gz
+ENCFF506SNO	ENCSR788XNX	MCF-7	immortalized cell line	adult	female	69 year	RFX1-human	https://www.encodeproject.org/files/ENCFF506SNO/@@download/ENCFF506SNO.bed.gz
+ENCFF175IUD	ENCSR847LBF	K562	immortalized cell line	adult	female	53 year	eGFP-FOXJ2-human	https://www.encodeproject.org/files/ENCFF175IUD/@@download/ENCFF175IUD.bed.gz
+ENCFF675TCT	ENCSR257XVY	K562	immortalized cell line	adult	female	53 year	eGFP-ZNF83-human	https://www.encodeproject.org/files/ENCFF675TCT/@@download/ENCFF675TCT.bed.gz
+ENCFF044TCD	ENCSR603XLW	K562	immortalized cell line	adult	female	53 year	eGFP-ZNF589-human	https://www.encodeproject.org/files/ENCFF044TCD/@@download/ENCFF044TCD.bed.gz
+ENCFF499LJX	ENCSR729HVR	K562	immortalized cell line	adult	female	53 year	eGFP-ZNF644-human	https://www.encodeproject.org/files/ENCFF499LJX/@@download/ENCFF499LJX.bed.gz

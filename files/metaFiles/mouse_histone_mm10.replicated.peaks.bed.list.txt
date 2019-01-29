@@ -1,0 +1,1252 @@
+ENCFF871MCR	ENCSR244ASF	limb	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF871MCR/@@download/ENCFF871MCR.bed.gz
+ENCFF771CVP	ENCSR244ASF	limb	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF771CVP/@@download/ENCFF771CVP.bed.gz
+ENCFF112UJV	ENCSR241BSK	neural tube	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF112UJV/@@download/ENCFF112UJV.bed.gz
+ENCFF464KTV	ENCSR241BSK	neural tube	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF464KTV/@@download/ENCFF464KTV.bed.gz
+ENCFF088IJV	ENCSR479LFP	liver	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF088IJV/@@download/ENCFF088IJV.bed.gz
+ENCFF399KKD	ENCSR479LFP	liver	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF399KKD/@@download/ENCFF399KKD.bed.gz
+ENCFF447GUL	ENCSR036YKL	kidney	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF447GUL/@@download/ENCFF447GUL.bed.gz
+ENCFF066PLX	ENCSR036YKL	kidney	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF066PLX/@@download/ENCFF066PLX.bed.gz
+ENCFF685JMC	ENCSR000CGM	CH12.LX	immortalized cell line	unknown	female	unknown	H3K79me2-mouse	https://www.encodeproject.org/files/ENCFF685JMC/@@download/ENCFF685JMC.bed.gz
+ENCFF279HUN	ENCSR000CFN	ES-Bruce4	stem cell	embryonic	male	unknown	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF279HUN/@@download/ENCFF279HUN.bed.gz
+ENCFF558YNC	ENCSR000CFN	ES-Bruce4	stem cell	embryonic	male	unknown	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF558YNC/@@download/ENCFF558YNC.bed.gz
+ENCFF686VFV	ENCSR000CCU	testis	tissue	adult	male	8 week	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF686VFV/@@download/ENCFF686VFV.bed.gz
+ENCFF357JNZ	ENCSR000CBA	embryonic fibroblast	primary cell	embryonic	male	13.5 week	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF357JNZ/@@download/ENCFF357JNZ.bed.gz
+ENCFF655AFF	ENCSR000CGK	CH12.LX	immortalized cell line	unknown	female	unknown	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF655AFF/@@download/ENCFF655AFF.bed.gz
+ENCFF758TOE	ENCSR810EOA	limb	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF758TOE/@@download/ENCFF758TOE.bed.gz
+ENCFF761MYS	ENCSR810EOA	limb	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF761MYS/@@download/ENCFF761MYS.bed.gz
+ENCFF630VBV	ENCSR629AFL	limb	tissue	embryonic	mixed	12.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF630VBV/@@download/ENCFF630VBV.bed.gz
+ENCFF482OCW	ENCSR629AFL	limb	tissue	embryonic	mixed	12.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF482OCW/@@download/ENCFF482OCW.bed.gz
+ENCFF208PHP	ENCSR129OJN	midbrain	tissue	embryonic	mixed	13.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF208PHP/@@download/ENCFF208PHP.bed.gz
+ENCFF276UEL	ENCSR129OJN	midbrain	tissue	embryonic	mixed	13.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF276UEL/@@download/ENCFF276UEL.bed.gz
+ENCFF601RKR	ENCSR916CBN	stomach	tissue	postnatal	mixed	0 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF601RKR/@@download/ENCFF601RKR.bed.gz
+ENCFF268PNY	ENCSR916CBN	stomach	tissue	postnatal	mixed	0 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF268PNY/@@download/ENCFF268PNY.bed.gz
+ENCFF546JDM	ENCSR093BYV	neural tube	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF546JDM/@@download/ENCFF546JDM.bed.gz
+ENCFF098IOA	ENCSR093BYV	neural tube	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF098IOA/@@download/ENCFF098IOA.bed.gz
+ENCFF749JMB	ENCSR701GKO	embryonic facial prominence	tissue	embryonic	mixed	11.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF749JMB/@@download/ENCFF749JMB.bed.gz
+ENCFF705WVF	ENCSR701GKO	embryonic facial prominence	tissue	embryonic	mixed	11.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF705WVF/@@download/ENCFF705WVF.bed.gz
+ENCFF799NLK	ENCSR948VPV	midbrain	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF799NLK/@@download/ENCFF799NLK.bed.gz
+ENCFF403PZQ	ENCSR948VPV	midbrain	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF403PZQ/@@download/ENCFF403PZQ.bed.gz
+ENCFF632FMK	ENCSR448TTC	neural tube	tissue	embryonic	mixed	11.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF632FMK/@@download/ENCFF632FMK.bed.gz
+ENCFF211AEC	ENCSR448TTC	neural tube	tissue	embryonic	mixed	11.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF211AEC/@@download/ENCFF211AEC.bed.gz
+ENCFF087EUA	ENCSR721MSV	hindbrain	tissue	postnatal	mixed	0 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF087EUA/@@download/ENCFF087EUA.bed.gz
+ENCFF479FVK	ENCSR721MSV	hindbrain	tissue	postnatal	mixed	0 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF479FVK/@@download/ENCFF479FVK.bed.gz
+ENCFF406BED	ENCSR212KGS	E14TG2a.4	stem cell	embryonic	male	3.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF406BED/@@download/ENCFF406BED.bed.gz
+ENCFF141HDZ	ENCSR424END	intestine	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF141HDZ/@@download/ENCFF141HDZ.bed.gz
+ENCFF354MWY	ENCSR424END	intestine	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF354MWY/@@download/ENCFF354MWY.bed.gz
+ENCFF440FYE	ENCSR000ADK	ES-E14	stem cell	embryonic	male	unknown	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF440FYE/@@download/ENCFF440FYE.bed.gz
+ENCFF099XCX	ENCSR966AIB	forebrain	tissue	embryonic	mixed	12.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF099XCX/@@download/ENCFF099XCX.bed.gz
+ENCFF627DHT	ENCSR966AIB	forebrain	tissue	embryonic	mixed	12.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF627DHT/@@download/ENCFF627DHT.bed.gz
+ENCFF628ABI	ENCSR765UOU	midbrain	tissue	embryonic	mixed	12.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF628ABI/@@download/ENCFF628ABI.bed.gz
+ENCFF528GDD	ENCSR765UOU	midbrain	tissue	embryonic	mixed	12.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF528GDD/@@download/ENCFF528GDD.bed.gz
+ENCFF407NPL	ENCSR229LTY	limb	tissue	embryonic	mixed	12.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF407NPL/@@download/ENCFF407NPL.bed.gz
+ENCFF355VUL	ENCSR229LTY	limb	tissue	embryonic	mixed	12.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF355VUL/@@download/ENCFF355VUL.bed.gz
+ENCFF724UQO	ENCSR972LUE	hindbrain	tissue	embryonic	mixed	12.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF724UQO/@@download/ENCFF724UQO.bed.gz
+ENCFF787EAZ	ENCSR000CEQ	liver	tissue	adult	male	8 week	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF787EAZ/@@download/ENCFF787EAZ.bed.gz
+ENCFF415QAM	ENCSR000CCI	thymus	tissue	adult	male	8 week	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF415QAM/@@download/ENCFF415QAM.bed.gz
+ENCFF454UOO	ENCSR000CEM	heart	tissue	adult	male	8 week	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF454UOO/@@download/ENCFF454UOO.bed.gz
+ENCFF240FBD	ENCSR000DHX	G1E	immortalized cell line	postnatal	male	0 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF240FBD/@@download/ENCFF240FBD.bed.gz
+ENCFF418AZI	ENCSR380BBL	heart	tissue	embryonic	mixed	13.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF418AZI/@@download/ENCFF418AZI.bed.gz
+ENCFF311HQB	ENCSR380BBL	heart	tissue	embryonic	mixed	13.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF311HQB/@@download/ENCFF311HQB.bed.gz
+ENCFF043CBA	ENCSR782DGO	heart	tissue	embryonic	mixed	10.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF043CBA/@@download/ENCFF043CBA.bed.gz
+ENCFF475JXJ	ENCSR984OHL	hindbrain	tissue	embryonic	mixed	10.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF475JXJ/@@download/ENCFF475JXJ.bed.gz
+ENCFF405ZDP	ENCSR930AFR	neural tube	tissue	embryonic	mixed	12.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF405ZDP/@@download/ENCFF405ZDP.bed.gz
+ENCFF670WBI	ENCSR930AFR	neural tube	tissue	embryonic	mixed	12.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF670WBI/@@download/ENCFF670WBI.bed.gz
+ENCFF756VDX	ENCSR764UIE	midbrain	tissue	embryonic	mixed	12.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF756VDX/@@download/ENCFF756VDX.bed.gz
+ENCFF275FND	ENCSR764UIE	midbrain	tissue	embryonic	mixed	12.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF275FND/@@download/ENCFF275FND.bed.gz
+ENCFF674CSD	ENCSR770OXU	liver	tissue	embryonic	mixed	12.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF674CSD/@@download/ENCFF674CSD.bed.gz
+ENCFF034TNU	ENCSR770OXU	liver	tissue	embryonic	mixed	12.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF034TNU/@@download/ENCFF034TNU.bed.gz
+ENCFF672XEQ	ENCSR014MXQ	hindbrain	tissue	embryonic	mixed	12.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF672XEQ/@@download/ENCFF672XEQ.bed.gz
+ENCFF631ZAN	ENCSR014MXQ	hindbrain	tissue	embryonic	mixed	12.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF631ZAN/@@download/ENCFF631ZAN.bed.gz
+ENCFF103IGO	ENCSR051CUH	intestine	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF103IGO/@@download/ENCFF103IGO.bed.gz
+ENCFF092NWD	ENCSR051CUH	intestine	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF092NWD/@@download/ENCFF092NWD.bed.gz
+ENCFF968MDL	ENCSR449EUZ	midbrain	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF968MDL/@@download/ENCFF968MDL.bed.gz
+ENCFF568RKB	ENCSR449EUZ	midbrain	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF568RKB/@@download/ENCFF568RKB.bed.gz
+ENCFF839ZID	ENCSR875KRK	forebrain	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF839ZID/@@download/ENCFF839ZID.bed.gz
+ENCFF896VGU	ENCSR875KRK	forebrain	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF896VGU/@@download/ENCFF896VGU.bed.gz
+ENCFF330ZZE	ENCSR044SNE	neural tube	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF330ZZE/@@download/ENCFF330ZZE.bed.gz
+ENCFF532MDF	ENCSR044SNE	neural tube	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF532MDF/@@download/ENCFF532MDF.bed.gz
+ENCFF298MND	ENCSR437NPG	heart	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF298MND/@@download/ENCFF298MND.bed.gz
+ENCFF531ZQR	ENCSR437NPG	heart	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF531ZQR/@@download/ENCFF531ZQR.bed.gz
+ENCFF046FLD	ENCSR365CUP	hindbrain	tissue	postnatal	mixed	0 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF046FLD/@@download/ENCFF046FLD.bed.gz
+ENCFF029SEK	ENCSR365CUP	hindbrain	tissue	postnatal	mixed	0 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF029SEK/@@download/ENCFF029SEK.bed.gz
+ENCFF693BPW	ENCSR450ITF	midbrain	tissue	embryonic	mixed	11.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF693BPW/@@download/ENCFF693BPW.bed.gz
+ENCFF227ZTU	ENCSR450ITF	midbrain	tissue	embryonic	mixed	11.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF227ZTU/@@download/ENCFF227ZTU.bed.gz
+ENCFF922FNB	ENCSR654VMK	limb	tissue	embryonic	mixed	11.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF922FNB/@@download/ENCFF922FNB.bed.gz
+ENCFF928TGM	ENCSR654VMK	limb	tissue	embryonic	mixed	11.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF928TGM/@@download/ENCFF928TGM.bed.gz
+ENCFF989ERE	ENCSR445UYH	neural tube	tissue	embryonic	mixed	11.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF989ERE/@@download/ENCFF989ERE.bed.gz
+ENCFF567RNX	ENCSR445UYH	neural tube	tissue	embryonic	mixed	11.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF567RNX/@@download/ENCFF567RNX.bed.gz
+ENCFF209YXF	ENCSR556ZUY	forebrain	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF209YXF/@@download/ENCFF209YXF.bed.gz
+ENCFF898CIL	ENCSR556ZUY	forebrain	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF898CIL/@@download/ENCFF898CIL.bed.gz
+ENCFF044YBD	ENCSR094TTT	forebrain	tissue	postnatal	mixed	0 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF044YBD/@@download/ENCFF044YBD.bed.gz
+ENCFF676TSV	ENCSR094TTT	forebrain	tissue	postnatal	mixed	0 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF676TSV/@@download/ENCFF676TSV.bed.gz
+ENCFF238BQP	ENCSR975QEX	stomach	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF238BQP/@@download/ENCFF238BQP.bed.gz
+ENCFF024CYU	ENCSR975QEX	stomach	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF024CYU/@@download/ENCFF024CYU.bed.gz
+ENCFF823LCO	ENCSR339LMJ	heart	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF823LCO/@@download/ENCFF823LCO.bed.gz
+ENCFF813HGL	ENCSR339LMJ	heart	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF813HGL/@@download/ENCFF813HGL.bed.gz
+ENCFF167QZM	ENCSR857GQI	midbrain	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF167QZM/@@download/ENCFF167QZM.bed.gz
+ENCFF962ZLC	ENCSR857GQI	midbrain	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF962ZLC/@@download/ENCFF962ZLC.bed.gz
+ENCFF705DBW	ENCSR091WNX	embryonic facial prominence	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF705DBW/@@download/ENCFF705DBW.bed.gz
+ENCFF067ZBV	ENCSR091WNX	embryonic facial prominence	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF067ZBV/@@download/ENCFF067ZBV.bed.gz
+ENCFF192IPL	ENCSR886IHN	heart	tissue	embryonic	mixed	11.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF192IPL/@@download/ENCFF192IPL.bed.gz
+ENCFF737FNO	ENCSR886IHN	heart	tissue	embryonic	mixed	11.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF737FNO/@@download/ENCFF737FNO.bed.gz
+ENCFF612NVM	ENCSR797EYS	hindbrain	tissue	embryonic	mixed	16.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF612NVM/@@download/ENCFF612NVM.bed.gz
+ENCFF834HBK	ENCSR797EYS	hindbrain	tissue	embryonic	mixed	16.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF834HBK/@@download/ENCFF834HBK.bed.gz
+ENCFF884MHM	ENCSR428OEK	forebrain	tissue	embryonic	mixed	16.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF884MHM/@@download/ENCFF884MHM.bed.gz
+ENCFF378OWA	ENCSR428OEK	forebrain	tissue	embryonic	mixed	16.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF378OWA/@@download/ENCFF378OWA.bed.gz
+ENCFF247RWM	ENCSR323NOC	hindbrain	tissue	embryonic	mixed	11.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF247RWM/@@download/ENCFF247RWM.bed.gz
+ENCFF171AAD	ENCSR323NOC	hindbrain	tissue	embryonic	mixed	11.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF171AAD/@@download/ENCFF171AAD.bed.gz
+ENCFF540CXW	ENCSR631QAE	limb	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF540CXW/@@download/ENCFF540CXW.bed.gz
+ENCFF656AZE	ENCSR631QAE	limb	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF656AZE/@@download/ENCFF656AZE.bed.gz
+ENCFF478WSM	ENCSR458FBL	liver	tissue	embryonic	mixed	16.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF478WSM/@@download/ENCFF478WSM.bed.gz
+ENCFF039VCT	ENCSR458FBL	liver	tissue	embryonic	mixed	16.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF039VCT/@@download/ENCFF039VCT.bed.gz
+ENCFF242HFP	ENCSR515XWH	intestine	tissue	embryonic	mixed	16.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF242HFP/@@download/ENCFF242HFP.bed.gz
+ENCFF937XLK	ENCSR515XWH	intestine	tissue	embryonic	mixed	16.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF937XLK/@@download/ENCFF937XLK.bed.gz
+ENCFF773MNA	ENCSR498EVD	kidney	tissue	postnatal	mixed	0 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF773MNA/@@download/ENCFF773MNA.bed.gz
+ENCFF881PQB	ENCSR498EVD	kidney	tissue	postnatal	mixed	0 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF881PQB/@@download/ENCFF881PQB.bed.gz
+ENCFF844OZT	ENCSR948RYN	liver	tissue	embryonic	mixed	11.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF844OZT/@@download/ENCFF844OZT.bed.gz
+ENCFF343AOE	ENCSR948RYN	liver	tissue	embryonic	mixed	11.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF343AOE/@@download/ENCFF343AOE.bed.gz
+ENCFF621XDW	ENCSR333QJO	limb	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF621XDW/@@download/ENCFF621XDW.bed.gz
+ENCFF816HJK	ENCSR333QJO	limb	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF816HJK/@@download/ENCFF816HJK.bed.gz
+ENCFF358FKM	ENCSR389EYR	intestine	tissue	postnatal	mixed	0 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF358FKM/@@download/ENCFF358FKM.bed.gz
+ENCFF228FIH	ENCSR389EYR	intestine	tissue	postnatal	mixed	0 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF228FIH/@@download/ENCFF228FIH.bed.gz
+ENCFF899EKW	ENCSR718CAJ	hindbrain	tissue	embryonic	mixed	16.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF899EKW/@@download/ENCFF899EKW.bed.gz
+ENCFF777TKP	ENCSR718CAJ	hindbrain	tissue	embryonic	mixed	16.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF777TKP/@@download/ENCFF777TKP.bed.gz
+ENCFF049GBX	ENCSR529ERN	limb	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF049GBX/@@download/ENCFF049GBX.bed.gz
+ENCFF094WSH	ENCSR529ERN	limb	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF094WSH/@@download/ENCFF094WSH.bed.gz
+ENCFF981KJL	ENCSR175QZX	hindbrain	tissue	embryonic	mixed	11.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF981KJL/@@download/ENCFF981KJL.bed.gz
+ENCFF655QAK	ENCSR175QZX	hindbrain	tissue	embryonic	mixed	11.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF655QAK/@@download/ENCFF655QAK.bed.gz
+ENCFF671JLH	ENCSR023VJO	stomach	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF671JLH/@@download/ENCFF671JLH.bed.gz
+ENCFF793VQQ	ENCSR023VJO	stomach	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF793VQQ/@@download/ENCFF793VQQ.bed.gz
+ENCFF722KTE	ENCSR238ZCJ	lung	tissue	postnatal	mixed	0 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF722KTE/@@download/ENCFF722KTE.bed.gz
+ENCFF772NQS	ENCSR238ZCJ	lung	tissue	postnatal	mixed	0 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF772NQS/@@download/ENCFF772NQS.bed.gz
+ENCFF196INA	ENCSR000CES	MEL cell line	immortalized cell line	unknown	unknown	unknown week	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF196INA/@@download/ENCFF196INA.bed.gz
+ENCFF853BYO	ENCSR000CFV	thymus	tissue	adult	male	8 week	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF853BYO/@@download/ENCFF853BYO.bed.gz
+ENCFF302BKK	ENCSR000CEX	MEL cell line	immortalized cell line	unknown	unknown	unknown week	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF302BKK/@@download/ENCFF302BKK.bed.gz
+ENCFF421JDE	ENCSR000CBC	spleen	tissue	adult	male	8 week	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF421JDE/@@download/ENCFF421JDE.bed.gz
+ENCFF199XZU	ENCSR000CDD	cortical plate	tissue	adult	male	8 week	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF199XZU/@@download/ENCFF199XZU.bed.gz
+ENCFF091SCI	ENCSR231CHC	limb	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF091SCI/@@download/ENCFF091SCI.bed.gz
+ENCFF377NNY	ENCSR231CHC	limb	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF377NNY/@@download/ENCFF377NNY.bed.gz
+ENCFF267JRR	ENCSR137NUN	embryonic facial prominence	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF267JRR/@@download/ENCFF267JRR.bed.gz
+ENCFF331TPD	ENCSR137NUN	embryonic facial prominence	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF331TPD/@@download/ENCFF331TPD.bed.gz
+ENCFF835ICK	ENCSR135QMP	liver	tissue	embryonic	mixed	16.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF835ICK/@@download/ENCFF835ICK.bed.gz
+ENCFF651SKE	ENCSR135QMP	liver	tissue	embryonic	mixed	16.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF651SKE/@@download/ENCFF651SKE.bed.gz
+ENCFF463TTI	ENCSR270WWV	forebrain	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF463TTI/@@download/ENCFF463TTI.bed.gz
+ENCFF711DMP	ENCSR270WWV	forebrain	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF711DMP/@@download/ENCFF711DMP.bed.gz
+ENCFF826GSS	ENCSR464MQU	intestine	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF826GSS/@@download/ENCFF826GSS.bed.gz
+ENCFF854JVF	ENCSR464MQU	intestine	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF854JVF/@@download/ENCFF854JVF.bed.gz
+ENCFF591CKA	ENCSR057BKH	embryonic facial prominence	tissue	embryonic	mixed	13.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF591CKA/@@download/ENCFF591CKA.bed.gz
+ENCFF391UBH	ENCSR057BKH	embryonic facial prominence	tissue	embryonic	mixed	13.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF391UBH/@@download/ENCFF391UBH.bed.gz
+ENCFF995NTT	ENCSR858AUB	lung	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF995NTT/@@download/ENCFF995NTT.bed.gz
+ENCFF979AUE	ENCSR858AUB	lung	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF979AUE/@@download/ENCFF979AUE.bed.gz
+ENCFF492GJK	ENCSR522LXN	stomach	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF492GJK/@@download/ENCFF492GJK.bed.gz
+ENCFF878VPM	ENCSR522LXN	stomach	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF878VPM/@@download/ENCFF878VPM.bed.gz
+ENCFF461LUY	ENCSR483DEV	stomach	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF461LUY/@@download/ENCFF461LUY.bed.gz
+ENCFF781VAZ	ENCSR483DEV	stomach	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF781VAZ/@@download/ENCFF781VAZ.bed.gz
+ENCFF416APG	ENCSR906RTN	limb	tissue	embryonic	mixed	10.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF416APG/@@download/ENCFF416APG.bed.gz
+ENCFF676DCP	ENCSR703TBR	hindbrain	tissue	embryonic	mixed	10.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF676DCP/@@download/ENCFF676DCP.bed.gz
+ENCFF610DDY	ENCSR314FGC	midbrain	tissue	embryonic	mixed	16.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF610DDY/@@download/ENCFF610DDY.bed.gz
+ENCFF985ACY	ENCSR314FGC	midbrain	tissue	embryonic	mixed	16.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF985ACY/@@download/ENCFF985ACY.bed.gz
+ENCFF399XMA	ENCSR100DLL	intestine	tissue	embryonic	mixed	16.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF399XMA/@@download/ENCFF399XMA.bed.gz
+ENCFF051MHA	ENCSR100DLL	intestine	tissue	embryonic	mixed	16.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF051MHA/@@download/ENCFF051MHA.bed.gz
+ENCFF323VQM	ENCSR000CAF	kidney	tissue	adult	male	8 week	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF323VQM/@@download/ENCFF323VQM.bed.gz
+ENCFF525DID	ENCSR825OWH	lung	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF525DID/@@download/ENCFF525DID.bed.gz
+ENCFF034OKB	ENCSR825OWH	lung	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF034OKB/@@download/ENCFF034OKB.bed.gz
+ENCFF619MOV	ENCSR639DND	intestine	tissue	embryonic	mixed	16.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF619MOV/@@download/ENCFF619MOV.bed.gz
+ENCFF514SMO	ENCSR639DND	intestine	tissue	embryonic	mixed	16.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF514SMO/@@download/ENCFF514SMO.bed.gz
+ENCFF512GBW	ENCSR000CGH	CH12.LX	immortalized cell line	unknown	female	unknown	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF512GBW/@@download/ENCFF512GBW.bed.gz
+ENCFF556TVG	ENCSR000CGR	ES-E14	stem cell	unknown	male	unknown	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF556TVG/@@download/ENCFF556TVG.bed.gz
+ENCFF187RGN	ENCSR368RJD	forebrain	tissue	embryonic	mixed	10.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF187RGN/@@download/ENCFF187RGN.bed.gz
+ENCFF624RPQ	ENCSR238SGC	limb	tissue	embryonic	mixed	10.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF624RPQ/@@download/ENCFF624RPQ.bed.gz
+ENCFF076DLF	ENCSR782DEA	heart	tissue	embryonic	mixed	10.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF076DLF/@@download/ENCFF076DLF.bed.gz
+ENCFF175PFZ	ENCSR688ZOR	heart	tissue	embryonic	mixed	12.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF175PFZ/@@download/ENCFF175PFZ.bed.gz
+ENCFF206VAY	ENCSR688ZOR	heart	tissue	embryonic	mixed	12.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF206VAY/@@download/ENCFF206VAY.bed.gz
+ENCFF990TWW	ENCSR140YPL	kidney	tissue	postnatal	mixed	0 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF990TWW/@@download/ENCFF990TWW.bed.gz
+ENCFF872MVE	ENCSR140YPL	kidney	tissue	postnatal	mixed	0 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF872MVE/@@download/ENCFF872MVE.bed.gz
+ENCFF688BGU	ENCSR198ACZ	intestine	tissue	postnatal	mixed	0 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF688BGU/@@download/ENCFF688BGU.bed.gz
+ENCFF719SDJ	ENCSR198ACZ	intestine	tissue	postnatal	mixed	0 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF719SDJ/@@download/ENCFF719SDJ.bed.gz
+ENCFF150FVO	ENCSR067ZDE	forebrain	tissue	embryonic	mixed	11.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF150FVO/@@download/ENCFF150FVO.bed.gz
+ENCFF405JZZ	ENCSR067ZDE	forebrain	tissue	embryonic	mixed	11.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF405JZZ/@@download/ENCFF405JZZ.bed.gz
+ENCFF108POT	ENCSR706SZI	embryonic facial prominence	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF108POT/@@download/ENCFF108POT.bed.gz
+ENCFF518UQD	ENCSR706SZI	embryonic facial prominence	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF518UQD/@@download/ENCFF518UQD.bed.gz
+ENCFF188RUB	ENCSR940CMI	stomach	tissue	postnatal	mixed	0 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF188RUB/@@download/ENCFF188RUB.bed.gz
+ENCFF985EYF	ENCSR940CMI	stomach	tissue	postnatal	mixed	0 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF985EYF/@@download/ENCFF985EYF.bed.gz
+ENCFF292DNP	ENCSR485GTY	intestine	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF292DNP/@@download/ENCFF292DNP.bed.gz
+ENCFF145YIU	ENCSR485GTY	intestine	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF145YIU/@@download/ENCFF145YIU.bed.gz
+ENCFF455CBK	ENCSR964RRJ	embryonic facial prominence	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF455CBK/@@download/ENCFF455CBK.bed.gz
+ENCFF029UVT	ENCSR964RRJ	embryonic facial prominence	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF029UVT/@@download/ENCFF029UVT.bed.gz
+ENCFF648KVC	ENCSR065LAB	midbrain	tissue	postnatal	mixed	0 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF648KVC/@@download/ENCFF648KVC.bed.gz
+ENCFF696FPS	ENCSR065LAB	midbrain	tissue	postnatal	mixed	0 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF696FPS/@@download/ENCFF696FPS.bed.gz
+ENCFF318VQG	ENCSR458PAO	hindbrain	tissue	postnatal	mixed	0 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF318VQG/@@download/ENCFF318VQG.bed.gz
+ENCFF894AGF	ENCSR458PAO	hindbrain	tissue	postnatal	mixed	0 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF894AGF/@@download/ENCFF894AGF.bed.gz
+ENCFF787PKN	ENCSR387YSD	lung	tissue	embryonic	mixed	16.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF787PKN/@@download/ENCFF787PKN.bed.gz
+ENCFF696ERS	ENCSR387YSD	lung	tissue	embryonic	mixed	16.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF696ERS/@@download/ENCFF696ERS.bed.gz
+ENCFF733KQC	ENCSR358XYP	intestine	tissue	embryonic	mixed	16.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF733KQC/@@download/ENCFF733KQC.bed.gz
+ENCFF650XPW	ENCSR358XYP	intestine	tissue	embryonic	mixed	16.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF650XPW/@@download/ENCFF650XPW.bed.gz
+ENCFF293CFR	ENCSR288OHO	kidney	tissue	postnatal	mixed	0 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF293CFR/@@download/ENCFF293CFR.bed.gz
+ENCFF621ENB	ENCSR288OHO	kidney	tissue	postnatal	mixed	0 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF621ENB/@@download/ENCFF621ENB.bed.gz
+ENCFF782FXC	ENCSR067FKP	midbrain	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF782FXC/@@download/ENCFF782FXC.bed.gz
+ENCFF288VBM	ENCSR067FKP	midbrain	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF288VBM/@@download/ENCFF288VBM.bed.gz
+ENCFF809WCV	ENCSR526JRI	embryonic facial prominence	tissue	embryonic	mixed	11.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF809WCV/@@download/ENCFF809WCV.bed.gz
+ENCFF454HBY	ENCSR526JRI	embryonic facial prominence	tissue	embryonic	mixed	11.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF454HBY/@@download/ENCFF454HBY.bed.gz
+ENCFF710NRK	ENCSR678FIT	midbrain	tissue	embryonic	mixed	16.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF710NRK/@@download/ENCFF710NRK.bed.gz
+ENCFF342RVM	ENCSR678FIT	midbrain	tissue	embryonic	mixed	16.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF342RVM/@@download/ENCFF342RVM.bed.gz
+ENCFF961GAJ	ENCSR780NWL	embryonic facial prominence	tissue	embryonic	mixed	13.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF961GAJ/@@download/ENCFF961GAJ.bed.gz
+ENCFF866KRC	ENCSR780NWL	embryonic facial prominence	tissue	embryonic	mixed	13.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF866KRC/@@download/ENCFF866KRC.bed.gz
+ENCFF963APC	ENCSR755SGK	midbrain	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF963APC/@@download/ENCFF963APC.bed.gz
+ENCFF600HWQ	ENCSR755SGK	midbrain	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF600HWQ/@@download/ENCFF600HWQ.bed.gz
+ENCFF209GHY	ENCSR466ZQC	neural tube	tissue	embryonic	mixed	11.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF209GHY/@@download/ENCFF209GHY.bed.gz
+ENCFF736PWD	ENCSR466ZQC	neural tube	tissue	embryonic	mixed	11.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF736PWD/@@download/ENCFF736PWD.bed.gz
+ENCFF058EIK	ENCSR647OTD	heart	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF058EIK/@@download/ENCFF058EIK.bed.gz
+ENCFF070XWK	ENCSR647OTD	heart	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF070XWK/@@download/ENCFF070XWK.bed.gz
+ENCFF821EZQ	ENCSR207UMX	neural tube	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF821EZQ/@@download/ENCFF821EZQ.bed.gz
+ENCFF842ZMC	ENCSR207UMX	neural tube	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF842ZMC/@@download/ENCFF842ZMC.bed.gz
+ENCFF558EQZ	ENCSR320UJD	kidney	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF558EQZ/@@download/ENCFF558EQZ.bed.gz
+ENCFF207JEH	ENCSR320UJD	kidney	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF207JEH/@@download/ENCFF207JEH.bed.gz
+ENCFF009ZBN	ENCSR737JHU	forebrain	tissue	embryonic	mixed	10.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF009ZBN/@@download/ENCFF009ZBN.bed.gz
+ENCFF269QSY	ENCSR868FWZ	liver	tissue	embryonic	mixed	13.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF269QSY/@@download/ENCFF269QSY.bed.gz
+ENCFF515ZTF	ENCSR868FWZ	liver	tissue	embryonic	mixed	13.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF515ZTF/@@download/ENCFF515ZTF.bed.gz
+ENCFF538ICO	ENCSR175KBJ	liver	tissue	embryonic	mixed	13.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF538ICO/@@download/ENCFF538ICO.bed.gz
+ENCFF196WCO	ENCSR175KBJ	liver	tissue	embryonic	mixed	13.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF196WCO/@@download/ENCFF196WCO.bed.gz
+ENCFF764IFT	ENCSR000CDU	liver	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF764IFT/@@download/ENCFF764IFT.bed.gz
+ENCFF509HFD	ENCSR095FDG	liver	tissue	embryonic	mixed	16.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF509HFD/@@download/ENCFF509HFD.bed.gz
+ENCFF968FFE	ENCSR095FDG	liver	tissue	embryonic	mixed	16.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF968FFE/@@download/ENCFF968FFE.bed.gz
+ENCFF249NRJ	ENCSR872WGX	stomach	tissue	embryonic	mixed	16.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF249NRJ/@@download/ENCFF249NRJ.bed.gz
+ENCFF868NOS	ENCSR872WGX	stomach	tissue	embryonic	mixed	16.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF868NOS/@@download/ENCFF868NOS.bed.gz
+ENCFF124KHV	ENCSR075SNV	liver	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF124KHV/@@download/ENCFF124KHV.bed.gz
+ENCFF384FJW	ENCSR075SNV	liver	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF384FJW/@@download/ENCFF384FJW.bed.gz
+ENCFF713FMD	ENCSR288LNF	stomach	tissue	postnatal	mixed	0 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF713FMD/@@download/ENCFF713FMD.bed.gz
+ENCFF383UIR	ENCSR288LNF	stomach	tissue	postnatal	mixed	0 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF383UIR/@@download/ENCFF383UIR.bed.gz
+ENCFF479TIY	ENCSR889MYY	liver	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF479TIY/@@download/ENCFF479TIY.bed.gz
+ENCFF997COQ	ENCSR889MYY	liver	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF997COQ/@@download/ENCFF997COQ.bed.gz
+ENCFF782BQK	ENCSR570HJI	liver	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF782BQK/@@download/ENCFF782BQK.bed.gz
+ENCFF398IQT	ENCSR570HJI	liver	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF398IQT/@@download/ENCFF398IQT.bed.gz
+ENCFF084JZG	ENCSR061DPP	embryonic facial prominence	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF084JZG/@@download/ENCFF084JZG.bed.gz
+ENCFF854XLG	ENCSR061DPP	embryonic facial prominence	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF854XLG/@@download/ENCFF854XLG.bed.gz
+ENCFF230KUA	ENCSR988BRP	limb	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF230KUA/@@download/ENCFF230KUA.bed.gz
+ENCFF399AMW	ENCSR988BRP	limb	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF399AMW/@@download/ENCFF399AMW.bed.gz
+ENCFF514KAF	ENCSR604AMS	intestine	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF514KAF/@@download/ENCFF514KAF.bed.gz
+ENCFF701RMC	ENCSR604AMS	intestine	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF701RMC/@@download/ENCFF701RMC.bed.gz
+ENCFF262IJJ	ENCSR193AEW	embryonic facial prominence	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF262IJJ/@@download/ENCFF262IJJ.bed.gz
+ENCFF377UCX	ENCSR193AEW	embryonic facial prominence	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF377UCX/@@download/ENCFF377UCX.bed.gz
+ENCFF478ROC	ENCSR428GHF	midbrain	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF478ROC/@@download/ENCFF478ROC.bed.gz
+ENCFF447XAK	ENCSR428GHF	midbrain	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF447XAK/@@download/ENCFF447XAK.bed.gz
+ENCFF691JGO	ENCSR398TTY	lung	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF691JGO/@@download/ENCFF691JGO.bed.gz
+ENCFF778XZE	ENCSR398TTY	lung	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF778XZE/@@download/ENCFF778XZE.bed.gz
+ENCFF648RUX	ENCSR990JMN	embryonic facial prominence	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF648RUX/@@download/ENCFF648RUX.bed.gz
+ENCFF490SEH	ENCSR990JMN	embryonic facial prominence	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF490SEH/@@download/ENCFF490SEH.bed.gz
+ENCFF497NPG	ENCSR755PMX	embryonic facial prominence	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF497NPG/@@download/ENCFF497NPG.bed.gz
+ENCFF674WXN	ENCSR755PMX	embryonic facial prominence	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF674WXN/@@download/ENCFF674WXN.bed.gz
+ENCFF245DFQ	ENCSR332UCY	limb	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF245DFQ/@@download/ENCFF245DFQ.bed.gz
+ENCFF973LJC	ENCSR332UCY	limb	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF973LJC/@@download/ENCFF973LJC.bed.gz
+ENCFF485OOZ	ENCSR549RVJ	neural tube	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF485OOZ/@@download/ENCFF485OOZ.bed.gz
+ENCFF117MAV	ENCSR549RVJ	neural tube	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF117MAV/@@download/ENCFF117MAV.bed.gz
+ENCFF458LEO	ENCSR320CCJ	embryonic facial prominence	tissue	embryonic	mixed	11.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF458LEO/@@download/ENCFF458LEO.bed.gz
+ENCFF100TNO	ENCSR320CCJ	embryonic facial prominence	tissue	embryonic	mixed	11.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF100TNO/@@download/ENCFF100TNO.bed.gz
+ENCFF686JWX	ENCSR275KPI	forebrain	tissue	embryonic	mixed	11.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF686JWX/@@download/ENCFF686JWX.bed.gz
+ENCFF897EEM	ENCSR275KPI	forebrain	tissue	embryonic	mixed	11.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF897EEM/@@download/ENCFF897EEM.bed.gz
+ENCFF690JGN	ENCSR969NXN	lung	tissue	embryonic	mixed	16.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF690JGN/@@download/ENCFF690JGN.bed.gz
+ENCFF782HRY	ENCSR969NXN	lung	tissue	embryonic	mixed	16.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF782HRY/@@download/ENCFF782HRY.bed.gz
+ENCFF707CUE	ENCSR569UCG	kidney	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF707CUE/@@download/ENCFF707CUE.bed.gz
+ENCFF262CWR	ENCSR569UCG	kidney	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF262CWR/@@download/ENCFF262CWR.bed.gz
+ENCFF081WDW	ENCSR946JEA	stomach	tissue	embryonic	mixed	16.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF081WDW/@@download/ENCFF081WDW.bed.gz
+ENCFF054GDC	ENCSR946JEA	stomach	tissue	embryonic	mixed	16.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF054GDC/@@download/ENCFF054GDC.bed.gz
+ENCFF462HCH	ENCSR871CGP	limb	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF462HCH/@@download/ENCFF462HCH.bed.gz
+ENCFF614NAZ	ENCSR871CGP	limb	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF614NAZ/@@download/ENCFF614NAZ.bed.gz
+ENCFF733GQI	ENCSR483KOD	intestine	tissue	postnatal	mixed	0 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF733GQI/@@download/ENCFF733GQI.bed.gz
+ENCFF605GKN	ENCSR483KOD	intestine	tissue	postnatal	mixed	0 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF605GKN/@@download/ENCFF605GKN.bed.gz
+ENCFF972PTY	ENCSR128ZCB	forebrain	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF972PTY/@@download/ENCFF972PTY.bed.gz
+ENCFF006UBN	ENCSR128ZCB	forebrain	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF006UBN/@@download/ENCFF006UBN.bed.gz
+ENCFF699ZZL	ENCSR465TIZ	midbrain	tissue	embryonic	mixed	16.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF699ZZL/@@download/ENCFF699ZZL.bed.gz
+ENCFF887CCI	ENCSR465TIZ	midbrain	tissue	embryonic	mixed	16.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF887CCI/@@download/ENCFF887CCI.bed.gz
+ENCFF954FTZ	ENCSR511LWL	neural tube	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF954FTZ/@@download/ENCFF954FTZ.bed.gz
+ENCFF708TRR	ENCSR511LWL	neural tube	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF708TRR/@@download/ENCFF708TRR.bed.gz
+ENCFF300DMA	ENCSR430JWT	lung	tissue	embryonic	mixed	16.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF300DMA/@@download/ENCFF300DMA.bed.gz
+ENCFF548SPK	ENCSR430JWT	lung	tissue	embryonic	mixed	16.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF548SPK/@@download/ENCFF548SPK.bed.gz
+ENCFF206CJX	ENCSR749PZB	intestine	tissue	embryonic	mixed	16.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF206CJX/@@download/ENCFF206CJX.bed.gz
+ENCFF584IJO	ENCSR749PZB	intestine	tissue	embryonic	mixed	16.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF584IJO/@@download/ENCFF584IJO.bed.gz
+ENCFF779DCH	ENCSR702JYV	midbrain	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF779DCH/@@download/ENCFF779DCH.bed.gz
+ENCFF182UTI	ENCSR702JYV	midbrain	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF182UTI/@@download/ENCFF182UTI.bed.gz
+ENCFF674JZY	ENCSR000CCJ	thymus	tissue	adult	male	8 week	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF674JZY/@@download/ENCFF674JZY.bed.gz
+ENCFF044XUO	ENCSR000CDL	heart	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF044XUO/@@download/ENCFF044XUO.bed.gz
+ENCFF595BPW	ENCSR000CDL	heart	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF595BPW/@@download/ENCFF595BPW.bed.gz
+ENCFF993IWG	ENCSR000CEU	MEL cell line	immortalized cell line	unknown	unknown	unknown week	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF993IWG/@@download/ENCFF993IWG.bed.gz
+ENCFF612YWK	ENCSR000ADI	CH12.LX	immortalized cell line	unknown	female	unknown	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF612YWK/@@download/ENCFF612YWK.bed.gz
+ENCFF096LPA	ENCSR831EKS	hindbrain	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF096LPA/@@download/ENCFF096LPA.bed.gz
+ENCFF827TNA	ENCSR831EKS	hindbrain	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF827TNA/@@download/ENCFF827TNA.bed.gz
+ENCFF928QGS	ENCSR779MSI	embryonic facial prominence	tissue	embryonic	mixed	10.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF928QGS/@@download/ENCFF928QGS.bed.gz
+ENCFF671NPI	ENCSR266JQW	heart	tissue	embryonic	mixed	10.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF671NPI/@@download/ENCFF671NPI.bed.gz
+ENCFF751ZHP	ENCSR594JGI	hindbrain	tissue	embryonic	mixed	10.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF751ZHP/@@download/ENCFF751ZHP.bed.gz
+ENCFF027RGW	ENCSR992SHK	forebrain	tissue	embryonic	mixed	10.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF027RGW/@@download/ENCFF027RGW.bed.gz
+ENCFF678AVR	ENCSR488KVB	limb	tissue	embryonic	mixed	12.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF678AVR/@@download/ENCFF678AVR.bed.gz
+ENCFF251COU	ENCSR488KVB	limb	tissue	embryonic	mixed	12.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF251COU/@@download/ENCFF251COU.bed.gz
+ENCFF707QQV	ENCSR257GTR	embryonic facial prominence	tissue	embryonic	mixed	12.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF707QQV/@@download/ENCFF707QQV.bed.gz
+ENCFF884KTA	ENCSR257GTR	embryonic facial prominence	tissue	embryonic	mixed	12.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF884KTA/@@download/ENCFF884KTA.bed.gz
+ENCFF267KBY	ENCSR302HOJ	hindbrain	tissue	embryonic	mixed	12.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF267KBY/@@download/ENCFF267KBY.bed.gz
+ENCFF435HPM	ENCSR302HOJ	hindbrain	tissue	embryonic	mixed	12.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF435HPM/@@download/ENCFF435HPM.bed.gz
+ENCFF743LDQ	ENCSR000CCW	testis	tissue	adult	male	8 week	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF743LDQ/@@download/ENCFF743LDQ.bed.gz
+ENCFF174AVC	ENCSR000CFD	bone marrow macrophage	primary cell	adult	male	8 week	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF174AVC/@@download/ENCFF174AVC.bed.gz
+ENCFF973NRT	ENCSR977DCO	neural tube	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF973NRT/@@download/ENCFF973NRT.bed.gz
+ENCFF772IER	ENCSR977DCO	neural tube	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF772IER/@@download/ENCFF772IER.bed.gz
+ENCFF988HWG	ENCSR695FPP	hindbrain	tissue	embryonic	mixed	11.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF988HWG/@@download/ENCFF988HWG.bed.gz
+ENCFF542GAS	ENCSR695FPP	hindbrain	tissue	embryonic	mixed	11.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF542GAS/@@download/ENCFF542GAS.bed.gz
+ENCFF917PVE	ENCSR332JYZ	hindbrain	tissue	postnatal	mixed	0 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF917PVE/@@download/ENCFF917PVE.bed.gz
+ENCFF764WNW	ENCSR332JYZ	hindbrain	tissue	postnatal	mixed	0 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF764WNW/@@download/ENCFF764WNW.bed.gz
+ENCFF787INH	ENCSR553IWV	midbrain	tissue	embryonic	mixed	16.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF787INH/@@download/ENCFF787INH.bed.gz
+ENCFF468ZXG	ENCSR553IWV	midbrain	tissue	embryonic	mixed	16.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF468ZXG/@@download/ENCFF468ZXG.bed.gz
+ENCFF857KHS	ENCSR064DGY	stomach	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF857KHS/@@download/ENCFF857KHS.bed.gz
+ENCFF066RLS	ENCSR064DGY	stomach	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF066RLS/@@download/ENCFF066RLS.bed.gz
+ENCFF537FMT	ENCSR222IHX	heart	tissue	embryonic	mixed	11.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF537FMT/@@download/ENCFF537FMT.bed.gz
+ENCFF954URD	ENCSR222IHX	heart	tissue	embryonic	mixed	11.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF954URD/@@download/ENCFF954URD.bed.gz
+ENCFF176INF	ENCSR897WBY	limb	tissue	embryonic	mixed	11.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF176INF/@@download/ENCFF176INF.bed.gz
+ENCFF948YFR	ENCSR897WBY	limb	tissue	embryonic	mixed	11.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF948YFR/@@download/ENCFF948YFR.bed.gz
+ENCFF904VNN	ENCSR684UWM	stomach	tissue	embryonic	mixed	16.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF904VNN/@@download/ENCFF904VNN.bed.gz
+ENCFF569KWB	ENCSR684UWM	stomach	tissue	embryonic	mixed	16.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF569KWB/@@download/ENCFF569KWB.bed.gz
+ENCFF428NIU	ENCSR000DHJ	G1E-ER4	immortalized cell line	postnatal	male	0 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF428NIU/@@download/ENCFF428NIU.bed.gz
+ENCFF304UCF	ENCSR299DRH	hindbrain	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF304UCF/@@download/ENCFF304UCF.bed.gz
+ENCFF441CYS	ENCSR299DRH	hindbrain	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF441CYS/@@download/ENCFF441CYS.bed.gz
+ENCFF745KPD	ENCSR855NKG	liver	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF745KPD/@@download/ENCFF745KPD.bed.gz
+ENCFF210HCC	ENCSR855NKG	liver	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF210HCC/@@download/ENCFF210HCC.bed.gz
+ENCFF591JDZ	ENCSR415FLZ	stomach	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF591JDZ/@@download/ENCFF591JDZ.bed.gz
+ENCFF970SVO	ENCSR415FLZ	stomach	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF970SVO/@@download/ENCFF970SVO.bed.gz
+ENCFF884YTN	ENCSR264HHL	limb	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF884YTN/@@download/ENCFF884YTN.bed.gz
+ENCFF851CNF	ENCSR264HHL	limb	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF851CNF/@@download/ENCFF851CNF.bed.gz
+ENCFF288BTL	ENCSR305GII	lung	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF288BTL/@@download/ENCFF288BTL.bed.gz
+ENCFF531LFQ	ENCSR305GII	lung	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF531LFQ/@@download/ENCFF531LFQ.bed.gz
+ENCFF434TVF	ENCSR639KSW	hindbrain	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF434TVF/@@download/ENCFF434TVF.bed.gz
+ENCFF758AJN	ENCSR639KSW	hindbrain	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF758AJN/@@download/ENCFF758AJN.bed.gz
+ENCFF655UUZ	ENCSR325JLI	hindbrain	tissue	embryonic	mixed	13.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF655UUZ/@@download/ENCFF655UUZ.bed.gz
+ENCFF292IDK	ENCSR325JLI	hindbrain	tissue	embryonic	mixed	13.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF292IDK/@@download/ENCFF292IDK.bed.gz
+ENCFF034QTH	ENCSR022DED	limb	tissue	embryonic	mixed	13.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF034QTH/@@download/ENCFF034QTH.bed.gz
+ENCFF829KAE	ENCSR022DED	limb	tissue	embryonic	mixed	13.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF829KAE/@@download/ENCFF829KAE.bed.gz
+ENCFF648VGX	ENCSR798VHN	stomach	tissue	embryonic	mixed	16.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF648VGX/@@download/ENCFF648VGX.bed.gz
+ENCFF068FWP	ENCSR798VHN	stomach	tissue	embryonic	mixed	16.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF068FWP/@@download/ENCFF068FWP.bed.gz
+ENCFF540GLK	ENCSR675HDX	heart	tissue	postnatal	mixed	0 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF540GLK/@@download/ENCFF540GLK.bed.gz
+ENCFF463XJT	ENCSR675HDX	heart	tissue	postnatal	mixed	0 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF463XJT/@@download/ENCFF463XJT.bed.gz
+ENCFF885KMT	ENCSR352NVU	forebrain	tissue	embryonic	mixed	16.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF885KMT/@@download/ENCFF885KMT.bed.gz
+ENCFF090SVU	ENCSR352NVU	forebrain	tissue	embryonic	mixed	16.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF090SVU/@@download/ENCFF090SVU.bed.gz
+ENCFF652LXV	ENCSR658TDS	kidney	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF652LXV/@@download/ENCFF652LXV.bed.gz
+ENCFF101SCV	ENCSR658TDS	kidney	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF101SCV/@@download/ENCFF101SCV.bed.gz
+ENCFF763GNF	ENCSR032JUI	E14TG2a.4	stem cell	embryonic	male	3.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF763GNF/@@download/ENCFF763GNF.bed.gz
+ENCFF474NWU	ENCSR172XOZ	forebrain	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF474NWU/@@download/ENCFF474NWU.bed.gz
+ENCFF929PME	ENCSR172XOZ	forebrain	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF929PME/@@download/ENCFF929PME.bed.gz
+ENCFF921MYG	ENCSR656AMS	liver	tissue	postnatal	mixed	0 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF921MYG/@@download/ENCFF921MYG.bed.gz
+ENCFF369XCE	ENCSR656AMS	liver	tissue	postnatal	mixed	0 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF369XCE/@@download/ENCFF369XCE.bed.gz
+ENCFF988MSF	ENCSR059MBO	E14TG2a.4	stem cell	embryonic	male	3.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF988MSF/@@download/ENCFF988MSF.bed.gz
+ENCFF895KHS	ENCSR000CFX	splenic B cell	primary cell	adult	male	8 week	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF895KHS/@@download/ENCFF895KHS.bed.gz
+ENCFF363ETH	ENCSR663VWL	heart	tissue	embryonic	mixed	13.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF363ETH/@@download/ENCFF363ETH.bed.gz
+ENCFF649ZZL	ENCSR663VWL	heart	tissue	embryonic	mixed	13.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF649ZZL/@@download/ENCFF649ZZL.bed.gz
+ENCFF324CTI	ENCSR580MEU	neural tube	tissue	embryonic	mixed	13.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF324CTI/@@download/ENCFF324CTI.bed.gz
+ENCFF053PYZ	ENCSR580MEU	neural tube	tissue	embryonic	mixed	13.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF053PYZ/@@download/ENCFF053PYZ.bed.gz
+ENCFF194TQD	ENCSR000CGQ	ES-E14	stem cell	unknown	male	unknown	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF194TQD/@@download/ENCFF194TQD.bed.gz
+ENCFF061JVX	ENCSR000CFE	bone marrow macrophage	primary cell	adult	male	8 week	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF061JVX/@@download/ENCFF061JVX.bed.gz
+ENCFF208RPK	ENCSR000CEW	MEL cell line	immortalized cell line	unknown	unknown	unknown week	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF208RPK/@@download/ENCFF208RPK.bed.gz
+ENCFF214NIE	ENCSR000CCS	small intestine	tissue	adult	male	8 week	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF214NIE/@@download/ENCFF214NIE.bed.gz
+ENCFF411UCU	ENCSR000CFQ	kidney	tissue	adult	male	8 week	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF411UCU/@@download/ENCFF411UCU.bed.gz
+ENCFF950UIP	ENCSR000CEK	heart	tissue	adult	male	8 week	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF950UIP/@@download/ENCFF950UIP.bed.gz
+ENCFF369THO	ENCSR000CCO	limb	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF369THO/@@download/ENCFF369THO.bed.gz
+ENCFF887SZF	ENCSR000CEJ	heart	tissue	adult	male	8 week	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF887SZF/@@download/ENCFF887SZF.bed.gz
+ENCFF299BTW	ENCSR000CFO	ES-Bruce4	stem cell	embryonic	male	unknown	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF299BTW/@@download/ENCFF299BTW.bed.gz
+ENCFF269WQA	ENCSR000CAZ	embryonic fibroblast	primary cell	embryonic	male	13.5 week	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF269WQA/@@download/ENCFF269WQA.bed.gz
+ENCFF400IML	ENCSR147PYG	embryonic facial prominence	tissue	embryonic	mixed	13.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF400IML/@@download/ENCFF400IML.bed.gz
+ENCFF004JEQ	ENCSR147PYG	embryonic facial prominence	tissue	embryonic	mixed	13.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF004JEQ/@@download/ENCFF004JEQ.bed.gz
+ENCFF224ZYS	ENCSR731OMP	liver	tissue	embryonic	mixed	13.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF224ZYS/@@download/ENCFF224ZYS.bed.gz
+ENCFF448ZXD	ENCSR731OMP	liver	tissue	embryonic	mixed	13.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF448ZXD/@@download/ENCFF448ZXD.bed.gz
+ENCFF816PTP	ENCSR918ZSJ	neural tube	tissue	embryonic	mixed	13.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF816PTP/@@download/ENCFF816PTP.bed.gz
+ENCFF327TUT	ENCSR918ZSJ	neural tube	tissue	embryonic	mixed	13.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF327TUT/@@download/ENCFF327TUT.bed.gz
+ENCFF547KPS	ENCSR000CFB	brown adipose tissue	tissue	adult	male	24 week	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF547KPS/@@download/ENCFF547KPS.bed.gz
+ENCFF338OJA	ENCSR000CAO	liver	tissue	adult	male	8 week	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF338OJA/@@download/ENCFF338OJA.bed.gz
+ENCFF897MPQ	ENCSR357JII	kidney	tissue	embryonic	mixed	16.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF897MPQ/@@download/ENCFF897MPQ.bed.gz
+ENCFF386RYT	ENCSR357JII	kidney	tissue	embryonic	mixed	16.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF386RYT/@@download/ENCFF386RYT.bed.gz
+ENCFF858ECZ	ENCSR946RLM	intestine	tissue	postnatal	mixed	0 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF858ECZ/@@download/ENCFF858ECZ.bed.gz
+ENCFF292KKE	ENCSR946RLM	intestine	tissue	postnatal	mixed	0 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF292KKE/@@download/ENCFF292KKE.bed.gz
+ENCFF233VZF	ENCSR399UVI	kidney	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF233VZF/@@download/ENCFF233VZF.bed.gz
+ENCFF201LJE	ENCSR399UVI	kidney	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF201LJE/@@download/ENCFF201LJE.bed.gz
+ENCFF588RNN	ENCSR871YCT	limb	tissue	embryonic	mixed	11.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF588RNN/@@download/ENCFF588RNN.bed.gz
+ENCFF168TSU	ENCSR871YCT	limb	tissue	embryonic	mixed	11.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF168TSU/@@download/ENCFF168TSU.bed.gz
+ENCFF080VOT	ENCSR088UKA	midbrain	tissue	embryonic	mixed	11.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF080VOT/@@download/ENCFF080VOT.bed.gz
+ENCFF566DFK	ENCSR088UKA	midbrain	tissue	embryonic	mixed	11.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF566DFK/@@download/ENCFF566DFK.bed.gz
+ENCFF467MYU	ENCSR465PLB	forebrain	tissue	postnatal	mixed	0 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF467MYU/@@download/ENCFF467MYU.bed.gz
+ENCFF109ZOH	ENCSR465PLB	forebrain	tissue	postnatal	mixed	0 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF109ZOH/@@download/ENCFF109ZOH.bed.gz
+ENCFF278FUC	ENCSR884MYD	lung	tissue	postnatal	mixed	0 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF278FUC/@@download/ENCFF278FUC.bed.gz
+ENCFF583HBA	ENCSR884MYD	lung	tissue	postnatal	mixed	0 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF583HBA/@@download/ENCFF583HBA.bed.gz
+ENCFF437FDZ	ENCSR642VYW	intestine	tissue	postnatal	mixed	0 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF437FDZ/@@download/ENCFF437FDZ.bed.gz
+ENCFF720NTZ	ENCSR642VYW	intestine	tissue	postnatal	mixed	0 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF720NTZ/@@download/ENCFF720NTZ.bed.gz
+ENCFF294ZVX	ENCSR000AEA	MEL cell line	immortalized cell line	unknown	unknown	unknown week	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF294ZVX/@@download/ENCFF294ZVX.bed.gz
+ENCFF814SUK	ENCSR582SPN	heart	tissue	embryonic	mixed	10.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF814SUK/@@download/ENCFF814SUK.bed.gz
+ENCFF172VJZ	ENCSR158ONM	hindbrain	tissue	embryonic	mixed	12.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF172VJZ/@@download/ENCFF172VJZ.bed.gz
+ENCFF577GBD	ENCSR158ONM	hindbrain	tissue	embryonic	mixed	12.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF577GBD/@@download/ENCFF577GBD.bed.gz
+ENCFF352LXZ	ENCSR110MSZ	liver	tissue	embryonic	mixed	12.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF352LXZ/@@download/ENCFF352LXZ.bed.gz
+ENCFF815RAK	ENCSR110MSZ	liver	tissue	embryonic	mixed	12.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF815RAK/@@download/ENCFF815RAK.bed.gz
+ENCFF914LMW	ENCSR508HYL	hindbrain	tissue	embryonic	mixed	12.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF914LMW/@@download/ENCFF914LMW.bed.gz
+ENCFF305LVL	ENCSR508HYL	hindbrain	tissue	embryonic	mixed	12.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF305LVL/@@download/ENCFF305LVL.bed.gz
+ENCFF790MRF	ENCSR784TLR	hindbrain	tissue	embryonic	mixed	12.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF790MRF/@@download/ENCFF790MRF.bed.gz
+ENCFF409CQX	ENCSR784TLR	hindbrain	tissue	embryonic	mixed	12.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF409CQX/@@download/ENCFF409CQX.bed.gz
+ENCFF008JAK	ENCSR972WEN	embryonic facial prominence	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF008JAK/@@download/ENCFF008JAK.bed.gz
+ENCFF027YKW	ENCSR972WEN	embryonic facial prominence	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF027YKW/@@download/ENCFF027YKW.bed.gz
+ENCFF088JGD	ENCSR776QRL	neural tube	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF088JGD/@@download/ENCFF088JGD.bed.gz
+ENCFF815AIK	ENCSR776QRL	neural tube	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF815AIK/@@download/ENCFF815AIK.bed.gz
+ENCFF084OJA	ENCSR906UJW	forebrain	tissue	postnatal	mixed	0 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF084OJA/@@download/ENCFF084OJA.bed.gz
+ENCFF711KBX	ENCSR906UJW	forebrain	tissue	postnatal	mixed	0 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF711KBX/@@download/ENCFF711KBX.bed.gz
+ENCFF463FLW	ENCSR125VVG	liver	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF463FLW/@@download/ENCFF463FLW.bed.gz
+ENCFF248KEE	ENCSR125VVG	liver	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF248KEE/@@download/ENCFF248KEE.bed.gz
+ENCFF864YRL	ENCSR973UGS	liver	tissue	postnatal	mixed	0 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF864YRL/@@download/ENCFF864YRL.bed.gz
+ENCFF109YUQ	ENCSR973UGS	liver	tissue	postnatal	mixed	0 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF109YUQ/@@download/ENCFF109YUQ.bed.gz
+ENCFF876JPZ	ENCSR472YGQ	hindbrain	tissue	postnatal	mixed	0 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF876JPZ/@@download/ENCFF876JPZ.bed.gz
+ENCFF608PDA	ENCSR472YGQ	hindbrain	tissue	postnatal	mixed	0 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF608PDA/@@download/ENCFF608PDA.bed.gz
+ENCFF172AEC	ENCSR250LXH	lung	tissue	postnatal	mixed	0 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF172AEC/@@download/ENCFF172AEC.bed.gz
+ENCFF134RMU	ENCSR250LXH	lung	tissue	postnatal	mixed	0 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF134RMU/@@download/ENCFF134RMU.bed.gz
+ENCFF432XGK	ENCSR375GSG	hindbrain	tissue	embryonic	mixed	11.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF432XGK/@@download/ENCFF432XGK.bed.gz
+ENCFF809JLW	ENCSR375GSG	hindbrain	tissue	embryonic	mixed	11.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF809JLW/@@download/ENCFF809JLW.bed.gz
+ENCFF610JQL	ENCSR357OED	heart	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF610JQL/@@download/ENCFF610JQL.bed.gz
+ENCFF933KMD	ENCSR357OED	heart	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF933KMD/@@download/ENCFF933KMD.bed.gz
+ENCFF163ITT	ENCSR875ZAO	heart	tissue	postnatal	mixed	0 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF163ITT/@@download/ENCFF163ITT.bed.gz
+ENCFF151NZB	ENCSR875ZAO	heart	tissue	postnatal	mixed	0 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF151NZB/@@download/ENCFF151NZB.bed.gz
+ENCFF456GAV	ENCSR973AYQ	neural tube	tissue	embryonic	mixed	13.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF456GAV/@@download/ENCFF456GAV.bed.gz
+ENCFF992ULU	ENCSR973AYQ	neural tube	tissue	embryonic	mixed	13.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF992ULU/@@download/ENCFF992ULU.bed.gz
+ENCFF328RSL	ENCSR704IWS	neural tube	tissue	embryonic	mixed	13.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF328RSL/@@download/ENCFF328RSL.bed.gz
+ENCFF791AVG	ENCSR704IWS	neural tube	tissue	embryonic	mixed	13.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF791AVG/@@download/ENCFF791AVG.bed.gz
+ENCFF155NDD	ENCSR574VME	heart	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF155NDD/@@download/ENCFF155NDD.bed.gz
+ENCFF309CWW	ENCSR574VME	heart	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF309CWW/@@download/ENCFF309CWW.bed.gz
+ENCFF967JQX	ENCSR711SVB	kidney	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF967JQX/@@download/ENCFF967JQX.bed.gz
+ENCFF083AAZ	ENCSR711SVB	kidney	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF083AAZ/@@download/ENCFF083AAZ.bed.gz
+ENCFF394WSH	ENCSR000CDQ	placenta	tissue	adult	female	8 week	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF394WSH/@@download/ENCFF394WSH.bed.gz
+ENCFF090UKL	ENCSR000ADM	ES-E14	stem cell	embryonic	male	unknown	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF090UKL/@@download/ENCFF090UKL.bed.gz
+ENCFF049CRM	ENCSR000ADX	MEL cell line	immortalized cell line	unknown	unknown	unknown week	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF049CRM/@@download/ENCFF049CRM.bed.gz
+ENCFF012AZO	ENCSR000ADL	ES-E14	stem cell	embryonic	male	unknown	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF012AZO/@@download/ENCFF012AZO.bed.gz
+ENCFF338WZP	ENCSR000CDG	kidney	tissue	adult	male	8 week	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF338WZP/@@download/ENCFF338WZP.bed.gz
+ENCFF587SDE	ENCSR000CGJ	CH12.LX	immortalized cell line	unknown	female	unknown	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF587SDE/@@download/ENCFF587SDE.bed.gz
+ENCFF751NJI	ENCSR000CFA	brown adipose tissue	tissue	adult	male	24 week	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF751NJI/@@download/ENCFF751NJI.bed.gz
+ENCFF029PTF	ENCSR000CGE	brain	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF029PTF/@@download/ENCFF029PTF.bed.gz
+ENCFF354KFL	ENCSR000CAI	cortical plate	tissue	adult	male	8 week	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF354KFL/@@download/ENCFF354KFL.bed.gz
+ENCFF635UQJ	ENCSR929SEW	stomach	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF635UQJ/@@download/ENCFF635UQJ.bed.gz
+ENCFF160HCA	ENCSR929SEW	stomach	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF160HCA/@@download/ENCFF160HCA.bed.gz
+ENCFF227BWB	ENCSR410YIY	intestine	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF227BWB/@@download/ENCFF227BWB.bed.gz
+ENCFF956QXI	ENCSR410YIY	intestine	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF956QXI/@@download/ENCFF956QXI.bed.gz
+ENCFF907DNF	ENCSR486MHP	midbrain	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF907DNF/@@download/ENCFF907DNF.bed.gz
+ENCFF705XQD	ENCSR486MHP	midbrain	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF705XQD/@@download/ENCFF705XQD.bed.gz
+ENCFF624OQG	ENCSR517UZA	neural tube	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF624OQG/@@download/ENCFF624OQG.bed.gz
+ENCFF112TNK	ENCSR517UZA	neural tube	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF112TNK/@@download/ENCFF112TNK.bed.gz
+ENCFF435HIM	ENCSR259KYK	hindbrain	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF435HIM/@@download/ENCFF435HIM.bed.gz
+ENCFF086VKO	ENCSR259KYK	hindbrain	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF086VKO/@@download/ENCFF086VKO.bed.gz
+ENCFF915AFH	ENCSR754AXU	midbrain	tissue	embryonic	mixed	13.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF915AFH/@@download/ENCFF915AFH.bed.gz
+ENCFF052XZG	ENCSR754AXU	midbrain	tissue	embryonic	mixed	13.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF052XZG/@@download/ENCFF052XZG.bed.gz
+ENCFF286EGT	ENCSR835BZO	forebrain	tissue	embryonic	mixed	13.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF286EGT/@@download/ENCFF286EGT.bed.gz
+ENCFF008XLS	ENCSR835BZO	forebrain	tissue	embryonic	mixed	13.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF008XLS/@@download/ENCFF008XLS.bed.gz
+ENCFF482MZB	ENCSR669AQL	kidney	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF482MZB/@@download/ENCFF482MZB.bed.gz
+ENCFF077SVM	ENCSR669AQL	kidney	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF077SVM/@@download/ENCFF077SVM.bed.gz
+ENCFF409JVD	ENCSR924FJQ	lung	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF409JVD/@@download/ENCFF409JVD.bed.gz
+ENCFF063FXI	ENCSR924FJQ	lung	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF063FXI/@@download/ENCFF063FXI.bed.gz
+ENCFF809LYI	ENCSR406KDB	heart	tissue	embryonic	mixed	12.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF809LYI/@@download/ENCFF809LYI.bed.gz
+ENCFF219QPV	ENCSR406KDB	heart	tissue	embryonic	mixed	12.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF219QPV/@@download/ENCFF219QPV.bed.gz
+ENCFF094SDC	ENCSR123MLY	heart	tissue	embryonic	mixed	12.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF094SDC/@@download/ENCFF094SDC.bed.gz
+ENCFF323EFD	ENCSR123MLY	heart	tissue	embryonic	mixed	12.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF323EFD/@@download/ENCFF323EFD.bed.gz
+ENCFF855NOP	ENCSR840QFC	heart	tissue	embryonic	mixed	12.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF855NOP/@@download/ENCFF855NOP.bed.gz
+ENCFF301XNX	ENCSR840QFC	heart	tissue	embryonic	mixed	12.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF301XNX/@@download/ENCFF301XNX.bed.gz
+ENCFF432UHX	ENCSR731KRE	hindbrain	tissue	embryonic	mixed	10.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF432UHX/@@download/ENCFF432UHX.bed.gz
+ENCFF973DHA	ENCSR000CCM	limb	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF973DHA/@@download/ENCFF973DHA.bed.gz
+ENCFF776XXR	ENCSR452WYC	lung	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF776XXR/@@download/ENCFF776XXR.bed.gz
+ENCFF093QGY	ENCSR452WYC	lung	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF093QGY/@@download/ENCFF093QGY.bed.gz
+ENCFF687QHV	ENCSR672ZXY	midbrain	tissue	postnatal	mixed	0 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF687QHV/@@download/ENCFF687QHV.bed.gz
+ENCFF565NSZ	ENCSR672ZXY	midbrain	tissue	postnatal	mixed	0 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF565NSZ/@@download/ENCFF565NSZ.bed.gz
+ENCFF766AUZ	ENCSR264TXI	forebrain	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF766AUZ/@@download/ENCFF766AUZ.bed.gz
+ENCFF536OML	ENCSR264TXI	forebrain	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF536OML/@@download/ENCFF536OML.bed.gz
+ENCFF512PRF	ENCSR782SUW	forebrain	tissue	embryonic	mixed	12.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF512PRF/@@download/ENCFF512PRF.bed.gz
+ENCFF077LYY	ENCSR782SUW	forebrain	tissue	embryonic	mixed	12.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF077LYY/@@download/ENCFF077LYY.bed.gz
+ENCFF458JUO	ENCSR538SRO	neural tube	tissue	embryonic	mixed	12.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF458JUO/@@download/ENCFF458JUO.bed.gz
+ENCFF306PYA	ENCSR538SRO	neural tube	tissue	embryonic	mixed	12.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF306PYA/@@download/ENCFF306PYA.bed.gz
+ENCFF132YUK	ENCSR537AKT	hindbrain	tissue	embryonic	mixed	12.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF132YUK/@@download/ENCFF132YUK.bed.gz
+ENCFF836NCO	ENCSR537AKT	hindbrain	tissue	embryonic	mixed	12.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF836NCO/@@download/ENCFF836NCO.bed.gz
+ENCFF897KET	ENCSR582IBX	embryonic facial prominence	tissue	embryonic	mixed	12.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF897KET/@@download/ENCFF897KET.bed.gz
+ENCFF739FEV	ENCSR582IBX	embryonic facial prominence	tissue	embryonic	mixed	12.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF739FEV/@@download/ENCFF739FEV.bed.gz
+ENCFF928YPO	ENCSR195NDO	embryonic facial prominence	tissue	embryonic	mixed	12.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF928YPO/@@download/ENCFF928YPO.bed.gz
+ENCFF864INF	ENCSR195NDO	embryonic facial prominence	tissue	embryonic	mixed	12.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF864INF/@@download/ENCFF864INF.bed.gz
+ENCFF445ZPE	ENCSR115FTP	limb	tissue	embryonic	mixed	11.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF445ZPE/@@download/ENCFF445ZPE.bed.gz
+ENCFF696AXB	ENCSR115FTP	limb	tissue	embryonic	mixed	11.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF696AXB/@@download/ENCFF696AXB.bed.gz
+ENCFF063THN	ENCSR748BQH	heart	tissue	embryonic	mixed	11.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF063THN/@@download/ENCFF063THN.bed.gz
+ENCFF976DAN	ENCSR748BQH	heart	tissue	embryonic	mixed	11.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF976DAN/@@download/ENCFF976DAN.bed.gz
+ENCFF284PFB	ENCSR308GFM	liver	tissue	postnatal	mixed	0 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF284PFB/@@download/ENCFF284PFB.bed.gz
+ENCFF165ZKL	ENCSR308GFM	liver	tissue	postnatal	mixed	0 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF165ZKL/@@download/ENCFF165ZKL.bed.gz
+ENCFF721TVA	ENCSR185JBL	hindbrain	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF721TVA/@@download/ENCFF721TVA.bed.gz
+ENCFF729FLS	ENCSR185JBL	hindbrain	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF729FLS/@@download/ENCFF729FLS.bed.gz
+ENCFF208SUO	ENCSR186PIV	hindbrain	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF208SUO/@@download/ENCFF208SUO.bed.gz
+ENCFF445SCM	ENCSR186PIV	hindbrain	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF445SCM/@@download/ENCFF445SCM.bed.gz
+ENCFF914NJC	ENCSR299NCJ	hindbrain	tissue	embryonic	mixed	11.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF914NJC/@@download/ENCFF914NJC.bed.gz
+ENCFF064HMK	ENCSR299NCJ	hindbrain	tissue	embryonic	mixed	11.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF064HMK/@@download/ENCFF064HMK.bed.gz
+ENCFF026IMR	ENCSR747VPY	heart	tissue	embryonic	mixed	16.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF026IMR/@@download/ENCFF026IMR.bed.gz
+ENCFF581WKJ	ENCSR747VPY	heart	tissue	embryonic	mixed	16.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF581WKJ/@@download/ENCFF581WKJ.bed.gz
+ENCFF526CNU	ENCSR560CIG	heart	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF526CNU/@@download/ENCFF526CNU.bed.gz
+ENCFF057YDK	ENCSR560CIG	heart	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF057YDK/@@download/ENCFF057YDK.bed.gz
+ENCFF766QUE	ENCSR961PNM	kidney	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF766QUE/@@download/ENCFF766QUE.bed.gz
+ENCFF529SOW	ENCSR961PNM	kidney	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF529SOW/@@download/ENCFF529SOW.bed.gz
+ENCFF432JMG	ENCSR966RAG	liver	tissue	postnatal	mixed	0 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF432JMG/@@download/ENCFF432JMG.bed.gz
+ENCFF587BYL	ENCSR966RAG	liver	tissue	postnatal	mixed	0 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF587BYL/@@download/ENCFF587BYL.bed.gz
+ENCFF442WZE	ENCSR234YTN	hindbrain	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF442WZE/@@download/ENCFF442WZE.bed.gz
+ENCFF630KEB	ENCSR234YTN	hindbrain	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF630KEB/@@download/ENCFF630KEB.bed.gz
+ENCFF852URP	ENCSR046SWI	hindbrain	tissue	embryonic	mixed	16.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF852URP/@@download/ENCFF852URP.bed.gz
+ENCFF787IGD	ENCSR046SWI	hindbrain	tissue	embryonic	mixed	16.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF787IGD/@@download/ENCFF787IGD.bed.gz
+ENCFF080MUG	ENCSR048IZJ	stomach	tissue	postnatal	mixed	0 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF080MUG/@@download/ENCFF080MUG.bed.gz
+ENCFF804RLZ	ENCSR048IZJ	stomach	tissue	postnatal	mixed	0 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF804RLZ/@@download/ENCFF804RLZ.bed.gz
+ENCFF693MFP	ENCSR467UGM	heart	tissue	embryonic	mixed	16.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF693MFP/@@download/ENCFF693MFP.bed.gz
+ENCFF185DUB	ENCSR467UGM	heart	tissue	embryonic	mixed	16.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF185DUB/@@download/ENCFF185DUB.bed.gz
+ENCFF976VFY	ENCSR000CDJ	spleen	tissue	adult	male	8 week	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF976VFY/@@download/ENCFF976VFY.bed.gz
+ENCFF339CXH	ENCSR000DHG	erythroblast	primary cell	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF339CXH/@@download/ENCFF339CXH.bed.gz
+ENCFF682UGG	ENCSR000CGD	brain	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF682UGG/@@download/ENCFF682UGG.bed.gz
+ENCFF484ICQ	ENCSR000DHR	megakaryocyte	primary cell	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF484ICQ/@@download/ENCFF484ICQ.bed.gz
+ENCFF379GLU	ENCSR000CET	MEL cell line	immortalized cell line	unknown	unknown	unknown week	H3K79me2-mouse	https://www.encodeproject.org/files/ENCFF379GLU/@@download/ENCFF379GLU.bed.gz
+ENCFF112CIF	ENCSR000CFM	cerebellum	tissue	adult	male	8 week	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF112CIF/@@download/ENCFF112CIF.bed.gz
+ENCFF718JST	ENCSR000CEO	liver	tissue	adult	male	8 week	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF718JST/@@download/ENCFF718JST.bed.gz
+ENCFF328VYQ	ENCSR000CDP	placenta	tissue	adult	female	8 week	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF328VYQ/@@download/ENCFF328VYQ.bed.gz
+ENCFF869AYR	ENCSR672UQX	intestine	tissue	postnatal	mixed	0 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF869AYR/@@download/ENCFF869AYR.bed.gz
+ENCFF716KXO	ENCSR672UQX	intestine	tissue	postnatal	mixed	0 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF716KXO/@@download/ENCFF716KXO.bed.gz
+ENCFF960GZD	ENCSR604DCI	embryonic facial prominence	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF960GZD/@@download/ENCFF960GZD.bed.gz
+ENCFF012TIE	ENCSR604DCI	embryonic facial prominence	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF012TIE/@@download/ENCFF012TIE.bed.gz
+ENCFF751SFH	ENCSR928CYU	hindbrain	tissue	embryonic	mixed	11.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF751SFH/@@download/ENCFF751SFH.bed.gz
+ENCFF445DQR	ENCSR928CYU	hindbrain	tissue	embryonic	mixed	11.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF445DQR/@@download/ENCFF445DQR.bed.gz
+ENCFF620KWL	ENCSR106QSU	embryonic facial prominence	tissue	embryonic	mixed	12.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF620KWL/@@download/ENCFF620KWL.bed.gz
+ENCFF306LDH	ENCSR106QSU	embryonic facial prominence	tissue	embryonic	mixed	12.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF306LDH/@@download/ENCFF306LDH.bed.gz
+ENCFF038IUS	ENCSR837SKW	hindbrain	tissue	embryonic	mixed	13.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF038IUS/@@download/ENCFF038IUS.bed.gz
+ENCFF324KBG	ENCSR837SKW	hindbrain	tissue	embryonic	mixed	13.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF324KBG/@@download/ENCFF324KBG.bed.gz
+ENCFF704ESJ	ENCSR000DHH	megakaryocyte	primary cell	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF704ESJ/@@download/ENCFF704ESJ.bed.gz
+ENCFF302JKZ	ENCSR000CDO	placenta	tissue	adult	female	8 week	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF302JKZ/@@download/ENCFF302JKZ.bed.gz
+ENCFF741IXW	ENCSR972MRN	MEL cell line	immortalized cell line	unknown	unknown	unknown week	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF741IXW/@@download/ENCFF741IXW.bed.gz
+ENCFF671DVU	ENCSR455UTX	kidney	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF671DVU/@@download/ENCFF671DVU.bed.gz
+ENCFF013FAX	ENCSR455UTX	kidney	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF013FAX/@@download/ENCFF013FAX.bed.gz
+ENCFF574YXI	ENCSR295PFM	lung	tissue	embryonic	mixed	16.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF574YXI/@@download/ENCFF574YXI.bed.gz
+ENCFF246QSQ	ENCSR295PFM	lung	tissue	embryonic	mixed	16.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF246QSQ/@@download/ENCFF246QSQ.bed.gz
+ENCFF002IPF	ENCSR260OUP	intestine	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF002IPF/@@download/ENCFF002IPF.bed.gz
+ENCFF406MRQ	ENCSR260OUP	intestine	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF406MRQ/@@download/ENCFF406MRQ.bed.gz
+ENCFF471OGY	ENCSR481SGM	embryonic facial prominence	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF471OGY/@@download/ENCFF471OGY.bed.gz
+ENCFF531BZD	ENCSR481SGM	embryonic facial prominence	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF531BZD/@@download/ENCFF531BZD.bed.gz
+ENCFF640PTB	ENCSR025AOC	lung	tissue	postnatal	mixed	0 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF640PTB/@@download/ENCFF640PTB.bed.gz
+ENCFF224PYA	ENCSR025AOC	lung	tissue	postnatal	mixed	0 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF224PYA/@@download/ENCFF224PYA.bed.gz
+ENCFF476LGD	ENCSR068XYW	midbrain	tissue	embryonic	mixed	16.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF476LGD/@@download/ENCFF476LGD.bed.gz
+ENCFF033SQD	ENCSR068XYW	midbrain	tissue	embryonic	mixed	16.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF033SQD/@@download/ENCFF033SQD.bed.gz
+ENCFF176RKQ	ENCSR000CFS	small intestine	tissue	adult	male	8 week	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF176RKQ/@@download/ENCFF176RKQ.bed.gz
+ENCFF594NXI	ENCSR000DIX	G1E	immortalized cell line	postnatal	male	0 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF594NXI/@@download/ENCFF594NXI.bed.gz
+ENCFF386QNM	ENCSR000CCZ	brain	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF386QNM/@@download/ENCFF386QNM.bed.gz
+ENCFF721DET	ENCSR000CFT	spleen	tissue	adult	male	8 week	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF721DET/@@download/ENCFF721DET.bed.gz
+ENCFF565ASI	ENCSR953KTY	intestine	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF565ASI/@@download/ENCFF565ASI.bed.gz
+ENCFF554BTF	ENCSR953KTY	intestine	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF554BTF/@@download/ENCFF554BTF.bed.gz
+ENCFF715VTT	ENCSR293ORS	stomach	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF715VTT/@@download/ENCFF715VTT.bed.gz
+ENCFF355FBI	ENCSR293ORS	stomach	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF355FBI/@@download/ENCFF355FBI.bed.gz
+ENCFF900CLK	ENCSR592GQI	heart	tissue	embryonic	mixed	11.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF900CLK/@@download/ENCFF900CLK.bed.gz
+ENCFF678FCR	ENCSR592GQI	heart	tissue	embryonic	mixed	11.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF678FCR/@@download/ENCFF678FCR.bed.gz
+ENCFF400JJF	ENCSR630AOU	stomach	tissue	embryonic	mixed	16.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF400JJF/@@download/ENCFF400JJF.bed.gz
+ENCFF544RGQ	ENCSR630AOU	stomach	tissue	embryonic	mixed	16.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF544RGQ/@@download/ENCFF544RGQ.bed.gz
+ENCFF746QGF	ENCSR427ZJU	midbrain	tissue	postnatal	mixed	0 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF746QGF/@@download/ENCFF746QGF.bed.gz
+ENCFF688DUI	ENCSR427ZJU	midbrain	tissue	postnatal	mixed	0 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF688DUI/@@download/ENCFF688DUI.bed.gz
+ENCFF141YDN	ENCSR249AUA	lung	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF141YDN/@@download/ENCFF141YDN.bed.gz
+ENCFF938JRH	ENCSR249AUA	lung	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF938JRH/@@download/ENCFF938JRH.bed.gz
+ENCFF452NRU	ENCSR674PZU	kidney	tissue	postnatal	mixed	0 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF452NRU/@@download/ENCFF452NRU.bed.gz
+ENCFF982NQH	ENCSR674PZU	kidney	tissue	postnatal	mixed	0 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF982NQH/@@download/ENCFF982NQH.bed.gz
+ENCFF626JGU	ENCSR510CGB	liver	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF626JGU/@@download/ENCFF626JGU.bed.gz
+ENCFF706TOV	ENCSR510CGB	liver	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF706TOV/@@download/ENCFF706TOV.bed.gz
+ENCFF601LEI	ENCSR668BBX	forebrain	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF601LEI/@@download/ENCFF601LEI.bed.gz
+ENCFF416VVP	ENCSR668BBX	forebrain	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF416VVP/@@download/ENCFF416VVP.bed.gz
+ENCFF714NRC	ENCSR258RGT	liver	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF714NRC/@@download/ENCFF714NRC.bed.gz
+ENCFF860WOO	ENCSR258RGT	liver	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF860WOO/@@download/ENCFF860WOO.bed.gz
+ENCFF336AJJ	ENCSR133EGP	liver	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF336AJJ/@@download/ENCFF336AJJ.bed.gz
+ENCFF938YRV	ENCSR133EGP	liver	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF938YRV/@@download/ENCFF938YRV.bed.gz
+ENCFF614GLO	ENCSR311VKI	intestine	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF614GLO/@@download/ENCFF614GLO.bed.gz
+ENCFF998XVR	ENCSR311VKI	intestine	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF998XVR/@@download/ENCFF998XVR.bed.gz
+ENCFF099XYZ	ENCSR499NUH	kidney	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF099XYZ/@@download/ENCFF099XYZ.bed.gz
+ENCFF700ZGY	ENCSR499NUH	kidney	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF700ZGY/@@download/ENCFF700ZGY.bed.gz
+ENCFF449HDJ	ENCSR436FYE	kidney	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF449HDJ/@@download/ENCFF449HDJ.bed.gz
+ENCFF285JOI	ENCSR436FYE	kidney	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF285JOI/@@download/ENCFF285JOI.bed.gz
+ENCFF775VTO	ENCSR534HMF	heart	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF775VTO/@@download/ENCFF775VTO.bed.gz
+ENCFF425FZB	ENCSR534HMF	heart	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF425FZB/@@download/ENCFF425FZB.bed.gz
+ENCFF557TDE	ENCSR000DHV	G1E	immortalized cell line	postnatal	male	0 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF557TDE/@@download/ENCFF557TDE.bed.gz
+ENCFF428IAA	ENCSR000DHK	erythroblast	primary cell	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF428IAA/@@download/ENCFF428IAA.bed.gz
+ENCFF884NFT	ENCSR000DHO	CH12.LX	immortalized cell line	unknown	female	unknown	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF884NFT/@@download/ENCFF884NFT.bed.gz
+ENCFF240FAI	ENCSR027DMG	embryonic facial prominence	tissue	embryonic	mixed	11.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF240FAI/@@download/ENCFF240FAI.bed.gz
+ENCFF091CFQ	ENCSR027DMG	embryonic facial prominence	tissue	embryonic	mixed	11.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF091CFQ/@@download/ENCFF091CFQ.bed.gz
+ENCFF299PIF	ENCSR641EME	heart	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF299PIF/@@download/ENCFF299PIF.bed.gz
+ENCFF407TRS	ENCSR641EME	heart	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF407TRS/@@download/ENCFF407TRS.bed.gz
+ENCFF363WYE	ENCSR556DLJ	stomach	tissue	postnatal	mixed	0 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF363WYE/@@download/ENCFF363WYE.bed.gz
+ENCFF955UMB	ENCSR556DLJ	stomach	tissue	postnatal	mixed	0 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF955UMB/@@download/ENCFF955UMB.bed.gz
+ENCFF124QSN	ENCSR929GXP	midbrain	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF124QSN/@@download/ENCFF124QSN.bed.gz
+ENCFF402CBS	ENCSR929GXP	midbrain	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF402CBS/@@download/ENCFF402CBS.bed.gz
+ENCFF389GAP	ENCSR795UOC	liver	tissue	embryonic	mixed	16.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF389GAP/@@download/ENCFF389GAP.bed.gz
+ENCFF604SXS	ENCSR795UOC	liver	tissue	embryonic	mixed	16.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF604SXS/@@download/ENCFF604SXS.bed.gz
+ENCFF940DTJ	ENCSR965JWF	heart	tissue	postnatal	mixed	0 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF940DTJ/@@download/ENCFF940DTJ.bed.gz
+ENCFF213FQB	ENCSR965JWF	heart	tissue	postnatal	mixed	0 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF213FQB/@@download/ENCFF213FQB.bed.gz
+ENCFF097IIC	ENCSR670YXP	liver	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF097IIC/@@download/ENCFF097IIC.bed.gz
+ENCFF962XLA	ENCSR670YXP	liver	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF962XLA/@@download/ENCFF962XLA.bed.gz
+ENCFF157HFP	ENCSR457HDY	embryonic facial prominence	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF157HFP/@@download/ENCFF157HFP.bed.gz
+ENCFF703RVX	ENCSR457HDY	embryonic facial prominence	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF703RVX/@@download/ENCFF703RVX.bed.gz
+ENCFF831TYT	ENCSR014YAY	intestine	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF831TYT/@@download/ENCFF831TYT.bed.gz
+ENCFF389JEN	ENCSR014YAY	intestine	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF389JEN/@@download/ENCFF389JEN.bed.gz
+ENCFF833HEI	ENCSR037HLB	midbrain	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF833HEI/@@download/ENCFF833HEI.bed.gz
+ENCFF405TCV	ENCSR037HLB	midbrain	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF405TCV/@@download/ENCFF405TCV.bed.gz
+ENCFF600WVG	ENCSR571WQI	midbrain	tissue	embryonic	mixed	16.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF600WVG/@@download/ENCFF600WVG.bed.gz
+ENCFF864AIL	ENCSR571WQI	midbrain	tissue	embryonic	mixed	16.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF864AIL/@@download/ENCFF864AIL.bed.gz
+ENCFF297EQZ	ENCSR129LAP	hindbrain	tissue	embryonic	mixed	11.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF297EQZ/@@download/ENCFF297EQZ.bed.gz
+ENCFF203QTV	ENCSR129LAP	hindbrain	tissue	embryonic	mixed	11.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF203QTV/@@download/ENCFF203QTV.bed.gz
+ENCFF290PAE	ENCSR085EYQ	limb	tissue	embryonic	mixed	11.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF290PAE/@@download/ENCFF290PAE.bed.gz
+ENCFF201XDM	ENCSR085EYQ	limb	tissue	embryonic	mixed	11.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF201XDM/@@download/ENCFF201XDM.bed.gz
+ENCFF682KAJ	ENCSR569DBO	liver	tissue	embryonic	mixed	16.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF682KAJ/@@download/ENCFF682KAJ.bed.gz
+ENCFF966IMK	ENCSR569DBO	liver	tissue	embryonic	mixed	16.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF966IMK/@@download/ENCFF966IMK.bed.gz
+ENCFF418SZH	ENCSR961MEP	limb	tissue	embryonic	mixed	11.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF418SZH/@@download/ENCFF418SZH.bed.gz
+ENCFF368NDM	ENCSR961MEP	limb	tissue	embryonic	mixed	11.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF368NDM/@@download/ENCFF368NDM.bed.gz
+ENCFF433FZT	ENCSR014TEJ	forebrain	tissue	embryonic	mixed	16.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF433FZT/@@download/ENCFF433FZT.bed.gz
+ENCFF109FJW	ENCSR014TEJ	forebrain	tissue	embryonic	mixed	16.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF109FJW/@@download/ENCFF109FJW.bed.gz
+ENCFF582ZLF	ENCSR262CSU	lung	tissue	postnatal	mixed	0 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF582ZLF/@@download/ENCFF582ZLF.bed.gz
+ENCFF079BXN	ENCSR262CSU	lung	tissue	postnatal	mixed	0 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF079BXN/@@download/ENCFF079BXN.bed.gz
+ENCFF888VOA	ENCSR433ESG	liver	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF888VOA/@@download/ENCFF888VOA.bed.gz
+ENCFF510NON	ENCSR433ESG	liver	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF510NON/@@download/ENCFF510NON.bed.gz
+ENCFF166HFY	ENCSR140UEX	lung	tissue	embryonic	mixed	16.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF166HFY/@@download/ENCFF166HFY.bed.gz
+ENCFF700WUD	ENCSR140UEX	lung	tissue	embryonic	mixed	16.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF700WUD/@@download/ENCFF700WUD.bed.gz
+ENCFF116HZK	ENCSR846PJO	heart	tissue	embryonic	mixed	16.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF116HZK/@@download/ENCFF116HZK.bed.gz
+ENCFF153DSU	ENCSR846PJO	heart	tissue	embryonic	mixed	16.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF153DSU/@@download/ENCFF153DSU.bed.gz
+ENCFF152RLB	ENCSR098USP	heart	tissue	embryonic	mixed	13.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF152RLB/@@download/ENCFF152RLB.bed.gz
+ENCFF798HTO	ENCSR098USP	heart	tissue	embryonic	mixed	13.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF798HTO/@@download/ENCFF798HTO.bed.gz
+ENCFF276PHA	ENCSR347BFO	midbrain	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF276PHA/@@download/ENCFF276PHA.bed.gz
+ENCFF268GCA	ENCSR347BFO	midbrain	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF268GCA/@@download/ENCFF268GCA.bed.gz
+ENCFF941FPL	ENCSR599PKR	stomach	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF941FPL/@@download/ENCFF941FPL.bed.gz
+ENCFF864IHQ	ENCSR599PKR	stomach	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF864IHQ/@@download/ENCFF864IHQ.bed.gz
+ENCFF480TAZ	ENCSR972MUO	hindbrain	tissue	embryonic	mixed	13.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF480TAZ/@@download/ENCFF480TAZ.bed.gz
+ENCFF137CII	ENCSR972MUO	hindbrain	tissue	embryonic	mixed	13.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF137CII/@@download/ENCFF137CII.bed.gz
+ENCFF588XTG	ENCSR087PLZ	neural tube	tissue	embryonic	mixed	13.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF588XTG/@@download/ENCFF588XTG.bed.gz
+ENCFF276XJH	ENCSR087PLZ	neural tube	tissue	embryonic	mixed	13.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF276XJH/@@download/ENCFF276XJH.bed.gz
+ENCFF090QTC	ENCSR190RKJ	hindbrain	tissue	embryonic	mixed	13.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF090QTC/@@download/ENCFF090QTC.bed.gz
+ENCFF840MRK	ENCSR190RKJ	hindbrain	tissue	embryonic	mixed	13.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF840MRK/@@download/ENCFF840MRK.bed.gz
+ENCFF805SQC	ENCSR349NIS	hindbrain	tissue	embryonic	mixed	13.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF805SQC/@@download/ENCFF805SQC.bed.gz
+ENCFF879SPX	ENCSR349NIS	hindbrain	tissue	embryonic	mixed	13.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF879SPX/@@download/ENCFF879SPX.bed.gz
+ENCFF899PUD	ENCSR176BXC	limb	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF899PUD/@@download/ENCFF899PUD.bed.gz
+ENCFF070OBB	ENCSR176BXC	limb	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF070OBB/@@download/ENCFF070OBB.bed.gz
+ENCFF766AGV	ENCSR360ANE	heart	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF766AGV/@@download/ENCFF766AGV.bed.gz
+ENCFF153SIZ	ENCSR360ANE	heart	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF153SIZ/@@download/ENCFF153SIZ.bed.gz
+ENCFF194TAD	ENCSR607QZE	kidney	tissue	embryonic	mixed	16.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF194TAD/@@download/ENCFF194TAD.bed.gz
+ENCFF758LFN	ENCSR607QZE	kidney	tissue	embryonic	mixed	16.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF758LFN/@@download/ENCFF758LFN.bed.gz
+ENCFF264ZLJ	ENCSR076MXH	stomach	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF264ZLJ/@@download/ENCFF264ZLJ.bed.gz
+ENCFF375ZVW	ENCSR076MXH	stomach	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF375ZVW/@@download/ENCFF375ZVW.bed.gz
+ENCFF823GRZ	ENCSR311YPF	forebrain	tissue	embryonic	mixed	13.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF823GRZ/@@download/ENCFF823GRZ.bed.gz
+ENCFF026QRB	ENCSR311YPF	forebrain	tissue	embryonic	mixed	13.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF026QRB/@@download/ENCFF026QRB.bed.gz
+ENCFF885GIH	ENCSR239TSZ	heart	tissue	embryonic	mixed	13.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF885GIH/@@download/ENCFF885GIH.bed.gz
+ENCFF924ZOT	ENCSR239TSZ	heart	tissue	embryonic	mixed	13.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF924ZOT/@@download/ENCFF924ZOT.bed.gz
+ENCFF248LNA	ENCSR650UAC	heart	tissue	embryonic	mixed	13.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF248LNA/@@download/ENCFF248LNA.bed.gz
+ENCFF454NBK	ENCSR650UAC	heart	tissue	embryonic	mixed	13.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF454NBK/@@download/ENCFF454NBK.bed.gz
+ENCFF007JWR	ENCSR344HHI	hindbrain	tissue	embryonic	mixed	13.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF007JWR/@@download/ENCFF007JWR.bed.gz
+ENCFF546IUI	ENCSR344HHI	hindbrain	tissue	embryonic	mixed	13.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF546IUI/@@download/ENCFF546IUI.bed.gz
+ENCFF074EWA	ENCSR905FFU	limb	tissue	embryonic	mixed	13.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF074EWA/@@download/ENCFF074EWA.bed.gz
+ENCFF467HTN	ENCSR905FFU	limb	tissue	embryonic	mixed	13.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF467HTN/@@download/ENCFF467HTN.bed.gz
+ENCFF071ZHK	ENCSR671NSS	midbrain	tissue	embryonic	mixed	13.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF071ZHK/@@download/ENCFF071ZHK.bed.gz
+ENCFF579HGD	ENCSR671NSS	midbrain	tissue	embryonic	mixed	13.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF579HGD/@@download/ENCFF579HGD.bed.gz
+ENCFF798DBN	ENCSR369RBO	forebrain	tissue	postnatal	mixed	0 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF798DBN/@@download/ENCFF798DBN.bed.gz
+ENCFF789SXJ	ENCSR369RBO	forebrain	tissue	postnatal	mixed	0 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF789SXJ/@@download/ENCFF789SXJ.bed.gz
+ENCFF343WHM	ENCSR054JHZ	hindbrain	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF343WHM/@@download/ENCFF343WHM.bed.gz
+ENCFF157AZQ	ENCSR054JHZ	hindbrain	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF157AZQ/@@download/ENCFF157AZQ.bed.gz
+ENCFF408UEE	ENCSR578RLI	liver	tissue	postnatal	mixed	0 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF408UEE/@@download/ENCFF408UEE.bed.gz
+ENCFF069LTB	ENCSR578RLI	liver	tissue	postnatal	mixed	0 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF069LTB/@@download/ENCFF069LTB.bed.gz
+ENCFF649AYH	ENCSR546ANT	stomach	tissue	embryonic	mixed	16.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF649AYH/@@download/ENCFF649AYH.bed.gz
+ENCFF223IHN	ENCSR546ANT	stomach	tissue	embryonic	mixed	16.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF223IHN/@@download/ENCFF223IHN.bed.gz
+ENCFF279DAQ	ENCSR251LFV	heart	tissue	embryonic	mixed	16.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF279DAQ/@@download/ENCFF279DAQ.bed.gz
+ENCFF953VHG	ENCSR251LFV	heart	tissue	embryonic	mixed	16.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF953VHG/@@download/ENCFF953VHG.bed.gz
+ENCFF669BWS	ENCSR272XPJ	intestine	tissue	embryonic	mixed	16.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF669BWS/@@download/ENCFF669BWS.bed.gz
+ENCFF248XFL	ENCSR272XPJ	intestine	tissue	embryonic	mixed	16.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF248XFL/@@download/ENCFF248XFL.bed.gz
+ENCFF169PMN	ENCSR572KYR	intestine	tissue	embryonic	mixed	16.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF169PMN/@@download/ENCFF169PMN.bed.gz
+ENCFF645FMD	ENCSR572KYR	intestine	tissue	embryonic	mixed	16.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF645FMD/@@download/ENCFF645FMD.bed.gz
+ENCFF236BVG	ENCSR545BRW	midbrain	tissue	embryonic	mixed	11.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF236BVG/@@download/ENCFF236BVG.bed.gz
+ENCFF041KRQ	ENCSR545BRW	midbrain	tissue	embryonic	mixed	11.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF041KRQ/@@download/ENCFF041KRQ.bed.gz
+ENCFF956ZKQ	ENCSR028VCU	midbrain	tissue	postnatal	mixed	0 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF956ZKQ/@@download/ENCFF956ZKQ.bed.gz
+ENCFF204YOB	ENCSR028VCU	midbrain	tissue	postnatal	mixed	0 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF204YOB/@@download/ENCFF204YOB.bed.gz
+ENCFF535DUE	ENCSR373LNE	heart	tissue	embryonic	mixed	16.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF535DUE/@@download/ENCFF535DUE.bed.gz
+ENCFF179PHX	ENCSR373LNE	heart	tissue	embryonic	mixed	16.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF179PHX/@@download/ENCFF179PHX.bed.gz
+ENCFF636PPV	ENCSR021ALF	limb	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF636PPV/@@download/ENCFF636PPV.bed.gz
+ENCFF354CRO	ENCSR021ALF	limb	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF354CRO/@@download/ENCFF354CRO.bed.gz
+ENCFF151RUC	ENCSR953LFI	hindbrain	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF151RUC/@@download/ENCFF151RUC.bed.gz
+ENCFF658ZBC	ENCSR953LFI	hindbrain	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF658ZBC/@@download/ENCFF658ZBC.bed.gz
+ENCFF343BFI	ENCSR148IGO	lung	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF343BFI/@@download/ENCFF343BFI.bed.gz
+ENCFF061WET	ENCSR148IGO	lung	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF061WET/@@download/ENCFF061WET.bed.gz
+ENCFF922SLC	ENCSR751HEG	heart	tissue	embryonic	mixed	11.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF922SLC/@@download/ENCFF922SLC.bed.gz
+ENCFF785EGA	ENCSR751HEG	heart	tissue	embryonic	mixed	11.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF785EGA/@@download/ENCFF785EGA.bed.gz
+ENCFF964UBI	ENCSR341XCL	liver	tissue	postnatal	mixed	0 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF964UBI/@@download/ENCFF964UBI.bed.gz
+ENCFF216NSI	ENCSR341XCL	liver	tissue	postnatal	mixed	0 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF216NSI/@@download/ENCFF216NSI.bed.gz
+ENCFF435QSD	ENCSR340ROY	midbrain	tissue	postnatal	mixed	0 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF435QSD/@@download/ENCFF435QSD.bed.gz
+ENCFF911MII	ENCSR340ROY	midbrain	tissue	postnatal	mixed	0 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF911MII/@@download/ENCFF911MII.bed.gz
+ENCFF997XJK	ENCSR093DWU	forebrain	tissue	postnatal	mixed	0 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF997XJK/@@download/ENCFF997XJK.bed.gz
+ENCFF101VZW	ENCSR093DWU	forebrain	tissue	postnatal	mixed	0 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF101VZW/@@download/ENCFF101VZW.bed.gz
+ENCFF640DKA	ENCSR311LZM	lung	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF640DKA/@@download/ENCFF640DKA.bed.gz
+ENCFF419VVR	ENCSR311LZM	lung	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF419VVR/@@download/ENCFF419VVR.bed.gz
+ENCFF489LHA	ENCSR653AVN	liver	tissue	postnatal	mixed	0 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF489LHA/@@download/ENCFF489LHA.bed.gz
+ENCFF258RQA	ENCSR653AVN	liver	tissue	postnatal	mixed	0 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF258RQA/@@download/ENCFF258RQA.bed.gz
+ENCFF803MDT	ENCSR802RET	liver	tissue	embryonic	mixed	16.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF803MDT/@@download/ENCFF803MDT.bed.gz
+ENCFF470UWO	ENCSR802RET	liver	tissue	embryonic	mixed	16.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF470UWO/@@download/ENCFF470UWO.bed.gz
+ENCFF333RCR	ENCSR322XHD	midbrain	tissue	postnatal	mixed	0 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF333RCR/@@download/ENCFF333RCR.bed.gz
+ENCFF791RIA	ENCSR322XHD	midbrain	tissue	postnatal	mixed	0 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF791RIA/@@download/ENCFF791RIA.bed.gz
+ENCFF996ELB	ENCSR502WUI	midbrain	tissue	embryonic	mixed	11.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF996ELB/@@download/ENCFF996ELB.bed.gz
+ENCFF716QVT	ENCSR502WUI	midbrain	tissue	embryonic	mixed	11.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF716QVT/@@download/ENCFF716QVT.bed.gz
+ENCFF108RES	ENCSR045NOD	liver	tissue	embryonic	mixed	13.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF108RES/@@download/ENCFF108RES.bed.gz
+ENCFF868KHT	ENCSR045NOD	liver	tissue	embryonic	mixed	13.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF868KHT/@@download/ENCFF868KHT.bed.gz
+ENCFF482VKK	ENCSR328WMV	heart	tissue	embryonic	mixed	10.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF482VKK/@@download/ENCFF482VKK.bed.gz
+ENCFF310NGB	ENCSR285IQN	embryonic facial prominence	tissue	embryonic	mixed	10.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF310NGB/@@download/ENCFF310NGB.bed.gz
+ENCFF820ZLQ	ENCSR416OYH	limb	tissue	embryonic	mixed	13.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF820ZLQ/@@download/ENCFF820ZLQ.bed.gz
+ENCFF278YZX	ENCSR416OYH	limb	tissue	embryonic	mixed	13.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF278YZX/@@download/ENCFF278YZX.bed.gz
+ENCFF901HBD	ENCSR345HNA	neural tube	tissue	embryonic	mixed	13.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF901HBD/@@download/ENCFF901HBD.bed.gz
+ENCFF928WRM	ENCSR345HNA	neural tube	tissue	embryonic	mixed	13.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF928WRM/@@download/ENCFF928WRM.bed.gz
+ENCFF692HNB	ENCSR008WOQ	embryonic facial prominence	tissue	embryonic	mixed	13.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF692HNB/@@download/ENCFF692HNB.bed.gz
+ENCFF761GSC	ENCSR008WOQ	embryonic facial prominence	tissue	embryonic	mixed	13.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF761GSC/@@download/ENCFF761GSC.bed.gz
+ENCFF105LNJ	ENCSR706PSQ	midbrain	tissue	embryonic	mixed	13.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF105LNJ/@@download/ENCFF105LNJ.bed.gz
+ENCFF872YAF	ENCSR706PSQ	midbrain	tissue	embryonic	mixed	13.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF872YAF/@@download/ENCFF872YAF.bed.gz
+ENCFF779JLT	ENCSR149GYK	liver	tissue	embryonic	mixed	12.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF779JLT/@@download/ENCFF779JLT.bed.gz
+ENCFF646CRN	ENCSR149GYK	liver	tissue	embryonic	mixed	12.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF646CRN/@@download/ENCFF646CRN.bed.gz
+ENCFF479GNM	ENCSR233LBT	limb	tissue	embryonic	mixed	12.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF479GNM/@@download/ENCFF479GNM.bed.gz
+ENCFF426CAN	ENCSR233LBT	limb	tissue	embryonic	mixed	12.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF426CAN/@@download/ENCFF426CAN.bed.gz
+ENCFF393DHD	ENCSR642ZLN	liver	tissue	embryonic	mixed	12.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF393DHD/@@download/ENCFF393DHD.bed.gz
+ENCFF900AWR	ENCSR642ZLN	liver	tissue	embryonic	mixed	12.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF900AWR/@@download/ENCFF900AWR.bed.gz
+ENCFF852CLI	ENCSR263CKR	neural tube	tissue	embryonic	mixed	12.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF852CLI/@@download/ENCFF852CLI.bed.gz
+ENCFF994GGO	ENCSR263CKR	neural tube	tissue	embryonic	mixed	12.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF994GGO/@@download/ENCFF994GGO.bed.gz
+ENCFF019NVU	ENCSR252ONR	midbrain	tissue	embryonic	mixed	12.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF019NVU/@@download/ENCFF019NVU.bed.gz
+ENCFF213XYX	ENCSR252ONR	midbrain	tissue	embryonic	mixed	12.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF213XYX/@@download/ENCFF213XYX.bed.gz
+ENCFF613CHY	ENCSR136GMT	liver	tissue	embryonic	mixed	12.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF613CHY/@@download/ENCFF613CHY.bed.gz
+ENCFF974RAJ	ENCSR136GMT	liver	tissue	embryonic	mixed	12.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF974RAJ/@@download/ENCFF974RAJ.bed.gz
+ENCFF749BXF	ENCSR455REA	heart	tissue	embryonic	mixed	10.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF749BXF/@@download/ENCFF749BXF.bed.gz
+ENCFF680WHR	ENCSR191XHV	liver	tissue	embryonic	mixed	13.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF680WHR/@@download/ENCFF680WHR.bed.gz
+ENCFF825AMV	ENCSR191XHV	liver	tissue	embryonic	mixed	13.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF825AMV/@@download/ENCFF825AMV.bed.gz
+ENCFF354TNR	ENCSR699XHY	heart	tissue	embryonic	mixed	13.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF354TNR/@@download/ENCFF354TNR.bed.gz
+ENCFF583IBI	ENCSR699XHY	heart	tissue	embryonic	mixed	13.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF583IBI/@@download/ENCFF583IBI.bed.gz
+ENCFF046VWV	ENCSR107SLP	neural tube	tissue	embryonic	mixed	13.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF046VWV/@@download/ENCFF046VWV.bed.gz
+ENCFF662QMT	ENCSR107SLP	neural tube	tissue	embryonic	mixed	13.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF662QMT/@@download/ENCFF662QMT.bed.gz
+ENCFF684LEI	ENCSR947QOH	hindbrain	tissue	embryonic	mixed	13.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF684LEI/@@download/ENCFF684LEI.bed.gz
+ENCFF186IVQ	ENCSR947QOH	hindbrain	tissue	embryonic	mixed	13.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF186IVQ/@@download/ENCFF186IVQ.bed.gz
+ENCFF750OQJ	ENCSR289SWJ	neural tube	tissue	embryonic	mixed	13.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF750OQJ/@@download/ENCFF750OQJ.bed.gz
+ENCFF659YSV	ENCSR289SWJ	neural tube	tissue	embryonic	mixed	13.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF659YSV/@@download/ENCFF659YSV.bed.gz
+ENCFF339VLZ	ENCSR985UTP	liver	tissue	embryonic	mixed	13.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF339VLZ/@@download/ENCFF339VLZ.bed.gz
+ENCFF685MXX	ENCSR985UTP	liver	tissue	embryonic	mixed	13.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF685MXX/@@download/ENCFF685MXX.bed.gz
+ENCFF055BYA	ENCSR864OWV	hindbrain	tissue	embryonic	mixed	16.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF055BYA/@@download/ENCFF055BYA.bed.gz
+ENCFF710QZP	ENCSR864OWV	hindbrain	tissue	embryonic	mixed	16.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF710QZP/@@download/ENCFF710QZP.bed.gz
+ENCFF670LZU	ENCSR316CNR	stomach	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF670LZU/@@download/ENCFF670LZU.bed.gz
+ENCFF998WFE	ENCSR316CNR	stomach	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF998WFE/@@download/ENCFF998WFE.bed.gz
+ENCFF552FCV	ENCSR311TLE	midbrain	tissue	embryonic	mixed	11.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF552FCV/@@download/ENCFF552FCV.bed.gz
+ENCFF828SQE	ENCSR311TLE	midbrain	tissue	embryonic	mixed	11.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF828SQE/@@download/ENCFF828SQE.bed.gz
+ENCFF797YXI	ENCSR346FJG	stomach	tissue	postnatal	mixed	0 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF797YXI/@@download/ENCFF797YXI.bed.gz
+ENCFF025JLK	ENCSR346FJG	stomach	tissue	postnatal	mixed	0 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF025JLK/@@download/ENCFF025JLK.bed.gz
+ENCFF331UJE	ENCSR312BOK	midbrain	tissue	embryonic	mixed	12.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF331UJE/@@download/ENCFF331UJE.bed.gz
+ENCFF029PID	ENCSR312BOK	midbrain	tissue	embryonic	mixed	12.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF029PID/@@download/ENCFF029PID.bed.gz
+ENCFF664CWT	ENCSR370MSK	neural tube	tissue	embryonic	mixed	12.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF664CWT/@@download/ENCFF664CWT.bed.gz
+ENCFF433YIT	ENCSR370MSK	neural tube	tissue	embryonic	mixed	12.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF433YIT/@@download/ENCFF433YIT.bed.gz
+ENCFF481GRM	ENCSR000CAE	heart	tissue	adult	male	8 week	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF481GRM/@@download/ENCFF481GRM.bed.gz
+ENCFF746JCH	ENCSR373OCX	heart	tissue	postnatal	mixed	0 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF746JCH/@@download/ENCFF746JCH.bed.gz
+ENCFF149ASB	ENCSR373OCX	heart	tissue	postnatal	mixed	0 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF149ASB/@@download/ENCFF149ASB.bed.gz
+ENCFF096QKZ	ENCSR758FWH	lung	tissue	embryonic	mixed	16.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF096QKZ/@@download/ENCFF096QKZ.bed.gz
+ENCFF913XPA	ENCSR758FWH	lung	tissue	embryonic	mixed	16.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF913XPA/@@download/ENCFF913XPA.bed.gz
+ENCFF648LVJ	ENCSR057SHA	kidney	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF648LVJ/@@download/ENCFF648LVJ.bed.gz
+ENCFF515NHP	ENCSR057SHA	kidney	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF515NHP/@@download/ENCFF515NHP.bed.gz
+ENCFF788NMP	ENCSR066XXZ	hindbrain	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF788NMP/@@download/ENCFF788NMP.bed.gz
+ENCFF730ILG	ENCSR066XXZ	hindbrain	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF730ILG/@@download/ENCFF730ILG.bed.gz
+ENCFF725YBJ	ENCSR119YTR	heart	tissue	embryonic	mixed	16.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF725YBJ/@@download/ENCFF725YBJ.bed.gz
+ENCFF003WOW	ENCSR119YTR	heart	tissue	embryonic	mixed	16.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF003WOW/@@download/ENCFF003WOW.bed.gz
+ENCFF022YNY	ENCSR447BVY	embryonic facial prominence	tissue	embryonic	mixed	13.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF022YNY/@@download/ENCFF022YNY.bed.gz
+ENCFF013JOA	ENCSR447BVY	embryonic facial prominence	tissue	embryonic	mixed	13.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF013JOA/@@download/ENCFF013JOA.bed.gz
+ENCFF703XMM	ENCSR639IQR	limb	tissue	embryonic	mixed	13.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF703XMM/@@download/ENCFF703XMM.bed.gz
+ENCFF425VLJ	ENCSR639IQR	limb	tissue	embryonic	mixed	13.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF425VLJ/@@download/ENCFF425VLJ.bed.gz
+ENCFF020FIY	ENCSR462BZP	limb	tissue	embryonic	mixed	13.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF020FIY/@@download/ENCFF020FIY.bed.gz
+ENCFF032CBZ	ENCSR462BZP	limb	tissue	embryonic	mixed	13.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF032CBZ/@@download/ENCFF032CBZ.bed.gz
+ENCFF963LKH	ENCSR037HCS	liver	tissue	embryonic	mixed	13.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF963LKH/@@download/ENCFF963LKH.bed.gz
+ENCFF617EOJ	ENCSR037HCS	liver	tissue	embryonic	mixed	13.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF617EOJ/@@download/ENCFF617EOJ.bed.gz
+ENCFF638AEZ	ENCSR243JOL	forebrain	tissue	embryonic	mixed	12.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF638AEZ/@@download/ENCFF638AEZ.bed.gz
+ENCFF191DCQ	ENCSR243JOL	forebrain	tissue	embryonic	mixed	12.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF191DCQ/@@download/ENCFF191DCQ.bed.gz
+ENCFF771SBG	ENCSR000DIY	G1E-ER4	immortalized cell line	postnatal	male	0 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF771SBG/@@download/ENCFF771SBG.bed.gz
+ENCFF769BAR	ENCSR000CBD	spleen	tissue	adult	male	8 week	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF769BAR/@@download/ENCFF769BAR.bed.gz
+ENCFF521BJV	ENCSR000CBF	ES-Bruce4	stem cell	embryonic	male	unknown	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF521BJV/@@download/ENCFF521BJV.bed.gz
+ENCFF333IJH	ENCSR000CBF	ES-Bruce4	stem cell	embryonic	male	unknown	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF333IJH/@@download/ENCFF333IJH.bed.gz
+ENCFF911HPQ	ENCSR000CDC	cerebellum	tissue	adult	male	8 week	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF911HPQ/@@download/ENCFF911HPQ.bed.gz
+ENCFF238ZHH	ENCSR000DHF	megakaryocyte	primary cell	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF238ZHH/@@download/ENCFF238ZHH.bed.gz
+ENCFF042TCX	ENCSR637CCT	midbrain	tissue	embryonic	mixed	16.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF042TCX/@@download/ENCFF042TCX.bed.gz
+ENCFF190XOL	ENCSR637CCT	midbrain	tissue	embryonic	mixed	16.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF190XOL/@@download/ENCFF190XOL.bed.gz
+ENCFF180LQA	ENCSR857MYS	E14TG2a.4	stem cell	embryonic	male	3.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF180LQA/@@download/ENCFF180LQA.bed.gz
+ENCFF453DDQ	ENCSR462KTT	forebrain	tissue	embryonic	mixed	16.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF453DDQ/@@download/ENCFF453DDQ.bed.gz
+ENCFF208FJV	ENCSR462KTT	forebrain	tissue	embryonic	mixed	16.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF208FJV/@@download/ENCFF208FJV.bed.gz
+ENCFF713FBS	ENCSR274ACJ	limb	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF713FBS/@@download/ENCFF713FBS.bed.gz
+ENCFF141DMD	ENCSR274ACJ	limb	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF141DMD/@@download/ENCFF141DMD.bed.gz
+ENCFF215AWB	ENCSR564JKR	kidney	tissue	postnatal	mixed	0 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF215AWB/@@download/ENCFF215AWB.bed.gz
+ENCFF288HXC	ENCSR564JKR	kidney	tissue	postnatal	mixed	0 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF288HXC/@@download/ENCFF288HXC.bed.gz
+ENCFF974HMO	ENCSR000CCH	thymus	tissue	adult	male	8 week	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF974HMO/@@download/ENCFF974HMO.bed.gz
+ENCFF051NIF	ENCSR691NQH	forebrain	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF051NIF/@@download/ENCFF051NIF.bed.gz
+ENCFF366XXD	ENCSR691NQH	forebrain	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF366XXD/@@download/ENCFF366XXD.bed.gz
+ENCFF704IOM	ENCSR525BTK	midbrain	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF704IOM/@@download/ENCFF704IOM.bed.gz
+ENCFF293NIL	ENCSR525BTK	midbrain	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF293NIL/@@download/ENCFF293NIL.bed.gz
+ENCFF511AKZ	ENCSR377RKW	heart	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF511AKZ/@@download/ENCFF511AKZ.bed.gz
+ENCFF004HCZ	ENCSR377RKW	heart	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF004HCZ/@@download/ENCFF004HCZ.bed.gz
+ENCFF839OFJ	ENCSR297CHD	forebrain	tissue	embryonic	mixed	12.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF839OFJ/@@download/ENCFF839OFJ.bed.gz
+ENCFF397HZX	ENCSR297CHD	forebrain	tissue	embryonic	mixed	12.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF397HZX/@@download/ENCFF397HZX.bed.gz
+ENCFF787BYE	ENCSR295ZLV	liver	tissue	embryonic	mixed	12.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF787BYE/@@download/ENCFF787BYE.bed.gz
+ENCFF705VGD	ENCSR295ZLV	liver	tissue	embryonic	mixed	12.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF705VGD/@@download/ENCFF705VGD.bed.gz
+ENCFF885GBS	ENCSR000CER	MEL cell line	immortalized cell line	unknown	unknown	unknown week	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF885GBS/@@download/ENCFF885GBS.bed.gz
+ENCFF061JZQ	ENCSR000CCL	bone marrow	tissue	adult	male	8 week	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF061JZQ/@@download/ENCFF061JZQ.bed.gz
+ENCFF998FUV	ENCSR000CCY	brain	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF998FUV/@@download/ENCFF998FUV.bed.gz
+ENCFF079IEN	ENCSR405TGI	kidney	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF079IEN/@@download/ENCFF079IEN.bed.gz
+ENCFF041VPJ	ENCSR405TGI	kidney	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF041VPJ/@@download/ENCFF041VPJ.bed.gz
+ENCFF266YIF	ENCSR041KEJ	forebrain	tissue	embryonic	mixed	13.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF266YIF/@@download/ENCFF266YIF.bed.gz
+ENCFF131ORZ	ENCSR041KEJ	forebrain	tissue	embryonic	mixed	13.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF131ORZ/@@download/ENCFF131ORZ.bed.gz
+ENCFF083HSP	ENCSR167ZGV	midbrain	tissue	embryonic	mixed	13.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF083HSP/@@download/ENCFF083HSP.bed.gz
+ENCFF095ZPA	ENCSR167ZGV	midbrain	tissue	embryonic	mixed	13.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF095ZPA/@@download/ENCFF095ZPA.bed.gz
+ENCFF987EWQ	ENCSR087JEN	forebrain	tissue	embryonic	mixed	13.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF987EWQ/@@download/ENCFF987EWQ.bed.gz
+ENCFF106EPT	ENCSR087JEN	forebrain	tissue	embryonic	mixed	13.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF106EPT/@@download/ENCFF106EPT.bed.gz
+ENCFF043NAE	ENCSR744LCN	lung	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF043NAE/@@download/ENCFF043NAE.bed.gz
+ENCFF839FLS	ENCSR744LCN	lung	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF839FLS/@@download/ENCFF839FLS.bed.gz
+ENCFF882RGD	ENCSR382DRK	embryonic facial prominence	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF882RGD/@@download/ENCFF882RGD.bed.gz
+ENCFF384LAY	ENCSR382DRK	embryonic facial prominence	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF384LAY/@@download/ENCFF384LAY.bed.gz
+ENCFF906KKU	ENCSR516TYD	kidney	tissue	postnatal	mixed	0 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF906KKU/@@download/ENCFF906KKU.bed.gz
+ENCFF497HJU	ENCSR516TYD	kidney	tissue	postnatal	mixed	0 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF497HJU/@@download/ENCFF497HJU.bed.gz
+ENCFF357NCX	ENCSR531RZS	neural tube	tissue	embryonic	mixed	11.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF357NCX/@@download/ENCFF357NCX.bed.gz
+ENCFF956JDU	ENCSR531RZS	neural tube	tissue	embryonic	mixed	11.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF956JDU/@@download/ENCFF956JDU.bed.gz
+ENCFF496DIM	ENCSR581FAT	stomach	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF496DIM/@@download/ENCFF496DIM.bed.gz
+ENCFF861TUC	ENCSR581FAT	stomach	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF861TUC/@@download/ENCFF861TUC.bed.gz
+ENCFF458PDL	ENCSR227UTY	forebrain	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF458PDL/@@download/ENCFF458PDL.bed.gz
+ENCFF913TLX	ENCSR227UTY	forebrain	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF913TLX/@@download/ENCFF913TLX.bed.gz
+ENCFF948YZT	ENCSR739DVM	forebrain	tissue	embryonic	mixed	11.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF948YZT/@@download/ENCFF948YZT.bed.gz
+ENCFF958GPD	ENCSR739DVM	forebrain	tissue	embryonic	mixed	11.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF958GPD/@@download/ENCFF958GPD.bed.gz
+ENCFF699MDE	ENCSR000CAG	bone marrow	tissue	adult	male	8 week	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF699MDE/@@download/ENCFF699MDE.bed.gz
+ENCFF762KNE	ENCSR000CAJ	cortical plate	tissue	adult	male	8 week	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF762KNE/@@download/ENCFF762KNE.bed.gz
+ENCFF026XUO	ENCSR000CAK	cerebellum	tissue	adult	male	8 week	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF026XUO/@@download/ENCFF026XUO.bed.gz
+ENCFF222HUM	ENCSR000ADW	MEL cell line	immortalized cell line	unknown	unknown	unknown week	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF222HUM/@@download/ENCFF222HUM.bed.gz
+ENCFF960JGW	ENCSR839WFP	lung	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF960JGW/@@download/ENCFF960JGW.bed.gz
+ENCFF578SCN	ENCSR839WFP	lung	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF578SCN/@@download/ENCFF578SCN.bed.gz
+ENCFF726PPX	ENCSR427ZQB	hindbrain	tissue	embryonic	mixed	16.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF726PPX/@@download/ENCFF726PPX.bed.gz
+ENCFF134VAJ	ENCSR427ZQB	hindbrain	tissue	embryonic	mixed	16.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF134VAJ/@@download/ENCFF134VAJ.bed.gz
+ENCFF320ZUA	ENCSR781ORQ	heart	tissue	embryonic	mixed	16.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF320ZUA/@@download/ENCFF320ZUA.bed.gz
+ENCFF143OKF	ENCSR781ORQ	heart	tissue	embryonic	mixed	16.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF143OKF/@@download/ENCFF143OKF.bed.gz
+ENCFF797FTM	ENCSR223FDX	neural tube	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF797FTM/@@download/ENCFF797FTM.bed.gz
+ENCFF339VOX	ENCSR223FDX	neural tube	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF339VOX/@@download/ENCFF339VOX.bed.gz
+ENCFF030SHU	ENCSR579RZO	neural tube	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF030SHU/@@download/ENCFF030SHU.bed.gz
+ENCFF089PVO	ENCSR579RZO	neural tube	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF089PVO/@@download/ENCFF089PVO.bed.gz
+ENCFF979VDV	ENCSR308TAV	hindbrain	tissue	postnatal	mixed	0 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF979VDV/@@download/ENCFF979VDV.bed.gz
+ENCFF953WTE	ENCSR308TAV	hindbrain	tissue	postnatal	mixed	0 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF953WTE/@@download/ENCFF953WTE.bed.gz
+ENCFF850ISP	ENCSR891SAW	neural tube	tissue	embryonic	mixed	12.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF850ISP/@@download/ENCFF850ISP.bed.gz
+ENCFF434LSI	ENCSR891SAW	neural tube	tissue	embryonic	mixed	12.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF434LSI/@@download/ENCFF434LSI.bed.gz
+ENCFF503XMG	ENCSR069XHI	heart	tissue	embryonic	mixed	13.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF503XMG/@@download/ENCFF503XMG.bed.gz
+ENCFF602RZE	ENCSR069XHI	heart	tissue	embryonic	mixed	13.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF602RZE/@@download/ENCFF602RZE.bed.gz
+ENCFF661TZV	ENCSR000DHT	megakaryocyte	primary cell	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF661TZV/@@download/ENCFF661TZV.bed.gz
+ENCFF020KMG	ENCSR000CDE	ES-Bruce4	stem cell	embryonic	male	unknown	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF020KMG/@@download/ENCFF020KMG.bed.gz
+ENCFF360VIS	ENCSR000CDE	ES-Bruce4	stem cell	embryonic	male	unknown	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF360VIS/@@download/ENCFF360VIS.bed.gz
+ENCFF265EJV	ENCSR000CFR	small intestine	tissue	adult	male	8 week	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF265EJV/@@download/ENCFF265EJV.bed.gz
+ENCFF867RAB	ENCSR000CCN	limb	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF867RAB/@@download/ENCFF867RAB.bed.gz
+ENCFF449YGK	ENCSR000CCV	testis	tissue	adult	male	8 week	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF449YGK/@@download/ENCFF449YGK.bed.gz
+ENCFF364LCM	ENCSR000DJB	G1E	immortalized cell line	postnatal	male	0 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF364LCM/@@download/ENCFF364LCM.bed.gz
+ENCFF834MWI	ENCSR000CFZ	ES-Bruce4	stem cell	embryonic	male	unknown	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF834MWI/@@download/ENCFF834MWI.bed.gz
+ENCFF729SYP	ENCSR956ZCG	heart	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF729SYP/@@download/ENCFF729SYP.bed.gz
+ENCFF435FFR	ENCSR956ZCG	heart	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF435FFR/@@download/ENCFF435FFR.bed.gz
+ENCFF955CNX	ENCSR234ISO	liver	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF955CNX/@@download/ENCFF955CNX.bed.gz
+ENCFF058PEK	ENCSR234ISO	liver	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF058PEK/@@download/ENCFF058PEK.bed.gz
+ENCFF493HHD	ENCSR511WPK	embryonic facial prominence	tissue	embryonic	mixed	11.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF493HHD/@@download/ENCFF493HHD.bed.gz
+ENCFF919NDM	ENCSR511WPK	embryonic facial prominence	tissue	embryonic	mixed	11.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF919NDM/@@download/ENCFF919NDM.bed.gz
+ENCFF347ACZ	ENCSR344BPJ	liver	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF347ACZ/@@download/ENCFF347ACZ.bed.gz
+ENCFF427EVM	ENCSR344BPJ	liver	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF427EVM/@@download/ENCFF427EVM.bed.gz
+ENCFF050CXB	ENCSR335WME	stomach	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF050CXB/@@download/ENCFF050CXB.bed.gz
+ENCFF199NMT	ENCSR335WME	stomach	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF199NMT/@@download/ENCFF199NMT.bed.gz
+ENCFF146AQM	ENCSR932BNP	liver	tissue	embryonic	mixed	11.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF146AQM/@@download/ENCFF146AQM.bed.gz
+ENCFF691YBS	ENCSR932BNP	liver	tissue	embryonic	mixed	11.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF691YBS/@@download/ENCFF691YBS.bed.gz
+ENCFF267YAM	ENCSR689NXE	hindbrain	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF267YAM/@@download/ENCFF267YAM.bed.gz
+ENCFF906OVX	ENCSR689NXE	hindbrain	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF906OVX/@@download/ENCFF906OVX.bed.gz
+ENCFF847IKY	ENCSR548BCO	limb	tissue	embryonic	mixed	11.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF847IKY/@@download/ENCFF847IKY.bed.gz
+ENCFF352OIG	ENCSR548BCO	limb	tissue	embryonic	mixed	11.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF352OIG/@@download/ENCFF352OIG.bed.gz
+ENCFF975BUE	ENCSR000CBG	ES-Bruce4	stem cell	embryonic	male	unknown	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF975BUE/@@download/ENCFF975BUE.bed.gz
+ENCFF247GVM	ENCSR000CBG	ES-Bruce4	stem cell	embryonic	male	unknown	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF247GVM/@@download/ENCFF247GVM.bed.gz
+ENCFF078RJZ	ENCSR000CEV	MEL cell line	immortalized cell line	unknown	unknown	unknown week	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF078RJZ/@@download/ENCFF078RJZ.bed.gz
+ENCFF067VMS	ENCSR000CGN	ES-E14	stem cell	unknown	male	unknown	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF067VMS/@@download/ENCFF067VMS.bed.gz
+ENCFF370PVY	ENCSR391WSS	midbrain	tissue	postnatal	mixed	0 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF370PVY/@@download/ENCFF370PVY.bed.gz
+ENCFF445MZE	ENCSR391WSS	midbrain	tissue	postnatal	mixed	0 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF445MZE/@@download/ENCFF445MZE.bed.gz
+ENCFF071FIM	ENCSR059LYY	embryonic facial prominence	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF071FIM/@@download/ENCFF071FIM.bed.gz
+ENCFF303ITL	ENCSR059LYY	embryonic facial prominence	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF303ITL/@@download/ENCFF303ITL.bed.gz
+ENCFF640ZPL	ENCSR337XUK	liver	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF640ZPL/@@download/ENCFF640ZPL.bed.gz
+ENCFF624TNH	ENCSR337XUK	liver	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF624TNH/@@download/ENCFF624TNH.bed.gz
+ENCFF905DKX	ENCSR846ZCW	liver	tissue	embryonic	mixed	11.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF905DKX/@@download/ENCFF905DKX.bed.gz
+ENCFF470CWQ	ENCSR846ZCW	liver	tissue	embryonic	mixed	11.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF470CWQ/@@download/ENCFF470CWQ.bed.gz
+ENCFF977AHO	ENCSR000AEB	MEL cell line	immortalized cell line	unknown	unknown	unknown week	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF977AHO/@@download/ENCFF977AHO.bed.gz
+ENCFF974EMC	ENCSR000CDM	heart	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF974EMC/@@download/ENCFF974EMC.bed.gz
+ENCFF102NPI	ENCSR000CDM	heart	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF102NPI/@@download/ENCFF102NPI.bed.gz
+ENCFF487JDK	ENCSR000CGP	ES-E14	stem cell	unknown	male	unknown	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF487JDK/@@download/ENCFF487JDK.bed.gz
+ENCFF865RFC	ENCSR000CAQ	lung	tissue	adult	male	8 week	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF865RFC/@@download/ENCFF865RFC.bed.gz
+ENCFF519ZRH	ENCSR871KVM	intestine	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF519ZRH/@@download/ENCFF519ZRH.bed.gz
+ENCFF216ZQH	ENCSR871KVM	intestine	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF216ZQH/@@download/ENCFF216ZQH.bed.gz
+ENCFF759QGL	ENCSR617VBE	hindbrain	tissue	postnatal	mixed	0 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF759QGL/@@download/ENCFF759QGL.bed.gz
+ENCFF456EQG	ENCSR617VBE	hindbrain	tissue	postnatal	mixed	0 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF456EQG/@@download/ENCFF456EQG.bed.gz
+ENCFF493CKG	ENCSR907CPZ	stomach	tissue	embryonic	mixed	16.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF493CKG/@@download/ENCFF493CKG.bed.gz
+ENCFF814BNR	ENCSR907CPZ	stomach	tissue	embryonic	mixed	16.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF814BNR/@@download/ENCFF814BNR.bed.gz
+ENCFF057MKY	ENCSR283RFW	midbrain	tissue	embryonic	mixed	11.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF057MKY/@@download/ENCFF057MKY.bed.gz
+ENCFF651IYR	ENCSR283RFW	midbrain	tissue	embryonic	mixed	11.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF651IYR/@@download/ENCFF651IYR.bed.gz
+ENCFF477XZD	ENCSR240OUM	neural tube	tissue	embryonic	mixed	11.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF477XZD/@@download/ENCFF477XZD.bed.gz
+ENCFF090NYW	ENCSR240OUM	neural tube	tissue	embryonic	mixed	11.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF090NYW/@@download/ENCFF090NYW.bed.gz
+ENCFF581TKM	ENCSR159RVN	intestine	tissue	postnatal	mixed	0 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF581TKM/@@download/ENCFF581TKM.bed.gz
+ENCFF146MHI	ENCSR159RVN	intestine	tissue	postnatal	mixed	0 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF146MHI/@@download/ENCFF146MHI.bed.gz
+ENCFF311UFC	ENCSR535NVF	midbrain	tissue	embryonic	mixed	11.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF311UFC/@@download/ENCFF311UFC.bed.gz
+ENCFF856JND	ENCSR535NVF	midbrain	tissue	embryonic	mixed	11.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF856JND/@@download/ENCFF856JND.bed.gz
+ENCFF267FGJ	ENCSR110TIW	hindbrain	tissue	embryonic	mixed	16.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF267FGJ/@@download/ENCFF267FGJ.bed.gz
+ENCFF726YXX	ENCSR110TIW	hindbrain	tissue	embryonic	mixed	16.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF726YXX/@@download/ENCFF726YXX.bed.gz
+ENCFF808JLD	ENCSR523IIH	lung	tissue	postnatal	mixed	0 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF808JLD/@@download/ENCFF808JLD.bed.gz
+ENCFF554YGR	ENCSR523IIH	lung	tissue	postnatal	mixed	0 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF554YGR/@@download/ENCFF554YGR.bed.gz
+ENCFF839YOP	ENCSR951UWY	midbrain	tissue	postnatal	mixed	0 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF839YOP/@@download/ENCFF839YOP.bed.gz
+ENCFF373MCO	ENCSR951UWY	midbrain	tissue	postnatal	mixed	0 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF373MCO/@@download/ENCFF373MCO.bed.gz
+ENCFF643OPH	ENCSR203KIB	midbrain	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF643OPH/@@download/ENCFF643OPH.bed.gz
+ENCFF985ZIG	ENCSR203KIB	midbrain	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF985ZIG/@@download/ENCFF985ZIG.bed.gz
+ENCFF355UWJ	ENCSR488OCA	heart	tissue	postnatal	mixed	0 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF355UWJ/@@download/ENCFF355UWJ.bed.gz
+ENCFF474AUY	ENCSR488OCA	heart	tissue	postnatal	mixed	0 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF474AUY/@@download/ENCFF474AUY.bed.gz
+ENCFF768NCW	ENCSR969CPK	stomach	tissue	postnatal	mixed	0 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF768NCW/@@download/ENCFF768NCW.bed.gz
+ENCFF549MVD	ENCSR969CPK	stomach	tissue	postnatal	mixed	0 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF549MVD/@@download/ENCFF549MVD.bed.gz
+ENCFF998UFL	ENCSR161DAW	hindbrain	tissue	embryonic	mixed	16.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF998UFL/@@download/ENCFF998UFL.bed.gz
+ENCFF063GKX	ENCSR161DAW	hindbrain	tissue	embryonic	mixed	16.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF063GKX/@@download/ENCFF063GKX.bed.gz
+ENCFF931ISB	ENCSR401GRX	embryonic facial prominence	tissue	embryonic	mixed	11.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF931ISB/@@download/ENCFF931ISB.bed.gz
+ENCFF272TNO	ENCSR401GRX	embryonic facial prominence	tissue	embryonic	mixed	11.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF272TNO/@@download/ENCFF272TNO.bed.gz
+ENCFF306MDY	ENCSR463GJL	heart	tissue	embryonic	mixed	11.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF306MDY/@@download/ENCFF306MDY.bed.gz
+ENCFF386JRH	ENCSR463GJL	heart	tissue	embryonic	mixed	11.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF386JRH/@@download/ENCFF386JRH.bed.gz
+ENCFF478UYW	ENCSR000CGC	thymus	tissue	adult	male	8 week	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF478UYW/@@download/ENCFF478UYW.bed.gz
+ENCFF140BSU	ENCSR000ADR	MEL cell line	immortalized cell line	unknown	unknown	unknown week	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF140BSU/@@download/ENCFF140BSU.bed.gz
+ENCFF434OUL	ENCSR000ADP	MEL cell line	immortalized cell line	unknown	unknown	unknown week	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF434OUL/@@download/ENCFF434OUL.bed.gz
+ENCFF639JDI	ENCSR000ADQ	MEL cell line	immortalized cell line	unknown	unknown	unknown week	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF639JDI/@@download/ENCFF639JDI.bed.gz
+ENCFF640WQE	ENCSR776RJR	lung	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF640WQE/@@download/ENCFF640WQE.bed.gz
+ENCFF014WSM	ENCSR776RJR	lung	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF014WSM/@@download/ENCFF014WSM.bed.gz
+ENCFF146DNB	ENCSR071SQK	heart	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF146DNB/@@download/ENCFF146DNB.bed.gz
+ENCFF951TUZ	ENCSR071SQK	heart	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF951TUZ/@@download/ENCFF951TUZ.bed.gz
+ENCFF535BXI	ENCSR098AHF	limb	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF535BXI/@@download/ENCFF535BXI.bed.gz
+ENCFF172TDO	ENCSR098AHF	limb	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF172TDO/@@download/ENCFF172TDO.bed.gz
+ENCFF993NMS	ENCSR895BMP	lung	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF993NMS/@@download/ENCFF993NMS.bed.gz
+ENCFF399WYR	ENCSR895BMP	lung	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF399WYR/@@download/ENCFF399WYR.bed.gz
+ENCFF384BMO	ENCSR717XCU	forebrain	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF384BMO/@@download/ENCFF384BMO.bed.gz
+ENCFF091BOK	ENCSR717XCU	forebrain	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF091BOK/@@download/ENCFF091BOK.bed.gz
+ENCFF305ZWP	ENCSR921ILW	hindbrain	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF305ZWP/@@download/ENCFF305ZWP.bed.gz
+ENCFF524PYT	ENCSR921ILW	hindbrain	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF524PYT/@@download/ENCFF524PYT.bed.gz
+ENCFF124LTB	ENCSR928IYZ	neural tube	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF124LTB/@@download/ENCFF124LTB.bed.gz
+ENCFF432THP	ENCSR928IYZ	neural tube	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF432THP/@@download/ENCFF432THP.bed.gz
+ENCFF511KTD	ENCSR826TJQ	neural tube	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF511KTD/@@download/ENCFF511KTD.bed.gz
+ENCFF832NUL	ENCSR826TJQ	neural tube	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF832NUL/@@download/ENCFF832NUL.bed.gz
+ENCFF846BBT	ENCSR402ZLE	forebrain	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF846BBT/@@download/ENCFF846BBT.bed.gz
+ENCFF799TEJ	ENCSR402ZLE	forebrain	tissue	embryonic	mixed	15.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF799TEJ/@@download/ENCFF799TEJ.bed.gz
+ENCFF904FRQ	ENCSR487RAU	midbrain	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF904FRQ/@@download/ENCFF904FRQ.bed.gz
+ENCFF088MSQ	ENCSR487RAU	midbrain	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF088MSQ/@@download/ENCFF088MSQ.bed.gz
+ENCFF493JBE	ENCSR022KDE	forebrain	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF493JBE/@@download/ENCFF493JBE.bed.gz
+ENCFF615CBT	ENCSR022KDE	forebrain	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF615CBT/@@download/ENCFF615CBT.bed.gz
+ENCFF782WYA	ENCSR000CFL	CH12.LX	immortalized cell line	unknown	female	unknown	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF782WYA/@@download/ENCFF782WYA.bed.gz
+ENCFF664NRL	ENCSR000CFU	testis	tissue	adult	male	8 week	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF664NRL/@@download/ENCFF664NRL.bed.gz
+ENCFF047ETI	ENCSR000CCQ	small intestine	tissue	adult	male	8 week	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF047ETI/@@download/ENCFF047ETI.bed.gz
+ENCFF207SJG	ENCSR000ADT	MEL cell line	immortalized cell line	unknown	unknown	unknown week	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF207SJG/@@download/ENCFF207SJG.bed.gz
+ENCFF950QDE	ENCSR576XBN	hindbrain	tissue	embryonic	mixed	12.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF950QDE/@@download/ENCFF950QDE.bed.gz
+ENCFF503HPO	ENCSR576XBN	hindbrain	tissue	embryonic	mixed	12.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF503HPO/@@download/ENCFF503HPO.bed.gz
+ENCFF931XDX	ENCSR554TSO	midbrain	tissue	embryonic	mixed	12.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF931XDX/@@download/ENCFF931XDX.bed.gz
+ENCFF344OEX	ENCSR554TSO	midbrain	tissue	embryonic	mixed	12.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF344OEX/@@download/ENCFF344OEX.bed.gz
+ENCFF656QEV	ENCSR471SJG	liver	tissue	embryonic	mixed	12.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF656QEV/@@download/ENCFF656QEV.bed.gz
+ENCFF459HSF	ENCSR471SJG	liver	tissue	embryonic	mixed	12.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF459HSF/@@download/ENCFF459HSF.bed.gz
+ENCFF084SQO	ENCSR938MUD	limb	tissue	embryonic	mixed	12.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF084SQO/@@download/ENCFF084SQO.bed.gz
+ENCFF852KYV	ENCSR938MUD	limb	tissue	embryonic	mixed	12.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF852KYV/@@download/ENCFF852KYV.bed.gz
+ENCFF431DPT	ENCSR634GFJ	forebrain	tissue	embryonic	mixed	12.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF431DPT/@@download/ENCFF431DPT.bed.gz
+ENCFF207AWO	ENCSR634GFJ	forebrain	tissue	embryonic	mixed	12.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF207AWO/@@download/ENCFF207AWO.bed.gz
+ENCFF045VZZ	ENCSR809NWL	hindbrain	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF045VZZ/@@download/ENCFF045VZZ.bed.gz
+ENCFF686YHI	ENCSR809NWL	hindbrain	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF686YHI/@@download/ENCFF686YHI.bed.gz
+ENCFF732BFT	ENCSR571HOT	neural tube	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF732BFT/@@download/ENCFF732BFT.bed.gz
+ENCFF571LJI	ENCSR571HOT	neural tube	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF571LJI/@@download/ENCFF571LJI.bed.gz
+ENCFF951BRK	ENCSR000DHW	CH12.LX	immortalized cell line	unknown	female	unknown	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF951BRK/@@download/ENCFF951BRK.bed.gz
+ENCFF059ZOW	ENCSR894JAS	forebrain	tissue	embryonic	mixed	11.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF059ZOW/@@download/ENCFF059ZOW.bed.gz
+ENCFF926WJL	ENCSR894JAS	forebrain	tissue	embryonic	mixed	11.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF926WJL/@@download/ENCFF926WJL.bed.gz
+ENCFF281PKL	ENCSR425FLT	kidney	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF281PKL/@@download/ENCFF281PKL.bed.gz
+ENCFF760WJY	ENCSR425FLT	kidney	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF760WJY/@@download/ENCFF760WJY.bed.gz
+ENCFF089YRA	ENCSR547PLI	neural tube	tissue	embryonic	mixed	11.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF089YRA/@@download/ENCFF089YRA.bed.gz
+ENCFF460EBT	ENCSR547PLI	neural tube	tissue	embryonic	mixed	11.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF460EBT/@@download/ENCFF460EBT.bed.gz
+ENCFF780AFU	ENCSR898WIS	liver	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF780AFU/@@download/ENCFF780AFU.bed.gz
+ENCFF851AGI	ENCSR898WIS	liver	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF851AGI/@@download/ENCFF851AGI.bed.gz
+ENCFF891LSL	ENCSR771ILS	hindbrain	tissue	postnatal	mixed	0 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF891LSL/@@download/ENCFF891LSL.bed.gz
+ENCFF343VCH	ENCSR771ILS	hindbrain	tissue	postnatal	mixed	0 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF343VCH/@@download/ENCFF343VCH.bed.gz
+ENCFF798NHX	ENCSR261OAK	midbrain	tissue	embryonic	mixed	11.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF798NHX/@@download/ENCFF798NHX.bed.gz
+ENCFF300MTY	ENCSR261OAK	midbrain	tissue	embryonic	mixed	11.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF300MTY/@@download/ENCFF300MTY.bed.gz
+ENCFF165ATW	ENCSR886DWH	embryonic facial prominence	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF165ATW/@@download/ENCFF165ATW.bed.gz
+ENCFF928CNU	ENCSR886DWH	embryonic facial prominence	tissue	embryonic	mixed	14.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF928CNU/@@download/ENCFF928CNU.bed.gz
+ENCFF502COR	ENCSR352AWJ	forebrain	tissue	embryonic	mixed	16.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF502COR/@@download/ENCFF502COR.bed.gz
+ENCFF788EJN	ENCSR352AWJ	forebrain	tissue	embryonic	mixed	16.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF788EJN/@@download/ENCFF788EJN.bed.gz
+ENCFF693IJM	ENCSR536ILV	kidney	tissue	postnatal	mixed	0 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF693IJM/@@download/ENCFF693IJM.bed.gz
+ENCFF625FPF	ENCSR536ILV	kidney	tissue	postnatal	mixed	0 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF625FPF/@@download/ENCFF625FPF.bed.gz
+ENCFF209YYC	ENCSR099BYW	neural tube	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF209YYC/@@download/ENCFF209YYC.bed.gz
+ENCFF634XCB	ENCSR099BYW	neural tube	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF634XCB/@@download/ENCFF634XCB.bed.gz
+ENCFF406POX	ENCSR419MSI	liver	tissue	embryonic	mixed	11.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF406POX/@@download/ENCFF406POX.bed.gz
+ENCFF263ADI	ENCSR419MSI	liver	tissue	embryonic	mixed	11.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF263ADI/@@download/ENCFF263ADI.bed.gz
+ENCFF771GVP	ENCSR121BWA	kidney	tissue	embryonic	mixed	16.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF771GVP/@@download/ENCFF771GVP.bed.gz
+ENCFF417IPS	ENCSR121BWA	kidney	tissue	embryonic	mixed	16.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF417IPS/@@download/ENCFF417IPS.bed.gz
+ENCFF066LGF	ENCSR258YWW	forebrain	tissue	postnatal	mixed	0 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF066LGF/@@download/ENCFF066LGF.bed.gz
+ENCFF782WPT	ENCSR258YWW	forebrain	tissue	postnatal	mixed	0 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF782WPT/@@download/ENCFF782WPT.bed.gz
+ENCFF862MZQ	ENCSR944XPB	forebrain	tissue	embryonic	mixed	11.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF862MZQ/@@download/ENCFF862MZQ.bed.gz
+ENCFF592HST	ENCSR944XPB	forebrain	tissue	embryonic	mixed	11.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF592HST/@@download/ENCFF592HST.bed.gz
+ENCFF570KDA	ENCSR447DOF	liver	tissue	embryonic	mixed	11.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF570KDA/@@download/ENCFF570KDA.bed.gz
+ENCFF482JBE	ENCSR447DOF	liver	tissue	embryonic	mixed	11.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF482JBE/@@download/ENCFF482JBE.bed.gz
+ENCFF153SJX	ENCSR698WCJ	intestine	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF153SJX/@@download/ENCFF153SJX.bed.gz
+ENCFF010EOK	ENCSR698WCJ	intestine	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF010EOK/@@download/ENCFF010EOK.bed.gz
+ENCFF073IVL	ENCSR773EGV	lung	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF073IVL/@@download/ENCFF073IVL.bed.gz
+ENCFF346HOE	ENCSR773EGV	lung	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF346HOE/@@download/ENCFF346HOE.bed.gz
+ENCFF457EOT	ENCSR861MUP	lung	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF457EOT/@@download/ENCFF457EOT.bed.gz
+ENCFF842CGS	ENCSR861MUP	lung	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF842CGS/@@download/ENCFF842CGS.bed.gz
+ENCFF722KXJ	ENCSR599GVS	intestine	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF722KXJ/@@download/ENCFF722KXJ.bed.gz
+ENCFF378DZY	ENCSR599GVS	intestine	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF378DZY/@@download/ENCFF378DZY.bed.gz
+ENCFF468BCC	ENCSR564XSR	forebrain	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF468BCC/@@download/ENCFF468BCC.bed.gz
+ENCFF082ONF	ENCSR564XSR	forebrain	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF082ONF/@@download/ENCFF082ONF.bed.gz
+ENCFF193AZN	ENCSR412ODT	intestine	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF193AZN/@@download/ENCFF193AZN.bed.gz
+ENCFF537DMQ	ENCSR412ODT	intestine	tissue	embryonic	mixed	15.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF537DMQ/@@download/ENCFF537DMQ.bed.gz
+ENCFF516ASN	ENCSR864DSI	midbrain	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF516ASN/@@download/ENCFF516ASN.bed.gz
+ENCFF926DZK	ENCSR864DSI	midbrain	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF926DZK/@@download/ENCFF926DZK.bed.gz
+ENCFF628HVB	ENCSR437SFX	forebrain	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF628HVB/@@download/ENCFF628HVB.bed.gz
+ENCFF704ZRS	ENCSR437SFX	forebrain	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF704ZRS/@@download/ENCFF704ZRS.bed.gz
+ENCFF992HIL	ENCSR577SDJ	liver	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF992HIL/@@download/ENCFF992HIL.bed.gz
+ENCFF588HJN	ENCSR577SDJ	liver	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF588HJN/@@download/ENCFF588HJN.bed.gz
+ENCFF371CSO	ENCSR066XFL	hindbrain	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF371CSO/@@download/ENCFF371CSO.bed.gz
+ENCFF877YAM	ENCSR066XFL	hindbrain	tissue	embryonic	mixed	15.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF877YAM/@@download/ENCFF877YAM.bed.gz
+ENCFF516SBS	ENCSR282GAG	stomach	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF516SBS/@@download/ENCFF516SBS.bed.gz
+ENCFF556VVF	ENCSR282GAG	stomach	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF556VVF/@@download/ENCFF556VVF.bed.gz
+ENCFF767LIW	ENCSR080GQM	heart	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF767LIW/@@download/ENCFF767LIW.bed.gz
+ENCFF342XGS	ENCSR080GQM	heart	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF342XGS/@@download/ENCFF342XGS.bed.gz
+ENCFF366WUW	ENCSR000CAH	bone marrow	tissue	adult	male	8 week	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF366WUW/@@download/ENCFF366WUW.bed.gz
+ENCFF759WKW	ENCSR253QPK	E14TG2a.4	stem cell	embryonic	male	3.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF759WKW/@@download/ENCFF759WKW.bed.gz
+ENCFF138WHN	ENCSR282OTI	stomach	tissue	embryonic	mixed	16.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF138WHN/@@download/ENCFF138WHN.bed.gz
+ENCFF501CJA	ENCSR282OTI	stomach	tissue	embryonic	mixed	16.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF501CJA/@@download/ENCFF501CJA.bed.gz
+ENCFF203YBP	ENCSR519DNE	heart	tissue	postnatal	mixed	0 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF203YBP/@@download/ENCFF203YBP.bed.gz
+ENCFF435ZTR	ENCSR519DNE	heart	tissue	postnatal	mixed	0 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF435ZTR/@@download/ENCFF435ZTR.bed.gz
+ENCFF724OKA	ENCSR846ZTT	kidney	tissue	embryonic	mixed	16.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF724OKA/@@download/ENCFF724OKA.bed.gz
+ENCFF420KHT	ENCSR846ZTT	kidney	tissue	embryonic	mixed	16.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF420KHT/@@download/ENCFF420KHT.bed.gz
+ENCFF262EYU	ENCSR975QSF	forebrain	tissue	embryonic	mixed	11.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF262EYU/@@download/ENCFF262EYU.bed.gz
+ENCFF797KBV	ENCSR975QSF	forebrain	tissue	embryonic	mixed	11.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF797KBV/@@download/ENCFF797KBV.bed.gz
+ENCFF905YWB	ENCSR000CCF	olfactory bulb	tissue	adult	male	8 week	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF905YWB/@@download/ENCFF905YWB.bed.gz
+ENCFF808MWP	ENCSR790LOX	heart	tissue	postnatal	mixed	0 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF808MWP/@@download/ENCFF808MWP.bed.gz
+ENCFF247CGE	ENCSR790LOX	heart	tissue	postnatal	mixed	0 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF247CGE/@@download/ENCFF247CGE.bed.gz
+ENCFF497DFS	ENCSR658BBG	forebrain	tissue	embryonic	mixed	16.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF497DFS/@@download/ENCFF497DFS.bed.gz
+ENCFF686XPK	ENCSR658BBG	forebrain	tissue	embryonic	mixed	16.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF686XPK/@@download/ENCFF686XPK.bed.gz
+ENCFF566UKN	ENCSR122CJZ	heart	tissue	embryonic	mixed	16.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF566UKN/@@download/ENCFF566UKN.bed.gz
+ENCFF801DMR	ENCSR122CJZ	heart	tissue	embryonic	mixed	16.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF801DMR/@@download/ENCFF801DMR.bed.gz
+ENCFF491VYV	ENCSR487OLC	liver	tissue	embryonic	mixed	16.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF491VYV/@@download/ENCFF491VYV.bed.gz
+ENCFF317PNJ	ENCSR487OLC	liver	tissue	embryonic	mixed	16.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF317PNJ/@@download/ENCFF317PNJ.bed.gz
+ENCFF509TYS	ENCSR108TWE	lung	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF509TYS/@@download/ENCFF509TYS.bed.gz
+ENCFF103ECO	ENCSR108TWE	lung	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF103ECO/@@download/ENCFF103ECO.bed.gz
+ENCFF682NWN	ENCSR058DOA	liver	tissue	embryonic	mixed	11.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF682NWN/@@download/ENCFF682NWN.bed.gz
+ENCFF241YYJ	ENCSR058DOA	liver	tissue	embryonic	mixed	11.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF241YYJ/@@download/ENCFF241YYJ.bed.gz
+ENCFF027PHO	ENCSR912IXU	kidney	tissue	embryonic	mixed	16.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF027PHO/@@download/ENCFF027PHO.bed.gz
+ENCFF620BBH	ENCSR912IXU	kidney	tissue	embryonic	mixed	16.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF620BBH/@@download/ENCFF620BBH.bed.gz
+ENCFF586ICO	ENCSR235JCY	heart	tissue	postnatal	mixed	0 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF586ICO/@@download/ENCFF586ICO.bed.gz
+ENCFF048QUK	ENCSR235JCY	heart	tissue	postnatal	mixed	0 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF048QUK/@@download/ENCFF048QUK.bed.gz
+ENCFF978YGE	ENCSR157LYR	intestine	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF978YGE/@@download/ENCFF978YGE.bed.gz
+ENCFF820FBS	ENCSR157LYR	intestine	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF820FBS/@@download/ENCFF820FBS.bed.gz
+ENCFF533XPK	ENCSR052CDF	heart	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF533XPK/@@download/ENCFF533XPK.bed.gz
+ENCFF757LMZ	ENCSR052CDF	heart	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF757LMZ/@@download/ENCFF757LMZ.bed.gz
+ENCFF058VIL	ENCSR254AHA	midbrain	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF058VIL/@@download/ENCFF058VIL.bed.gz
+ENCFF291VFI	ENCSR254AHA	midbrain	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF291VFI/@@download/ENCFF291VFI.bed.gz
+ENCFF461UUN	ENCSR070MOK	forebrain	tissue	postnatal	mixed	0 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF461UUN/@@download/ENCFF461UUN.bed.gz
+ENCFF769WNP	ENCSR070MOK	forebrain	tissue	postnatal	mixed	0 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF769WNP/@@download/ENCFF769WNP.bed.gz
+ENCFF596CWS	ENCSR362PBD	kidney	tissue	postnatal	mixed	0 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF596CWS/@@download/ENCFF596CWS.bed.gz
+ENCFF533FJP	ENCSR362PBD	kidney	tissue	postnatal	mixed	0 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF533FJP/@@download/ENCFF533FJP.bed.gz
+ENCFF295NQQ	ENCSR417TXZ	hindbrain	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF295NQQ/@@download/ENCFF295NQQ.bed.gz
+ENCFF844YDT	ENCSR417TXZ	hindbrain	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF844YDT/@@download/ENCFF844YDT.bed.gz
+ENCFF773NKK	ENCSR265NBM	neural tube	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF773NKK/@@download/ENCFF773NKK.bed.gz
+ENCFF573BYB	ENCSR265NBM	neural tube	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF573BYB/@@download/ENCFF573BYB.bed.gz
+ENCFF712YCQ	ENCSR734IEL	hindbrain	tissue	embryonic	mixed	11.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF712YCQ/@@download/ENCFF712YCQ.bed.gz
+ENCFF368TGQ	ENCSR734IEL	hindbrain	tissue	embryonic	mixed	11.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF368TGQ/@@download/ENCFF368TGQ.bed.gz
+ENCFF749TBL	ENCSR345RKE	heart	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF749TBL/@@download/ENCFF749TBL.bed.gz
+ENCFF190QIL	ENCSR345RKE	heart	tissue	embryonic	mixed	14.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF190QIL/@@download/ENCFF190QIL.bed.gz
+ENCFF381EQM	ENCSR831YAX	forebrain	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF381EQM/@@download/ENCFF381EQM.bed.gz
+ENCFF591TWD	ENCSR831YAX	forebrain	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF591TWD/@@download/ENCFF591TWD.bed.gz
+ENCFF834HZG	ENCSR044SUW	forebrain	tissue	embryonic	mixed	13.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF834HZG/@@download/ENCFF834HZG.bed.gz
+ENCFF441UQS	ENCSR044SUW	forebrain	tissue	embryonic	mixed	13.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF441UQS/@@download/ENCFF441UQS.bed.gz
+ENCFF366YLR	ENCSR420MUV	embryonic facial prominence	tissue	embryonic	mixed	13.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF366YLR/@@download/ENCFF366YLR.bed.gz
+ENCFF247VPI	ENCSR420MUV	embryonic facial prominence	tissue	embryonic	mixed	13.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF247VPI/@@download/ENCFF247VPI.bed.gz
+ENCFF095JAY	ENCSR736GVO	forebrain	tissue	embryonic	mixed	13.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF095JAY/@@download/ENCFF095JAY.bed.gz
+ENCFF076ZNJ	ENCSR736GVO	forebrain	tissue	embryonic	mixed	13.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF076ZNJ/@@download/ENCFF076ZNJ.bed.gz
+ENCFF310SVO	ENCSR258AED	embryonic facial prominence	tissue	embryonic	mixed	13.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF310SVO/@@download/ENCFF310SVO.bed.gz
+ENCFF215FWT	ENCSR258AED	embryonic facial prominence	tissue	embryonic	mixed	13.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF215FWT/@@download/ENCFF215FWT.bed.gz
+ENCFF838NCW	ENCSR066WUD	midbrain	tissue	embryonic	mixed	13.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF838NCW/@@download/ENCFF838NCW.bed.gz
+ENCFF005PXT	ENCSR066WUD	midbrain	tissue	embryonic	mixed	13.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF005PXT/@@download/ENCFF005PXT.bed.gz
+ENCFF993FIB	ENCSR426EZM	limb	tissue	embryonic	mixed	13.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF993FIB/@@download/ENCFF993FIB.bed.gz
+ENCFF320PIN	ENCSR426EZM	limb	tissue	embryonic	mixed	13.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF320PIN/@@download/ENCFF320PIN.bed.gz
+ENCFF711LVW	ENCSR758UAI	embryonic facial prominence	tissue	embryonic	mixed	13.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF711LVW/@@download/ENCFF711LVW.bed.gz
+ENCFF945PEV	ENCSR758UAI	embryonic facial prominence	tissue	embryonic	mixed	13.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF945PEV/@@download/ENCFF945PEV.bed.gz
+ENCFF631WFR	ENCSR253IEG	midbrain	tissue	embryonic	mixed	13.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF631WFR/@@download/ENCFF631WFR.bed.gz
+ENCFF097SDI	ENCSR253IEG	midbrain	tissue	embryonic	mixed	13.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF097SDI/@@download/ENCFF097SDI.bed.gz
+ENCFF958AAS	ENCSR496TBX	forebrain	tissue	embryonic	mixed	13.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF958AAS/@@download/ENCFF958AAS.bed.gz
+ENCFF155VNQ	ENCSR496TBX	forebrain	tissue	embryonic	mixed	13.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF155VNQ/@@download/ENCFF155VNQ.bed.gz
+ENCFF453OTG	ENCSR315ZEU	hindbrain	tissue	embryonic	mixed	13.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF453OTG/@@download/ENCFF453OTG.bed.gz
+ENCFF945KFR	ENCSR315ZEU	hindbrain	tissue	embryonic	mixed	13.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF945KFR/@@download/ENCFF945KFR.bed.gz
+ENCFF117LLJ	ENCSR863VHE	limb	tissue	embryonic	mixed	10.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF117LLJ/@@download/ENCFF117LLJ.bed.gz
+ENCFF110OOK	ENCSR581EJK	midbrain	tissue	embryonic	mixed	10.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF110OOK/@@download/ENCFF110OOK.bed.gz
+ENCFF942MEP	ENCSR966TCN	midbrain	tissue	embryonic	mixed	10.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF942MEP/@@download/ENCFF942MEP.bed.gz
+ENCFF717EJV	ENCSR028ZHS	limb	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF717EJV/@@download/ENCFF717EJV.bed.gz
+ENCFF305SMO	ENCSR028ZHS	limb	tissue	embryonic	mixed	15.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF305SMO/@@download/ENCFF305SMO.bed.gz
+ENCFF945QKW	ENCSR606AJV	embryonic facial prominence	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF945QKW/@@download/ENCFF945QKW.bed.gz
+ENCFF654WPF	ENCSR606AJV	embryonic facial prominence	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF654WPF/@@download/ENCFF654WPF.bed.gz
+ENCFF165NLE	ENCSR335TVR	hindbrain	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF165NLE/@@download/ENCFF165NLE.bed.gz
+ENCFF175FGU	ENCSR335TVR	hindbrain	tissue	embryonic	mixed	15.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF175FGU/@@download/ENCFF175FGU.bed.gz
+ENCFF794FWH	ENCSR919DDC	intestine	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF794FWH/@@download/ENCFF794FWH.bed.gz
+ENCFF730PKF	ENCSR919DDC	intestine	tissue	embryonic	mixed	15.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF730PKF/@@download/ENCFF730PKF.bed.gz
+ENCFF287FQD	ENCSR000CCR	small intestine	tissue	adult	male	8 week	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF287FQD/@@download/ENCFF287FQD.bed.gz
+ENCFF698ERY	ENCSR000DIW	G1E-ER4	immortalized cell line	postnatal	male	0 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF698ERY/@@download/ENCFF698ERY.bed.gz
+ENCFF680CYO	ENCSR000CGO	ES-E14	stem cell	unknown	male	unknown	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF680CYO/@@download/ENCFF680CYO.bed.gz
+ENCFF351SQF	ENCSR000CFW	brain	tissue	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF351SQF/@@download/ENCFF351SQF.bed.gz
+ENCFF841GUA	ENCSR000CGI	CH12.LX	immortalized cell line	unknown	female	unknown	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF841GUA/@@download/ENCFF841GUA.bed.gz
+ENCFF206SZJ	ENCSR000CEL	heart	tissue	adult	male	8 week	H3K79me2-mouse	https://www.encodeproject.org/files/ENCFF206SZJ/@@download/ENCFF206SZJ.bed.gz
+ENCFF399ZAK	ENCSR516KLO	stomach	tissue	postnatal	mixed	0 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF399ZAK/@@download/ENCFF399ZAK.bed.gz
+ENCFF261KKK	ENCSR516KLO	stomach	tissue	postnatal	mixed	0 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF261KKK/@@download/ENCFF261KKK.bed.gz
+ENCFF266QNN	ENCSR196ENU	kidney	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF266QNN/@@download/ENCFF266QNN.bed.gz
+ENCFF367TAY	ENCSR196ENU	kidney	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF367TAY/@@download/ENCFF367TAY.bed.gz
+ENCFF903UVM	ENCSR320EEW	forebrain	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF903UVM/@@download/ENCFF903UVM.bed.gz
+ENCFF084IYL	ENCSR320EEW	forebrain	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF084IYL/@@download/ENCFF084IYL.bed.gz
+ENCFF457BPC	ENCSR252GKD	liver	tissue	embryonic	mixed	16.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF457BPC/@@download/ENCFF457BPC.bed.gz
+ENCFF252RRE	ENCSR252GKD	liver	tissue	embryonic	mixed	16.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF252RRE/@@download/ENCFF252RRE.bed.gz
+ENCFF723PPQ	ENCSR356LBC	lung	tissue	postnatal	mixed	0 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF723PPQ/@@download/ENCFF723PPQ.bed.gz
+ENCFF877VGN	ENCSR356LBC	lung	tissue	postnatal	mixed	0 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF877VGN/@@download/ENCFF877VGN.bed.gz
+ENCFF165VPQ	ENCSR829YGD	intestine	tissue	embryonic	mixed	16.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF165VPQ/@@download/ENCFF165VPQ.bed.gz
+ENCFF992ONF	ENCSR829YGD	intestine	tissue	embryonic	mixed	16.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF992ONF/@@download/ENCFF992ONF.bed.gz
+ENCFF532SYV	ENCSR883ASH	kidney	tissue	embryonic	mixed	16.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF532SYV/@@download/ENCFF532SYV.bed.gz
+ENCFF813WVL	ENCSR883ASH	kidney	tissue	embryonic	mixed	16.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF813WVL/@@download/ENCFF813WVL.bed.gz
+ENCFF068TMU	ENCSR963OLG	heart	tissue	embryonic	mixed	11.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF068TMU/@@download/ENCFF068TMU.bed.gz
+ENCFF701UXU	ENCSR963OLG	heart	tissue	embryonic	mixed	11.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF701UXU/@@download/ENCFF701UXU.bed.gz
+ENCFF543UFE	ENCSR693UWX	liver	tissue	embryonic	mixed	11.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF543UFE/@@download/ENCFF543UFE.bed.gz
+ENCFF344VVO	ENCSR693UWX	liver	tissue	embryonic	mixed	11.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF344VVO/@@download/ENCFF344VVO.bed.gz
+ENCFF643MFN	ENCSR205XBQ	midbrain	tissue	embryonic	mixed	16.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF643MFN/@@download/ENCFF643MFN.bed.gz
+ENCFF310IEN	ENCSR205XBQ	midbrain	tissue	embryonic	mixed	16.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF310IEN/@@download/ENCFF310IEN.bed.gz
+ENCFF658VZK	ENCSR066LZB	forebrain	tissue	embryonic	mixed	11.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF658VZK/@@download/ENCFF658VZK.bed.gz
+ENCFF524NCS	ENCSR066LZB	forebrain	tissue	embryonic	mixed	11.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF524NCS/@@download/ENCFF524NCS.bed.gz
+ENCFF871GPI	ENCSR976GSO	stomach	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF871GPI/@@download/ENCFF871GPI.bed.gz
+ENCFF740CQQ	ENCSR976GSO	stomach	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF740CQQ/@@download/ENCFF740CQQ.bed.gz
+ENCFF081SZY	ENCSR821GHK	kidney	tissue	embryonic	mixed	16.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF081SZY/@@download/ENCFF081SZY.bed.gz
+ENCFF712UKV	ENCSR821GHK	kidney	tissue	embryonic	mixed	16.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF712UKV/@@download/ENCFF712UKV.bed.gz
+ENCFF047UOL	ENCSR406VPQ	embryonic facial prominence	tissue	embryonic	mixed	11.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF047UOL/@@download/ENCFF047UOL.bed.gz
+ENCFF133ICS	ENCSR406VPQ	embryonic facial prominence	tissue	embryonic	mixed	11.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF133ICS/@@download/ENCFF133ICS.bed.gz
+ENCFF518HCT	ENCSR007XTC	heart	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF518HCT/@@download/ENCFF518HCT.bed.gz
+ENCFF850NRY	ENCSR007XTC	heart	tissue	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF850NRY/@@download/ENCFF850NRY.bed.gz
+ENCFF153LZU	ENCSR069TDC	forebrain	tissue	postnatal	mixed	0 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF153LZU/@@download/ENCFF153LZU.bed.gz
+ENCFF999HGN	ENCSR069TDC	forebrain	tissue	postnatal	mixed	0 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF999HGN/@@download/ENCFF999HGN.bed.gz
+ENCFF564VFZ	ENCSR340VNK	lung	tissue	postnatal	mixed	0 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF564VFZ/@@download/ENCFF564VFZ.bed.gz
+ENCFF740EWN	ENCSR340VNK	lung	tissue	postnatal	mixed	0 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF740EWN/@@download/ENCFF740EWN.bed.gz
+ENCFF650RQN	ENCSR333ZWB	intestine	tissue	postnatal	mixed	0 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF650RQN/@@download/ENCFF650RQN.bed.gz
+ENCFF871SED	ENCSR333ZWB	intestine	tissue	postnatal	mixed	0 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF871SED/@@download/ENCFF871SED.bed.gz
+ENCFF962PYY	ENCSR141ZQF	forebrain	tissue	embryonic	mixed	16.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF962PYY/@@download/ENCFF962PYY.bed.gz
+ENCFF502DRX	ENCSR141ZQF	forebrain	tissue	embryonic	mixed	16.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF502DRX/@@download/ENCFF502DRX.bed.gz
+ENCFF420PUU	ENCSR000CAP	liver	tissue	adult	male	8 week	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF420PUU/@@download/ENCFF420PUU.bed.gz
+ENCFF192FUW	ENCSR550QED	liver	tissue	embryonic	mixed	13.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF192FUW/@@download/ENCFF192FUW.bed.gz
+ENCFF449NEX	ENCSR550QED	liver	tissue	embryonic	mixed	13.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF449NEX/@@download/ENCFF449NEX.bed.gz
+ENCFF143IIE	ENCSR707DZS	midbrain	tissue	embryonic	mixed	12.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF143IIE/@@download/ENCFF143IIE.bed.gz
+ENCFF448EOM	ENCSR707DZS	midbrain	tissue	embryonic	mixed	12.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF448EOM/@@download/ENCFF448EOM.bed.gz
+ENCFF546MZH	ENCSR375RUA	neural tube	tissue	embryonic	mixed	12.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF546MZH/@@download/ENCFF546MZH.bed.gz
+ENCFF848ZMQ	ENCSR375RUA	neural tube	tissue	embryonic	mixed	12.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF848ZMQ/@@download/ENCFF848ZMQ.bed.gz
+ENCFF390HXG	ENCSR000CDI	embryonic fibroblast	primary cell	embryonic	male	13.5 week	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF390HXG/@@download/ENCFF390HXG.bed.gz
+ENCFF357ROC	ENCSR000ADY	MEL cell line	immortalized cell line	unknown	unknown	unknown week	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF357ROC/@@download/ENCFF357ROC.bed.gz
+ENCFF786KFS	ENCSR000DHY	CH12.LX	immortalized cell line	unknown	female	unknown	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF786KFS/@@download/ENCFF786KFS.bed.gz
+ENCFF719DDD	ENCSR000CDV	liver	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF719DDD/@@download/ENCFF719DDD.bed.gz
+ENCFF951PIE	ENCSR000DHL	erythroblast	primary cell	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF951PIE/@@download/ENCFF951PIE.bed.gz
+ENCFF758WJA	ENCSR000CDW	liver	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF758WJA/@@download/ENCFF758WJA.bed.gz
+ENCFF396KCO	ENCSR000CDW	liver	tissue	embryonic	mixed	14.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF396KCO/@@download/ENCFF396KCO.bed.gz
+ENCFF030NXW	ENCSR000CCE	olfactory bulb	tissue	adult	male	8 week	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF030NXW/@@download/ENCFF030NXW.bed.gz
+ENCFF071VVN	ENCSR968NPX	heart	tissue	embryonic	mixed	12.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF071VVN/@@download/ENCFF071VVN.bed.gz
+ENCFF174FSI	ENCSR968NPX	heart	tissue	embryonic	mixed	12.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF174FSI/@@download/ENCFF174FSI.bed.gz
+ENCFF191NER	ENCSR272GNQ	midbrain	tissue	embryonic	mixed	10.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF191NER/@@download/ENCFF191NER.bed.gz
+ENCFF412FRA	ENCSR000CGB	testis	tissue	adult	male	8 week	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF412FRA/@@download/ENCFF412FRA.bed.gz
+ENCFF096IZX	ENCSR000CFF	bone marrow macrophage	primary cell	adult	male	8 week	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF096IZX/@@download/ENCFF096IZX.bed.gz
+ENCFF306QLL	ENCSR000CEP	liver	tissue	adult	male	8 week	H3K79me2-mouse	https://www.encodeproject.org/files/ENCFF306QLL/@@download/ENCFF306QLL.bed.gz
+ENCFF983MYN	ENCSR000DHQ	CH12.LX	immortalized cell line	unknown	female	unknown	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF983MYN/@@download/ENCFF983MYN.bed.gz
+ENCFF028NHB	ENCSR000DHN	erythroblast	primary cell	embryonic	mixed	14.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF028NHB/@@download/ENCFF028NHB.bed.gz
+ENCFF545NYE	ENCSR000CDH	liver	tissue	adult	male	8 week	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF545NYE/@@download/ENCFF545NYE.bed.gz
+ENCFF170JQO	ENCSR000DHP	erythroblast	primary cell	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF170JQO/@@download/ENCFF170JQO.bed.gz
+ENCFF808JSH	ENCSR765SJF	limb	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF808JSH/@@download/ENCFF808JSH.bed.gz
+ENCFF320QNM	ENCSR765SJF	limb	tissue	embryonic	mixed	14.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF320QNM/@@download/ENCFF320QNM.bed.gz
+ENCFF631SHE	ENCSR631KAJ	heart	tissue	embryonic	mixed	11.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF631SHE/@@download/ENCFF631SHE.bed.gz
+ENCFF439XWM	ENCSR631KAJ	heart	tissue	embryonic	mixed	11.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF439XWM/@@download/ENCFF439XWM.bed.gz
+ENCFF180HZX	ENCSR154DTK	lung	tissue	embryonic	mixed	16.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF180HZX/@@download/ENCFF180HZX.bed.gz
+ENCFF593MNH	ENCSR154DTK	lung	tissue	embryonic	mixed	16.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF593MNH/@@download/ENCFF593MNH.bed.gz
+ENCFF987VEJ	ENCSR000DHI	megakaryocyte	primary cell	embryonic	mixed	14.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF987VEJ/@@download/ENCFF987VEJ.bed.gz
+ENCFF632GFC	ENCSR000CGS	ES-Bruce4	stem cell	embryonic	male	unknown	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF632GFC/@@download/ENCFF632GFC.bed.gz
+ENCFF290XDT	ENCSR000CGS	ES-Bruce4	stem cell	embryonic	male	unknown	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF290XDT/@@download/ENCFF290XDT.bed.gz
+ENCFF900TBJ	ENCSR000CAL	cerebellum	tissue	adult	male	8 week	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF900TBJ/@@download/ENCFF900TBJ.bed.gz
+ENCFF399GHX	ENCSR000CFP	kidney	tissue	adult	male	8 week	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF399GHX/@@download/ENCFF399GHX.bed.gz
+ENCFF615QXB	ENCSR000CGL	CH12.LX	immortalized cell line	unknown	female	unknown	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF615QXB/@@download/ENCFF615QXB.bed.gz
+ENCFF599BFW	ENCSR000CAM	heart	tissue	adult	male	8 week	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF599BFW/@@download/ENCFF599BFW.bed.gz
+ENCFF402XCT	ENCSR000CDS	olfactory bulb	tissue	adult	male	8 week	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF402XCT/@@download/ENCFF402XCT.bed.gz
+ENCFF390MOP	ENCSR000CEZ	brown adipose tissue	tissue	adult	male	24 week	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF390MOP/@@download/ENCFF390MOP.bed.gz
+ENCFF973RST	ENCSR000DHU	CH12.LX	immortalized cell line	unknown	female	unknown	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF973RST/@@download/ENCFF973RST.bed.gz
+ENCFF077LFV	ENCSR813SCQ	embryonic facial prominence	tissue	embryonic	mixed	12.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF077LFV/@@download/ENCFF077LFV.bed.gz
+ENCFF754NCW	ENCSR813SCQ	embryonic facial prominence	tissue	embryonic	mixed	12.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF754NCW/@@download/ENCFF754NCW.bed.gz
+ENCFF557AZU	ENCSR161UUY	forebrain	tissue	embryonic	mixed	12.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF557AZU/@@download/ENCFF557AZU.bed.gz
+ENCFF572YAQ	ENCSR161UUY	forebrain	tissue	embryonic	mixed	12.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF572YAQ/@@download/ENCFF572YAQ.bed.gz
+ENCFF003VMR	ENCSR151APL	embryonic facial prominence	tissue	embryonic	mixed	10.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF003VMR/@@download/ENCFF003VMR.bed.gz
+ENCFF565QAD	ENCSR538DPG	embryonic facial prominence	tissue	embryonic	mixed	10.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF565QAD/@@download/ENCFF565QAD.bed.gz
+ENCFF420ZZP	ENCSR548BKP	stomach	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF420ZZP/@@download/ENCFF420ZZP.bed.gz
+ENCFF748YQD	ENCSR548BKP	stomach	tissue	embryonic	mixed	15.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF748YQD/@@download/ENCFF748YQD.bed.gz
+ENCFF960BLT	ENCSR709CLU	limb	tissue	embryonic	mixed	13.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF960BLT/@@download/ENCFF960BLT.bed.gz
+ENCFF718DIQ	ENCSR709CLU	limb	tissue	embryonic	mixed	13.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF718DIQ/@@download/ENCFF718DIQ.bed.gz
+ENCFF945SSM	ENCSR608QBO	hindbrain	tissue	embryonic	mixed	10.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF945SSM/@@download/ENCFF945SSM.bed.gz
+ENCFF804PER	ENCSR373TMR	forebrain	tissue	embryonic	mixed	13.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF804PER/@@download/ENCFF804PER.bed.gz
+ENCFF607FOX	ENCSR373TMR	forebrain	tissue	embryonic	mixed	13.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF607FOX/@@download/ENCFF607FOX.bed.gz
+ENCFF376OOU	ENCSR962MBB	hindbrain	tissue	embryonic	mixed	10.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF376OOU/@@download/ENCFF376OOU.bed.gz
+ENCFF602AKM	ENCSR607HIQ	liver	tissue	embryonic	mixed	12.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF602AKM/@@download/ENCFF602AKM.bed.gz
+ENCFF598SZM	ENCSR607HIQ	liver	tissue	embryonic	mixed	12.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF598SZM/@@download/ENCFF598SZM.bed.gz
+ENCFF310BYI	ENCSR645ETR	embryonic facial prominence	tissue	embryonic	mixed	12.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF310BYI/@@download/ENCFF310BYI.bed.gz
+ENCFF457JYV	ENCSR645ETR	embryonic facial prominence	tissue	embryonic	mixed	12.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF457JYV/@@download/ENCFF457JYV.bed.gz
+ENCFF192TRY	ENCSR751AAB	limb	tissue	embryonic	mixed	12.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF192TRY/@@download/ENCFF192TRY.bed.gz
+ENCFF527QRG	ENCSR751AAB	limb	tissue	embryonic	mixed	12.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF527QRG/@@download/ENCFF527QRG.bed.gz
+ENCFF416JUT	ENCSR316AZB	embryonic facial prominence	tissue	embryonic	mixed	12.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF416JUT/@@download/ENCFF416JUT.bed.gz
+ENCFF831OMF	ENCSR316AZB	embryonic facial prominence	tissue	embryonic	mixed	12.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF831OMF/@@download/ENCFF831OMF.bed.gz
+ENCFF131ZHV	ENCSR527EUE	forebrain	tissue	embryonic	mixed	12.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF131ZHV/@@download/ENCFF131ZHV.bed.gz
+ENCFF909OUL	ENCSR527EUE	forebrain	tissue	embryonic	mixed	12.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF909OUL/@@download/ENCFF909OUL.bed.gz
+ENCFF974ZHM	ENCSR105OGF	embryonic facial prominence	tissue	embryonic	mixed	12.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF974ZHM/@@download/ENCFF974ZHM.bed.gz
+ENCFF852GMM	ENCSR105OGF	embryonic facial prominence	tissue	embryonic	mixed	12.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF852GMM/@@download/ENCFF852GMM.bed.gz
+ENCFF281MKX	ENCSR989LUY	midbrain	tissue	embryonic	mixed	10.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF281MKX/@@download/ENCFF281MKX.bed.gz
+ENCFF014HMN	ENCSR825ZJV	forebrain	tissue	embryonic	mixed	10.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF014HMN/@@download/ENCFF014HMN.bed.gz
+ENCFF044UAM	ENCSR318QFY	limb	tissue	embryonic	mixed	10.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF044UAM/@@download/ENCFF044UAM.bed.gz
+ENCFF863NIZ	ENCSR000CDA	brain	tissue	embryonic	mixed	14.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF863NIZ/@@download/ENCFF863NIZ.bed.gz
+ENCFF343IMA	ENCSR769ITO	midbrain	tissue	embryonic	mixed	10.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF343IMA/@@download/ENCFF343IMA.bed.gz
+ENCFF297OQP	ENCSR242PHH	limb	tissue	embryonic	mixed	10.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF297OQP/@@download/ENCFF297OQP.bed.gz
+ENCFF772QCX	ENCSR501GBJ	heart	tissue	embryonic	mixed	13.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF772QCX/@@download/ENCFF772QCX.bed.gz
+ENCFF740QCT	ENCSR501GBJ	heart	tissue	embryonic	mixed	13.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF740QCT/@@download/ENCFF740QCT.bed.gz
+ENCFF584WLO	ENCSR286OKN	midbrain	tissue	embryonic	mixed	13.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF584WLO/@@download/ENCFF584WLO.bed.gz
+ENCFF736SRQ	ENCSR286OKN	midbrain	tissue	embryonic	mixed	13.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF736SRQ/@@download/ENCFF736SRQ.bed.gz
+ENCFF897OHS	ENCSR104PWP	midbrain	tissue	embryonic	mixed	12.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF897OHS/@@download/ENCFF897OHS.bed.gz
+ENCFF635JKX	ENCSR104PWP	midbrain	tissue	embryonic	mixed	12.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF635JKX/@@download/ENCFF635JKX.bed.gz
+ENCFF203LHF	ENCSR345DDI	forebrain	tissue	embryonic	mixed	12.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF203LHF/@@download/ENCFF203LHF.bed.gz
+ENCFF744VBB	ENCSR345DDI	forebrain	tissue	embryonic	mixed	12.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF744VBB/@@download/ENCFF744VBB.bed.gz
+ENCFF285XAB	ENCSR065CJC	neural tube	tissue	embryonic	mixed	12.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF285XAB/@@download/ENCFF285XAB.bed.gz
+ENCFF946KMT	ENCSR065CJC	neural tube	tissue	embryonic	mixed	12.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF946KMT/@@download/ENCFF946KMT.bed.gz
+ENCFF878WCJ	ENCSR000DHS	G1E-ER4	immortalized cell line	postnatal	male	0 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF878WCJ/@@download/ENCFF878WCJ.bed.gz
+ENCFF733HUI	ENCSR000CDF	heart	tissue	adult	male	8 week	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF733HUI/@@download/ENCFF733HUI.bed.gz
+ENCFF372KRV	ENCSR000CAN	kidney	tissue	adult	male	8 week	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF372KRV/@@download/ENCFF372KRV.bed.gz
+ENCFF899DDS	ENCSR000CDK	heart	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF899DDS/@@download/ENCFF899DDS.bed.gz
+ENCFF876UMM	ENCSR000CDK	heart	tissue	embryonic	mixed	14.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF876UMM/@@download/ENCFF876UMM.bed.gz
+ENCFF862QGS	ENCSR000CGA	spleen	tissue	adult	male	8 week	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF862QGS/@@download/ENCFF862QGS.bed.gz
+ENCFF508WEP	ENCSR000CAR	lung	tissue	adult	male	8 week	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF508WEP/@@download/ENCFF508WEP.bed.gz
+ENCFF416FIH	ENCSR000CFY	splenic B cell	primary cell	adult	male	8 week	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF416FIH/@@download/ENCFF416FIH.bed.gz
+ENCFF014IQD	ENCSR000DIZ	G1E-ER4	immortalized cell line	postnatal	male	0 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF014IQD/@@download/ENCFF014IQD.bed.gz
+ENCFF004ZNH	ENCSR000DHM	G1E	immortalized cell line	postnatal	male	0 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF004ZNH/@@download/ENCFF004ZNH.bed.gz
+ENCFF301LYW	ENCSR244KCW	liver	tissue	embryonic	mixed	11.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF301LYW/@@download/ENCFF301LYW.bed.gz
+ENCFF938UBV	ENCSR244KCW	liver	tissue	embryonic	mixed	11.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF938UBV/@@download/ENCFF938UBV.bed.gz
+ENCFF506DLC	ENCSR000CEN	liver	tissue	adult	male	8 week	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF506DLC/@@download/ENCFF506DLC.bed.gz
+ENCFF960GYN	ENCSR579UVB	lung	tissue	embryonic	mixed	16.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF960GYN/@@download/ENCFF960GYN.bed.gz
+ENCFF745NLF	ENCSR579UVB	lung	tissue	embryonic	mixed	16.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF745NLF/@@download/ENCFF745NLF.bed.gz
+ENCFF646HZB	ENCSR953HNY	kidney	tissue	embryonic	mixed	16.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF646HZB/@@download/ENCFF646HZB.bed.gz
+ENCFF585WBI	ENCSR953HNY	kidney	tissue	embryonic	mixed	16.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF585WBI/@@download/ENCFF585WBI.bed.gz
+ENCFF458WFA	ENCSR076FAM	embryonic facial prominence	tissue	embryonic	mixed	11.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF458WFA/@@download/ENCFF458WFA.bed.gz
+ENCFF192VXE	ENCSR076FAM	embryonic facial prominence	tissue	embryonic	mixed	11.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF192VXE/@@download/ENCFF192VXE.bed.gz
+ENCFF167IFN	ENCSR489HYX	neural tube	tissue	embryonic	mixed	11.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF167IFN/@@download/ENCFF167IFN.bed.gz
+ENCFF105KTG	ENCSR489HYX	neural tube	tissue	embryonic	mixed	11.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF105KTG/@@download/ENCFF105KTG.bed.gz
+ENCFF334PAF	ENCSR427OZM	neural tube	tissue	embryonic	mixed	11.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF334PAF/@@download/ENCFF334PAF.bed.gz
+ENCFF232UTI	ENCSR427OZM	neural tube	tissue	embryonic	mixed	11.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF232UTI/@@download/ENCFF232UTI.bed.gz
+ENCFF207XGS	ENCSR286IGS	limb	tissue	embryonic	mixed	11.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF207XGS/@@download/ENCFF207XGS.bed.gz
+ENCFF151ZNU	ENCSR286IGS	limb	tissue	embryonic	mixed	11.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF151ZNU/@@download/ENCFF151ZNU.bed.gz
+ENCFF537UKO	ENCSR129DIK	forebrain	tissue	embryonic	mixed	16.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF537UKO/@@download/ENCFF537UKO.bed.gz
+ENCFF965GZP	ENCSR129DIK	forebrain	tissue	embryonic	mixed	16.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF965GZP/@@download/ENCFF965GZP.bed.gz
+ENCFF480NZN	ENCSR400TGE	forebrain	tissue	embryonic	mixed	11.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF480NZN/@@download/ENCFF480NZN.bed.gz
+ENCFF554QXT	ENCSR400TGE	forebrain	tissue	embryonic	mixed	11.5 day	H3K9ac-mouse	https://www.encodeproject.org/files/ENCFF554QXT/@@download/ENCFF554QXT.bed.gz
+ENCFF326WDT	ENCSR122HLY	heart	tissue	embryonic	mixed	12.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF326WDT/@@download/ENCFF326WDT.bed.gz
+ENCFF982CSM	ENCSR122HLY	heart	tissue	embryonic	mixed	12.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF982CSM/@@download/ENCFF982CSM.bed.gz
+ENCFF258DGP	ENCSR557SVH	heart	tissue	embryonic	mixed	12.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF258DGP/@@download/ENCFF258DGP.bed.gz
+ENCFF839GVV	ENCSR557SVH	heart	tissue	embryonic	mixed	12.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF839GVV/@@download/ENCFF839GVV.bed.gz
+ENCFF053GHW	ENCSR914QGB	embryonic facial prominence	tissue	embryonic	mixed	10.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF053GHW/@@download/ENCFF053GHW.bed.gz
+ENCFF900BMQ	ENCSR765JWZ	embryonic facial prominence	tissue	embryonic	mixed	10.5 day	H3K4me3-mouse	https://www.encodeproject.org/files/ENCFF900BMQ/@@download/ENCFF900BMQ.bed.gz
+ENCFF476VZR	ENCSR157IVC	midbrain	tissue	embryonic	mixed	12.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF476VZR/@@download/ENCFF476VZR.bed.gz
+ENCFF980ELU	ENCSR157IVC	midbrain	tissue	embryonic	mixed	12.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF980ELU/@@download/ENCFF980ELU.bed.gz
+ENCFF762INU	ENCSR094QZC	neural tube	tissue	embryonic	mixed	12.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF762INU/@@download/ENCFF762INU.bed.gz
+ENCFF122LDI	ENCSR094QZC	neural tube	tissue	embryonic	mixed	12.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF122LDI/@@download/ENCFF122LDI.bed.gz
+ENCFF011VFX	ENCSR257JSX	hindbrain	tissue	embryonic	mixed	16.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF011VFX/@@download/ENCFF011VFX.bed.gz
+ENCFF961WJN	ENCSR257JSX	hindbrain	tissue	embryonic	mixed	16.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF961WJN/@@download/ENCFF961WJN.bed.gz
+ENCFF357BEI	ENCSR616TJM	liver	tissue	postnatal	mixed	0 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF357BEI/@@download/ENCFF357BEI.bed.gz
+ENCFF290MLR	ENCSR616TJM	liver	tissue	postnatal	mixed	0 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF290MLR/@@download/ENCFF290MLR.bed.gz
+ENCFF848JJB	ENCSR759RVE	limb	tissue	embryonic	mixed	13.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF848JJB/@@download/ENCFF848JJB.bed.gz
+ENCFF933MQW	ENCSR759RVE	limb	tissue	embryonic	mixed	13.5 day	H3K4me2-mouse	https://www.encodeproject.org/files/ENCFF933MQW/@@download/ENCFF933MQW.bed.gz
+ENCFF496YQP	ENCSR740DYF	kidney	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF496YQP/@@download/ENCFF496YQP.bed.gz
+ENCFF764NLB	ENCSR740DYF	kidney	tissue	embryonic	mixed	15.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF764NLB/@@download/ENCFF764NLB.bed.gz
+ENCFF729KRS	ENCSR442RYY	heart	tissue	embryonic	mixed	12.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF729KRS/@@download/ENCFF729KRS.bed.gz
+ENCFF508FVF	ENCSR442RYY	heart	tissue	embryonic	mixed	12.5 day	H3K4me1-mouse	https://www.encodeproject.org/files/ENCFF508FVF/@@download/ENCFF508FVF.bed.gz
+ENCFF143MHT	ENCSR737QWV	limb	tissue	embryonic	mixed	12.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF143MHT/@@download/ENCFF143MHT.bed.gz
+ENCFF889PZP	ENCSR737QWV	limb	tissue	embryonic	mixed	12.5 day	H3K27ac-mouse	https://www.encodeproject.org/files/ENCFF889PZP/@@download/ENCFF889PZP.bed.gz
+ENCFF317RNU	ENCSR943QUH	limb	tissue	embryonic	mixed	12.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF317RNU/@@download/ENCFF317RNU.bed.gz
+ENCFF425DTV	ENCSR943QUH	limb	tissue	embryonic	mixed	12.5 day	H3K9me3-mouse	https://www.encodeproject.org/files/ENCFF425DTV/@@download/ENCFF425DTV.bed.gz
+ENCFF095AYA	ENCSR558NWQ	forebrain	tissue	embryonic	mixed	10.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF095AYA/@@download/ENCFF095AYA.bed.gz
+ENCFF759LSQ	ENCSR747ZXL	midbrain	tissue	embryonic	mixed	10.5 day	H3K36me3-mouse	https://www.encodeproject.org/files/ENCFF759LSQ/@@download/ENCFF759LSQ.bed.gz
+ENCFF115VPJ	ENCSR735VEJ	forebrain	tissue	embryonic	mixed	10.5 day	H3K27me3-mouse	https://www.encodeproject.org/files/ENCFF115VPJ/@@download/ENCFF115VPJ.bed.gz
