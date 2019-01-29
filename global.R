@@ -22,7 +22,7 @@ if(T){
   suppressPackageStartupMessages(library(SnowballC))
   suppressPackageStartupMessages(library(wordcloud))
   suppressPackageStartupMessages(library(RColorBrewer))
-  
+  suppressPackageStartupMessages(library(ggpubr))
 }
 
 createLink <- function(base,val) {

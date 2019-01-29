@@ -10,7 +10,7 @@ dbSendQuery(con, sql)
 sql='show tables;'
 dbGetQuery(con, sql)
 options(stringsAsFactors = F)
-
+#  dbDisconnect(con)
 ## firstly upload the gene information from GENCODE database 
 if(F){
   a=read.table('files/gencode_v29_human_gene_info',sep = '\t')

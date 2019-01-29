@@ -49,7 +49,7 @@ cat gencode.v29.annotation.gtf |perl -alne  '{next unless  $F[1] eq "HAVANA";nex
 cat gencode.vM20.annotation.gtf |perl -alne  '{next unless  $F[1] eq "HAVANA";next unless $F[2] eq "gene";/gene_id \"(.*?)\.\d+\"; gene_type \"(.*?)\"; gene_name \"(.*?)\"/;print "$3\t$2\t$1\t$F[0]\t$F[3]\t$F[4]"}' > gencode_vM20_mouse_gene_info
 ```
 
-It doesn't matter if you can't understant the perl scripts above, just check two files 
+It doesn't matter if you can't understand the perl scripts above, just check two files 
 
 - [gencode_v29_human_gene_info](files/gencode_v29_human_gene_info)
 - [gencode_vM20_mouse_gene_info](files/gencode_vM20_mouse_gene_info)
@@ -78,9 +78,9 @@ sql='show tables;'
 dbGetQuery(con, sql) 
 ```
 
-By this way, we should upload all the information for our web-tool into mysql.
+By this way, we should `upload all the information` for our web-tool into mysql.
 
-Upload the txt files (I download those files from cistrome) in to `cistrome_metadata`:
+Upload the txt files (I download those files from `cistrome`) in to `cistrome_metadata`:
 
 ```
 TF_human_information.txt
@@ -123,7 +123,7 @@ With the help of Xiaojie Sun, We create a beautiful `ui` framework, as below :
 
 
 
-There are 4 pages in our tool, which are : home, statistics, more, help.
+There are  totally `4 pages` in our tool, which are : **home, statistics, more, help**.
 
 You can check the codes in [UI](ui.R)
 
@@ -162,7 +162,7 @@ check the codes  in [positions.R](scripts/positions.R)
 
 Get the position of choosed gene according to GENCODE database. ( gencode_v29_human_gene_info  and  gencode_vM20_mouse_gene_info  in mysql) 
 
-first the choosed gene will change the positon.the zoom_in and zoom_out will also change the position.
+first the choosed gene will change the positon. Then zoom_in and zoom_out will also change the position.
 
 #### part 3 :  search peaks by gene
 
@@ -196,14 +196,18 @@ Check the codes in [output_links.R](scripts/output_links.R)
 
 There are  two files : downloadData_csv and  downloadData_bed and  one link : uiOutput('washUlink')  
 
-#### part 7 : 
+#### part 7 : how to summary the peaks table.
 
 Check the codes in [output_stat.R](scripts/output_stat.R)
 
 
 
+### step5 : use it
 
+See `help` page. 
 
-## Papers citing [TFmapper](www.tfmapper.org/)
+## Papers citing [TFmapper](http://www.tfmapper.org/)
 
-So far, no paper cite this tool.
+So far, no paper cite our tool.
+
+What a pity !

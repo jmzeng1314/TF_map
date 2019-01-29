@@ -3,7 +3,8 @@ library(shinydashboard)
 library(dashboardthemes)
 library(knitr)
 library(rmarkdown)
-library(DT)     
+library(DT)    
+library(ggpubr)
 
 ############# input values #############
 ## species(human or mouse )/IP(TF or 	histone)/database(cistrome or ENCODE)/cellline( too many )

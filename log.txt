@@ -36,3 +36,6 @@
  
 2019-01-17 15:36:47     Check the URL:http://dc2.cistrome.org/api/batchview/h/45720_45995_45994/w/
  
+2019-01-29 09:19:01 Now the user::search the gene for NAT2 
+2019-01-29 10:04:45 Now the user::search the gene for NAT2 
+2019-01-29 10:08:00 Now the user::search the gene for NAT2 
