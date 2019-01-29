@@ -59,6 +59,7 @@ if(F){
   head(tmp)
   dbWriteTable(con, 'cistrome_metadata', tmp , append=F,row.names=F)
   write.csv(tmp,'cistrome_metadata.csv')
+  #  dbGetQuery(con,'select * from cistrome_metadata limit 10')
 }
 
 
@@ -122,7 +123,7 @@ if(F){
 
 all_tables<-dbListTables(con)
 all_tables
-root_dir = '/Volumes/Untitled/ping_batch4_organoids/db'
+root_dir = '/Users/jmzeng/data/project/IDmap/db'
 ## totally 100Gb files
 all_files=list.files(root_dir,pattern='*merge.txt',all.files=T,recursive=T)
 all_files 

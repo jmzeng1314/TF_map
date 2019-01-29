@@ -128,11 +128,17 @@ mouse_histone_mm10.replicated.peaks.bed.list.txt
 
 ##### peaks tables (2X2X2X(23+21))
 
-Lastly, upload all the `peaks annotation files`  to mysql ( extremely time consuming and really big size ), about `200` tables. (by chromosome, database,type,species)
+Lastly, upload all the `peaks annotation files`  to mysql ( extremely time consuming and really big size ), about `300` tables. (by chromosome, database,type,species)
 
 You should read my codes from begin to end: [upload_into_mysql.R](scripts/upload_into_mysql.R)
 
 Please `send me email` to me to request those files ( about 100 Gb),  you should read my paper to study the details for how to generate the files 
+
+
+
+##### very important thing
+
+We should create index for some tables in mysql to speed up the searching from user.
 
 ### step3: create user interface
 
@@ -219,9 +225,17 @@ There are  two files : downloadData_csv and  downloadData_bed and  one link : ui
 
 Check the codes in [output_stat.R](scripts/output_stat.R)
 
+### step 5 : deploy this tool on a linux (server) 
 
+we can download the free shiny-server from  https://www.rstudio.com/products/shiny/download-server/
 
-### step5 : use it
+ Then install shiny-server and use it to host our tool.
+
+Also we should install all the R packages which required by our tool.
+
+Then visit our tool by the public IP.
+
+### step 6 : use it
 
 See `help` page. 
 

@@ -96,12 +96,14 @@ observeEvent(input$do_gene, {
         tmp1=glob_values$results
         tmp1=tmp1[,c('chrom'	,'start'	,'end'	,'IP'	,'score')]
         tmp1$strand='+'
-        glob_values$bed_filename <- paste(glob_values$input_gene ,glob_values$cellline,glob_values$genomic_feature,
+        glob_values$bed_filename <- paste(glob_values$input_gene ,
+                                          glob_values$cellline,
+                                          glob_values$genomic_feature,
                                           'data', Sys.Date(), 'peaks.bed', sep='-')
         outdir='/var/www/html/igv'
         FH=file.path(outdir, glob_values$bed_filename)
         if(file.exists(outdir)){ 
-          write.table( tmp1 ,FH,sep = '\t',quote = F,row.names = F,col.names = F)
+          # write.table( tmp1 ,FH,sep = '\t',quote = F,row.names = F,col.names = F)
           }
         
       }else{

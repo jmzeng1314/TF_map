@@ -103,7 +103,7 @@ observeEvent(input$do_position, {
         outdir='/var/www/html/igv'
         FH=file.path(outdir, glob_values$bed_filename)
         if(file.exists(outdir)){ 
-          write.table( tmp1 ,FH,sep = '\t',quote = F,row.names = F,col.names = F)
+          # write.table( tmp1 ,FH,sep = '\t',quote = F,row.names = F,col.names = F)
         }
         
       }else{
