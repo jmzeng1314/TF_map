@@ -47,7 +47,9 @@ if(F){
 
 ## Then upload the cistrome_metadata 
 if(F){
-  tmp = lapply(list.files(path = 'files/metaFiles/'),function(x){
+  # 8 files
+  tmp = lapply(list.files(path = 'files/metaFiles/',pattern = 'data_information.txt'),
+               function(x){
     a=read.table(file.path('files/metaFiles/',x),sep='\t',fill = T,quote = "")
     a$species=strsplit(x,'_')[[1]][2]
     a$type=strsplit(x,'_')[[1]][1]

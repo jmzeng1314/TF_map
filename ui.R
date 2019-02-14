@@ -25,7 +25,7 @@ box1 <- box(status = "success",height = "350px",width = NULL,
             
             selectizeInput('cellline', label = "Biological source",
                            choices = NULL,# width = 275,
-                           options = list(placeholder = "Search by “Cell Line”; “Tissue”; “Organ”_Example: MCF-7;Epithelium;Mammary Gland",
+                           options = list(placeholder = "Search by Cell Line; Tissue; Organ,Example: MCF-7;Epithelium;Mammary Gland",
                                           maxOptions = 1000)
             )
 )
