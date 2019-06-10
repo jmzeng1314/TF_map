@@ -3,18 +3,18 @@
 > The main purpose of TFmapper is to search all experimental ChIP-seq datasets and identify the trans-acting factors or histone modifications which show peaks at a gene of interest or a specified genomic region in a defined biological sample.
 
 ### The workflow diagram of TFmapper. 
-![help-workflow.png](help-workflow.png)
+![help-workflow.png](figures/help-workflow.png)
 > Peak files in the BED (Browser Extensible Data) format are downloaded from GEO/Cistrome and ENCODE. Peaks are annotated to genomic features (Promoter, TTS, 5’UTR, 3’UTR, Intron, Exon, Intergenic) using the software HOMER with GRCh38/hg38 for human and GRCm38/mm10 for mouse as the reference genomes. The annotation results are stored in a MySQL database. To increase the speed of query processing, the peaks are split by species, sources, factors, and chromosomes. In this way, the average of the number of rows would be about a few millions. For the client side, all the elements on the HTML page are built by R (Shiny), and result tables are created with the DataTables JavaScript library. Results can be downloaded in the CSV or BED format, and peaks can be directly visualized in the in the WashU Epigenome Browser or the UCSC Genome Browser.  
 
 # To search:
 
 Users can query the database by 1) gene symbols or 2) genomic coordinates of GRCh38/hg38 for human or GRCm38/mm10 for mouse respectively.
-
+![help-workflow.png](figures/home_page_inputs.png)
 
 # To visualize multiple peaks:
 
 When multiple peaks are selected, a link for visualization in the WashU Epigenome Browser will appear (red arrow 1). 
-![help1.png](help1.png)
+![help1.png](figures/help1.png)
 
 # Advanced Searching
 

@@ -40,3 +40,4 @@
 2019-01-29 10:04:45 Now the user::search the gene for NAT2 
 2019-01-29 10:08:00 Now the user::search the gene for NAT2 
 2019-01-29 11:08:12 Now the user::search the gene for NAT2 
+2019-06-10 10:02:07 Now the user::search the gene for NAT2 
