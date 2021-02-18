@@ -24,6 +24,33 @@ output$results_stat <- renderPlot({
   }
 })
 
+output$results_ppi<- renderPlot({
+  tmp1=glob_values$results
+  if(! is.null(tmp1)){
+    library(survminer)
+    library(GEOquery)
+    surGenes=tmp1$IP
+    library(ggplot2)
+    library(clusterProfiler)
+    library(org.Hs.eg.db)
+    df <- bitr(unique(surGenes), fromType = "SYMBOL",
+               toType = c( "ENTREZID" ),
+               OrgDb = org.Hs.eg.db)
+    gene_up=df$ENTREZID
+    #go <- enrichGO(gene_up, OrgDb = "org.Hs.eg.db", ont="all",pvalueCutoff = 0.9999,qvalueCutoff = 0.999999) 
+    library(ggplot2)
+    library(stringr)
+    enrichKK <- enrichKEGG(gene         =  gene_up,
+                           organism     = 'hsa',
+                           #universe     = gene_all,
+                           pvalueCutoff = 0.1,
+                           qvalueCutoff =0.1)
+    library(ggnewscale)
+    p<-cnetplot(enrichKK, categorySize="pvalue",  colorEdge = TRUE)
+    p
+  }
+})
+
 ## for statistics page
 
 output$stat_table <-  DT::renderDataTable({

@@ -35,10 +35,11 @@ log_cat <- function(info='hello world~',file='log.txt'){
 }
 
 mysql_getData <- function(sql="select * from cistrome_metadata limit 10;"){
-  host <<- "127.0.0.1"
-  port <<- 3306
-  user <<- "tfmapperuser"
-  password <<-  'tfmapper_@Abc'
+  source(".KEY.r")
+  host <<- getOption("database_host")
+  port <<- getOption("database_port")
+  user <<- getOption("database_userid")
+  password <<-  getOption("database_password")
   library(RMySQL)
   con <- dbConnect(MySQL(), host=host, port=port, user=user, password=password)
   dbSendQuery(con, "USE tfmapperdb")

@@ -45,7 +45,7 @@ page_statistics<- fluidRow(
         )
       ) ## end for fluidRow
   ),## end for box 
-  wellPanel(DT::dataTableOutput('stat_table')) 
+  wellPanel(DT::dataTableOutput('stat_table'))
   #plotOutput('stat_figure',height = 1000)
 )
 

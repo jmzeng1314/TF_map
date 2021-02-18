@@ -90,6 +90,7 @@ box3 <-  box(
     DT::dataTableOutput('results') ,
     br(),
     plotOutput('results_stat',height = "800px"),
+    plotOutput('results_ppi',height = "800px"),
     # plotlyOutput('results_stat' ),
     br()
   )## end for conditionalPanel
