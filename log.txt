@@ -41,3 +41,13 @@
 2019-01-29 10:08:00 Now the user::search the gene for NAT2 
 2019-01-29 11:08:12 Now the user::search the gene for NAT2 
 2019-06-10 10:02:07 Now the user::search the gene for NAT2 
+2021-02-19 00:07:07 Now the user::search the gene for A1BG 
+2021-02-19 00:07:13     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669/w/
+ 
+<<<<<<< HEAD
+2021-02-19 22:48:57 Now the user::search the gene for A1BG 
+2021-02-19 23:05:13 Now the user::search the gene for A1BG 
+2021-02-19 23:06:56 Now the user::search the gene for A1BG 
+2021-02-19 23:17:21 Now the user::search the gene for A1BG 
+=======
+>>>>>>> 06d54abbdcafcf33784ebd69fc8779cb387189be

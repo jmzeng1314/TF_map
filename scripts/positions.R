@@ -2,8 +2,8 @@ get_gene_position = reactive({
   input_gene = input$input_gene 
   if(nchar(input_gene)>1){
     chrom_db=ifelse(input$species=='human',
-                    'gencode_v29_human_gene_info',
-                    'gencode_vM20_mouse_gene_info') 
+                    'HAVANA_v36_human_gene_info',
+                    'HAVANA_vM25_mouse_gene_info') 
     # c('symbol'   ,  'type' ,   'ensembl'   , 'chr' ,'start', 'end' )
     chrom_sql=paste0('select  chr , start ,  end  from ',chrom_db,' where symbol=',shQuote( input_gene))
     tmp_gene_info=mysql_getData(chrom_sql)
