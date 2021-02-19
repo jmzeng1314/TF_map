@@ -41,3 +41,70 @@
 2019-01-29 10:08:00 Now the user::search the gene for NAT2 
 2019-01-29 11:08:12 Now the user::search the gene for NAT2 
 2019-06-10 10:02:07 Now the user::search the gene for NAT2 
+2021-02-15 20:57:32 Now the user::search the gene for A1BG 
+2021-02-15 21:07:15 Now the user::search the gene for NAT2 
+2021-02-15 21:07:54 Now the user::search the gene for CDH2 
+2021-02-15 21:13:34 Now the user::search the gene for NAT2 
+2021-02-15 21:15:58 Now the user::search the gene for A1BG 
+2021-02-15 21:16:04 Now the user::search the gene for A1BG 
+2021-02-15 21:20:53 Now the user::search the gene for A1BG 
+2021-02-16 17:23:06 Now the user::search the gene for A1BG 
+2021-02-16 17:28:48 Now the user::search the gene for A1BG 
+2021-02-16 17:29:59 Now the user::search the gene for A1BG 
+2021-02-16 17:33:53     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669/w/
+ 
+2021-02-16 17:33:58     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669/w/
+ 
+2021-02-16 17:34:04     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669/w/
+ 
+2021-02-16 17:34:20     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669/w/
+ 
+2021-02-16 17:34:20     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669/w/
+ 
+2021-02-16 17:34:20     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669/w/
+ 
+2021-02-16 17:42:10 Now the user::search the gene for A1BG 
+2021-02-16 17:42:16     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669/w/
+ 
+2021-02-16 17:56:36 Now the user::search the gene for A1BG 
+2021-02-16 17:56:42     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669/w/
+ 
+2021-02-16 18:02:27 Now the user::search the gene for A1BG 
+2021-02-16 18:02:33     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669/w/
+ 
+2021-02-16 18:03:35     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669/w/
+ 
+2021-02-16 18:04:04     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669/w/
+ 
+2021-02-16 18:12:20     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669_37177/w/
+ 
+2021-02-16 18:17:19 Now the user::search the gene for A1BG 
+2021-02-16 18:17:24     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669/w/
+ 
+2021-02-16 18:25:22 Now the user::search the gene for A1BG 
+2021-02-16 18:25:30 Now the user::search the gene for A1BG 
+2021-02-16 18:25:35     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669/w/
+ 
+2021-02-16 18:25:42     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669/w/
+ 
+2021-02-18 19:19:58 Now the user::search the gene for A1BG 
+2021-02-18 19:20:10     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669/w/
+ 
+2021-02-18 19:20:14     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669/w/
+ 
+2021-02-18 19:20:15     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669/w/
+ 
+2021-02-18 19:24:28 Now the user::search the gene for A1BG 
+2021-02-18 19:50:02 Now the user::search the gene for A1BG 
+2021-02-18 19:50:10     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669/w/
+ 
+2021-02-18 19:50:13     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669/w/
+ 
+2021-02-18 21:59:46 Now the user::search the gene for A1BG 
+2021-02-18 21:59:54     Check the URL:http://dc2.cistrome.org/api/batchview/h/45498/w/
+ 
+2021-02-18 22:02:36 Now the user::search the gene for A1BG 
+2021-02-18 22:02:45     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669/w/
+ 
+2021-02-18 22:02:53     Check the URL:http://dc2.cistrome.org/api/batchview/h/56669/w/
+ 

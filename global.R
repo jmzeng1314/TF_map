@@ -11,8 +11,7 @@ if(T){
   suppressPackageStartupMessages(library(knitr))
   suppressPackageStartupMessages(library(rmarkdown))
   suppressPackageStartupMessages(library(shinyjs))
-  
-  suppressPackageStartupMessages(library(Sushi))  
+    
   suppressPackageStartupMessages(library(RMySQL))
   
   suppressPackageStartupMessages(library(cowplot))
@@ -35,8 +34,8 @@ log_cat <- function(info='hello world~',file='log.txt'){
 }
 
 mysql_getData <- function(sql="select * from cistrome_metadata limit 10;"){
-  host <<- "127.0.0.1"
-  port <<- 3306
+  host <<- "gz-cdb-lzdeu7f1.sql.tencentcdb.com"
+  port <<- 59093
   user <<- "tfmapperuser"
   password <<-  'tfmapper_@Abc'
   library(RMySQL)

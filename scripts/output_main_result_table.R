@@ -29,6 +29,11 @@ output$results <- DT::renderDataTable( {
       )
       
       ,'UCSC')
+      tf = tmp1$IP
+      knockTF_link=createLink(paste0("http://www.licpathway.net/KnockTF/search/search_tf_result.php?tf_name=",tf)
+                              
+                              ,"knockTF")
+      
       tmp1$Visualize=paste(WashU_link,UCSC_link)
       tmp1$sequence=createLink(paste0(
         "http://genome.ucsc.edu/cgi-bin/das/",genome,"/dna?segment=",
@@ -43,7 +48,7 @@ output$results <- DT::renderDataTable( {
       tmp1$score=round(tmp1$score,2)
       names(tmp1)=c('GSM','sampleID','IP','Visualization','Sequence','Distance','Score','-log10(p value)','-log10(q value)','Attribute','Title','Source Name')
       tmp1$Attribute = as.factor(as.character(sapply(tmp1$Attribute,function(x) strsplit(x,'\\(')[[1]][1])))
-      
+      tmp1$knockTF = knockTF_link
       return(tmp1)
       
     }else{
